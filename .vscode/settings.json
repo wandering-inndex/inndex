@@ -1,0 +1,12 @@
+{
+  "deno.enable": true,
+  "deno.lint": true,
+  "editor.defaultFormatter": "denoland.vscode-deno",
+  "editor.formatOnSave": true,
+  "editor.renderWhitespace": "all",
+  "editor.rulers": [80, 100],
+  "files.associations": {
+    "**/.vscode/*.json": "jsonc"
+  },
+  "window.title": "${activeEditorMedium}${separator}${rootName}"
+}

@@ -1,8 +1,19 @@
 # The Wandering Inndex
 
-![The Wandering Inndex](./static/inndex-logo-small.png)
+![Deno Version](https://img.shields.io/badge/deno-v1.26.2-black)
+![License](https://img.shields.io/badge/license-MIT-blue)
+
+![The Wandering Inndex](./static/android-chrome-320x320.png)
 
 A fan-made index for [The Wandering Inn](https://wanderinginn.com/) by [pirateaba](https://thewanderinginn.fandom.com/wiki/Pirateaba).
+
+## Usage
+
+```shell
+deno task start
+```
+
+This will watch the project directory and restart as necessary.
 
 ## Contributing
 
