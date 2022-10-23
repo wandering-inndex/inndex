@@ -1,0 +1,30 @@
+# https://www.amazon.com/dp/B099JFQ9YR
+
+- index: 1
+  title: "The Wandering Inn: Book 1"
+  url: "https://www.amazon.com/gp/product/B07G4MX1Z4"
+  image_url: "https://m.media-amazon.com/images/I/41zGUBv9XHL.jpg"
+- index: 2
+  title: "The Wandering Inn: Book 2"
+  url: "https://www.amazon.com/gp/product/B07XX888DN"
+  image_url: "https://m.media-amazon.com/images/I/41Xj2WeF4zL.jpg"
+- index: 3
+  title: "Flowers of Esthelm: Book 3 (The Wandering Inn)"
+  url: "https://www.amazon.com/gp/product/B08MTVTY6M"
+  image_url: "https://m.media-amazon.com/images/I/51KKtq-eZhL.jpg"
+- index: 4
+  title: "Winter Solstice: Book 4 (The Wandering Inn)"
+  url: "https://www.amazon.com/gp/product/B09BBP7GFZ"
+  image_url: "https://m.media-amazon.com/images/I/41noLe0tWlL.jpg"
+- index: 5
+  title: "The Last Light: Book 5 (The Wandering Inn)"
+  url: "https://www.amazon.com/gp/product/B09J3JGL2P"
+  image_url: "https://m.media-amazon.com/images/I/51lkTuvof0L.jpg"
+- index: 6
+  title: "The General of Izril: Book 6 (The Wandering Inn)"
+  url: "https://www.amazon.com/gp/product/B0B2FBR2J4"
+  image_url: "https://m.media-amazon.com/images/I/41Osys4GntL.jpg"
+- index: 7
+  title: "Rains of Liscor: Book 7 (The Wandering Inn)"
+  url: "https://www.amazon.com/gp/product/B0B2N9F382"
+  image_url: "https://m.media-amazon.com/images/I/41qDxbtZKgL.jpg"

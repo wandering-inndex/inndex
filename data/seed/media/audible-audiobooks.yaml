@@ -1,0 +1,34 @@
+# https://www.audible.com/series/The-Wandering-Inn-Audiobooks/B07X3TZ2YQ
+
+- index: 1
+  title: "The Wandering Inn"
+  url: "https://www.audible.com/pd/The-Wandering-Inn-Audiobook/1774240327"
+  image_url: "https://m.media-amazon.com/images/I/51gevFKAUtL._SL500_.jpg"
+- index: 2
+  title: "Fae and Fare"
+  url: "https://www.audible.com/pd/The-Wandering-Inn-Volume-2-Audiobook/1774241544"
+  image_url: "https://m.media-amazon.com/images/I/51xoGrB4cHL._SL500_.jpg"
+- index: 3
+  title: "Flowers of Esthelm"
+  url: "https://www.audible.com/pd/Flowers-of-Esthelm-Audiobook/1774248123"
+  image_url: "https://m.media-amazon.com/images/I/51y7vQa63XL._SL500_.jpg"
+- index: 4
+  title: "Winter Solstice"
+  url: "https://www.audible.com/pd/Winter-Solstice-Audiobook/1039403360"
+  image_url: "https://m.media-amazon.com/images/I/5191i36TcpL._SL500_.jpg"
+- index: 5
+  title: "The Last Light"
+  url: "https://www.audible.com/pd/The-Last-Light-Audiobook/B09FR6RBVY"
+  image_url: "https://m.media-amazon.com/images/I/51c20xuLqfL._SL500_.jpg"
+- index: 6
+  title: "The General of Izril"
+  url: "https://www.audible.com/pd/The-General-of-Izril-Audiobook/B09SJ1T9KF"
+  image_url: "https://m.media-amazon.com/images/I/513vW+MQ3hL._SL500_.jpg"
+- index: 7
+  title: "Rains of Liscor"
+  url: "https://www.audible.com/pd/Rains-of-Liscor-Audiobook/B09XYL9MQJ"
+  image_url: "https://m.media-amazon.com/images/I/51A4E1uw9RL._SL500_.jpg"
+- index: 8
+  title: "Blood of Liscor"
+  url: "https://www.audible.com/pd/Blood-of-Liscor-Audiobook/B0BDP2WRX7"
+  image_url: "https://m.media-amazon.com/images/I/51V-Y4FVD9L._SL500_.jpg"

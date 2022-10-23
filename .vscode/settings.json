@@ -8,5 +8,8 @@
   "files.associations": {
     "**/.vscode/*.json": "jsonc"
   },
-  "window.title": "${activeEditorMedium}${separator}${rootName}"
+  "window.title": "${activeEditorMedium}${separator}${rootName}",
+  "[yaml]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
 }
