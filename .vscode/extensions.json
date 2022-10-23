@@ -1,3 +1,7 @@
 {
-  "recommendations": ["denoland.vscode-deno", "sastan.twind-intellisense"]
+  "recommendations": [
+    "bierner.markdown-mermaid",
+    "denoland.vscode-deno",
+    "sastan.twind-intellisense"
+  ]
 }

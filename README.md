@@ -15,6 +15,42 @@ deno task start
 
 This will watch the project directory and restart as necessary.
 
+## Initial Graph Model
+
+```mermaid
+flowchart LR
+  chapter([Chapter])
+  webVolume([Web Volume])
+  audibleAudioBook([Audible Audiobook])
+  kindleBook([Kindle Book])
+  character([Character])
+  name([Name])
+  species([Species])
+  sex([Sex])
+  group([Group])
+  location([Location])
+  skill([Skill])
+  systemClass([Class])
+  item([Item])
+
+  character-- OF_SPECIES -->species
+  character-- OF_SEX -->sex
+  character-- ALSO_KNOWN_AS ---name
+  character-- PART_OF_GROUP -->group
+  character-- RESIDES_IN -->location
+  character-- MENTIONED_IN -->chapter
+  character-- HAS_SKILL -->skill
+  character-- HAS_CLASS -->systemClass
+  character-- OWNS_ITEM -->item
+
+  location-- LOCATED_IN -->location
+  chapter-- PART_OF_VOLUME --> webVolume
+  chapter-- PART_OF_AUDIOBOOK --> audibleAudioBook
+  chapter-- PART_OF_EBOOK --> kindleBook
+```
+
+All non-media Nodes will have a property of `first_appearance` to allow filtering using a slider.
+
 ## Contributing
 
 **Imposter syndrome disclaimer**: We want your help. No, really.
