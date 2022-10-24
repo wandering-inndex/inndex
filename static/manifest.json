@@ -1,7 +1,12 @@
 {
-  "name": "",
-  "short_name": "",
+  "name": "The Wandering Inndex",
+  "short_name": "Inndex",
   "icons": [
+    {
+      "src": "./favicon.ico",
+      "sizes": "48x48 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
     {
       "src": "/android-chrome-192x192.png",
       "sizes": "192x192",
