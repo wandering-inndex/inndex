@@ -1,0 +1,66 @@
+# https://www.audible.com/series/The-Wandering-Inn-Audiobooks/B07X3TZ2YQ
+
+- index: 1
+  title: "The Wandering Inn"
+  published: "2019-09-10"
+  url: "https://www.audible.com/pd/The-Wandering-Inn-Audiobook/1774240327"
+  imageUrl: "https://m.media-amazon.com/images/I/51gevFKAUtL._SL500_.jpg"
+  totalLength:
+    hours: 43
+    minutes: 10
+- index: 2
+  title: "Fae and Fare"
+  published: "2020-07-14"
+  url: "https://www.audible.com/pd/The-Wandering-Inn-Volume-2-Audiobook/1774241544"
+  imageUrl: "https://m.media-amazon.com/images/I/51xoGrB4cHL._SL500_.jpg"
+  totalLength:
+    hours: 61
+    minutes: 4
+- index: 3
+  title: "Flowers of Esthelm"
+  published: "2021-04-27"
+  url: "https://www.audible.com/pd/Flowers-of-Esthelm-Audiobook/1774248123"
+  imageUrl: "https://m.media-amazon.com/images/I/51y7vQa63XL._SL500_.jpg"
+  totalLength:
+    hours: 37
+    minutes: 37
+- index: 4
+  title: "Winter Solstice"
+  published: "2021-07-27"
+  url: "https://www.audible.com/pd/Winter-Solstice-Audiobook/1039403360"
+  imageUrl: "https://m.media-amazon.com/images/I/5191i36TcpL._SL500_.jpg"
+  totalLength:
+    hours: 34
+    minutes: 14
+- index: 5
+  title: "The Last Light"
+  published: "2021-11-23"
+  url: "https://www.audible.com/pd/The-Last-Light-Audiobook/B09FR6RBVY"
+  imageUrl: "https://m.media-amazon.com/images/I/51c20xuLqfL._SL500_.jpg"
+  totalLength:
+    hours: 52
+    minutes: 17
+- index: 6
+  title: "The General of Izril"
+  published: "2022-04-26"
+  url: "https://www.audible.com/pd/The-General-of-Izril-Audiobook/B09SJ1T9KF"
+  imageUrl: "https://m.media-amazon.com/images/I/513vW+MQ3hL._SL500_.jpg"
+  totalLength:
+    hours: 34
+    minutes: 1
+- index: 7
+  title: "Rains of Liscor"
+  published: "2022-07-26"
+  url: "https://www.audible.com/pd/Rains-of-Liscor-Audiobook/B09XYL9MQJ"
+  imageUrl: "https://m.media-amazon.com/images/I/51A4E1uw9RL._SL500_.jpg"
+  totalLength:
+    hours: 33
+    minutes: 52
+- index: 8
+  title: "Blood of Liscor"
+  published: "2022-11-22"
+  url: "https://www.audible.com/pd/Blood-of-Liscor-Audiobook/B0BDP2WRX7"
+  imageUrl: "https://m.media-amazon.com/images/I/51V-Y4FVD9L._SL500_.jpg"
+  totalLength:
+    hours: null
+    minutes: null

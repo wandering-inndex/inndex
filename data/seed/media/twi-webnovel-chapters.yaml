@@ -1,2458 +1,4913 @@
 # https://wanderinginn.com/table-of-contents/
 
 - index: 1
-  volume: 1
   title: "1.00"
   url: "https://wanderinginn.com/2016/07/27/1-00/"
+  published: "2016-07-27"
+  partOf:
+    webVolume: 1
+    eBook: 1
+    audioBook: 1
 - index: 2
-  volume: 1
   title: "1.01"
   url: "https://wanderinginn.com/2016/07/27/1-01/"
+  published: "2016-07-27"
+  partOf:
+    webVolume: 1
+    eBook: 1
+    audioBook: 1
 - index: 3
-  volume: 1
   title: "1.02"
   url: "https://wanderinginn.com/2016/07/30/1-02/"
+  published: "2016-07-30"
+  partOf:
+    webVolume: 1
+    eBook: 1
+    audioBook: 1
 - index: 4
-  volume: 1
   title: "1.03"
   url: "https://wanderinginn.com/2016/08/07/1-03/"
+  published: "2016-08-07"
+  partOf:
+    webVolume: 1
+    eBook: 1
+    audioBook: 1
 - index: 5
-  volume: 1
   title: "1.04"
   url: "https://wanderinginn.com/2016/08/10/1-04/"
+  published: "2016-08-10"
+  partOf:
+    webVolume: 1
+    eBook: 1
+    audioBook: 1
 - index: 6
-  volume: 1
   title: "1.05"
   url: "https://wanderinginn.com/2016/08/13/1-05/"
+  published: "2016-08-13"
+  partOf:
+    webVolume: 1
+    eBook: 1
+    audioBook: 1
 - index: 7
-  volume: 1
   title: "1.06"
   url: "https://wanderinginn.com/2016/08/17/1-06/"
+  published: "2016-08-17"
+  partOf:
+    webVolume: 1
+    eBook: 1
+    audioBook: 1
 - index: 8
-  volume: 1
   title: "1.07"
   url: "https://wanderinginn.com/2016/08/20/1-07/"
+  published: "2016-08-20"
+  partOf:
+    webVolume: 1
+    eBook: 1
+    audioBook: 1
 - index: 9
-  volume: 1
   title: "1.08"
   url: "https://wanderinginn.com/2016/08/24/1-08/"
+  published: "2016-08-24"
+  partOf:
+    webVolume: 1
+    eBook: 1
+    audioBook: 1
 - index: 10
-  volume: 1
   title: "1.09"
   url: "https://wanderinginn.com/2016/08/28/1-09/"
+  published: "2016-08-28"
+  partOf:
+    webVolume: 1
+    eBook: 1
+    audioBook: 1
 - index: 11
-  volume: 1
   title: "1.10"
   url: "https://wanderinginn.com/2016/08/31/1-10/"
+  published: "2016-08-31"
+  partOf:
+    webVolume: 1
+    eBook: 1
+    audioBook: 1
 - index: 12
-  volume: 1
   title: "1.11"
   url: "https://wanderinginn.com/2016/09/04/1-11/"
+  published: "2016-09-04"
+  partOf:
+    webVolume: 1
+    eBook: 1
+    audioBook: 1
 - index: 13
-  volume: 1
   title: "Interlude"
   url: "https://wanderinginn.com/2016/09/04/interlude/"
+  published: "2016-09-04"
+  partOf:
+    webVolume: 1
+    eBook: 1
+    audioBook: 1
 - index: 14
-  volume: 1
   title: "1.12"
   url: "https://wanderinginn.com/2016/09/07/1-12/"
+  published: "2016-09-07"
+  partOf:
+    webVolume: 1
+    eBook: 1
+    audioBook: 1
 - index: 15
-  volume: 1
   title: "1.13"
   url: "https://wanderinginn.com/2016/09/11/1-13/"
+  published: "2016-09-11"
+  partOf:
+    webVolume: 1
+    eBook: 1
+    audioBook: 1
 - index: 16
-  volume: 1
   title: "1.14"
   url: "https://wanderinginn.com/2016/09/14/1-14/"
+  published: "2016-09-14"
+  partOf:
+    webVolume: 1
+    eBook: 1
+    audioBook: 1
 - index: 17
-  volume: 1
   title: "1.15"
   url: "https://wanderinginn.com/2016/09/18/1-15/"
+  published: "2016-09-18"
+  partOf:
+    webVolume: 1
+    eBook: 1
+    audioBook: 1
 - index: 18
-  volume: 1
   title: "1.16"
   url: "https://wanderinginn.com/2016/09/21/1-16/"
+  published: "2016-09-21"
+  partOf:
+    webVolume: 1
+    eBook: 1
+    audioBook: 1
 - index: 19
-  volume: 1
   title: "1.17"
   url: "https://wanderinginn.com/2016/09/25/1-17/"
+  published: "2016-09-25"
+  partOf:
+    webVolume: 1
+    eBook: 1
+    audioBook: 1
 - index: 20
-  volume: 1
   title: "1.18"
   url: "https://wanderinginn.com/2016/09/28/1-18/"
+  published: "2016-09-28"
+  partOf:
+    webVolume: 1
+    eBook: 1
+    audioBook: 1
 - index: 21
-  volume: 1
   title: "1.19"
   url: "https://wanderinginn.com/2016/10/02/1-19/"
+  published: "2016-10-02"
+  partOf:
+    webVolume: 1
+    eBook: 1
+    audioBook: 1
 - index: 22
-  volume: 1
   title: "1.20"
   url: "https://wanderinginn.com/2016/10/05/1-20/"
+  published: "2016-10-05"
+  partOf:
+    webVolume: 1
+    eBook: 1
+    audioBook: 1
 - index: 23
-  volume: 1
   title: "Interlude – 1.00 R"
   url: "https://wanderinginn.com/2016/10/06/interlude-1-00-r/"
+  published: "2016-10-06"
+  partOf:
+    webVolume: 1
+    eBook: 1
+    audioBook: 1
 - index: 24
-  volume: 1
   title: "1.01 R"
   url: "https://wanderinginn.com/2016/10/12/1-01-r/"
+  published: "2016-10-12"
+  partOf:
+    webVolume: 1
+    eBook: 1
+    audioBook: 1
 - index: 25
-  volume: 1
   title: "1.21"
   url: "https://wanderinginn.com/2016/10/16/1-21/"
+  published: "2016-10-16"
+  partOf:
+    webVolume: 1
+    eBook: 1
+    audioBook: 1
 - index: 26
-  volume: 1
   title: "1.22"
   url: "https://wanderinginn.com/2016/10/19/1-22/"
+  published: "2016-10-19"
+  partOf:
+    webVolume: 1
+    eBook: 1
+    audioBook: 1
 - index: 27
-  volume: 1
   title: "1.23"
   url: "https://wanderinginn.com/2016/10/23/1-23/"
+  published: "2016-10-23"
+  partOf:
+    webVolume: 1
+    eBook: 1
+    audioBook: 1
 - index: 28
-  volume: 1
   title: "Interlude: King Edition"
   url: "https://wanderinginn.com/2016/10/26/interlude-king-edition/"
+  published: "2016-10-26"
+  partOf:
+    webVolume: 1
+    eBook: 1
+    audioBook: 1
 - index: 29
-  volume: 1
   title: "1.24"
   url: "https://wanderinginn.com/2016/10/30/1-24/"
+  published: "2016-10-30"
+  partOf:
+    webVolume: 1
+    eBook: 1
+    audioBook: 1
 - index: 30
-  volume: 1
   title: "1.02 R"
   url: "https://wanderinginn.com/2016/11/02/1-02-r/"
+  published: "2016-11-02"
+  partOf:
+    webVolume: 1
+    eBook: 1
+    audioBook: 1
 - index: 31
-  volume: 1
   title: "1.03 R"
   url: "https://wanderinginn.com/2016/11/06/1-03-r/"
+  published: "2016-11-06"
+  partOf:
+    webVolume: 1
+    eBook: 1
+    audioBook: 1
 - index: 32
-  volume: 1
   title: "1.25"
   url: "https://wanderinginn.com/2016/11/09/1-25/"
+  published: "2016-11-09"
+  partOf:
+    webVolume: 1
+    eBook: 1
+    audioBook: 1
 - index: 33
-  volume: 1
   title: "1.26"
   url: "https://wanderinginn.com/2016/11/13/1-26/"
+  published: "2016-11-13"
+  partOf:
+    webVolume: 1
+    eBook: 1
+    audioBook: 1
 - index: 34
-  volume: 1
   title: "1.27"
   url: "https://wanderinginn.com/2016/11/16/1-27/"
+  published: "2016-11-16"
+  partOf:
+    webVolume: 1
+    eBook: 1
+    audioBook: 1
 - index: 35
-  volume: 1
   title: "1.04 R"
   url: "https://wanderinginn.com/2016/11/20/1-04-r/"
+  published: "2016-11-20"
+  partOf:
+    webVolume: 1
+    eBook: 1
+    audioBook: 1
 - index: 36
-  volume: 1
   title: "1.05 R"
   url: "https://wanderinginn.com/2016/11/23/1-05-r/"
+  published: "2016-11-23"
+  partOf:
+    webVolume: 1
+    eBook: 1
+    audioBook: 1
 - index: 37
-  volume: 1
   title: "1.28"
   url: "https://wanderinginn.com/2016/11/27/1-28/"
+  published: "2016-11-27"
+  partOf:
+    webVolume: 1
+    eBook: 1
+    audioBook: 1
 - index: 38
-  volume: 1
   title: "1.06 R"
   url: "https://wanderinginn.com/2016/11/30/1-06-r/"
+  published: "2016-11-30"
+  partOf:
+    webVolume: 1
+    eBook: 1
+    audioBook: 1
 - index: 39
-  volume: 1
   title: "1.29"
   url: "https://wanderinginn.com/2016/12/04/1-29/"
+  published: "2016-12-04"
+  partOf:
+    webVolume: 1
+    eBook: 1
+    audioBook: 1
 - index: 40
-  volume: 1
   title: "1.30"
   url: "https://wanderinginn.com/2016/12/07/1-30/"
+  published: "2016-12-07"
+  partOf:
+    webVolume: 1
+    eBook: 1
+    audioBook: 1
 - index: 41
-  volume: 1
   title: "1.31"
   url: "https://wanderinginn.com/2016/12/11/1-31/"
+  published: "2016-12-11"
+  partOf:
+    webVolume: 1
+    eBook: 1
+    audioBook: 1
 - index: 42
-  volume: 1
   title: "1.07 R"
   url: "https://wanderinginn.com/2016/12/14/1-07-r/"
+  published: "2016-12-14"
+  partOf:
+    webVolume: 1
+    eBook: 1
+    audioBook: 1
 - index: 43
-  volume: 1
   title: "1.08 R"
   url: "https://wanderinginn.com/2016/12/18/1-08-r/"
+  published: "2016-12-18"
+  partOf:
+    webVolume: 1
+    eBook: 1
+    audioBook: 1
 - index: 44
-  volume: 1
   title: "1.32"
   url: "https://wanderinginn.com/2016/12/21/1-32/"
+  published: "2016-12-21"
+  partOf:
+    webVolume: 1
+    eBook: 1
+    audioBook: 1
 - index: 45
-  volume: 1
   title: "1.33"
   url: "https://wanderinginn.com/2016/12/25/1-33/"
+  published: "2016-12-25"
+  partOf:
+    webVolume: 1
+    eBook: 1
+    audioBook: 1
 - index: 46
-  volume: 1
   title: "1.09 R"
   url: "https://wanderinginn.com/2016/12/28/1-09-r/"
+  published: "2016-12-28"
+  partOf:
+    webVolume: 1
+    eBook: 1
+    audioBook: 1
 - index: 47
-  volume: 1
   title: "1.10 R"
   url: "https://wanderinginn.com/2017/01/01/1-10-r/"
+  published: "2017-01-01"
+  partOf:
+    webVolume: 1
+    eBook: 1
+    audioBook: 1
 - index: 48
-  volume: 1
   title: "1.34"
   url: "https://wanderinginn.com/2017/01/04/1-34/"
+  published: "2017-01-04"
+  partOf:
+    webVolume: 1
+    eBook: 1
+    audioBook: 1
 - index: 49
-  volume: 1
   title: "1.35"
   url: "https://wanderinginn.com/2017/01/08/1-35/"
+  published: "2017-01-08"
+  partOf:
+    webVolume: 1
+    eBook: 1
+    audioBook: 1
 - index: 50
-  volume: 1
   title: "1.11 R"
   url: "https://wanderinginn.com/2017/01/11/1-11-r/"
+  published: "2017-01-11"
+  partOf:
+    webVolume: 1
+    eBook: 1
+    audioBook: 1
 - index: 51
-  volume: 1
   title: "1.12 R"
   url: "https://wanderinginn.com/2017/01/15/1-12-r/"
+  published: "2017-01-15"
+  partOf:
+    webVolume: 1
+    eBook: 1
+    audioBook: 1
 - index: 52
-  volume: 1
   title: "1.36"
   url: "https://wanderinginn.com/2017/01/18/1-36/"
+  published: "2017-01-18"
+  partOf:
+    webVolume: 1
+    eBook: 1
+    audioBook: 1
 - index: 53
-  volume: 1
   title: "1.37"
   url: "https://wanderinginn.com/2017/01/22/1-37/"
+  published: "2017-01-22"
+  partOf:
+    webVolume: 1
+    eBook: 1
+    audioBook: 1
 - index: 54
-  volume: 1
   title: "1.38"
   url: "https://wanderinginn.com/2017/01/25/1-38/"
+  published: "2017-01-25"
+  partOf:
+    webVolume: 1
+    eBook: 1
+    audioBook: 1
 - index: 55
-  volume: 1
   title: "1.39"
   url: "https://wanderinginn.com/2017/01/29/1-39/"
+  published: "2017-01-29"
+  partOf:
+    webVolume: 1
+    eBook: 1
+    audioBook: 1
 - index: 56
-  volume: 1
   title: "1.40"
   url: "https://wanderinginn.com/2017/01/31/1-40/"
+  published: "2017-01-31"
+  partOf:
+    webVolume: 1
+    eBook: 1
+    audioBook: 1
 - index: 57
-  volume: 1
   title: "1.13 R"
   url: "https://wanderinginn.com/2017/02/05/1-13-r/"
+  published: "2017-02-05"
+  partOf:
+    webVolume: 1
+    eBook: 1
+    audioBook: 1
 - index: 58
-  volume: 1
   title: "1.41"
   url: "https://wanderinginn.com/2017/02/07/1-41/"
+  published: "2017-02-07"
+  partOf:
+    webVolume: 1
+    eBook: 1
+    audioBook: 1
 - index: 59
-  volume: 1
   title: "1.00 H"
   url: "https://wanderinginn.com/2017/02/12/1-00-h/"
+  published: "2017-02-12"
+  partOf:
+    webVolume: 1
+    eBook: 1
+    audioBook: 1
 - index: 60
-  volume: 1
   title: "1.01 H"
   url: "https://wanderinginn.com/2017/02/15/1-01-h/"
+  published: "2017-02-15"
+  partOf:
+    webVolume: 1
+    eBook: 1
+    audioBook: 1
 - index: 61
-  volume: 1
   title: "1.02 H"
   url: "https://wanderinginn.com/2017/02/19/1-02-h/"
+  published: "2017-02-19"
+  partOf:
+    webVolume: 1
+    eBook: 1
+    audioBook: 1
 - index: 62
-  volume: 1
   title: "1.42"
   url: "https://wanderinginn.com/2017/02/22/1-42/"
+  published: "2017-02-22"
+  partOf:
+    webVolume: 1
+    eBook: 1
+    audioBook: 1
 - index: 63
-  volume: 1
   title: "1.43"
   url: "https://wanderinginn.com/2017/02/25/1-43/"
+  published: "2017-02-25"
+  partOf:
+    webVolume: 1
+    eBook: 1
+    audioBook: 1
 - index: 64
-  volume: 1
   title: "1.44"
   url: "https://wanderinginn.com/2017/03/01/1-44/"
+  published: "2017-03-01"
+  partOf:
+    webVolume: 1
+    eBook: 1
+    audioBook: 1
 - index: 65
-  volume: 1
   title: "1.45"
   url: "https://wanderinginn.com/2017/03/04/1-45/"
+  published: "2017-03-04"
+  partOf:
+    webVolume: 1
+    eBook: 1
+    audioBook: 1
 - index: 66
-  volume: 2
   title: "Interlude"
   url: "https://wanderinginn.com/2017/03/07/interlude-2/"
+  published: "2017-03-07"
+  partOf:
+    webVolume: 2
+    eBook: 2
+    audioBook: 2
 - index: 67
-  volume: 2
   title: "2.00"
   url: "https://wanderinginn.com/2017/03/12/2-01/"
+  published: "2017-03-12"
+  partOf:
+    webVolume: 2
+    eBook: 2
+    audioBook: 2
 - index: 68
-  volume: 2
   title: "2.01"
   url: "https://wanderinginn.com/2017/03/15/2-02/"
+  published: "2017-03-15"
+  partOf:
+    webVolume: 2
+    eBook: 2
+    audioBook: 2
 - index: 69
-  volume: 2
   title: "2.02"
   url: "https://wanderinginn.com/2017/03/18/2-03/"
+  published: "2017-03-18"
+  partOf:
+    webVolume: 2
+    eBook: 2
+    audioBook: 2
 - index: 70
-  volume: 2
   title: "2.03"
   url: "https://wanderinginn.com/2017/03/22/2-04/"
+  published: "2017-03-22"
+  partOf:
+    webVolume: 2
+    eBook: 2
+    audioBook: 2
 - index: 71
-  volume: 2
   title: "2.04"
   url: "https://wanderinginn.com/2017/03/25/2-05/"
+  published: "2017-03-25"
+  partOf:
+    webVolume: 2
+    eBook: 2
+    audioBook: 2
 - index: 72
-  volume: 2
   title: "2.05"
   url: "https://wanderinginn.com/2017/03/28/2-06/"
+  published: "2017-03-28"
+  partOf:
+    webVolume: 2
+    eBook: 2
+    audioBook: 2
 - index: 73
-  volume: 2
   title: "2.06"
   url: "https://wanderinginn.com/2017/04/02/2-07/"
+  published: "2017-04-02"
+  partOf:
+    webVolume: 2
+    eBook: 2
+    audioBook: 2
 - index: 74
-  volume: 2
   title: "2.07"
   url: "https://wanderinginn.com/2017/04/04/2-08/"
+  published: "2017-04-04"
+  partOf:
+    webVolume: 2
+    eBook: 2
+    audioBook: 2
 - index: 75
-  volume: 2
   title: "2.08"
   url: "https://wanderinginn.com/2017/04/09/2-09/"
+  published: "2017-04-09"
+  partOf:
+    webVolume: 2
+    eBook: 2
+    audioBook: 2
 - index: 76
-  volume: 2
   title: "2.09"
   url: "https://wanderinginn.com/2017/04/12/2-10/"
+  published: "2017-04-12"
+  partOf:
+    webVolume: 2
+    eBook: 2
+    audioBook: 2
 - index: 77
-  volume: 2
   title: "2.10 T"
   url: "https://wanderinginn.com/2017/04/12/2-00-t/"
+  published: "2017-04-12"
+  partOf:
+    webVolume: 2
+    eBook: 2
+    audioBook: 2
 - index: 78
-  volume: 2
   title: "2.11"
   url: "https://wanderinginn.com/2017/04/13/2-11/"
+  published: "2017-04-13"
+  partOf:
+    webVolume: 2
+    eBook: 2
+    audioBook: 2
 - index: 79
-  volume: 2
   title: "2.12"
   url: "https://wanderinginn.com/2017/04/14/2-12/"
+  published: "2017-04-14"
+  partOf:
+    webVolume: 2
+    eBook: 2
+    audioBook: 2
 - index: 80
-  volume: 2
   title: "2.13"
   url: "https://wanderinginn.com/2017/04/15/2-13/"
+  published: "2017-04-15"
+  partOf:
+    webVolume: 2
+    eBook: 2
+    audioBook: 2
 - index: 81
-  volume: 2
   title: "2.14 G"
   url: "https://wanderinginn.com/2017/04/16/2-00-g/"
+  published: "2017-04-16"
+  partOf:
+    webVolume: 2
+    eBook: 2
+    audioBook: 2
 - index: 82
-  volume: 2
   title: "S01 – Mating Rituals"
   url: "https://wanderinginn.com/2017/04/17/side-story-mating-rituals/"
+  published: "2017-04-17"
+  partOf:
+    webVolume: 2
+    eBook: 2
+    audioBook: 2
 - index: 83
-  volume: 2
   title: "2.15"
   url: "https://wanderinginn.com/2017/04/18/2-14/"
+  published: "2017-04-18"
+  partOf:
+    webVolume: 2
+    eBook: 2
+    audioBook: 2
 - index: 84
-  volume: 2
   title: "2.16"
   url: "https://wanderinginn.com/2017/04/22/2-15/"
+  published: "2017-04-22"
+  partOf:
+    webVolume: 2
+    eBook: 2
+    audioBook: 2
 - index: 85
-  volume: 2
   title: "2.17"
   url: "https://wanderinginn.com/2017/04/22/2-16/"
+  published: "2017-04-22"
+  partOf:
+    webVolume: 2
+    eBook: 2
+    audioBook: 2
 - index: 86
-  volume: 2
   title: "2.18"
   url: "https://wanderinginn.com/2017/04/25/2-17/"
+  published: "2017-04-25"
+  partOf:
+    webVolume: 2
+    eBook: 2
+    audioBook: 2
 - index: 87
-  volume: 2
   title: "2.19 G"
   url: "https://wanderinginn.com/2017/04/27/2-01-g/"
+  published: "2017-04-27"
+  partOf:
+    webVolume: 2
+    eBook: 2
+    audioBook: 2
 - index: 88
-  volume: 2
   title: "2.20"
   url: "https://wanderinginn.com/2017/04/29/2-18/"
+  published: "2017-04-29"
+  partOf:
+    webVolume: 2
+    eBook: 2
+    audioBook: 2
 - index: 89
-  volume: 2
   title: "2.21"
   url: "https://wanderinginn.com/2017/05/03/2-19/"
+  published: "2017-05-03"
+  partOf:
+    webVolume: 2
+    eBook: 2
+    audioBook: 2
 - index: 90
-  volume: 2
   title: "2.22 K"
   url: "https://wanderinginn.com/2017/05/05/2-00-k/"
+  published: "2017-05-05"
+  partOf:
+    webVolume: 2
+    eBook: 2
+    audioBook: 2
 - index: 91
-  volume: 2
   title: "2.23"
   url: "https://wanderinginn.com/2017/05/07/2-20/"
+  published: "2017-05-07"
+  partOf:
+    webVolume: 2
+    eBook: 2
+    audioBook: 2
 - index: 92
-  volume: 2
   title: "2.24 T"
   url: "https://wanderinginn.com/2017/05/10/2-01-t/"
+  published: "2017-05-10"
+  partOf:
+    webVolume: 2
+    eBook: 2
+    audioBook: 2
 - index: 93
-  volume: 2
   title: "2.25"
   url: "https://wanderinginn.com/2017/05/14/2-21/"
+  published: "2017-05-14"
+  partOf:
+    webVolume: 2
+    eBook: 2
+    audioBook: 2
 - index: 94
-  volume: 2
   title: "2.26"
   url: "https://wanderinginn.com/2017/05/17/2-22/"
+  published: "2017-05-17"
+  partOf:
+    webVolume: 2
+    eBook: 2
+    audioBook: 2
 - index: 95
-  volume: 2
   title: "1.00 C"
   url: "https://wanderinginn.com/2017/04/25/1-00-c/"
+  published: "2017-04-25"
+  partOf:
+    webVolume: 2
+    eBook: 2
+    audioBook: 2
 - index: 96
-  volume: 2
   title: "1.01 C"
   url: "https://wanderinginn.com/2017/04/26/1-01-c/"
+  published: "2017-04-26"
+  partOf:
+    webVolume: 2
+    eBook: 2
+    audioBook: 2
 - index: 97
-  volume: 2
   title: "2.27 G"
   url: "https://wanderinginn.com/2017/05/21/2-02-g/"
+  published: "2017-05-21"
+  partOf:
+    webVolume: 2
+    eBook: 2
+    audioBook: 2
 - index: 98
-  volume: 2
   title: "2.28"
   url: "https://wanderinginn.com/2017/05/24/2-23/"
+  published: "2017-05-24"
+  partOf:
+    webVolume: 2
+    eBook: 2
+    audioBook: 2
 - index: 99
-  volume: 2
   title: "2.29"
   url: "https://wanderinginn.com/2017/05/26/2-24/"
+  published: "2017-05-26"
+  partOf:
+    webVolume: 2
+    eBook: 2
+    audioBook: 2
 - index: 100
-  volume: 2
   title: "2.30"
   url: "https://wanderinginn.com/2017/05/28/2-25/"
+  published: "2017-05-28"
+  partOf:
+    webVolume: 2
+    eBook: 2
+    audioBook: 2
 - index: 101
-  volume: 2
   title: "2.31"
   url: "https://wanderinginn.com/2017/05/31/2-26/"
+  published: "2017-05-31"
+  partOf:
+    webVolume: 2
+    eBook: 2
+    audioBook: 2
 - index: 102
-  volume: 2
   title: "2.32 H"
   url: "https://wanderinginn.com/2017/06/04/2-00-h/"
+  published: "2017-06-04"
+  partOf:
+    webVolume: 2
+    eBook: 2
+    audioBook: 2
 - index: 103
-  volume: 2
   title: "2.33"
   url: "https://wanderinginn.com/2017/06/07/2-27/"
+  published: "2017-06-07"
+  partOf:
+    webVolume: 2
+    eBook: 2
+    audioBook: 2
 - index: 104
-  volume: 2
   title: "2.34"
   url: "https://wanderinginn.com/2017/06/09/2-28/"
+  published: "2017-06-09"
+  partOf:
+    webVolume: 2
+    eBook: 2
+    audioBook: 2
 - index: 105
-  volume: 2
   title: "2.35"
   url: "https://wanderinginn.com/2017/06/11/2-29/"
+  published: "2017-06-11"
+  partOf:
+    webVolume: 2
+    eBook: 2
+    audioBook: 2
 - index: 106
-  volume: 2
   title: "2.36 G"
   url: "https://wanderinginn.com/2017/06/14/2-03-g/"
+  published: "2017-06-14"
+  partOf:
+    webVolume: 2
+    eBook: 2
+    audioBook: 2
 - index: 107
-  volume: 2
   title: "2.37"
   url: "https://wanderinginn.com/2017/06/18/2-30/"
+  published: "2017-06-18"
+  partOf:
+    webVolume: 2
+    eBook: 2
+    audioBook: 2
 - index: 108
-  volume: 2
   title: "2.38"
   url: "https://wanderinginn.com/2017/06/21/2-31/"
+  published: "2017-06-21"
+  partOf:
+    webVolume: 2
+    eBook: 2
+    audioBook: 2
 - index: 109
-  volume: 2
   title: "Interlude"
   url: "https://wanderinginn.com/2017/06/24/interlude-3/"
+  published: "2017-06-24"
+  partOf:
+    webVolume: 2
+    eBook: 2
+    audioBook: 2
 - index: 110
-  volume: 2
   title: "S02 – The Antinium Wars (Pt.1)"
   url: "https://wanderinginn.com/2017/05/28/s02-the-antinium-wars-pt-1/"
+  published: "2017-05-28"
+  partOf:
+    webVolume: 2
+    eBook: 2
+    audioBook: 2
 - index: 111
-  volume: 2
   title: "S02 – The Antinium Wars (Pt.2)"
   url: "https://wanderinginn.com/2017/05/31/s02-the-antinium-wars-pt-2/"
+  published: "2017-05-31"
+  partOf:
+    webVolume: 2
+    eBook: 2
+    audioBook: 2
 - index: 112
-  volume: 2
   title: "2.39"
   url: "https://wanderinginn.com/2017/06/27/2-32/"
+  published: "2017-06-27"
+  partOf:
+    webVolume: 2
+    eBook: 2
+    audioBook: 2
 - index: 113
-  volume: 2
   title: "2.40"
   url: "https://wanderinginn.com/2017/07/01/2-33/"
+  published: "2017-07-01"
+  partOf:
+    webVolume: 2
+    eBook: 2
+    audioBook: 2
 - index: 114
-  volume: 2
   title: "2.41"
   url: "https://wanderinginn.com/2017/07/04/2-34/"
+  published: "2017-07-04"
+  partOf:
+    webVolume: 2
+    eBook: 2
+    audioBook: 2
 - index: 115
-  volume: 2
   title: "2.42"
   url: "https://wanderinginn.com/2017/07/08/2-35/"
+  published: "2017-07-08"
+  partOf:
+    webVolume: 2
+    eBook: 2
+    audioBook: 2
 - index: 116
-  volume: 2
   title: "2.43"
   url: "https://wanderinginn.com/2017/07/11/2-36/"
+  published: "2017-07-11"
+  partOf:
+    webVolume: 2
+    eBook: 2
+    audioBook: 2
 - index: 117
-  volume: 2
   title: "2.44"
   url: "https://wanderinginn.com/2017/07/15/2-37/"
+  published: "2017-07-15"
+  partOf:
+    webVolume: 2
+    eBook: 2
+    audioBook: 2
 - index: 118
-  volume: 2
   title: "2.45"
   url: "https://wanderinginn.com/2017/07/18/2-38/"
+  published: "2017-07-18"
+  partOf:
+    webVolume: 2
+    eBook: 2
+    audioBook: 2
 - index: 119
-  volume: 2
   title: "S03 – Wistram Days (Pt. 1)"
   url: "https://wanderinginn.com/2017/06/30/s03-wistram-days-pt-1/"
+  published: "2017-06-30"
+  partOf:
+    webVolume: 2
+    eBook: 4
+    audioBook: 4
 - index: 120
-  volume: 2
   title: "2.46"
   url: "https://wanderinginn.com/2017/07/22/2-39/"
+  published: "2017-07-22"
+  partOf:
+    webVolume: 2
+    eBook: 2
+    audioBook: 2
 - index: 121
-  volume: 2
   title: "2.47"
   url: "https://wanderinginn.com/2017/07/25/2-40/"
+  published: "2017-07-25"
+  partOf:
+    webVolume: 2
+    eBook: 2
+    audioBook: 2
 - index: 122
-  volume: 2
   title: "2.48"
   url: "https://wanderinginn.com/2017/07/29/2-41/"
+  published: "2017-07-29"
+  partOf:
+    webVolume: 2
+    eBook: 2
+    audioBook: 2
 - index: 123
-  volume: 3
   title: "3.00 E"
   url: "https://wanderinginn.com/2017/08/01/3-00-e/"
+  published: "2017-08-01"
+  partOf:
+    webVolume: 3
+    eBook: 3
+    audioBook: 3
 - index: 124
-  volume: 3
   title: "3.01 E"
   url: "https://wanderinginn.com/2017/08/05/3-01-e/"
+  published: "2017-08-05"
+  partOf:
+    webVolume: 3
+    eBook: 3
+    audioBook: 3
 - index: 125
-  volume: 3
   title: "3.02 H"
   url: "https://wanderinginn.com/2017/08/08/3-02-h/"
+  published: "2017-08-08"
+  partOf:
+    webVolume: 3
+    eBook: 3
+    audioBook: 3
 - index: 126
-  volume: 3
   title: "3.03"
   url: "https://wanderinginn.com/2017/08/12/3-03/"
+  published: "2017-08-12"
+  partOf:
+    webVolume: 3
+    eBook: 3
+    audioBook: 3
 - index: 127
-  volume: 3
   title: "3.04"
   url: "https://wanderinginn.com/2017/08/15/3-04/"
+  published: "2017-08-15"
+  partOf:
+    webVolume: 3
+    eBook: 3
+    audioBook: 3
 - index: 128
-  volume: 3
   title: "3.05 L"
   url: "https://wanderinginn.com/2017/08/19/3-05-l/"
+  published: "2017-08-19"
+  partOf:
+    webVolume: 3
+    eBook: 3
+    audioBook: 3
 - index: 129
-  volume: 3
   title: "1.00 D"
   url: "https://wanderinginn.com/2017/07/14/1-00-d/"
+  published: "2017-07-14"
+  partOf:
+    webVolume: 3
+    eBook: 3
+    audioBook: 3
 - index: 130
-  volume: 3
   title: "1.01 D"
   url: "https://wanderinginn.com/2017/07/14/1-01-d/"
+  published: "2017-07-14"
+  partOf:
+    webVolume: 3
+    eBook: 3
+    audioBook: 3
 - index: 131
-  volume: 3
   title: "3.06 L"
   url: "https://wanderinginn.com/2017/08/22/3-06-l/"
+  published: "2017-08-22"
+  partOf:
+    webVolume: 3
+    eBook: 3
+    audioBook: 3
 - index: 132
-  volume: 3
   title: "3.07 H"
   url: "https://wanderinginn.com/2017/08/26/3-07-h/"
+  published: "2017-08-26"
+  partOf:
+    webVolume: 3
+    eBook: 3
+    audioBook: 3
 - index: 133
-  volume: 3
   title: "3.08 H"
   url: "https://wanderinginn.com/2017/08/29/3-08-h/"
+  published: "2017-08-29"
+  partOf:
+    webVolume: 3
+    eBook: 3
+    audioBook: 3
 - index: 134
-  volume: 3
   title: "3.09"
   url: "https://wanderinginn.com/2017/09/02/3-09/"
+  published: "2017-09-02"
+  partOf:
+    webVolume: 3
+    eBook: 3
+    audioBook: 3
 - index: 135
-  volume: 3
   title: "3.10"
   url: "https://wanderinginn.com/2017/09/05/3-10/"
+  published: "2017-09-05"
+  partOf:
+    webVolume: 3
+    eBook: 3
+    audioBook: 3
 - index: 136
-  volume: 3
   title: "3.11 E"
   url: "https://wanderinginn.com/2017/09/09/3-11-e/"
+  published: "2017-09-09"
+  partOf:
+    webVolume: 3
+    eBook: 3
+    audioBook: 3
 - index: 137
-  volume: 3
   title: "3.12 E"
   url: "https://wanderinginn.com/2017/09/12/3-12-e/"
+  published: "2017-09-12"
+  partOf:
+    webVolume: 3
+    eBook: 3
+    audioBook: 3
 - index: 138
-  volume: 3
   title: "3.13"
   url: "https://wanderinginn.com/2017/09/16/3-13/"
+  published: "2017-09-16"
+  partOf:
+    webVolume: 3
+    eBook: 3
+    audioBook: 3
 - index: 139
-  volume: 3
   title: "3.14"
   url: "https://wanderinginn.com/2017/09/19/3-14/"
+  published: "2017-09-19"
+  partOf:
+    webVolume: 3
+    eBook: 3
+    audioBook: 3
 - index: 140
-  volume: 3
   title: "3.15"
   url: "https://wanderinginn.com/2017/09/23/3-15/"
+  published: "2017-09-23"
+  partOf:
+    webVolume: 3
+    eBook: 3
+    audioBook: 3
 - index: 141
-  volume: 3
   title: "3.16"
   url: "https://wanderinginn.com/2017/09/26/3-16"
+  published: "2017-09-26"
+  partOf:
+    webVolume: 3
+    eBook: 3
+    audioBook: 3
 - index: 142
-  volume: 3
   title: "S03 – Wistram Days (Pt. 2)"
   url: "https://wanderinginn.com/2017/08/31/s03-wistram-days-pt-2"
+  published: "2017-08-31"
+  partOf:
+    webVolume: 3
+    eBook: 4
+    audioBook: 4
 - index: 143
-  volume: 3
   title: "3.17 T"
   url: "https://wanderinginn.com/2017/09/27/3-17-t/"
+  published: "2017-09-27"
+  partOf:
+    webVolume: 3
+    eBook: 3
+    audioBook: 3
 - index: 144
-  volume: 3
   title: "3.18 T"
   url: "https://wanderinginn.com/2017/09/28/3-18-t/"
+  published: "2017-09-28"
+  partOf:
+    webVolume: 3
+    eBook: 3
+    audioBook: 3
 - index: 145
-  volume: 3
   title: "3.19 T"
   url: "https://wanderinginn.com/2017/09/30/3-19-t/"
+  published: "2017-09-30"
+  partOf:
+    webVolume: 3
+    eBook: 3
+    audioBook: 3
 - index: 146
-  volume: 3
   title: "3.20 T"
   url: "https://wanderinginn.com/2017/10/03/3-20-t/"
+  published: "2017-10-03"
+  partOf:
+    webVolume: 3
+    eBook: 3
+    audioBook: 3
 - index: 147
-  volume: 3
   title: "3.21 L"
   url: "https://wanderinginn.com/2017/10/07/3-21-l/"
+  published: "2017-10-07"
+  partOf:
+    webVolume: 3
+    eBook: 3
+    audioBook: 3
 - index: 148
-  volume: 3
   title: "3.22 L"
   url: "https://wanderinginn.com/2017/10/10/3-22-l/"
+  published: "2017-10-10"
+  partOf:
+    webVolume: 3
+    eBook: 3
+    audioBook: 3
 - index: 149
-  volume: 3
   title: "3.23 L"
   url: "https://wanderinginn.com/2017/10/14/3-23-l/"
+  published: "2017-10-14"
+  partOf:
+    webVolume: 3
+    eBook: 3
+    audioBook: 3
 - index: 150
-  volume: 3
   title: "3.24"
   url: "https://wanderinginn.com/2017/10/17/3-24/"
+  published: "2017-10-17"
+  partOf:
+    webVolume: 3
+    eBook: 3
+    audioBook: 3
 - index: 151
-  volume: 3
   title: "3.25"
   url: "https://wanderinginn.com/2017/10/21/3-25/"
+  published: "2017-10-21"
+  partOf:
+    webVolume: 3
+    eBook: 3
+    audioBook: 3
 - index: 152
-  volume: 3
   title: "3.26 G"
   url: "https://wanderinginn.com/2017/10/24/3-26-g/"
+  published: "2017-10-24"
+  partOf:
+    webVolume: 3
+    eBook: 4
+    audioBook: 4
 - index: 153
-  volume: 3
   title: "3.27 M"
   url: "https://wanderinginn.com/2017/10/26/3-27-m/"
+  published: "2017-10-26"
+  partOf:
+    webVolume: 3
+    eBook: 4
+    audioBook: 4
 - index: 154
-  volume: 3
   title: "3.28 G"
   url: "https://wanderinginn.com/2017/10/28/3-28-g/"
+  published: "2017-10-28"
+  partOf:
+    webVolume: 3
+    eBook: 4
+    audioBook: 4
 - index: 155
-  volume: 3
   title: "3.29 G"
   url: "https://wanderinginn.com/2017/10/31/3-29-g/"
+  published: "2017-10-31"
+  partOf:
+    webVolume: 3
+    eBook: 4
+    audioBook: 4
 - index: 156
-  volume: 3
   title: "3.30"
   url: "https://wanderinginn.com/2017/11/04/3-30/"
+  published: "2017-11-04"
+  partOf:
+    webVolume: 3
+    eBook: 4
+    audioBook: 4
 - index: 157
-  volume: 3
   title: "3.31 G"
   url: "https://wanderinginn.com/2017/11/07/3-31-g/"
+  published: "2017-11-07"
+  partOf:
+    webVolume: 3
+    eBook: 4
+    audioBook: 4
 - index: 158
-  volume: 3
   title: "S03 – Wistram Days (Pt. 3)"
   url: "https://wanderinginn.com/2017/11/11/wistram-days-pt-3/"
+  published: "2017-11-11"
+  partOf:
+    webVolume: 3
+    eBook: 4
+    audioBook: 4
 - index: 159
-  volume: 3
   title: "S03 – Wistram Days (Pt. 4)"
   url: "https://wanderinginn.com/2017/11/12/wistram-days-pt-4/"
+  published: "2017-11-12"
+  partOf:
+    webVolume: 3
+    eBook: 4
+    audioBook: 4
 - index: 160
-  volume: 3
   title: "S03 – Wistram Days (Pt. 5)"
   url: "https://wanderinginn.com/2017/11/14/wistram-days-pt-5/"
+  published: "2017-11-14"
+  partOf:
+    webVolume: 3
+    eBook: 4
+    audioBook: 4
 - index: 161
-  volume: 3
   title: "S03 – Wistram Days (Pt. 6)"
   url: "https://wanderinginn.com/2017/11/18/wistram-days-pt-6/"
+  published: "2017-11-18"
+  partOf:
+    webVolume: 3
+    eBook: 4
+    audioBook: 4
 - index: 162
-  volume: 3
   title: "S03 – Wistram Days (Pt. 7)"
   url: "https://wanderinginn.com/2017/11/21/wistram-days-pt-7/"
+  published: "2017-11-21"
+  partOf:
+    webVolume: 3
+    eBook: 4
+    audioBook: 4
 - index: 163
-  volume: 3
   title: "3.32"
   url: "https://wanderinginn.com/2017/11/25/3-32/"
+  published: "2017-11-25"
+  partOf:
+    webVolume: 3
+    eBook: 4
+    audioBook: 4
 - index: 164
-  volume: 3
   title: "3.33"
   url: "https://wanderinginn.com/2017/11/28/3-33/"
+  published: "2017-11-28"
+  partOf:
+    webVolume: 3
+    eBook: 4
+    audioBook: 4
 - index: 165
-  volume: 3
   title: "3.34"
   url: "https://wanderinginn.com/2017/12/02/3-34/"
+  published: "2017-12-02"
+  partOf:
+    webVolume: 3
+    eBook: 4
+    audioBook: 4
 - index: 166
-  volume: 3
   title: "3.35"
   url: "https://wanderinginn.com/2017/12/05/3-35/"
+  published: "2017-12-05"
+  partOf:
+    webVolume: 3
+    eBook: 4
+    audioBook: 4
 - index: 167
-  volume: 3
   title: "3.36"
   url: "https://wanderinginn.com/2017/12/09/3-36/"
+  published: "2017-12-09"
+  partOf:
+    webVolume: 3
+    eBook: 4
+    audioBook: 4
 - index: 168
-  volume: 3
   title: "3.37"
   url: "https://wanderinginn.com/2017/12/12/3-37/"
+  published: "2017-12-12"
+  partOf:
+    webVolume: 3
+    eBook: 4
+    audioBook: 4
 - index: 169
-  volume: 3
   title: "3.38"
   url: "https://wanderinginn.com/2017/12/16/3-38/"
+  published: "2017-12-16"
+  partOf:
+    webVolume: 3
+    eBook: 4
+    audioBook: 4
 - index: 170
-  volume: 3
   title: "3.39"
   url: "https://wanderinginn.com/2017/12/19/3-39/"
+  published: "2017-12-19"
+  partOf:
+    webVolume: 3
+    eBook: 4
+    audioBook: 4
 - index: 171
-  volume: 3
   title: "3.40"
   url: "https://wanderinginn.com/2017/12/23/3-40/"
+  published: "2017-12-23"
+  partOf:
+    webVolume: 3
+    eBook: 4
+    audioBook: 4
 - index: 172
-  volume: 3
   title: "3.41"
   url: "https://wanderinginn.com/2017/12/25/3-41"
+  published: "2017-12-25"
+  partOf:
+    webVolume: 3
+    eBook: 4
+    audioBook: 4
 - index: 173
-  volume: 3
   title: "3.42"
   url: "https://wanderinginn.com/2017/12/26/3-42/"
+  published: "2017-12-26"
+  partOf:
+    webVolume: 3
+    eBook: 4
+    audioBook: 4
 - index: 174
-  volume: 3
   title: "Interlude"
   url: "https://wanderinginn.com/2017/12/30/interlude-4/"
+  published: "2017-12-30"
+  partOf:
+    webVolume: 3
+    eBook: 4
+    audioBook: 4
 - index: 175
-  volume: 4
   title: "4.00 K"
   url: "https://wanderinginn.com/2018/01/06/4-00-k/"
+  published: "2018-01-06"
+  partOf:
+    webVolume: 4
+    eBook: 5
+    audioBook: 5
 - index: 176
-  volume: 4
   title: "4.01 K"
   url: "https://wanderinginn.com/2018/01/09/4-01-k/"
+  published: "2018-01-09"
+  partOf:
+    webVolume: 4
+    eBook: 5
+    audioBook: 5
 - index: 177
-  volume: 4
   title: "4.02 K"
   url: "https://wanderinginn.com/2018/01/13/4-02-k/"
+  published: "2018-01-13"
+  partOf:
+    webVolume: 4
+    eBook: 5
+    audioBook: 5
 - index: 178
-  volume: 4
   title: "4.03 K"
   url: "https://wanderinginn.com/2018/01/16/4-03-k/"
+  published: "2018-01-16"
+  partOf:
+    webVolume: 4
+    eBook: 5
+    audioBook: 5
 - index: 179
-  volume: 4
   title: "4.04 K"
   url: "https://wanderinginn.com/2018/01/20/4-04-k/"
+  published: "2018-01-20"
+  partOf:
+    webVolume: 4
+    eBook: 5
+    audioBook: 5
 - index: 180
-  volume: 4
   title: "4.05 K"
   url: "https://wanderinginn.com/2018/01/23/4-05-k/"
+  published: "2018-01-23"
+  partOf:
+    webVolume: 4
+    eBook: 5
+    audioBook: 5
 - index: 181
-  volume: 4
   title: "4.06 KM"
   url: "https://wanderinginn.com/2018/01/27/4-06-km/"
+  published: "2018-01-27"
+  partOf:
+    webVolume: 4
+    eBook: 5
+    audioBook: 5
 - index: 182
-  volume: 4
   title: "4.07"
   url: "https://wanderinginn.com/2018/01/30/4-07/"
+  published: "2018-01-30"
+  partOf:
+    webVolume: 4
+    eBook: 5
+    audioBook: 5
 - index: 183
-  volume: 4
   title: "4.08 T"
   url: "https://wanderinginn.com/2018/02/01/4-08-t/"
+  published: "2018-02-01"
+  partOf:
+    webVolume: 4
+    eBook: 5
+    audioBook: 5
 - index: 184
-  volume: 4
   title: "4.09"
   url: "https://wanderinginn.com/2018/02/03/4-09/"
+  published: "2018-02-03"
+  partOf:
+    webVolume: 4
+    eBook: 5
+    audioBook: 5
 - index: 185
-  volume: 4
   title: "4.10"
   url: "https://wanderinginn.com/2018/02/06/4-10/"
+  published: "2018-02-06"
+  partOf:
+    webVolume: 4
+    eBook: 5
+    audioBook: 5
 - index: 186
-  volume: 4
   title: "4.11"
   url: "https://wanderinginn.com/2018/02/10/4-11/"
+  published: "2018-02-10"
+  partOf:
+    webVolume: 4
+    eBook: 5
+    audioBook: 5
 - index: 187
-  volume: 4
   title: "4.12"
   url: "https://wanderinginn.com/2018/02/13/4-12/"
+  published: "2018-02-13"
+  partOf:
+    webVolume: 4
+    eBook: 5
+    audioBook: 5
 - index: 188
-  volume: 4
   title: "4.13 L"
   url: "https://wanderinginn.com/2018/02/17/4-13-l/"
+  published: "2018-02-17"
+  partOf:
+    webVolume: 4
+    eBook: 5
+    audioBook: 5
 - index: 189
-  volume: 4
   title: "4.14 L"
   url: "https://wanderinginn.com/2018/02/20/4-14-l/"
+  published: "2018-02-20"
+  partOf:
+    webVolume: 4
+    eBook: 5
+    audioBook: 5
 - index: 190
-  volume: 4
   title: "4.15 L"
   url: "https://wanderinginn.com/2018/02/20/4-15-l/"
+  published: "2018-02-20"
+  partOf:
+    webVolume: 4
+    eBook: 5
+    audioBook: 5
 - index: 191
-  volume: 4
   title: "4.16"
   url: "https://wanderinginn.com/2018/02/24/4-16/"
+  published: "2018-02-24"
+  partOf:
+    webVolume: 4
+    eBook: 5
+    audioBook: 5
 - index: 192
-  volume: 4
   title: "4.17"
   url: "https://wanderinginn.com/2018/02/27/4-17/"
+  published: "2018-02-27"
+  partOf:
+    webVolume: 4
+    eBook: 5
+    audioBook: 5
 - index: 193
-  volume: 4
   title: "1.02 D"
   url: "https://wanderinginn.com/2018/03/01/1-02-d/"
+  published: "2018-03-01"
+  partOf:
+    webVolume: 4
+    eBook: 5
+    audioBook: 5
 - index: 194
-  volume: 4
   title: "1.03 D"
   url: "https://wanderinginn.com/2018/03/03/1-03-d/"
+  published: "2018-03-03"
+  partOf:
+    webVolume: 4
+    eBook: 5
+    audioBook: 5
 - index: 195
-  volume: 4
   title: "1.04 D"
   url: "https://wanderinginn.com/2018/03/06/1-04-d/"
+  published: "2018-03-06"
+  partOf:
+    webVolume: 4
+    eBook: 5
+    audioBook: 5
 - index: 196
-  volume: 4
   title: "1.05 D"
   url: "https://wanderinginn.com/2018/03/06/1-05-d/"
+  published: "2018-03-06"
+  partOf:
+    webVolume: 4
+    eBook: 5
+    audioBook: 5
 - index: 197
-  volume: 4
   title: "1.06 D"
   url: "https://wanderinginn.com/2018/03/10/1-06-d/"
+  published: "2018-03-10"
+  partOf:
+    webVolume: 4
+    eBook: 5
+    audioBook: 5
 - index: 198
-  volume: 4
   title: "4.18"
   url: "https://wanderinginn.com/2018/03/13/4-18/"
+  published: "2018-03-13"
+  partOf:
+    webVolume: 4
+    eBook: 5
+    audioBook: 5
 - index: 199
-  volume: 4
   title: "4.19"
   url: "https://wanderinginn.com/2018/03/17/4-19/"
+  published: "2018-03-17"
+  partOf:
+    webVolume: 4
+    eBook: 5
+    audioBook: 5
 - index: 200
-  volume: 4
   title: "4.20 E"
   url: "https://wanderinginn.com/2018/03/20/4-20-e/"
+  published: "2018-03-20"
+  partOf:
+    webVolume: 4
+    eBook: 5
+    audioBook: 5
 - index: 201
-  volume: 4
   title: "4.21 E"
   url: "https://wanderinginn.com/2018/03/24/4-21-e/"
+  published: "2018-03-24"
+  partOf:
+    webVolume: 4
+    eBook: 5
+    audioBook: 5
 - index: 202
-  volume: 4
   title: "4.22 E"
   url: "https://wanderinginn.com/2018/03/27/4-22-e/"
+  published: "2018-03-27"
+  partOf:
+    webVolume: 4
+    eBook: 5
+    audioBook: 5
 - index: 203
-  volume: 4
   title: "4.23 E"
   url: "https://wanderinginn.com/2018/03/27/4-23-e/"
+  published: "2018-03-27"
+  partOf:
+    webVolume: 4
+    eBook: 5
+    audioBook: 5
 - index: 204
-  volume: 4
   title: "4.24"
   url: "https://wanderinginn.com/2018/03/31/4-24/"
+  published: "2018-03-31"
+  partOf:
+    webVolume: 4
+    eBook: 5
+    audioBook: 5
 - index: 205
-  volume: 4
   title: "4.25 N"
   url: "https://wanderinginn.com/2018/04/03/4-25-n/"
+  published: "2018-04-03"
+  partOf:
+    webVolume: 4
+    eBook: 5
+    audioBook: 5
 - index: 206
-  volume: 4
   title: "4.26 M"
   url: "https://wanderinginn.com/2018/04/07/4-26-m/"
+  published: "2018-04-07"
+  partOf:
+    webVolume: 4
+    eBook: 5
+    audioBook: 5
 - index: 207
-  volume: 4
   title: "4.27 H"
   url: "https://wanderinginn.com/2018/04/10/4-27-h/"
+  published: "2018-04-10"
+  partOf:
+    webVolume: 4
+    eBook: 5
+    audioBook: 5
 - index: 208
-  volume: 4
   title: "4.28"
   url: "https://wanderinginn.com/2018/04/14/4-28/"
+  published: "2018-04-14"
+  partOf:
+    webVolume: 4
+    eBook: 5
+    audioBook: 5
 - index: 209
-  volume: 4
   title: "4.29"
   url: "https://wanderinginn.com/2018/04/17/4-29/"
+  published: "2018-04-17"
+  partOf:
+    webVolume: 4
+    eBook: 5
+    audioBook: 5
 - index: 210
-  volume: 4
   title: "4.30"
   url: "https://wanderinginn.com/2018/04/21/4-30/"
+  published: "2018-04-21"
+  partOf:
+    webVolume: 4
+    eBook: 5
+    audioBook: 5
 - index: 211
-  volume: 4
   title: "4.31"
   url: "https://wanderinginn.com/2018/04/24/4-31/"
+  published: "2018-04-24"
+  partOf:
+    webVolume: 4
+    eBook: 5
+    audioBook: 5
 - index: 212
-  volume: 4
   title: "4.32 G"
   url: "https://wanderinginn.com/2018/04/28/4-32-g/"
+  published: "2018-04-28"
+  partOf:
+    webVolume: 4
+    eBook: 6
+    audioBook: 6
 - index: 213
-  volume: 4
   title: "1.02 C"
   url: "https://wanderinginn.com/2018/05/01/1-02-d-2/"
+  published: "2018-05-01"
+  partOf:
+    webVolume: 4
+    eBook: 6
+    audioBook: 6
 - index: 214
-  volume: 4
   title: "1.03 C"
   url: "https://wanderinginn.com/2018/05/01/1-03-d-2/"
+  published: "2018-05-01"
+  partOf:
+    webVolume: 4
+    eBook: 6
+    audioBook: 6
 - index: 215
-  volume: 4
   title: "1.04 C"
   url: "https://wanderinginn.com/2018/05/05/1-04-c/"
+  published: "2018-05-05"
+  partOf:
+    webVolume: 4
+    eBook: 6
+    audioBook: 6
 - index: 216
-  volume: 4
   title: "1.05 C"
   url: "https://wanderinginn.com/2018/05/05/1-05-c/"
+  published: "2018-05-05"
+  partOf:
+    webVolume: 4
+    eBook: 6
+    audioBook: 6
 - index: 217
-  volume: 4
   title: "4.33"
   url: "https://wanderinginn.com/2018/05/08/4-33/"
+  published: "2018-05-08"
+  partOf:
+    webVolume: 4
+    eBook: 6
+    audioBook: 6
 - index: 218
-  volume: 4
   title: "4.34"
   url: "https://wanderinginn.com/2018/05/12/4-34/"
+  published: "2018-05-12"
+  partOf:
+    webVolume: 4
+    eBook: 6
+    audioBook: 6
 - index: 219
-  volume: 4
   title: "4.35 E"
   url: "https://wanderinginn.com/2018/05/15/4-35-e/"
+  published: "2018-05-15"
+  partOf:
+    webVolume: 4
+    eBook: 6
+    audioBook: 6
 - index: 220
-  volume: 4
   title: "4.36 O"
   url: "https://wanderinginn.com/2018/05/17/4-36-o/"
+  published: "2018-05-17"
+  partOf:
+    webVolume: 4
+    eBook: 6
+    audioBook: 6
 - index: 221
-  volume: 4
   title: "4.37 O"
   url: "https://wanderinginn.com/2018/05/19/4-37-o/"
+  published: "2018-05-19"
+  partOf:
+    webVolume: 4
+    eBook: 6
+    audioBook: 6
 - index: 222
-  volume: 4
   title: "4.38 B"
   url: "https://wanderinginn.com/2018/05/22/4-38-n/"
+  published: "2018-05-22"
+  partOf:
+    webVolume: 4
+    eBook: 6
+    audioBook: 6
 - index: 223
-  volume: 4
   title: "4.39 G"
   url: "https://wanderinginn.com/2018/05/26/4-39-g/"
+  published: "2018-05-26"
+  partOf:
+    webVolume: 4
+    eBook: 6
+    audioBook: 6
 - index: 224
-  volume: 4
   title: "4.40 L"
   url: "https://wanderinginn.com/2018/05/29/4-40-l/"
+  published: "2018-05-29"
+  partOf:
+    webVolume: 4
+    eBook: 6
+    audioBook: 6
 - index: 225
-  volume: 4
   title: "4.41 L"
   url: "https://wanderinginn.com/2018/06/02/4-41-l/"
+  published: "2018-06-02"
+  partOf:
+    webVolume: 4
+    eBook: 6
+    audioBook: 6
 - index: 226
-  volume: 4
   title: "4.42 L"
   url: "https://wanderinginn.com/2018/06/02/4-42-l/"
+  published: "2018-06-02"
+  partOf:
+    webVolume: 4
+    eBook: 6
+    audioBook: 6
 - index: 227
-  volume: 4
   title: "4.43"
   url: "https://wanderinginn.com/2018/06/05/4-43/"
+  published: "2018-06-05"
+  partOf:
+    webVolume: 4
+    eBook: 6
+    audioBook: 6
 - index: 228
-  volume: 4
   title: "4.44 M"
   url: "https://wanderinginn.com/2018/06/09/4-44-m/"
+  published: "2018-06-09"
+  partOf:
+    webVolume: 4
+    eBook: 6
+    audioBook: 6
 - index: 229
-  volume: 4
   title: "4.45"
   url: "https://wanderinginn.com/2018/06/12/4-45/"
+  published: "2018-06-12"
+  partOf:
+    webVolume: 4
+    eBook: 6
+    audioBook: 6
 - index: 230
-  volume: 4
   title: "4.46"
   url: "https://wanderinginn.com/2018/06/16/4-46/"
+  published: "2018-06-16"
+  partOf:
+    webVolume: 4
+    eBook: 6
+    audioBook: 6
 - index: 231
-  volume: 4
   title: "4.47"
   url: "https://wanderinginn.com/2018/06/19/4-47/"
+  published: "2018-06-19"
+  partOf:
+    webVolume: 4
+    eBook: 6
+    audioBook: 6
 - index: 232
-  volume: 4
   title: "S02 – The Antinium Wars (Pt.3)"
   url: "https://wanderinginn.com/2018/06/23/s02-the-antinium-wars-pt-3/"
+  published: "2018-06-23"
+  partOf:
+    webVolume: 4
+    eBook: 6
+    audioBook: 6
 - index: 233
-  volume: 4
   title: "S02 – The Antinium Wars (Pt.4)"
   url: "https://wanderinginn.com/2018/06/26/s02-the-antinium-wars-pt-4/"
+  published: "2018-06-26"
+  partOf:
+    webVolume: 4
+    eBook: 6
+    audioBook: 6
 - index: 234
-  volume: 4
   title: "S02 – The Antinium Wars (Pt.5)"
   url: "https://wanderinginn.com/2018/06/26/s02-the-antinium-wars-pt-5/"
+  published: "2018-06-26"
+  partOf:
+    webVolume: 4
+    eBook: 6
+    audioBook: 6
 - index: 235
-  volume: 4
   title: "4.48"
   url: "https://wanderinginn.com/2018/06/29/4-48/"
+  published: "2018-06-29"
+  partOf:
+    webVolume: 4
+    eBook: 6
+    audioBook: 6
 - index: 236
-  volume: 4
   title: "4.49"
   url: "https://wanderinginn.com/2018/07/07/4-49/"
+  published: "2018-07-07"
+  partOf:
+    webVolume: 4
+    eBook: 6
+    audioBook: 6
 - index: 237
-  volume: 4
   title: "The Depthless Doctor"
   url: "https://wanderinginn.com/2018/07/09/the-depthless-doctor/"
+  published: "2018-07-09"
+  partOf:
+    webVolume: 4
+    eBook: null
+    audioBook: null
 - index: 238
-  volume: 5
   title: "Glossary"
   url: "https://wanderinginn.com/2018/10/19/glossary"
+  published: "2018-10-19"
+  partOf:
+    webVolume: 5
+    eBook: null
+    audioBook: null
 - index: 239
-  volume: 5
   title: "5.00"
   url: "https://wanderinginn.com/2018/07/10/5-00/"
+  published: "2018-07-10"
+  partOf:
+    webVolume: 5
+    eBook: 7
+    audioBook: 7
 - index: 240
-  volume: 5
   title: "5.01"
   url: "https://wanderinginn.com/2018/07/14/5-01/"
+  published: "2018-07-14"
+  partOf:
+    webVolume: 5
+    eBook: 7
+    audioBook: 7
 - index: 241
-  volume: 5
   title: "5.02"
   url: "https://wanderinginn.com/2018/07/17/5-02/"
+  published: "2018-07-17"
+  partOf:
+    webVolume: 5
+    eBook: 7
+    audioBook: 7
 - index: 242
-  volume: 5
   title: "5.03"
   url: "https://wanderinginn.com/2018/07/21/5-03/"
+  published: "2018-07-21"
+  partOf:
+    webVolume: 5
+    eBook: 7
+    audioBook: 7
 - index: 243
-  volume: 5
   title: "5.04"
   url: "https://wanderinginn.com/2018/07/21/5-04/"
+  published: "2018-07-21"
+  partOf:
+    webVolume: 5
+    eBook: 7
+    audioBook: 7
 - index: 244
-  volume: 5
   title: "5.05"
   url: "https://wanderinginn.com/2018/07/24/5-05/"
+  published: "2018-07-24"
+  partOf:
+    webVolume: 5
+    eBook: 7
+    audioBook: 7
 - index: 245
-  volume: 5
   title: "5.06 M"
   url: "https://wanderinginn.com/2018/07/27/5-06-m/"
+  published: "2018-07-27"
+  partOf:
+    webVolume: 5
+    eBook: 7
+    audioBook: 7
 - index: 246
-  volume: 5
   title: "5.07"
   url: "https://wanderinginn.com/2018/07/28/5-07/"
+  published: "2018-07-28"
+  partOf:
+    webVolume: 5
+    eBook: 7
+    audioBook: 7
 - index: 247
-  volume: 5
   title: "5.08"
   url: "https://wanderinginn.com/2018/07/31/5-08/"
+  published: "2018-07-31"
+  partOf:
+    webVolume: 5
+    eBook: 7
+    audioBook: 7
 - index: 248
-  volume: 5
   title: "Interlude – Flos"
   url: "https://wanderinginn.com/2018/08/04/interlude-flos/"
+  published: "2018-08-04"
+  partOf:
+    webVolume: 5
+    eBook: 7
+    audioBook: 7
 - index: 249
-  volume: 5
   title: "5.09 E"
   url: "https://wanderinginn.com/2018/08/07/5-09-e/"
+  published: "2018-08-07"
+  partOf:
+    webVolume: 5
+    eBook: 7
+    audioBook: 7
 - index: 250
-  volume: 5
   title: "5.10 E"
   url: "https://wanderinginn.com/2018/08/11/5-10-e/"
+  published: "2018-08-11"
+  partOf:
+    webVolume: 5
+    eBook: 7
+    audioBook: 7
 - index: 251
-  volume: 5
   title: "5.11 E"
   url: "https://wanderinginn.com/2018/08/14/5-11-e/"
+  published: "2018-08-14"
+  partOf:
+    webVolume: 5
+    eBook: 7
+    audioBook: 7
 - index: 252
-  volume: 5
   title: "5.12"
   url: "https://wanderinginn.com/2018/08/18/5-12/"
+  published: "2018-08-18"
+  partOf:
+    webVolume: 5
+    eBook: 7
+    audioBook: 7
 - index: 253
-  volume: 5
   title: "5.13"
   url: "https://wanderinginn.com/2018/08/21/5-13/"
+  published: "2018-08-21"
+  partOf:
+    webVolume: 5
+    eBook: 7
+    audioBook: 7
 - index: 254
-  volume: 5
   title: "5.14"
   url: "https://wanderinginn.com/2018/08/25/5-14/"
+  published: "2018-08-25"
+  partOf:
+    webVolume: 5
+    eBook: 7
+    audioBook: 7
 - index: 255
-  volume: 5
   title: "5.15"
   url: "https://wanderinginn.com/2018/08/28/5-15/"
+  published: "2018-08-28"
+  partOf:
+    webVolume: 5
+    eBook: 7
+    audioBook: 7
 - index: 256
-  volume: 5
   title: "5.16 S"
   url: "https://wanderinginn.com/2018/09/01/5-16-s/"
+  published: "2018-09-01"
+  partOf:
+    webVolume: 5
+    eBook: 7
+    audioBook: 7
 - index: 257
-  volume: 5
   title: "5.17 S"
   url: "https://wanderinginn.com/2018/09/01/5-17-s/"
+  published: "2018-09-01"
+  partOf:
+    webVolume: 5
+    eBook: 7
+    audioBook: 7
 - index: 258
-  volume: 5
   title: "5.18 S"
   url: "https://wanderinginn.com/2018/09/04/5-18-s//"
+  published: "2018-09-04"
+  partOf:
+    webVolume: 5
+    eBook: 7
+    audioBook: 7
 - index: 259
-  volume: 5
   title: "5.19 G"
   url: "https://wanderinginn.com/2018/09/08/5-19-g/"
+  published: "2018-09-08"
+  partOf:
+    webVolume: 5
+    eBook: 7
+    audioBook: 7
 - index: 260
-  volume: 5
   title: "5.20 G"
   url: "https://wanderinginn.com/2018/09/11/5-20-g/"
+  published: "2018-09-11"
+  partOf:
+    webVolume: 5
+    eBook: 7
+    audioBook: 7
 - index: 261
-  volume: 5
   title: "5.21 E"
   url: "https://wanderinginn.com/2018/09/15/5-21-e/"
+  published: "2018-09-15"
+  partOf:
+    webVolume: 5
+    eBook: null
+    audioBook: null
 - index: 262
-  volume: 5
   title: "5.22 G"
   url: "https://wanderinginn.com/2018/09/18/5-22-g/"
+  published: "2018-09-18"
+  partOf:
+    webVolume: 5
+    eBook: null
+    audioBook: null
 - index: 263
-  volume: 5
   title: "5.23 G"
   url: "https://wanderinginn.com/2018/09/22/5-23-g/"
+  published: "2018-09-22"
+  partOf:
+    webVolume: 5
+    eBook: null
+    audioBook: null
 - index: 264
-  volume: 5
   title: "5.24 L"
   url: "https://wanderinginn.com/2018/09/29/5-24-l/"
+  published: "2018-09-29"
+  partOf:
+    webVolume: 5
+    eBook: null
+    audioBook: null
 - index: 265
-  volume: 5
   title: "5.25 L"
   url: "https://wanderinginn.com/2018/10/02/5-25-l/"
+  published: "2018-10-02"
+  partOf:
+    webVolume: 5
+    eBook: null
+    audioBook: null
 - index: 266
-  volume: 5
   title: "5.26 L"
   url: "https://wanderinginn.com/2018/10/06/5-26-l/"
+  published: "2018-10-06"
+  partOf:
+    webVolume: 5
+    eBook: null
+    audioBook: null
 - index: 267
-  volume: 5
   title: "5.27"
   url: "https://wanderinginn.com/2018/10/09/5-27/"
+  published: "2018-10-09"
+  partOf:
+    webVolume: 5
+    eBook: null
+    audioBook: null
 - index: 268
-  volume: 5
   title: "5.28"
   url: "https://wanderinginn.com/2018/10/13/5-28/"
+  published: "2018-10-13"
+  partOf:
+    webVolume: 5
+    eBook: null
+    audioBook: null
 - index: 269
-  volume: 5
   title: "5.29"
   url: "https://wanderinginn.com/2018/10/16/5-29/"
+  published: "2018-10-16"
+  partOf:
+    webVolume: 5
+    eBook: null
+    audioBook: null
 - index: 270
-  volume: 5
   title: "5.30 G"
   url: "https://wanderinginn.com/2018/10/20/5-30-g/"
+  published: "2018-10-20"
+  partOf:
+    webVolume: 5
+    eBook: null
+    audioBook: null
 - index: 271
-  volume: 5
   title: "5.31 G"
   url: "https://wanderinginn.com/2018/10/23/5-31-g/"
+  published: "2018-10-23"
+  partOf:
+    webVolume: 5
+    eBook: null
+    audioBook: null
 - index: 272
-  volume: 5
   title: "5.32 G"
   url: "https://wanderinginn.com/2018/10/27/5-32-g/"
+  published: "2018-10-27"
+  partOf:
+    webVolume: 5
+    eBook: null
+    audioBook: null
 - index: 273
-  volume: 5
   title: "5.33 B"
   url: "https://wanderinginn.com/2018/10/30/5-33-b/"
+  published: "2018-10-30"
+  partOf:
+    webVolume: 5
+    eBook: null
+    audioBook: null
 - index: 274
-  volume: 5
   title: "Interlude – Blackmage"
   url: "https://wanderinginn.com/2018/11/01/interlude-blackmage/"
+  published: "2018-11-01"
+  partOf:
+    webVolume: 5
+    eBook: null
+    audioBook: null
 - index: 275
-  volume: 5
   title: "5.34"
   url: "https://wanderinginn.com/2018/11/03/5-34/"
+  published: "2018-11-03"
+  partOf:
+    webVolume: 5
+    eBook: null
+    audioBook: null
 - index: 276
-  volume: 5
   title: "5.35 H"
   url: "https://wanderinginn.com/2018/11/06/5-35-h/"
+  published: "2018-11-06"
+  partOf:
+    webVolume: 5
+    eBook: null
+    audioBook: null
 - index: 277
-  volume: 5
   title: "5.36"
   url: "https://wanderinginn.com/2018/11/10/5-36/"
+  published: "2018-11-10"
+  partOf:
+    webVolume: 5
+    eBook: null
+    audioBook: null
 - index: 278
-  volume: 5
   title: "5.37 G"
   url: "https://wanderinginn.com/2018/11/13/5-37-g/"
+  published: "2018-11-13"
+  partOf:
+    webVolume: 5
+    eBook: null
+    audioBook: null
 - index: 279
-  volume: 5
   title: "5.38"
   url: "https://wanderinginn.com/2018/11/17/5-38/"
+  published: "2018-11-17"
+  partOf:
+    webVolume: 5
+    eBook: null
+    audioBook: null
 - index: 280
-  volume: 5
   title: "5.39"
   url: "https://wanderinginn.com/2018/11/20/5-39//"
+  published: "2018-11-20"
+  partOf:
+    webVolume: 5
+    eBook: null
+    audioBook: null
 - index: 281
-  volume: 5
   title: "5.40"
   url: "https://wanderinginn.com/2018/11/24/5-40"
+  published: "2018-11-24"
+  partOf:
+    webVolume: 5
+    eBook: null
+    audioBook: null
 - index: 282
-  volume: 5
   title: "5.41"
   url: "https://wanderinginn.com/2018/11/27/5-41/"
+  published: "2018-11-27"
+  partOf:
+    webVolume: 5
+    eBook: null
+    audioBook: null
 - index: 283
-  volume: 5
   title: "5.42"
   url: "https://wanderinginn.com/2018/12/01/5-42/"
+  published: "2018-12-01"
+  partOf:
+    webVolume: 5
+    eBook: null
+    audioBook: null
 - index: 284
-  volume: 5
   title: "5.43"
   url: "https://wanderinginn.com/2018/12/04/5-43/"
+  published: "2018-12-04"
+  partOf:
+    webVolume: 5
+    eBook: null
+    audioBook: null
 - index: 285
-  volume: 5
   title: "Interlude – Niers"
   url: "https://wanderinginn.com/2018/12/06/interlude-niers/"
+  published: "2018-12-06"
+  partOf:
+    webVolume: 5
+    eBook: null
+    audioBook: null
 - index: 286
-  volume: 5
   title: "5.44"
   url: "https://wanderinginn.com/2018/12/08/5-44/"
+  published: "2018-12-08"
+  partOf:
+    webVolume: 5
+    eBook: null
+    audioBook: null
 - index: 287
-  volume: 5
   title: "5.45"
   url: "https://wanderinginn.com/2018/12/11/5-45/"
+  published: "2018-12-11"
+  partOf:
+    webVolume: 5
+    eBook: null
+    audioBook: null
 - index: 288
-  volume: 5
   title: "5.46"
   url: "https://wanderinginn.com/2018/12/15/5-46/"
+  published: "2018-12-15"
+  partOf:
+    webVolume: 5
+    eBook: null
+    audioBook: null
 - index: 289
-  volume: 5
   title: "5.47 G"
   url: "https://wanderinginn.com/2018/12/18/5-47-g/"
+  published: "2018-12-18"
+  partOf:
+    webVolume: 5
+    eBook: null
+    audioBook: null
 - index: 290
-  volume: 5
   title: "5.48 G"
   url: "https://wanderinginn.com/2018/12/22/5-48-g/"
+  published: "2018-12-22"
+  partOf:
+    webVolume: 5
+    eBook: null
+    audioBook: null
 - index: 291
-  volume: 5
   title: "5.49"
   url: "https://wanderinginn.com/2018/12/25/5-49/"
+  published: "2018-12-25"
+  partOf:
+    webVolume: 5
+    eBook: null
+    audioBook: null
 - index: 292
-  volume: 5
   title: "5.50 G"
   url: "https://wanderinginn.com/2018/12/29/5-50-g/"
+  published: "2018-12-29"
+  partOf:
+    webVolume: 5
+    eBook: null
+    audioBook: null
 - index: 293
-  volume: 5
   title: "Interlude – Bird"
   url: "https://wanderinginn.com/2018/12/30/interlude-bird/"
+  published: "2018-12-30"
+  partOf:
+    webVolume: 5
+    eBook: null
+    audioBook: null
 - index: 294
-  volume: 5
   title: "5.51 G"
   url: "https://wanderinginn.com/2019/01/08/5-51-g/"
+  published: "2019-01-08"
+  partOf:
+    webVolume: 5
+    eBook: null
+    audioBook: null
 - index: 295
-  volume: 5
   title: "5.52"
   url: "https://wanderinginn.com/2019/01/12/5-52/"
+  published: "2019-01-12"
+  partOf:
+    webVolume: 5
+    eBook: null
+    audioBook: null
 - index: 296
-  volume: 5
   title: "5.53"
   url: "https://wanderinginn.com/2019/01/15/5-53/"
+  published: "2019-01-15"
+  partOf:
+    webVolume: 5
+    eBook: null
+    audioBook: null
 - index: 297
-  volume: 5
   title: "5.54 (Non-Canon)"
   url: "https://wanderinginn.com/2019/01/19/5-54/"
+  published: "2019-01-19"
+  partOf:
+    webVolume: 5
+    eBook: null
+    audioBook: null
 - index: 298
-  volume: 5
   title: "5.54"
   url: "https://wanderinginn.com/2019/01/22/5-54-2/"
+  published: "2019-01-22"
+  partOf:
+    webVolume: 5
+    eBook: null
+    audioBook: null
 - index: 299
-  volume: 5
   title: "Interlude – Krshia"
   url: "https://wanderinginn.com/2019/01/26/interlude-krshia/"
+  published: "2019-01-26"
+  partOf:
+    webVolume: 5
+    eBook: null
+    audioBook: null
 - index: 300
-  volume: 5
   title: "5.55 G"
   url: "https://wanderinginn.com/2019/01/29/5-55-g/"
+  published: "2019-01-29"
+  partOf:
+    webVolume: 5
+    eBook: null
+    audioBook: null
 - index: 301
-  volume: 5
   title: "5.56 G"
   url: "https://wanderinginn.com/2019/02/02/5-56-g/"
+  published: "2019-02-02"
+  partOf:
+    webVolume: 5
+    eBook: null
+    audioBook: null
 - index: 302
-  volume: 5
   title: "5.57"
   url: "https://wanderinginn.com/2019/02/05/5-57/"
+  published: "2019-02-05"
+  partOf:
+    webVolume: 5
+    eBook: null
+    audioBook: null
 - index: 303
-  volume: 5
   title: "5.58"
   url: "https://wanderinginn.com/2019/02/09/5-58/"
+  published: "2019-02-09"
+  partOf:
+    webVolume: 5
+    eBook: null
+    audioBook: null
 - index: 304
-  volume: 5
   title: "5.59"
   url: "https://wanderinginn.com/2019/02/12/5-59/"
+  published: "2019-02-12"
+  partOf:
+    webVolume: 5
+    eBook: null
+    audioBook: null
 - index: 305
-  volume: 5
   title: "Interlude – Pebblesnatch and Garry"
   url: "https://wanderinginn.com/2019/02/16/interlude-pebblesnatch-and-garry/"
+  published: "2019-02-16"
+  partOf:
+    webVolume: 5
+    eBook: null
+    audioBook: null
 - index: 306
-  volume: 5
   title: "5.60"
   url: "https://wanderinginn.com/2019/02/16/5-60/"
+  published: "2019-02-16"
+  partOf:
+    webVolume: 5
+    eBook: null
+    audioBook: null
 - index: 307
-  volume: 5
   title: "5.61"
   url: "https://wanderinginn.com/2019/02/19/5-61/"
+  published: "2019-02-19"
+  partOf:
+    webVolume: 5
+    eBook: null
+    audioBook: null
 - index: 308
-  volume: 5
   title: "5.62"
   url: "https://wanderinginn.com/2019/02/26/5-62/"
+  published: "2019-02-26"
+  partOf:
+    webVolume: 5
+    eBook: null
+    audioBook: null
 - index: 309
-  volume: 5
   title: "Interlude"
   url: "https://wanderinginn.com/2019/03/02/interlude-5/"
+  published: "2019-03-02"
+  partOf:
+    webVolume: 5
+    eBook: null
+    audioBook: null
 - index: 310
-  volume: 6
   title: "6.00"
   url: "https://wanderinginn.com/2019/03/19/6-00/"
+  published: "2019-03-19"
+  partOf:
+    webVolume: 6
+    eBook: null
+    audioBook: null
 - index: 311
-  volume: 6
   title: "6.01"
   url: "https://wanderinginn.com/2019/03/23/6-01/"
+  published: "2019-03-23"
+  partOf:
+    webVolume: 6
+    eBook: null
+    audioBook: null
 - index: 312
-  volume: 6
   title: "6.02"
   url: "https://wanderinginn.com/2019/03/26/6-02/"
+  published: "2019-03-26"
+  partOf:
+    webVolume: 6
+    eBook: null
+    audioBook: null
 - index: 313
-  volume: 6
   title: "6.03"
   url: "https://wanderinginn.com/2019/03/30/6-03/"
+  published: "2019-03-30"
+  partOf:
+    webVolume: 6
+    eBook: null
+    audioBook: null
 - index: 314
-  volume: 6
   title: "6.04 D"
   url: "https://wanderinginn.com/2019/04/02/6-04-d/"
+  published: "2019-04-02"
+  partOf:
+    webVolume: 6
+    eBook: null
+    audioBook: null
 - index: 315
-  volume: 6
   title: "6.05 D"
   url: "https://wanderinginn.com/2019/04/06/6-05-d/"
+  published: "2019-04-06"
+  partOf:
+    webVolume: 6
+    eBook: null
+    audioBook: null
 - index: 316
-  volume: 6
   title: "6.06 D"
   url: "https://wanderinginn.com/2019/04/09/6-06-d/"
+  published: "2019-04-09"
+  partOf:
+    webVolume: 6
+    eBook: null
+    audioBook: null
 - index: 317
-  volume: 6
   title: "6.07 D"
   url: "https://wanderinginn.com/2019/04/13/6-07-d/"
+  published: "2019-04-13"
+  partOf:
+    webVolume: 6
+    eBook: null
+    audioBook: null
 - index: 318
-  volume: 6
   title: "6.08"
   url: "https://wanderinginn.com/2019/04/16/6-08/"
+  published: "2019-04-16"
+  partOf:
+    webVolume: 6
+    eBook: null
+    audioBook: null
 - index: 319
-  volume: 6
   title: "6.09"
   url: "https://wanderinginn.com/2019/04/20/6-09/"
+  published: "2019-04-20"
+  partOf:
+    webVolume: 6
+    eBook: null
+    audioBook: null
 - index: 320
-  volume: 6
   title: "6.10"
   url: "https://wanderinginn.com/2019/04/23/6-10/"
+  published: "2019-04-23"
+  partOf:
+    webVolume: 6
+    eBook: null
+    audioBook: null
 - index: 321
-  volume: 6
   title: "6.11"
   url: "https://wanderinginn.com/2019/04/27/6-11/"
+  published: "2019-04-27"
+  partOf:
+    webVolume: 6
+    eBook: null
+    audioBook: null
 - index: 322
-  volume: 6
   title: "6.12 K"
   url: "https://wanderinginn.com/2019/04/30/6-12-k/"
+  published: "2019-04-30"
+  partOf:
+    webVolume: 6
+    eBook: null
+    audioBook: null
 - index: 323
-  volume: 6
   title: "6.13 K"
   url: "https://wanderinginn.com/2019/05/04/6-13-k/"
+  published: "2019-05-04"
+  partOf:
+    webVolume: 6
+    eBook: null
+    audioBook: null
 - index: 324
-  volume: 6
   title: "6.14 K"
   url: "https://wanderinginn.com/2019/05/07/6-14-k/"
+  published: "2019-05-07"
+  partOf:
+    webVolume: 6
+    eBook: null
+    audioBook: null
 - index: 325
-  volume: 6
   title: "6.15 K"
   url: "https://wanderinginn.com/2019/05/11/6-15-k/"
+  published: "2019-05-11"
+  partOf:
+    webVolume: 6
+    eBook: null
+    audioBook: null
 - index: 326
-  volume: 6
   title: "6.16"
   url: "https://wanderinginn.com/2019/05/14/6-16/"
+  published: "2019-05-14"
+  partOf:
+    webVolume: 6
+    eBook: null
+    audioBook: null
 - index: 327
-  volume: 6
   title: "6.17 S"
   url: "https://wanderinginn.com/2019/05/18/6-17-s/"
+  published: "2019-05-18"
+  partOf:
+    webVolume: 6
+    eBook: null
+    audioBook: null
 - index: 328
-  volume: 6
   title: "6.18 H"
   url: "https://wanderinginn.com/2019/05/21/6-18-h/"
+  published: "2019-05-21"
+  partOf:
+    webVolume: 6
+    eBook: null
+    audioBook: null
 - index: 329
-  volume: 6
   title: "6.19 H"
   url: "https://wanderinginn.com/2019/05/25/6-19-h/"
+  published: "2019-05-25"
+  partOf:
+    webVolume: 6
+    eBook: null
+    audioBook: null
 - index: 330
-  volume: 6
   title: "6.20 D"
   url: "https://wanderinginn.com/2019/05/28/6-20-d/"
+  published: "2019-05-28"
+  partOf:
+    webVolume: 6
+    eBook: null
+    audioBook: null
 - index: 331
-  volume: 6
   title: "6.21 D"
   url: "https://wanderinginn.com/2019/06/01/5-21-d/"
+  published: "2019-06-01"
+  partOf:
+    webVolume: 6
+    eBook: null
+    audioBook: null
 - index: 332
-  volume: 6
   title: "6.22 D"
   url: "https://wanderinginn.com/2019/06/04/6-22-d/"
+  published: "2019-06-04"
+  partOf:
+    webVolume: 6
+    eBook: null
+    audioBook: null
 - index: 333
-  volume: 6
   title: "6.23 D"
   url: "https://wanderinginn.com/2019/06/08/6-23-d/"
+  published: "2019-06-08"
+  partOf:
+    webVolume: 6
+    eBook: null
+    audioBook: null
 - index: 334
-  volume: 6
   title: "6.24 D"
   url: "https://wanderinginn.com/2019/06/11/6-24-d/"
+  published: "2019-06-11"
+  partOf:
+    webVolume: 6
+    eBook: null
+    audioBook: null
 - index: 335
-  volume: 6
   title: "6.25"
   url: "https://wanderinginn.com/2019/06/15/6-25/"
+  published: "2019-06-15"
+  partOf:
+    webVolume: 6
+    eBook: null
+    audioBook: null
 - index: 336
-  volume: 6
   title: "6.26"
   url: "https://wanderinginn.com/2019/06/18/6-26/"
+  published: "2019-06-18"
+  partOf:
+    webVolume: 6
+    eBook: null
+    audioBook: null
 - index: 337
-  volume: 6
   title: "6.27 M"
   url: "https://wanderinginn.com/2019/06/22/6-27-m/"
+  published: "2019-06-22"
+  partOf:
+    webVolume: 6
+    eBook: null
+    audioBook: null
 - index: 338
-  volume: 6
   title: "6.28"
   url: "https://wanderinginn.com/2019/06/25/6-28/"
+  published: "2019-06-25"
+  partOf:
+    webVolume: 6
+    eBook: null
+    audioBook: null
 - index: 339
-  volume: 6
   title: "6.29"
   url: "https://wanderinginn.com/2019/06/29/6-29/"
+  published: "2019-06-29"
+  partOf:
+    webVolume: 6
+    eBook: null
+    audioBook: null
 - index: 340
-  volume: 6
   title: "Interlude – Embria"
   url: "https://wanderinginn.com/2019/07/02/interlude-embria/"
+  published: "2019-07-02"
+  partOf:
+    webVolume: 6
+    eBook: null
+    audioBook: null
 - index: 341
-  volume: 6
   title: "6.30"
   url: "https://wanderinginn.com/2019/07/13/6-30/"
+  published: "2019-07-13"
+  partOf:
+    webVolume: 6
+    eBook: null
+    audioBook: null
 - index: 342
-  volume: 6
   title: "6.31"
   url: "https://wanderinginn.com/2019/07/16/6-31/"
+  published: "2019-07-16"
+  partOf:
+    webVolume: 6
+    eBook: null
+    audioBook: null
 - index: 343
-  volume: 6
   title: "6.32"
   url: "https://wanderinginn.com/2019/07/20/6-32/"
+  published: "2019-07-20"
+  partOf:
+    webVolume: 6
+    eBook: null
+    audioBook: null
 - index: 344
-  volume: 6
   title: "6.33 E"
   url: "https://wanderinginn.com/2019/07/23/6-33-e/"
+  published: "2019-07-23"
+  partOf:
+    webVolume: 6
+    eBook: null
+    audioBook: null
 - index: 345
-  volume: 6
   title: "6.34 E"
   url: "https://wanderinginn.com/2019/07/27/6-34-e/"
+  published: "2019-07-27"
+  partOf:
+    webVolume: 6
+    eBook: null
+    audioBook: null
 - index: 346
-  volume: 6
   title: "Interlude – Numbtongue (Pt.1)"
   url: "https://wanderinginn.com/2019/07/30/interlude-numbtongue-pt-1/"
+  published: "2019-07-30"
+  partOf:
+    webVolume: 6
+    eBook: null
+    audioBook: null
 - index: 347
-  volume: 6
   title: "Interlude – Numbtongue (Pt.2)"
   url: "https://wanderinginn.com/2019/08/03/interlude-numbtongue-pt-2/"
+  published: "2019-08-03"
+  partOf:
+    webVolume: 6
+    eBook: null
+    audioBook: null
 - index: 348
-  volume: 6
   title: "6.35"
   url: "https://wanderinginn.com/2019/08/06/6-35/"
+  published: "2019-08-06"
+  partOf:
+    webVolume: 6
+    eBook: null
+    audioBook: null
 - index: 349
-  volume: 6
   title: "6.36 E"
   url: "https://wanderinginn.com/2019/08/10/6-36-e/"
+  published: "2019-08-10"
+  partOf:
+    webVolume: 6
+    eBook: null
+    audioBook: null
 - index: 350
-  volume: 6
   title: "6.37 E"
   url: "https://wanderinginn.com/2019/08/13/6-37-e/"
+  published: "2019-08-13"
+  partOf:
+    webVolume: 6
+    eBook: null
+    audioBook: null
 - index: 351
-  volume: 6
   title: "6.38"
   url: "https://wanderinginn.com/2019/08/17/6-38/"
+  published: "2019-08-17"
+  partOf:
+    webVolume: 6
+    eBook: null
+    audioBook: null
 - index: 352
-  volume: 6
   title: "6.39"
   url: "https://wanderinginn.com/2019/08/20/6-39/"
+  published: "2019-08-20"
+  partOf:
+    webVolume: 6
+    eBook: null
+    audioBook: null
 - index: 353
-  volume: 6
   title: "6.40 E"
   url: "https://wanderinginn.com/2019/08/24/6-40-e/"
+  published: "2019-08-24"
+  partOf:
+    webVolume: 6
+    eBook: null
+    audioBook: null
 - index: 354
-  volume: 6
   title: "6.41 E"
   url: "https://wanderinginn.com/2019/08/27/6-41-e/"
+  published: "2019-08-27"
+  partOf:
+    webVolume: 6
+    eBook: null
+    audioBook: null
 - index: 355
-  volume: 6
   title: "Interlude – Two Rats"
   url: "https://wanderinginn.com/2019/08/31/interlude-two-rats/"
+  published: "2019-08-31"
+  partOf:
+    webVolume: 6
+    eBook: null
+    audioBook: null
 - index: 356
-  volume: 6
   title: "Interlude – Rufelt"
   url: "https://wanderinginn.com/2019/09/03/interlude-rufelt/"
+  published: "2019-09-03"
+  partOf:
+    webVolume: 6
+    eBook: null
+    audioBook: null
 - index: 357
-  volume: 6
   title: "6.42 E"
   url: "https://wanderinginn.com/2019/09/07/6-42-e/"
+  published: "2019-09-07"
+  partOf:
+    webVolume: 6
+    eBook: null
+    audioBook: null
 - index: 358
-  volume: 6
   title: "6.43 E"
   url: "https://wanderinginn.com/2019/09/10/6-43-e/"
+  published: "2019-09-10"
+  partOf:
+    webVolume: 6
+    eBook: null
+    audioBook: null
 - index: 359
-  volume: 6
   title: "6.44 E"
   url: "https://wanderinginn.com/2019/09/14/6-44-e/"
+  published: "2019-09-14"
+  partOf:
+    webVolume: 6
+    eBook: null
+    audioBook: null
 - index: 360
-  volume: 6
   title: "6.45 E"
   url: "https://wanderinginn.com/2019/09/17/6-45-e/"
+  published: "2019-09-17"
+  partOf:
+    webVolume: 6
+    eBook: null
+    audioBook: null
 - index: 361
-  volume: 6
   title: "6.46 E"
   url: "https://wanderinginn.com/2019/09/21/6-46-e/"
+  published: "2019-09-21"
+  partOf:
+    webVolume: 6
+    eBook: null
+    audioBook: null
 - index: 362
-  volume: 6
   title: "6.47 E"
   url: "https://wanderinginn.com/2019/09/24/6-47-e/"
+  published: "2019-09-24"
+  partOf:
+    webVolume: 6
+    eBook: null
+    audioBook: null
 - index: 363
-  volume: 6
   title: "6.48 T"
   url: "https://wanderinginn.com/2019/10/12/6-48-t/"
+  published: "2019-10-12"
+  partOf:
+    webVolume: 6
+    eBook: null
+    audioBook: null
 - index: 364
-  volume: 6
   title: "6.49"
   url: "https://wanderinginn.com/2019/10/15/6-49/"
+  published: "2019-10-15"
+  partOf:
+    webVolume: 6
+    eBook: null
+    audioBook: null
 - index: 365
-  volume: 6
   title: "6.50 I"
   url: "https://wanderinginn.com/2019/10/19/6-50-i/"
+  published: "2019-10-19"
+  partOf:
+    webVolume: 6
+    eBook: null
+    audioBook: null
 - index: 366
-  volume: 6
   title: "6.51 A"
   url: "https://wanderinginn.com/2019/10/22/6-51-a/"
+  published: "2019-10-22"
+  partOf:
+    webVolume: 6
+    eBook: null
+    audioBook: null
 - index: 367
-  volume: 6
   title: "6.52 K"
   url: "https://wanderinginn.com/2019/10/26/6-52-k/"
+  published: "2019-10-26"
+  partOf:
+    webVolume: 6
+    eBook: null
+    audioBook: null
 - index: 368
-  volume: 6
   title: "6.53 K"
   url: "https://wanderinginn.com/2019/10/29/6-53-k/"
+  published: "2019-10-29"
+  partOf:
+    webVolume: 6
+    eBook: null
+    audioBook: null
 - index: 369
-  volume: 6
   title: "6.54 K"
   url: "https://wanderinginn.com/2019/11/02/6-54-k/"
+  published: "2019-11-02"
+  partOf:
+    webVolume: 6
+    eBook: null
+    audioBook: null
 - index: 370
-  volume: 6
   title: "6.55 K"
   url: "https://wanderinginn.com/2019/11/05/6-55-k/"
+  published: "2019-11-05"
+  partOf:
+    webVolume: 6
+    eBook: null
+    audioBook: null
 - index: 371
-  volume: 6
   title: "Interlude – The Titan’s Question"
   url: "https://wanderinginn.com/2019/11/09/interlude-the-titans-question/"
+  published: "2019-11-09"
+  partOf:
+    webVolume: 6
+    eBook: null
+    audioBook: null
 - index: 372
-  volume: 6
   title: "6.56"
   url: "https://wanderinginn.com/2019/11/12/6-56/"
+  published: "2019-11-12"
+  partOf:
+    webVolume: 6
+    eBook: null
+    audioBook: null
 - index: 373
-  volume: 6
   title: "6.57"
   url: "https://wanderinginn.com/2019/11/16/6-57/"
+  published: "2019-11-16"
+  partOf:
+    webVolume: 6
+    eBook: null
+    audioBook: null
 - index: 374
-  volume: 6
   title: "6.58"
   url: "https://wanderinginn.com/2019/11/19/6-58/"
+  published: "2019-11-19"
+  partOf:
+    webVolume: 6
+    eBook: null
+    audioBook: null
 - index: 375
-  volume: 6
   title: "6.59"
   url: "https://wanderinginn.com/2019/11/23/6-59/"
+  published: "2019-11-23"
+  partOf:
+    webVolume: 6
+    eBook: null
+    audioBook: null
 - index: 376
-  volume: 6
   title: "6.60"
   url: "https://wanderinginn.com/2019/11/26/6-60/"
+  published: "2019-11-26"
+  partOf:
+    webVolume: 6
+    eBook: null
+    audioBook: null
 - index: 377
-  volume: 6
   title: "Interlude – Talia"
   url: "https://wanderinginn.com/2019/11/30/interlude-talia/"
+  published: "2019-11-30"
+  partOf:
+    webVolume: 6
+    eBook: null
+    audioBook: null
 - index: 378
-  volume: 6
   title: "6.61 L"
   url: "https://wanderinginn.com/2019/12/03/6-61-l/"
+  published: "2019-12-03"
+  partOf:
+    webVolume: 6
+    eBook: null
+    audioBook: null
 - index: 379
-  volume: 6
   title: "6.62 L"
   url: "https://wanderinginn.com/2019/12/07/6-62-l/"
+  published: "2019-12-07"
+  partOf:
+    webVolume: 6
+    eBook: null
+    audioBook: null
 - index: 380
-  volume: 6
   title: "Interlude – Foliana"
   url: "https://wanderinginn.com/2019/12/11/interlude-foliana/"
+  published: "2019-12-11"
+  partOf:
+    webVolume: 6
+    eBook: null
+    audioBook: null
 - index: 381
-  volume: 6
   title: "6.63 P"
   url: "https://wanderinginn.com/2019/12/14/6-63-p/"
+  published: "2019-12-14"
+  partOf:
+    webVolume: 6
+    eBook: null
+    audioBook: null
 - index: 382
-  volume: 6
   title: "6.64"
   url: "https://wanderinginn.com/2019/12/18/6-64/"
+  published: "2019-12-18"
+  partOf:
+    webVolume: 6
+    eBook: null
+    audioBook: null
 - index: 383
-  volume: 6
   title: "6.65"
   url: "https://wanderinginn.com/2019/12/22/6-65/"
+  published: "2019-12-22"
+  partOf:
+    webVolume: 6
+    eBook: null
+    audioBook: null
 - index: 384
-  volume: 6
   title: "6.66 H"
   url: "https://wanderinginn.com/2019/12/25/6-66-h/"
+  published: "2019-12-25"
+  partOf:
+    webVolume: 6
+    eBook: null
+    audioBook: null
 - index: 385
-  volume: 6
   title: "6.67"
   url: "https://wanderinginn.com/2019/12/29/6-67/"
+  published: "2019-12-29"
+  partOf:
+    webVolume: 6
+    eBook: null
+    audioBook: null
 - index: 386
-  volume: 6
   title: "6.68"
   url: "https://wanderinginn.com/2020/01/01/6-68/"
+  published: "2020-01-01"
+  partOf:
+    webVolume: 6
+    eBook: null
+    audioBook: null
 - index: 387
-  volume: 7
   title: "7.00"
   url: "https://wanderinginn.com/2020/01/19/7-00/"
+  published: "2020-01-19"
+  partOf:
+    webVolume: 7
+    eBook: null
+    audioBook: null
 - index: 388
-  volume: 7
   title: "7.01"
   url: "https://wanderinginn.com/2020/01/22/7-01/"
+  published: "2020-01-22"
+  partOf:
+    webVolume: 7
+    eBook: null
+    audioBook: null
 - index: 389
-  volume: 7
   title: "7.02"
   url: "https://wanderinginn.com/2020/01/26/7-02/"
+  published: "2020-01-26"
+  partOf:
+    webVolume: 7
+    eBook: null
+    audioBook: null
 - index: 390
-  volume: 7
   title: "7.03"
   url: "https://wanderinginn.com/2020/01/29/7-03/"
+  published: "2020-01-29"
+  partOf:
+    webVolume: 7
+    eBook: null
+    audioBook: null
 - index: 391
-  volume: 7
   title: "Mini Chapter #1"
   url: "https://wanderinginn.com/2020/01/30/mini-stories-crabs-and-drinks/"
+  published: "2020-01-30"
+  partOf:
+    webVolume: 7
+    eBook: null
+    audioBook: null
 - index: 392
-  volume: 7
   title: "7.04"
   url: "https://wanderinginn.com/2020/02/01/7-04/"
+  published: "2020-02-01"
+  partOf:
+    webVolume: 7
+    eBook: null
+    audioBook: null
 - index: 393
-  volume: 7
   title: "Interlude – Queens and Dragons"
   url: "https://wanderinginn.com/2020/02/04/interlude-queens-and-dragons/"
+  published: "2020-02-04"
+  partOf:
+    webVolume: 7
+    eBook: null
+    audioBook: null
 - index: 394
-  volume: 7
   title: "7.05 P"
   url: "https://wanderinginn.com/2020/02/09/7-05-p/"
+  published: "2020-02-09"
+  partOf:
+    webVolume: 7
+    eBook: null
+    audioBook: null
 - index: 395
-  volume: 7
   title: "7.06"
   url: "https://wanderinginn.com/2020/02/12/7-06/"
+  published: "2020-02-12"
+  partOf:
+    webVolume: 7
+    eBook: null
+    audioBook: null
 - index: 396
-  volume: 7
   title: "7.07"
   url: "https://wanderinginn.com/2020/02/16/7-07"
+  published: "2020-02-16"
+  partOf:
+    webVolume: 7
+    eBook: null
+    audioBook: null
 - index: 397
-  volume: 7
   title: "7.08 K"
   url: "https://wanderinginn.com/2020/02/19/7-08-k/"
+  published: "2020-02-19"
+  partOf:
+    webVolume: 7
+    eBook: null
+    audioBook: null
 - index: 398
-  volume: 7
   title: "7.09 K"
   url: "https://wanderinginn.com/2020/02/23/7-09-k/"
+  published: "2020-02-23"
+  partOf:
+    webVolume: 7
+    eBook: null
+    audioBook: null
 - index: 399
-  volume: 7
   title: "7.10 K"
   url: "https://wanderinginn.com/2020/02/26/7-10-k/"
+  published: "2020-02-26"
+  partOf:
+    webVolume: 7
+    eBook: null
+    audioBook: null
 - index: 400
-  volume: 7
   title: "7.11"
   url: "https://wanderinginn.com/2020/03/01/7-11/"
+  published: "2020-03-01"
+  partOf:
+    webVolume: 7
+    eBook: null
+    audioBook: null
 - index: 401
-  volume: 7
   title: "Interlude – Dancing and Brawling"
   url: "https://wanderinginn.com/2020/03/03/interlude-dancing-and-brawling/"
+  published: "2020-03-03"
+  partOf:
+    webVolume: 7
+    eBook: null
+    audioBook: null
 - index: 402
-  volume: 7
   title: "Interlude – Chocolate Gold"
   url: "https://wanderinginn.com/2020/03/04/interlude-chocolate-gold/"
+  published: "2020-03-04"
+  partOf:
+    webVolume: 7
+    eBook: null
+    audioBook: null
 - index: 403
-  volume: 7
   title: "Interlude – Chess and Ships"
   url: "https://wanderinginn.com/2020/03/05/interlude-chess-and-ships/"
+  published: "2020-03-05"
+  partOf:
+    webVolume: 7
+    eBook: null
+    audioBook: null
 - index: 404
-  volume: 7
   title: "Interlude – Chocolate Alchemy"
   url: "https://wanderinginn.com/2020/03/06/interlude-chocolate-alchemy"
+  published: "2020-03-06"
+  partOf:
+    webVolume: 7
+    eBook: null
+    audioBook: null
 - index: 405
-  volume: 7
   title: "Interlude – Lifting Ants"
   url: "https://wanderinginn.com/2020/03/07/interlude-lifting-ants"
+  published: "2020-03-07"
+  partOf:
+    webVolume: 7
+    eBook: null
+    audioBook: null
 - index: 406
-  volume: 7
   title: "Interlude – Burning Alcohol"
   url: "https://wanderinginn.com/2020/03/08/interlude-burning-alcohol/"
+  published: "2020-03-08"
+  partOf:
+    webVolume: 7
+    eBook: null
+    audioBook: null
 - index: 407
-  volume: 7
   title: "Interlude – The Hangover After"
   url: "https://wanderinginn.com/2020/03/09/interlude-the-hangover-after"
+  published: "2020-03-09"
+  partOf:
+    webVolume: 7
+    eBook: null
+    audioBook: null
 - index: 408
-  volume: 7
   title: "7.12 G"
   url: "https://wanderinginn.com/2020/03/15/7-12-g/"
+  published: "2020-03-15"
+  partOf:
+    webVolume: 7
+    eBook: null
+    audioBook: null
 - index: 409
-  volume: 7
   title: "7.13 K"
   url: "https://wanderinginn.com/2020/03/18/7-13-k/"
+  published: "2020-03-18"
+  partOf:
+    webVolume: 7
+    eBook: null
+    audioBook: null
 - index: 410
-  volume: 7
   title: "Mating Rituals Pt.2"
   url: "https://wanderinginn.com/2020/03/21/mating-rituals-pt-2"
+  published: "2020-03-21"
+  partOf:
+    webVolume: 7
+    eBook: null
+    audioBook: null
 - index: 411
-  volume: 7
   title: "7.14 T"
   url: "https://wanderinginn.com/2020/03/24/7-14-t/"
+  published: "2020-03-24"
+  partOf:
+    webVolume: 7
+    eBook: null
+    audioBook: null
 - index: 412
-  volume: 7
   title: "7.15 R"
   url: "https://wanderinginn.com/2020/03/29/7-15-r/"
+  published: "2020-03-29"
+  partOf:
+    webVolume: 7
+    eBook: null
+    audioBook: null
 - index: 413
-  volume: 7
   title: "7.16 L"
   url: "https://wanderinginn.com/2020/03/31/7-16-l"
+  published: "2020-03-31"
+  partOf:
+    webVolume: 7
+    eBook: null
+    audioBook: null
 - index: 414
-  volume: 7
   title: "7.17 S"
   url: "https://wanderinginn.com/2020/04/12/7-17-s/"
+  published: "2020-04-12"
+  partOf:
+    webVolume: 7
+    eBook: null
+    audioBook: null
 - index: 415
-  volume: 7
   title: "7.18 M"
   url: "https://wanderinginn.com/2020/04/15/7-18-m/"
+  published: "2020-04-15"
+  partOf:
+    webVolume: 7
+    eBook: null
+    audioBook: null
 - index: 416
-  volume: 7
   title: "Interlude – Strategists at Sea (Pt. 1)"
   url: "https://wanderinginn.com/2020/04/19/interlude-strategists-at-sea-pt-1/"
+  published: "2020-04-19"
+  partOf:
+    webVolume: 7
+    eBook: null
+    audioBook: null
 - index: 417
-  volume: 7
   title: "Interlude – Strategists at Sea (Pt. 2)"
   url: "https://wanderinginn.com/2020/04/22/interlude-strategists-at-sea-pt-2/"
+  published: "2020-04-22"
+  partOf:
+    webVolume: 7
+    eBook: null
+    audioBook: null
 - index: 418
-  volume: 7
   title: "7.19"
   url: "https://wanderinginn.com/2020/04/26/7-19/"
+  published: "2020-04-26"
+  partOf:
+    webVolume: 7
+    eBook: null
+    audioBook: null
 - index: 419
-  volume: 7
   title: "7.20"
   url: "https://wanderinginn.com/2020/04/29/7-20/"
+  published: "2020-04-29"
+  partOf:
+    webVolume: 7
+    eBook: null
+    audioBook: null
 - index: 420
-  volume: 7
   title: "Interlude – A Night in the Inn"
   url: "https://wanderinginn.com/2020/05/03/interlude-a-night-in-the-inn/"
+  published: "2020-05-03"
+  partOf:
+    webVolume: 7
+    eBook: null
+    audioBook: null
 - index: 421
-  volume: 7
   title: "7.21 KQ"
   url: "https://wanderinginn.com/2020/05/06/7-21-kq/"
+  published: "2020-05-06"
+  partOf:
+    webVolume: 7
+    eBook: null
+    audioBook: null
 - index: 422
-  volume: 7
   title: "7.22 D"
   url: "https://wanderinginn.com/2020/05/10/7-22-d"
+  published: "2020-05-10"
+  partOf:
+    webVolume: 7
+    eBook: null
+    audioBook: null
 - index: 423
-  volume: 7
   title: "7.23 LM"
   url: "https://wanderinginn.com/2020/05/13/7-23-lm/"
+  published: "2020-05-13"
+  partOf:
+    webVolume: 7
+    eBook: null
+    audioBook: null
 - index: 424
-  volume: 7
   title: "7.24"
   url: "https://wanderinginn.com/2020/05/24/7-24/"
+  published: "2020-05-24"
+  partOf:
+    webVolume: 7
+    eBook: null
+    audioBook: null
 - index: 425
-  volume: 7
   title: "7.25"
   url: "https://wanderinginn.com/2020/05/27/7-25/"
+  published: "2020-05-27"
+  partOf:
+    webVolume: 7
+    eBook: null
+    audioBook: null
 - index: 426
-  volume: 7
   title: "7.26"
   url: "https://wanderinginn.com/2020/05/31/7-26/"
+  published: "2020-05-31"
+  partOf:
+    webVolume: 7
+    eBook: null
+    audioBook: null
 - index: 427
-  volume: 7
   title: "7.27"
   url: "https://wanderinginn.com/2020/06/03/7-27/"
+  published: "2020-06-03"
+  partOf:
+    webVolume: 7
+    eBook: null
+    audioBook: null
 - index: 428
-  volume: 7
   title: "Interlude – The Gecko of Illusions"
   url: "https://wanderinginn.com/2020/06/07/interlude-the-gecko-of-illusions/"
+  published: "2020-06-07"
+  partOf:
+    webVolume: 7
+    eBook: null
+    audioBook: null
 - index: 429
-  volume: 7
   title: "7.28"
   url: "https://wanderinginn.com/2020/06/10/7-28/"
+  published: "2020-06-10"
+  partOf:
+    webVolume: 7
+    eBook: null
+    audioBook: null
 - index: 430
-  volume: 7
   title: "7.29 B"
   url: "https://wanderinginn.com/2020/06/14/7-29-b/"
+  published: "2020-06-14"
+  partOf:
+    webVolume: 7
+    eBook: null
+    audioBook: null
 - index: 431
-  volume: 7
   title: "7.30"
   url: "https://wanderinginn.com/2020/06/24/7-30/"
+  published: "2020-06-24"
+  partOf:
+    webVolume: 7
+    eBook: null
+    audioBook: null
 - index: 432
-  volume: 7
   title: "7.31"
   url: "https://wanderinginn.com/2020/06/28/7-31/"
+  published: "2020-06-28"
+  partOf:
+    webVolume: 7
+    eBook: null
+    audioBook: null
 - index: 433
-  volume: 7
   title: "Interlude – A Meeting of [Druids]"
   url: "https://wanderinginn.com/2020/07/01/interlude-a-meeting-of-druids/"
+  published: "2020-07-01"
+  partOf:
+    webVolume: 7
+    eBook: null
+    audioBook: null
 - index: 434
-  volume: 7
   title: "7.32 D"
   url: "https://wanderinginn.com/2020/07/05/7-32-d/"
+  published: "2020-07-05"
+  partOf:
+    webVolume: 7
+    eBook: null
+    audioBook: null
 - index: 435
-  volume: 7
   title: "7.33 I"
   url: "https://wanderinginn.com/2020/07/08/7-33-i/"
+  published: "2020-07-08"
+  partOf:
+    webVolume: 7
+    eBook: null
+    audioBook: null
 - index: 436
-  volume: 7
   title: "7.34 C"
   url: "https://wanderinginn.com/2020/07/12/7-34-c/"
+  published: "2020-07-12"
+  partOf:
+    webVolume: 7
+    eBook: null
+    audioBook: null
 - index: 437
-  volume: 7
   title: "7.35 C"
   url: "https://wanderinginn.com/2020/07/15/7-35-c/"
+  published: "2020-07-15"
+  partOf:
+    webVolume: 7
+    eBook: null
+    audioBook: null
 - index: 438
-  volume: 7
   title: "7.36 C"
   url: "https://wanderinginn.com/2020/07/19/7-36-c/"
+  published: "2020-07-19"
+  partOf:
+    webVolume: 7
+    eBook: null
+    audioBook: null
 - index: 439
-  volume: 7
   title: "7.37"
   url: "https://wanderinginn.com/2020/07/29/7-37/"
+  published: "2020-07-29"
+  partOf:
+    webVolume: 7
+    eBook: null
+    audioBook: null
 - index: 440
-  volume: 7
   title: "7.38"
   url: "https://wanderinginn.com/2020/08/02/7-38/"
+  published: "2020-08-02"
+  partOf:
+    webVolume: 7
+    eBook: null
+    audioBook: null
 - index: 441
-  volume: 7
   title: "7.39 A"
   url: "https://wanderinginn.com/2020/08/05/7-39-a/"
+  published: "2020-08-05"
+  partOf:
+    webVolume: 7
+    eBook: null
+    audioBook: null
 - index: 442
-  volume: 7
   title: "Interlude – Carriages and Conversations"
   url: "https://wanderinginn.com/2020/08/08/interlude-carriages-and-conversations/"
+  published: "2020-08-08"
+  partOf:
+    webVolume: 7
+    eBook: null
+    audioBook: null
 - index: 443
-  volume: 7
   title: "Interlude – Meetings and Friendships"
   url: "https://wanderinginn.com/2020/08/09/interlude-meetings-and-friendships/"
+  published: "2020-08-09"
+  partOf:
+    webVolume: 7
+    eBook: null
+    audioBook: null
 - index: 444
-  volume: 7
   title: "Interlude – Sand and Notes"
   url: "https://wanderinginn.com/2020/08/10/interlude-sand-and-notes/"
+  published: "2020-08-10"
+  partOf:
+    webVolume: 7
+    eBook: null
+    audioBook: null
 - index: 445
-  volume: 7
   title: "7.40 ER"
   url: "https://wanderinginn.com/2020/08/11/7-40-er/"
+  published: "2020-08-11"
+  partOf:
+    webVolume: 7
+    eBook: null
+    audioBook: null
 - index: 446
-  volume: 7
   title: "Interlude – Food and Growth"
   url: "https://wanderinginn.com/2020/08/12/interlude-food-and-growth/"
+  published: "2020-08-12"
+  partOf:
+    webVolume: 7
+    eBook: null
+    audioBook: null
 - index: 447
-  volume: 7
   title: "7.41"
   url: "https://wanderinginn.com/2020/08/13/7-41/"
+  published: "2020-08-13"
+  partOf:
+    webVolume: 7
+    eBook: null
+    audioBook: null
 - index: 448
-  volume: 7
   title: "7.42 M"
   url: "https://wanderinginn.com/2020/08/14/7-42-m/"
+  published: "2020-08-14"
+  partOf:
+    webVolume: 7
+    eBook: null
+    audioBook: null
 - index: 449
-  volume: 7
   title: "7.43 G"
   url: "https://wanderinginn.com/2020/09/02/7-43-g/"
+  published: "2020-09-02"
+  partOf:
+    webVolume: 7
+    eBook: null
+    audioBook: null
 - index: 450
-  volume: 7
   title: "7.44"
   url: "https://wanderinginn.com/2020/09/06/7-44/"
+  published: "2020-09-06"
+  partOf:
+    webVolume: 7
+    eBook: null
+    audioBook: null
 - index: 451
-  volume: 7
   title: "7.45"
   url: "https://wanderinginn.com/2020/09/09/7-45/"
+  published: "2020-09-09"
+  partOf:
+    webVolume: 7
+    eBook: null
+    audioBook: null
 - index: 452
-  volume: 7
   title: "7.46 K"
   url: "https://wanderinginn.com/2020/09/13/7-46-k/"
+  published: "2020-09-13"
+  partOf:
+    webVolume: 7
+    eBook: null
+    audioBook: null
 - index: 453
-  volume: 7
   title: "7.47 K"
   url: "https://wanderinginn.com/2020/09/16/7-47-k/"
+  published: "2020-09-16"
+  partOf:
+    webVolume: 7
+    eBook: null
+    audioBook: null
 - index: 454
-  volume: 7
   title: "7.48 K"
   url: "https://wanderinginn.com/2020/09/20/7-48-k/"
+  published: "2020-09-20"
+  partOf:
+    webVolume: 7
+    eBook: null
+    audioBook: null
 - index: 455
-  volume: 7
   title: "7.49"
   url: "https://wanderinginn.com/2020/09/23/7-49/"
+  published: "2020-09-23"
+  partOf:
+    webVolume: 7
+    eBook: null
+    audioBook: null
 - index: 456
-  volume: 7
   title: "Interlude – Experiments in Golems"
   url: "https://wanderinginn.com/2020/10/04/interlude-experiments-in-golems/"
+  published: "2020-10-04"
+  partOf:
+    webVolume: 7
+    eBook: null
+    audioBook: null
 - index: 457
-  volume: 7
   title: "7.50"
   url: "https://wanderinginn.com/2020/10/07/7-50/"
+  published: "2020-10-07"
+  partOf:
+    webVolume: 7
+    eBook: null
+    audioBook: null
 - index: 458
-  volume: 7
   title: "7.51"
   url: "https://wanderinginn.com/2020/10/11/7-51/"
+  published: "2020-10-11"
+  partOf:
+    webVolume: 7
+    eBook: null
+    audioBook: null
 - index: 459
-  volume: 7
   title: "7.52"
   url: "https://wanderinginn.com/2020/10/14/7-52/"
+  published: "2020-10-14"
+  partOf:
+    webVolume: 7
+    eBook: null
+    audioBook: null
 - index: 460
-  volume: 7
   title: "7.53"
   url: "https://wanderinginn.com/2020/10/18/7-53/"
+  published: "2020-10-18"
+  partOf:
+    webVolume: 7
+    eBook: null
+    audioBook: null
 - index: 461
-  volume: 7
   title: "7.54"
   url: "https://wanderinginn.com/2020/10/20/7-54/"
+  published: "2020-10-20"
+  partOf:
+    webVolume: 7
+    eBook: null
+    audioBook: null
 - index: 462
-  volume: 7
   title: "7.55 E"
   url: "https://wanderinginn.com/2020/10/25/7-55-e/"
+  published: "2020-10-25"
+  partOf:
+    webVolume: 7
+    eBook: null
+    audioBook: null
 - index: 463
-  volume: 7
   title: "Interlude – Saliss the Adventurer"
   url: "https://wanderinginn.com/2020/11/04/interlude-saliss-the-adventurer/"
+  published: "2020-11-04"
+  partOf:
+    webVolume: 7
+    eBook: null
+    audioBook: null
 - index: 464
-  volume: 7
   title: "7.56"
   url: "https://wanderinginn.com/2020/11/08/7-56/"
+  published: "2020-11-08"
+  partOf:
+    webVolume: 7
+    eBook: null
+    audioBook: null
 - index: 465
-  volume: 7
   title: "7.57"
   url: "https://wanderinginn.com/2020/11/11/7-57/"
+  published: "2020-11-11"
+  partOf:
+    webVolume: 7
+    eBook: null
+    audioBook: null
 - index: 466
-  volume: 7
   title: "7.58"
   url: "https://wanderinginn.com/2020/11/15/7-58/"
+  published: "2020-11-15"
+  partOf:
+    webVolume: 7
+    eBook: null
+    audioBook: null
 - index: 467
-  volume: 7
   title: "7.59"
   url: "https://wanderinginn.com/2020/11/18/7-59/"
+  published: "2020-11-18"
+  partOf:
+    webVolume: 7
+    eBook: null
+    audioBook: null
 - index: 468
-  volume: 7
   title: "7.60"
   url: "https://wanderinginn.com/2020/11/22/7-60/"
+  published: "2020-11-22"
+  partOf:
+    webVolume: 7
+    eBook: null
+    audioBook: null
 - index: 469
-  volume: 7
   title: "Interlude – The Tribes of Izril"
   url: "https://wanderinginn.com/2020/11/25/interlude-the-tribes-of-izril/"
+  published: "2020-11-25"
+  partOf:
+    webVolume: 7
+    eBook: null
+    audioBook: null
 - index: 470
-  volume: 7
   title: "Interlude – The Innkeeper’s [Knight]"
   url: "https://wanderinginn.com/2020/12/06/interlude-the-innkeepers-knight/"
+  published: "2020-12-06"
+  partOf:
+    webVolume: 7
+    eBook: null
+    audioBook: null
 - index: 471
-  volume: 7
   title: "7.61"
   url: "https://wanderinginn.com/2020/12/09/7-61/"
+  published: "2020-12-09"
+  partOf:
+    webVolume: 7
+    eBook: null
+    audioBook: null
 - index: 472
-  volume: 7
   title: "7.62"
   url: "https://wanderinginn.com/2020/12/13/7-62/"
+  published: "2020-12-13"
+  partOf:
+    webVolume: 7
+    eBook: null
+    audioBook: null
 - index: 473
-  volume: 7
   title: "Solstice (Pt. 1)"
   url: "https://wanderinginn.com/2020/12/16/solstice-pt-1/"
+  published: "2020-12-16"
+  partOf:
+    webVolume: 7
+    eBook: null
+    audioBook: null
 - index: 474
-  volume: 7
   title: "Solstice (Pt. 2)"
   url: "https://wanderinginn.com/2020/12/20/solstice-pt-2/"
+  published: "2020-12-20"
+  partOf:
+    webVolume: 7
+    eBook: null
+    audioBook: null
 - index: 475
-  volume: 7
   title: "Solstice (Pt. 3)"
   url: "https://wanderinginn.com/2020/12/23/solstice-pt-3/"
+  published: "2020-12-23"
+  partOf:
+    webVolume: 7
+    eBook: null
+    audioBook: null
 - index: 476
-  volume: 7
   title: "Solstice (Pt. 4)"
   url: "https://wanderinginn.com/2020/12/23/solstice-pt-4/"
+  published: "2020-12-23"
+  partOf:
+    webVolume: 7
+    eBook: null
+    audioBook: null
 - index: 477
-  volume: 7
   title: "Solstice (Pt. 5)"
   url: "https://wanderinginn.com/2020/12/23/solstice-pt-5/"
+  published: "2020-12-23"
+  partOf:
+    webVolume: 7
+    eBook: null
+    audioBook: null
 - index: 478
-  volume: 7
   title: "Solstice (Pt. 6)"
   url: "https://wanderinginn.com/2020/12/23/solstice-pt-6/"
+  published: "2020-12-23"
+  partOf:
+    webVolume: 7
+    eBook: null
+    audioBook: null
 - index: 479
-  volume: 7
   title: "Solstice (Pt. 7)"
   url: "https://wanderinginn.com/2020/12/23/solstice-pt-7/"
+  published: "2020-12-23"
+  partOf:
+    webVolume: 7
+    eBook: null
+    audioBook: null
 - index: 480
-  volume: 7
   title: "Solstice (Pt. 8)"
   url: "https://wanderinginn.com/2020/12/23/solstice-pt-8/"
+  published: "2020-12-23"
+  partOf:
+    webVolume: 7
+    eBook: null
+    audioBook: null
 - index: 481
-  volume: 7
   title: "Solstice (Pt. 9)"
   url: "https://wanderinginn.com/2020/12/23/solstice-pt-9/"
+  published: "2020-12-23"
+  partOf:
+    webVolume: 7
+    eBook: null
+    audioBook: null
 - index: 482
-  volume: 8
   title: "8.00"
   url: "https://wanderinginn.com/2021/01/10/8-00/"
+  published: "2021-01-10"
+  partOf:
+    webVolume: 8
+    eBook: null
+    audioBook: null
 - index: 483
-  volume: 8
   title: "8.01"
   url: "https://wanderinginn.com/2021/01/13/8-01/"
+  published: "2021-01-13"
+  partOf:
+    webVolume: 8
+    eBook: null
+    audioBook: null
 - index: 484
-  volume: 8
   title: "8.02"
   url: "https://wanderinginn.com/2021/01/17/8-02/"
+  published: "2021-01-17"
+  partOf:
+    webVolume: 8
+    eBook: null
+    audioBook: null
 - index: 485
-  volume: 8
   title: "8.03"
   url: "https://wanderinginn.com/2021/01/20/8-03/"
+  published: "2021-01-20"
+  partOf:
+    webVolume: 8
+    eBook: null
+    audioBook: null
 - index: 486
-  volume: 8
   title: "Interlude – The Revenant and the Naga"
   url: "https://wanderinginn.com/2021/01/24/interlude-the-revenant-and-the-naga/"
+  published: "2021-01-24"
+  partOf:
+    webVolume: 8
+    eBook: null
+    audioBook: null
 - index: 487
-  volume: 8
   title: "8.04 T"
   url: "https://wanderinginn.com/2021/01/27/8-04-t/"
+  published: "2021-01-27"
+  partOf:
+    webVolume: 8
+    eBook: null
+    audioBook: null
 - index: 488
-  volume: 8
   title: "8.05 I"
   url: "https://wanderinginn.com/2021/02/07/8-05-i/"
+  published: "2021-02-07"
+  partOf:
+    webVolume: 8
+    eBook: null
+    audioBook: null
 - index: 489
-  volume: 8
   title: "8.06 RT"
   url: "https://wanderinginn.com/2021/02/10/8-06-rt/"
+  published: "2021-02-10"
+  partOf:
+    webVolume: 8
+    eBook: null
+    audioBook: null
 - index: 490
-  volume: 8
   title: "8.07 L"
   url: "https://wanderinginn.com/2021/02/14/8-07-l/"
+  published: "2021-02-14"
+  partOf:
+    webVolume: 8
+    eBook: null
+    audioBook: null
 - index: 491
-  volume: 8
   title: "8.08 J"
   url: "https://wanderinginn.com/2021/02/17/8-08-j/"
+  published: "2021-02-17"
+  partOf:
+    webVolume: 8
+    eBook: null
+    audioBook: null
 - index: 492
-  volume: 8
   title: "8.09"
   url: "https://wanderinginn.com/2021/02/21/8-09/"
+  published: "2021-02-21"
+  partOf:
+    webVolume: 8
+    eBook: null
+    audioBook: null
 - index: 493
-  volume: 8
   title: "8.10"
   url: "https://wanderinginn.com/2021/02/24/8-10/"
+  published: "2021-02-24"
+  partOf:
+    webVolume: 8
+    eBook: null
+    audioBook: null
 - index: 494
-  volume: 8
   title: "8.11 E"
   url: "https://wanderinginn.com/2021/03/16/8-11-e-revised/"
+  published: "2021-03-16"
+  partOf:
+    webVolume: 8
+    eBook: null
+    audioBook: null
 - index: 495
-  volume: 8
   title: "8.12 T"
   url: "https://wanderinginn.com/2021/03/10/8-12-t/"
+  published: "2021-03-10"
+  partOf:
+    webVolume: 8
+    eBook: null
+    audioBook: null
 - index: 496
-  volume: 8
   title: "Interlude – The [Rower] and the [Bartender]"
   url: "https://wanderinginn.com/2021/03/14/interlude-the-rower-and-the-bartender/"
+  published: "2021-03-14"
+  partOf:
+    webVolume: 8
+    eBook: null
+    audioBook: null
 - index: 497
-  volume: 8
   title: "8.13 F"
   url: "https://wanderinginn.com/2021/03/17/8-13-f/"
+  published: "2021-03-17"
+  partOf:
+    webVolume: 8
+    eBook: null
+    audioBook: null
 - index: 498
-  volume: 8
   title: "8.14 N"
   url: "https://wanderinginn.com/2021/03/21/8-14-n/"
+  published: "2021-03-21"
+  partOf:
+    webVolume: 8
+    eBook: null
+    audioBook: null
 - index: 499
-  volume: 8
   title: "8.15"
   url: "https://wanderinginn.com/2021/03/30/8-15/"
+  published: "2021-03-30"
+  partOf:
+    webVolume: 8
+    eBook: null
+    audioBook: null
 - index: 500
-  volume: 8
   title: "Interlude – Paradigm Shift (Pt. 1)"
   url: "https://wanderinginn.com/2021/04/04/interlude-paradigm-shift-pt-1/"
+  published: "2021-04-04"
+  partOf:
+    webVolume: 8
+    eBook: null
+    audioBook: null
 - index: 501
-  volume: 8
   title: "Interlude – Paradigm Shift (Pt. 2)"
   url: "https://wanderinginn.com/2021/04/04/interlude-paradigm-shift-pt-2/"
+  published: "2021-04-04"
+  partOf:
+    webVolume: 8
+    eBook: null
+    audioBook: null
 - index: 502
-  volume: 8
   title: "8.16"
   url: "https://wanderinginn.com/2021/04/10/8-16/"
+  published: "2021-04-10"
+  partOf:
+    webVolume: 8
+    eBook: null
+    audioBook: null
 - index: 503
-  volume: 8
   title: "8.17 H"
   url: "https://wanderinginn.com/2021/04/13/8-17-h/"
+  published: "2021-04-13"
+  partOf:
+    webVolume: 8
+    eBook: null
+    audioBook: null
 - index: 504
-  volume: 8
   title: "8.18 H"
   url: "https://wanderinginn.com/2021/04/25/8-18-h/"
+  published: "2021-04-25"
+  partOf:
+    webVolume: 8
+    eBook: null
+    audioBook: null
 - index: 505
-  volume: 8
   title: "8.19 H"
   url: "https://wanderinginn.com/2021/04/28/8-19-h/"
+  published: "2021-04-28"
+  partOf:
+    webVolume: 8
+    eBook: null
+    audioBook: null
 - index: 506
-  volume: 8
   title: "8.20"
   url: "https://wanderinginn.com/2021/05/02/8-20/"
+  published: "2021-05-02"
+  partOf:
+    webVolume: 8
+    eBook: null
+    audioBook: null
 - index: 507
-  volume: 8
   title: "8.21 L"
   url: "https://wanderinginn.com/2021/05/04/8-21-l/"
+  published: "2021-05-04"
+  partOf:
+    webVolume: 8
+    eBook: null
+    audioBook: null
 - index: 508
-  volume: 8
   title: "8.22 HE"
   url: "https://wanderinginn.com/2021/05/11/8-22-he/"
+  published: "2021-05-11"
+  partOf:
+    webVolume: 8
+    eBook: null
+    audioBook: null
 - index: 509
-  volume: 8
   title: "Interlude – Senior Guardsman Relc"
   url: "https://wanderinginn.com/2021/05/16/interlude-senior-guardsman-relc/"
+  published: "2021-05-16"
+  partOf:
+    webVolume: 8
+    eBook: null
+    audioBook: null
 - index: 510
-  volume: 8
   title: "8.23"
   url: "https://wanderinginn.com/2021/05/19/8-23/"
+  published: "2021-05-19"
+  partOf:
+    webVolume: 8
+    eBook: null
+    audioBook: null
 - index: 511
-  volume: 8
   title: "8.24"
   url: "https://wanderinginn.com/2021/05/30/8-24/"
+  published: "2021-05-30"
+  partOf:
+    webVolume: 8
+    eBook: null
+    audioBook: null
 - index: 512
-  volume: 8
   title: "8.25 KH"
   url: "https://wanderinginn.com/2021/06/02/8-25-kh/"
+  published: "2021-06-02"
+  partOf:
+    webVolume: 8
+    eBook: null
+    audioBook: null
 - index: 513
-  volume: 8
   title: "8.26 FK"
   url: "https://wanderinginn.com/2021/06/06/8-26-fk/"
+  published: "2021-06-06"
+  partOf:
+    webVolume: 8
+    eBook: null
+    audioBook: null
 - index: 514
-  volume: 8
   title: "Interlude – Luan the Giant"
   url: "https://wanderinginn.com/2021/06/08/interlude-luan-the-giant/"
+  published: "2021-06-08"
+  partOf:
+    webVolume: 8
+    eBook: null
+    audioBook: null
 - index: 515
-  volume: 8
   title: "8.27"
   url: "https://wanderinginn.com/2021/06/12/8-27/"
+  published: "2021-06-12"
+  partOf:
+    webVolume: 8
+    eBook: null
+    audioBook: null
 - index: 516
-  volume: 8
   title: "8.28"
   url: "https://wanderinginn.com/2021/06/19/8-28/"
+  published: "2021-06-19"
+  partOf:
+    webVolume: 8
+    eBook: null
+    audioBook: null
 - index: 517
-  volume: 8
   title: "8.29"
   url: "https://wanderinginn.com/2021/06/22/8-29/"
+  published: "2021-06-22"
+  partOf:
+    webVolume: 8
+    eBook: null
+    audioBook: null
 - index: 518
-  volume: 8
   title: "Interlude – The Pets of Innworld"
   url: "https://wanderinginn.com/2021/06/26/interlude-the-pets-of-innworld/"
+  published: "2021-06-26"
+  partOf:
+    webVolume: 8
+    eBook: null
+    audioBook: null
 - index: 519
-  volume: 8
   title: "8.30"
   url: "https://wanderinginn.com/2021/07/13/8-30/"
+  published: "2021-07-13"
+  partOf:
+    webVolume: 8
+    eBook: null
+    audioBook: null
 - index: 520
-  volume: 8
   title: "8.31"
   url: "https://wanderinginn.com/2021/07/18/8-31/"
+  published: "2021-07-18"
+  partOf:
+    webVolume: 8
+    eBook: null
+    audioBook: null
 - index: 521
-  volume: 8
   title: "Interlude – Pisces (Revised)"
   url: "https://wanderinginn.com/2021/07/20/interlude-pisces-revised/"
+  published: "2021-07-20"
+  partOf:
+    webVolume: 8
+    eBook: null
+    audioBook: null
 - index: 522
-  volume: 8
   title: "8.32"
   url: "https://wanderinginn.com/2021/07/25/8-32/"
+  published: "2021-07-25"
+  partOf:
+    webVolume: 8
+    eBook: null
+    audioBook: null
 - index: 523
-  volume: 8
   title: "8.33 R"
   url: "https://wanderinginn.com/2021/07/28/8-33-r/"
+  published: "2021-07-28"
+  partOf:
+    webVolume: 8
+    eBook: null
+    audioBook: null
 - index: 524
-  volume: 8
   title: "8.34 R"
   url: "https://wanderinginn.com/2021/08/01/8-34-r/"
+  published: "2021-08-01"
+  partOf:
+    webVolume: 8
+    eBook: null
+    audioBook: null
 - index: 525
-  volume: 8
   title: "8.35"
   url: "https://wanderinginn.com/2021/08/04/8-35/"
+  published: "2021-08-04"
+  partOf:
+    webVolume: 8
+    eBook: null
+    audioBook: null
 - index: 526
-  volume: 8
   title: "8.36 H"
   url: "https://wanderinginn.com/2021/08/15/8-36-h/"
+  published: "2021-08-15"
+  partOf:
+    webVolume: 8
+    eBook: null
+    audioBook: null
 - index: 527
-  volume: 8
   title: "8.37 H"
   url: "https://wanderinginn.com/2021/08/17/8-37-h/"
+  published: "2021-08-17"
+  partOf:
+    webVolume: 8
+    eBook: null
+    audioBook: null
 - index: 528
-  volume: 8
   title: "8.38 H"
   url: "https://wanderinginn.com/2021/08/22/8-38-h/"
+  published: "2021-08-22"
+  partOf:
+    webVolume: 8
+    eBook: null
+    audioBook: null
 - index: 529
-  volume: 8
   title: "8.39"
   url: "https://wanderinginn.com/2021/08/24/8-39/"
+  published: "2021-08-24"
+  partOf:
+    webVolume: 8
+    eBook: null
+    audioBook: null
 - index: 530
-  volume: 8
   title: "8.40 CTV"
   url: "https://wanderinginn.com/2021/08/29/8-40-ctv/"
+  published: "2021-08-29"
+  partOf:
+    webVolume: 8
+    eBook: null
+    audioBook: null
 - index: 531
-  volume: 8
   title: "Interlude – Of Vampires and Fraerlings"
   url: "https://wanderinginn.com/2021/08/31/interlude-of-vampires-and-fraerlings/"
+  published: "2021-08-31"
+  partOf:
+    webVolume: 8
+    eBook: null
+    audioBook: null
 - index: 532
-  volume: 8
   title: "8.41"
   url: "https://wanderinginn.com/2021/09/04/8-41/"
+  published: "2021-09-04"
+  partOf:
+    webVolume: 8
+    eBook: null
+    audioBook: null
 - index: 533
-  volume: 8
   title: "Interlude – Songs and Stories"
   url: "https://wanderinginn.com/2021/09/15/interlude-songs-and-stories/"
+  published: "2021-09-15"
+  partOf:
+    webVolume: 8
+    eBook: null
+    audioBook: null
 - index: 534
-  volume: 8
   title: "8.42"
   url: "https://wanderinginn.com/2021/09/19/8-42/"
+  published: "2021-09-19"
+  partOf:
+    webVolume: 8
+    eBook: null
+    audioBook: null
 - index: 535
-  volume: 8
   title: "8.43"
   url: "https://wanderinginn.com/2021/09/22/8-43/"
+  published: "2021-09-22"
+  partOf:
+    webVolume: 8
+    eBook: null
+    audioBook: null
 - index: 536
-  volume: 8
   title: "8.44 O"
   url: "https://wanderinginn.com/2021/09/26/8-44-o/"
+  published: "2021-09-26"
+  partOf:
+    webVolume: 8
+    eBook: null
+    audioBook: null
 - index: 537
-  volume: 8
   title: "8.45 O"
   url: "https://wanderinginn.com/2021/09/26/8-45-o/"
+  published: "2021-09-26"
+  partOf:
+    webVolume: 8
+    eBook: null
+    audioBook: null
 - index: 538
-  volume: 8
   title: "8.46 G"
   url: "https://wanderinginn.com/2021/10/03/8-46-g/"
+  published: "2021-10-03"
+  partOf:
+    webVolume: 8
+    eBook: null
+    audioBook: null
 - index: 539
-  volume: 8
   title: "Interlude – Perspective and Past"
   url: "https://wanderinginn.com/2021/10/06/interlude-perspective-and-past/"
+  published: "2021-10-06"
+  partOf:
+    webVolume: 8
+    eBook: null
+    audioBook: null
 - index: 540
-  volume: 8
   title: "8.47 H"
   url: "https://wanderinginn.com/2021/10/19/8-47-h/"
+  published: "2021-10-19"
+  partOf:
+    webVolume: 8
+    eBook: null
+    audioBook: null
 - index: 541
-  volume: 8
   title: "8.48 H"
   url: "https://wanderinginn.com/2021/10/24/8-48-h/"
+  published: "2021-10-24"
+  partOf:
+    webVolume: 8
+    eBook: null
+    audioBook: null
 - index: 542
-  volume: 8
   title: "8.49 M – Revised"
   url: "https://wanderinginn.com/2021/10/27/8-49-m-revised/"
+  published: "2021-10-27"
+  partOf:
+    webVolume: 8
+    eBook: null
+    audioBook: null
 - index: 543
-  volume: 8
   title: "8.50"
   url: "https://wanderinginn.com/2021/10/31/8-50/"
+  published: "2021-10-31"
+  partOf:
+    webVolume: 8
+    eBook: null
+    audioBook: null
 - index: 544
-  volume: 8
   title: "Interlude – Conversations"
   url: "https://wanderinginn.com/2021/11/03/interlude-conversations/"
+  published: "2021-11-03"
+  partOf:
+    webVolume: 8
+    eBook: null
+    audioBook: null
 - index: 545
-  volume: 8
   title: "8.51 D"
   url: "https://wanderinginn.com/2021/11/14/8-51-d/"
+  published: "2021-11-14"
+  partOf:
+    webVolume: 8
+    eBook: null
+    audioBook: null
 - index: 546
-  volume: 8
   title: "8.52 MN"
   url: "https://wanderinginn.com/2021/11/17/8-52-mn/"
+  published: "2021-11-17"
+  partOf:
+    webVolume: 8
+    eBook: null
+    audioBook: null
 - index: 547
-  volume: 8
   title: "8.53 FH"
   url: "https://wanderinginn.com/2021/11/21/8-53-fh/"
+  published: "2021-11-21"
+  partOf:
+    webVolume: 8
+    eBook: null
+    audioBook: null
 - index: 548
-  volume: 8
   title: "8.54 H"
   url: "https://wanderinginn.com/2021/12/01/8-54-h/"
+  published: "2021-12-01"
+  partOf:
+    webVolume: 8
+    eBook: null
+    audioBook: null
 - index: 549
-  volume: 8
   title: "8.55 L"
   url: "https://wanderinginn.com/2021/12/05/8-55-l/"
+  published: "2021-12-05"
+  partOf:
+    webVolume: 8
+    eBook: null
+    audioBook: null
 - index: 550
-  volume: 8
   title: "8.56"
   url: "https://wanderinginn.com/2021/12/08/8-56/"
+  published: "2021-12-08"
+  partOf:
+    webVolume: 8
+    eBook: null
+    audioBook: null
 - index: 551
-  volume: 8
   title: "8.57 H"
   url: "https://wanderinginn.com/2021/12/12/8-57-h/"
+  published: "2021-12-12"
+  partOf:
+    webVolume: 8
+    eBook: null
+    audioBook: null
 - index: 552
-  volume: 8
   title: "8.58 PFH"
   url: "https://wanderinginn.com/2021/12/15/8-58-pfh/"
+  published: "2021-12-15"
+  partOf:
+    webVolume: 8
+    eBook: null
+    audioBook: null
 - index: 553
-  volume: 8
   title: "8.59 H"
   url: "https://wanderinginn.com/2021/12/22/8-59-h/"
+  published: "2021-12-22"
+  partOf:
+    webVolume: 8
+    eBook: null
+    audioBook: null
 - index: 554
-  volume: 8
   title: "8.60"
   url: "https://wanderinginn.com/2021/12/26/8-60/"
+  published: "2021-12-26"
+  partOf:
+    webVolume: 8
+    eBook: null
+    audioBook: null
 - index: 555
-  volume: 8
   title: "8.61"
   url: "https://wanderinginn.com/2021/12/29/8-61/"
+  published: "2021-12-29"
+  partOf:
+    webVolume: 8
+    eBook: null
+    audioBook: null
 - index: 556
-  volume: 8
   title: "8.62 K"
   url: "https://wanderinginn.com/2022/01/16/8-62-k/"
+  published: "2022-01-16"
+  partOf:
+    webVolume: 8
+    eBook: null
+    audioBook: null
 - index: 557
-  volume: 8
   title: "8.63 K"
   url: "https://wanderinginn.com/2022/01/19/8-63-k/"
+  published: "2022-01-19"
+  partOf:
+    webVolume: 8
+    eBook: null
+    audioBook: null
 - index: 558
-  volume: 8
   title: "8.64 K"
   url: "https://wanderinginn.com/2022/01/23/8-64-k/"
+  published: "2022-01-23"
+  partOf:
+    webVolume: 8
+    eBook: null
+    audioBook: null
 - index: 559
-  volume: 8
   title: "8.65"
   url: "https://wanderinginn.com/2022/01/30/8-65/"
+  published: "2022-01-30"
+  partOf:
+    webVolume: 8
+    eBook: null
+    audioBook: null
 - index: 560
-  volume: 8
   title: "Interlude – Hectval (Pt. 1)"
   url: "https://wanderinginn.com/2022/02/09/interlude-hectval-pt-1/"
+  published: "2022-02-09"
+  partOf:
+    webVolume: 8
+    eBook: null
+    audioBook: null
 - index: 561
-  volume: 8
   title: "Interlude – Hectval (Pt. 2)"
   url: "https://wanderinginn.com/2022/02/13/interlude-hectval-pt-2/"
+  published: "2022-02-13"
+  partOf:
+    webVolume: 8
+    eBook: null
+    audioBook: null
 - index: 562
-  volume: 8
   title: "Interlude – Hectval (Pt. 3)"
   url: "https://wanderinginn.com/2022/02/16/interlude-hectval-pt-3/"
+  published: "2022-02-16"
+  partOf:
+    webVolume: 8
+    eBook: null
+    audioBook: null
 - index: 563
-  volume: 8
   title: "Interlude – Satar (Revised)"
   url: "https://wanderinginn.com/interlude-satar-revised/"
+  partOf:
+    webVolume: 8
+    eBook: null
+    audioBook: null
 - index: 564
-  volume: 8
   title: "8.66"
   url: "https://wanderinginn.com/2022/02/23/8-66/"
+  published: "2022-02-23"
+  partOf:
+    webVolume: 8
+    eBook: null
+    audioBook: null
 - index: 565
-  volume: 8
   title: "8.67"
   url: "https://wanderinginn.com/2022/02/27/8-67/"
+  published: "2022-02-27"
+  partOf:
+    webVolume: 8
+    eBook: null
+    audioBook: null
 - index: 566
-  volume: 8
   title: "8.68"
   url: "https://wanderinginn.com/2022/03/09/8-68/"
+  published: "2022-03-09"
+  partOf:
+    webVolume: 8
+    eBook: null
+    audioBook: null
 - index: 567
-  volume: 8
   title: "8.69 T"
   url: "https://wanderinginn.com/2022/03/12/8-69-te/"
+  published: "2022-03-12"
+  partOf:
+    webVolume: 8
+    eBook: null
+    audioBook: null
 - index: 568
-  volume: 8
   title: "8.70 E"
   url: "https://wanderinginn.com/2022/03/13/8-70-e/"
+  published: "2022-03-13"
+  partOf:
+    webVolume: 8
+    eBook: null
+    audioBook: null
 - index: 569
-  volume: 8
   title: "8.71"
   url: "https://wanderinginn.com/2022/03/14/8-71/"
+  published: "2022-03-14"
+  partOf:
+    webVolume: 8
+    eBook: null
+    audioBook: null
 - index: 570
-  volume: 8
   title: "8.72"
   url: "https://wanderinginn.com/2022/03/15/8-72/"
+  published: "2022-03-15"
+  partOf:
+    webVolume: 8
+    eBook: null
+    audioBook: null
 - index: 571
-  volume: 8
   title: "8.73 R"
   url: "https://wanderinginn.com/2022/03/16/8-73-r/"
+  published: "2022-03-16"
+  partOf:
+    webVolume: 8
+    eBook: null
+    audioBook: null
 - index: 572
-  volume: 8
   title: "8.74 DR"
   url: "https://wanderinginn.com/2022/03/17/8-74-dr/"
+  published: "2022-03-17"
+  partOf:
+    webVolume: 8
+    eBook: null
+    audioBook: null
 - index: 573
-  volume: 8
   title: "8.75"
   url: "https://wanderinginn.com/2022/03/18/8-75/"
+  published: "2022-03-18"
+  partOf:
+    webVolume: 8
+    eBook: null
+    audioBook: null
 - index: 574
-  volume: 8
   title: "8.76 B"
   url: "https://wanderinginn.com/2022/03/27/8-76-b/"
+  published: "2022-03-27"
+  partOf:
+    webVolume: 8
+    eBook: null
+    audioBook: null
 - index: 575
-  volume: 8
   title: "8.77 B"
   url: "https://wanderinginn.com/2022/03/30/8-77-b/"
+  published: "2022-03-30"
+  partOf:
+    webVolume: 8
+    eBook: null
+    audioBook: null
 - index: 576
-  volume: 8
   title: "8.78 F"
   url: "https://wanderinginn.com/2022/04/10/8-78-f/"
+  published: "2022-04-10"
+  partOf:
+    webVolume: 8
+    eBook: null
+    audioBook: null
 - index: 577
-  volume: 8
   title: "8.79"
   url: "https://wanderinginn.com/2022/04/13/8-79/"
+  published: "2022-04-13"
+  partOf:
+    webVolume: 8
+    eBook: null
+    audioBook: null
 - index: 578
-  volume: 8
   title: "8.80"
   url: "https://wanderinginn.com/2022/04/17/8-80/"
+  published: "2022-04-17"
+  partOf:
+    webVolume: 8
+    eBook: null
+    audioBook: null
 - index: 579
-  volume: 8
   title: "8.81"
   url: "https://wanderinginn.com/2022/04/20/8-81/"
+  published: "2022-04-20"
+  partOf:
+    webVolume: 8
+    eBook: null
+    audioBook: null
 - index: 580
-  volume: 8
   title: "8.82 (Pt. 1)"
   url: "https://wanderinginn.com/2022/04/26/8-82-pt-1/"
+  published: "2022-04-26"
+  partOf:
+    webVolume: 8
+    eBook: null
+    audioBook: null
 - index: 581
-  volume: 8
   title: "8.82 (Pt. 2)"
   url: "https://wanderinginn.com/2022/04/26/8-82-pt-2/"
+  published: "2022-04-26"
+  partOf:
+    webVolume: 8
+    eBook: null
+    audioBook: null
 - index: 582
-  volume: 8
   title: "8.82 (Pt. 3)"
   url: "https://wanderinginn.com/2022/04/26/8-82-pt-3/"
+  published: "2022-04-26"
+  partOf:
+    webVolume: 8
+    eBook: null
+    audioBook: null
 - index: 583
-  volume: 8
   title: "8.83"
   url: "https://wanderinginn.com/2022/05/03/8-83/"
+  published: "2022-05-03"
+  partOf:
+    webVolume: 8
+    eBook: null
+    audioBook: null
 - index: 584
-  volume: 8
   title: "8.84"
   url: "https://wanderinginn.com/2022/05/03/8-84/"
+  published: "2022-05-03"
+  partOf:
+    webVolume: 8
+    eBook: null
+    audioBook: null
 - index: 585
-  volume: 8
   title: "8.85"
   url: "https://wanderinginn.com/2022/05/03/8-85/"
+  published: "2022-05-03"
+  partOf:
+    webVolume: 8
+    eBook: null
+    audioBook: null
 - index: 586
-  volume: 8
   title: "Epilogue"
   url: "https://wanderinginn.com/2022/05/03/epilogue/"
+  published: "2022-05-03"
+  partOf:
+    webVolume: 8
+    eBook: null
+    audioBook: null
 - index: 587
-  volume: 9
   title: "9.00"
   url: "https://wanderinginn.com/2022/06/03/9-00/"
+  published: "2022-06-03"
+  partOf:
+    webVolume: 9
+    eBook: null
+    audioBook: null
 - index: 588
-  volume: 9
   title: "9.01"
   url: "https://wanderinginn.com/2022/06/07/9-01/"
+  published: "2022-06-07"
+  partOf:
+    webVolume: 9
+    eBook: null
+    audioBook: null
 - index: 589
-  volume: 9
   title: "9.02"
   url: "https://wanderinginn.com/2022/06/11/9-02/"
+  published: "2022-06-11"
+  partOf:
+    webVolume: 9
+    eBook: null
+    audioBook: null
 - index: 590
-  volume: 9
   title: "Interlude – Singing Ships"
   url: "https://wanderinginn.com/2022/06/18/interlude-singing-ships/"
+  published: "2022-06-18"
+  partOf:
+    webVolume: 9
+    eBook: null
+    audioBook: null
 - index: 591
-  volume: 9
   title: "9.03"
   url: "https://wanderinginn.com/2022/06/28/9-03/"
+  published: "2022-06-28"
+  partOf:
+    webVolume: 9
+    eBook: null
+    audioBook: null
 - index: 592
-  volume: 9
   title: "9.04"
   url: "https://wanderinginn.com/2022/07/02/9-04/"
+  published: "2022-07-02"
+  partOf:
+    webVolume: 9
+    eBook: null
+    audioBook: null
 - index: 593
-  volume: 9
   title: "Interlude – The Isles of Goblin and Minos"
   url: "https://wanderinginn.com/2022/07/05/interlude-the-isles-of-goblin-and-minos/"
+  published: "2022-07-05"
+  partOf:
+    webVolume: 9
+    eBook: null
+    audioBook: null
 - index: 594
-  volume: 9
   title: "9.05 NPR"
   url: "https://wanderinginn.com/2022/07/10/9-05-npr/"
+  published: "2022-07-10"
+  partOf:
+    webVolume: 9
+    eBook: null
+    audioBook: null
 - index: 595
-  volume: 9
   title: "9.06"
   url: "https://wanderinginn.com/2022/07/12/9-06/"
+  published: "2022-07-12"
+  partOf:
+    webVolume: 9
+    eBook: null
+    audioBook: null
 - index: 596
-  volume: 9
   title: "9.07"
   url: "https://wanderinginn.com/2022/07/17/9-07/"
+  published: "2022-07-17"
+  partOf:
+    webVolume: 9
+    eBook: null
+    audioBook: null
 - index: 597
-  volume: 9
   title: "9.08"
   url: "https://wanderinginn.com/2022/07/19/9-08/"
+  published: "2022-07-19"
+  partOf:
+    webVolume: 9
+    eBook: null
+    audioBook: null
 - index: 598
-  volume: 9
   title: "Interlude – Mundanity and Memorials"
   url: "https://wanderinginn.com/2022/07/30/interlude-mundanity-and-memorials/"
+  published: "2022-07-30"
+  partOf:
+    webVolume: 9
+    eBook: null
+    audioBook: null
 - index: 599
-  volume: 9
   title: "Interlude – The Competition"
   url: "https://wanderinginn.com/2022/08/06/interlude-the-competition/"
+  published: "2022-08-06"
+  partOf:
+    webVolume: 9
+    eBook: null
+    audioBook: null
 - index: 600
-  volume: 9
   title: "9.09 P"
   url: "https://wanderinginn.com/2022/08/20/9-09-p/"
+  published: "2022-08-20"
+  partOf:
+    webVolume: 9
+    eBook: null
+    audioBook: null
 - index: 601
-  volume: 9
   title: "9.10 W"
   url: "https://wanderinginn.com/2022/08/23/9-10-w/"
+  published: "2022-08-23"
+  partOf:
+    webVolume: 9
+    eBook: null
+    audioBook: null
 - index: 602
-  volume: 9
   title: "9.11 W"
   url: "https://wanderinginn.com/2022/08/27/9-11-w/"
+  published: "2022-08-27"
+  partOf:
+    webVolume: 9
+    eBook: null
+    audioBook: null
 - index: 603
-  volume: 9
   title: "9.12"
   url: "https://wanderinginn.com/2022/08/30/9-12/"
+  published: "2022-08-30"
+  partOf:
+    webVolume: 9
+    eBook: null
+    audioBook: null
 - index: 604
-  volume: 9
   title: "9.13"
   url: "https://wanderinginn.com/2022/09/04/9-13/"
+  published: "2022-09-04"
+  partOf:
+    webVolume: 9
+    eBook: null
+    audioBook: null
 - index: 605
-  volume: 9
   title: "9.14 VM"
   url: "https://wanderinginn.com/2022/09/06/9-14-vm/"
+  published: "2022-09-06"
+  partOf:
+    webVolume: 9
+    eBook: null
+    audioBook: null
 - index: 606
-  volume: 9
   title: "9.15 VM"
   url: "https://wanderinginn.com/2022/09/10/9-15-vm/"
+  published: "2022-09-10"
+  partOf:
+    webVolume: 9
+    eBook: null
+    audioBook: null
 - index: 607
-  volume: 9
   title: "9.16 R"
   url: "https://wanderinginn.com/2022/09/21/9-16-r/"
+  published: "2022-09-21"
+  partOf:
+    webVolume: 9
+    eBook: null
+    audioBook: null
 - index: 608
-  volume: 9
   title: "9.17 R"
   url: "https://wanderinginn.com/2022/09/25/9-17-r/"
+  published: "2022-09-25"
+  partOf:
+    webVolume: 9
+    eBook: null
+    audioBook: null
 - index: 609
-  volume: 9
   title: "Interlude – The Great Race"
   url: "https://wanderinginn.com/2022/09/28/interlude-the-great-race/"
+  published: "2022-09-28"
+  partOf:
+    webVolume: 9
+    eBook: null
+    audioBook: null
 - index: 610
-  volume: 9
   title: "9.18 E"
   url: "https://wanderinginn.com/2022/10/02/9-19-e/"
+  published: "2022-10-02"
+  partOf:
+    webVolume: 9
+    eBook: null
+    audioBook: null
 - index: 611
-  volume: 9
   title: "Interlude – Relationships"
   url: "https://wanderinginn.com/2022/10/05/interlude-relationships/"
+  published: "2022-10-05"
+  partOf:
+    webVolume: 9
+    eBook: null
+    audioBook: null
 - index: 612
-  volume: 9
   title: "9.19"
   url: "https://wanderinginn.com/2022/10/09/9-19/"
+  published: "2022-10-09"
+  partOf:
+    webVolume: 9
+    eBook: null
+    audioBook: null
 - index: 613
-  volume: 9
   title: "9.20"
   url: "https://wanderinginn.com/2022/10/12/9-20/"
+  published: "2022-10-12"
+  partOf:
+    webVolume: 9
+    eBook: null
+    audioBook: null
 - index: 614
-  volume: 9
   title: "Interlude – Death and Stitches"
   url: "https://wanderinginn.com/2022/10/16/interlude-death-and-stitches/"
+  published: "2022-10-16"
+  partOf:
+    webVolume: 9
+    eBook: null
+    audioBook: null

@@ -36,13 +36,32 @@ export default function Home() {
         />
         <link rel="icon" type="image/x-icon" href="/favicon.ico" />
       </Head>
-      <div class="p-4 mx-auto max-w-screen-md">
-        <img
-          src="/android-chrome-192x192.png"
-          class="w-32 h-32"
-          alt="The Wandering Inndex Logo"
-        />
-        <div>The Wandering Inndex</div>
+      <div class="p-4 mx-auto">
+        <nav class="w-full">
+          <span class="font-medium">The Wandering Inndex</span>
+        </nav>
+
+        <div>
+          <input
+            type="range"
+            list="volumeMarkers"
+            value="614"
+            min="0"
+            max="614"
+            class="w-full bg-gray-200 rounded-lg cursor-pointer dark:bg-gray-700"
+          />
+          <datalist id="volumeMarkers">
+            <option value="0" />
+            <option value="66" />
+            <option value="123" />
+            <option value="175" />
+            <option value="238" />
+            <option value="310" />
+            <option value="387" />
+            <option value="482" />
+            <option value="587" />
+          </datalist>
+        </div>
       </div>
     </>
   );
