@@ -5,7 +5,7 @@
 
 ![The Wandering Inndex](./static/android-chrome-320x320.png)
 
-A fan-made index for [The Wandering Inn](https://wanderinginn.com/) by [pirateaba](https://thewanderinginn.fandom.com/wiki/Pirateaba).
+A fan-made index for [The Wandering Inn](https://wanderinginn.com/), a universe by [pirateaba](https://www.patreon.com/pirateaba).
 
 ## Usage
 
@@ -15,7 +15,7 @@ deno task start
 
 This will watch the project directory and restart as necessary.
 
-## Initial Graph Model
+## Initial Graph Data Model
 
 ```mermaid
 flowchart LR
@@ -26,7 +26,6 @@ flowchart LR
   character([Character])
   name([Name])
   species([Species])
-  sex([Sex])
   group([Group])
   location([Location])
   skill([Skill])
@@ -34,11 +33,11 @@ flowchart LR
   item([Item])
 
   character-- OF_SPECIES -->species
-  character-- OF_SEX -->sex
   character-- ALSO_KNOWN_AS ---name
   character-- PART_OF_GROUP -->group
   character-- RESIDES_IN -->location
-  character-- MENTIONED_IN -->chapter
+  character-- INTRODUCED_IN -->chapter
+  character-- APPEARS_IN -->chapter
   character-- HAS_SKILL -->skill
   character-- HAS_CLASS -->systemClass
   character-- OWNS_ITEM -->item
@@ -48,8 +47,6 @@ flowchart LR
   chapter-- PART_OF_AUDIOBOOK --> audibleAudioBook
   chapter-- PART_OF_EBOOK --> kindleBook
 ```
-
-All non-media Nodes will have a property of `first_appearance` to allow filtering using a slider.
 
 ## Contributing
 
