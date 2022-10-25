@@ -23,6 +23,17 @@ export interface Chapter {
 }
 
 /**
+ * Collection of chapters from the web novel.
+ *
+ * @see {@link https://thewanderinginn.fandom.com/wiki/Category:Volumes}
+ */
+export interface Volume {
+  index: number;
+  title: string;
+  url: string;
+}
+
+/**
  * Digital books published in Amazon Kindle.
  *
  * @see {@link https://www.amazon.com/dp/B099JFQ9YR}
@@ -58,6 +69,7 @@ export interface AudioBook {
 /** List of all available media. Used in the table of contents page. */
 export interface AllMedia {
   chapters: Chapter[];
+  webVolumes: Volume[];
   audioBooks: AudioBook[];
   eBooks: ElectronicBook[];
 }
@@ -65,6 +77,7 @@ export interface AllMedia {
 /** The default AllMedia with zeroed values. */
 export const DEFAULT_ALL_MEDIA: AllMedia = {
   chapters: [],
+  webVolumes: [],
   audioBooks: [],
   eBooks: [],
 };

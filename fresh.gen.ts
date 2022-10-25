@@ -7,7 +7,8 @@ import * as $0 from "./routes/api/media/audiobooks.ts";
 import * as $1 from "./routes/api/media/chapters.ts";
 import * as $2 from "./routes/api/media/ebooks.ts";
 import * as $3 from "./routes/api/media/index.ts";
-import * as $4 from "./routes/index.tsx";
+import * as $4 from "./routes/api/media/volumes.ts";
+import * as $5 from "./routes/index.tsx";
 
 const manifest = {
   routes: {
@@ -15,7 +16,8 @@ const manifest = {
     "./routes/api/media/chapters.ts": $1,
     "./routes/api/media/ebooks.ts": $2,
     "./routes/api/media/index.ts": $3,
-    "./routes/index.tsx": $4,
+    "./routes/api/media/volumes.ts": $4,
+    "./routes/index.tsx": $5,
   },
   islands: {},
   baseUrl: import.meta.url,

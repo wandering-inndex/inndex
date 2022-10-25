@@ -6,18 +6,21 @@ import {
   AudioBook,
   Chapter,
   ElectronicBook,
+  Volume,
 } from "@models/seed/media.ts";
 import { SeedDataChoices } from "@models/seed/constants.ts";
 
 export const handler: Handler = async (): Promise<Response> => {
   const chapters = await extractSeededData<Chapter[]>(SeedDataChoices.CHAPTERS);
+  const webVolumes = await extractSeededData<Volume[]>(SeedDataChoices.VOLUMES);
   const eBooks = await extractSeededData<ElectronicBook[]>(
     SeedDataChoices.EBOOKS,
   );
   const audioBooks = await extractSeededData<AudioBook[]>(
     SeedDataChoices.AUDIOBOOKS,
   );
-  const data: AllMedia = { chapters, eBooks, audioBooks };
+
+  const data: AllMedia = { chapters, webVolumes, eBooks, audioBooks };
 
   return Response.json(data);
 };
