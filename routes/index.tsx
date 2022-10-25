@@ -1,6 +1,8 @@
 import { Head } from "$fresh/runtime.ts";
 import { Handlers, PageProps } from "$fresh/server.ts";
 
+import { handler as allMediaHandler } from "./api/media/index.ts";
+
 import {
   AllMedia,
   AudioBook,
@@ -9,8 +11,8 @@ import {
 } from "@models/seed/media.ts";
 
 export const handler: Handlers<AllMedia | null> = {
-  async GET(_, ctx) {
-    const res = await fetch(`http://localhost:8000/api/media`);
+  async GET(req, ctx) {
+    const res = await allMediaHandler(req, ctx);
     const data: AllMedia = await res.json();
     return ctx.render(data);
   },
