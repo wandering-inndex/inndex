@@ -6,11 +6,16 @@
  * @see {@link https://wanderinginn.com/table-of-contents/}
  */
 export interface Chapter {
-  index: number;
+  id: string;
   title: string;
   url: string;
   published: string;
   partOf: {
+    webVolume: number | null;
+    eBook: number | null;
+    audioBook: number | null;
+  };
+  order: {
     webVolume: number | null;
     eBook: number | null;
     audioBook: number | null;
@@ -49,3 +54,17 @@ export interface AudioBook {
     minutes: number;
   };
 }
+
+/** List of all available media. Used in the table of contents page. */
+export interface AllMedia {
+  chapters: Chapter[];
+  audioBooks: AudioBook[];
+  eBooks: ElectronicBook[];
+}
+
+/** The default AllMedia with zeroed values. */
+export const DEFAULT_ALL_MEDIA: AllMedia = {
+  chapters: [],
+  audioBooks: [],
+  eBooks: [],
+};

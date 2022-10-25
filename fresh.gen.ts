@@ -3,13 +3,19 @@
 // This file is automatically updated during development when running `dev.ts`.
 
 import config from "./deno.json" assert { type: "json" };
-import * as $0 from "./routes/api/media/chapters.ts";
-import * as $1 from "./routes/index.tsx";
+import * as $0 from "./routes/api/media/audiobooks.ts";
+import * as $1 from "./routes/api/media/chapters.ts";
+import * as $2 from "./routes/api/media/ebooks.ts";
+import * as $3 from "./routes/api/media/index.ts";
+import * as $4 from "./routes/index.tsx";
 
 const manifest = {
   routes: {
-    "./routes/api/media/chapters.ts": $0,
-    "./routes/index.tsx": $1,
+    "./routes/api/media/audiobooks.ts": $0,
+    "./routes/api/media/chapters.ts": $1,
+    "./routes/api/media/ebooks.ts": $2,
+    "./routes/api/media/index.ts": $3,
+    "./routes/index.tsx": $4,
   },
   islands: {},
   baseUrl: import.meta.url,

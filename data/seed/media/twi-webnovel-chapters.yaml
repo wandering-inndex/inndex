@@ -1,6 +1,6 @@
 # https://wanderinginn.com/table-of-contents/
 
-- index: 1
+- id: "ch-0001"
   title: "1.00"
   url: "https://wanderinginn.com/2016/07/27/1-00/"
   published: "2016-07-27"
@@ -8,7 +8,11 @@
     webVolume: 1
     eBook: 1
     audioBook: 1
-- index: 2
+  order:
+    webVolume: 1
+    eBook: 1
+    audioBook: 1
+- id: "ch-0002"
   title: "1.01"
   url: "https://wanderinginn.com/2016/07/27/1-01/"
   published: "2016-07-27"
@@ -16,7 +20,11 @@
     webVolume: 1
     eBook: 1
     audioBook: 1
-- index: 3
+  order:
+    webVolume: 2
+    eBook: 2
+    audioBook: 2
+- id: "ch-0003"
   title: "1.02"
   url: "https://wanderinginn.com/2016/07/30/1-02/"
   published: "2016-07-30"
@@ -24,7 +32,11 @@
     webVolume: 1
     eBook: 1
     audioBook: 1
-- index: 4
+  order:
+    webVolume: 3
+    eBook: 3
+    audioBook: 3
+- id: "ch-0004"
   title: "1.03"
   url: "https://wanderinginn.com/2016/08/07/1-03/"
   published: "2016-08-07"
@@ -32,7 +44,11 @@
     webVolume: 1
     eBook: 1
     audioBook: 1
-- index: 5
+  order:
+    webVolume: 4
+    eBook: 4
+    audioBook: 4
+- id: "ch-0005"
   title: "1.04"
   url: "https://wanderinginn.com/2016/08/10/1-04/"
   published: "2016-08-10"
@@ -40,7 +56,11 @@
     webVolume: 1
     eBook: 1
     audioBook: 1
-- index: 6
+  order:
+    webVolume: 5
+    eBook: 5
+    audioBook: 5
+- id: "ch-0006"
   title: "1.05"
   url: "https://wanderinginn.com/2016/08/13/1-05/"
   published: "2016-08-13"
@@ -48,7 +68,11 @@
     webVolume: 1
     eBook: 1
     audioBook: 1
-- index: 7
+  order:
+    webVolume: 6
+    eBook: 6
+    audioBook: 6
+- id: "ch-0007"
   title: "1.06"
   url: "https://wanderinginn.com/2016/08/17/1-06/"
   published: "2016-08-17"
@@ -56,7 +80,11 @@
     webVolume: 1
     eBook: 1
     audioBook: 1
-- index: 8
+  order:
+    webVolume: 7
+    eBook: 7
+    audioBook: 7
+- id: "ch-0008"
   title: "1.07"
   url: "https://wanderinginn.com/2016/08/20/1-07/"
   published: "2016-08-20"
@@ -64,7 +92,11 @@
     webVolume: 1
     eBook: 1
     audioBook: 1
-- index: 9
+  order:
+    webVolume: 8
+    eBook: 8
+    audioBook: 8
+- id: "ch-0009"
   title: "1.08"
   url: "https://wanderinginn.com/2016/08/24/1-08/"
   published: "2016-08-24"
@@ -72,7 +104,11 @@
     webVolume: 1
     eBook: 1
     audioBook: 1
-- index: 10
+  order:
+    webVolume: 9
+    eBook: 9
+    audioBook: 9
+- id: "ch-0010"
   title: "1.09"
   url: "https://wanderinginn.com/2016/08/28/1-09/"
   published: "2016-08-28"
@@ -80,7 +116,11 @@
     webVolume: 1
     eBook: 1
     audioBook: 1
-- index: 11
+  order:
+    webVolume: 10
+    eBook: 10
+    audioBook: 10
+- id: "ch-0011"
   title: "1.10"
   url: "https://wanderinginn.com/2016/08/31/1-10/"
   published: "2016-08-31"
@@ -88,7 +128,11 @@
     webVolume: 1
     eBook: 1
     audioBook: 1
-- index: 12
+  order:
+    webVolume: 11
+    eBook: 11
+    audioBook: 11
+- id: "ch-0012"
   title: "1.11"
   url: "https://wanderinginn.com/2016/09/04/1-11/"
   published: "2016-09-04"
@@ -96,7 +140,11 @@
     webVolume: 1
     eBook: 1
     audioBook: 1
-- index: 13
+  order:
+    webVolume: 12
+    eBook: 12
+    audioBook: 12
+- id: "ch-0013"
   title: "Interlude"
   url: "https://wanderinginn.com/2016/09/04/interlude/"
   published: "2016-09-04"
@@ -104,7 +152,11 @@
     webVolume: 1
     eBook: 1
     audioBook: 1
-- index: 14
+  order:
+    webVolume: 13
+    eBook: 13
+    audioBook: 13
+- id: "ch-0014"
   title: "1.12"
   url: "https://wanderinginn.com/2016/09/07/1-12/"
   published: "2016-09-07"
@@ -112,7 +164,11 @@
     webVolume: 1
     eBook: 1
     audioBook: 1
-- index: 15
+  order:
+    webVolume: 14
+    eBook: 14
+    audioBook: 14
+- id: "ch-0015"
   title: "1.13"
   url: "https://wanderinginn.com/2016/09/11/1-13/"
   published: "2016-09-11"
@@ -120,7 +176,11 @@
     webVolume: 1
     eBook: 1
     audioBook: 1
-- index: 16
+  order:
+    webVolume: 15
+    eBook: 15
+    audioBook: 15
+- id: "ch-0016"
   title: "1.14"
   url: "https://wanderinginn.com/2016/09/14/1-14/"
   published: "2016-09-14"
@@ -128,7 +188,11 @@
     webVolume: 1
     eBook: 1
     audioBook: 1
-- index: 17
+  order:
+    webVolume: 16
+    eBook: 16
+    audioBook: 16
+- id: "ch-0017"
   title: "1.15"
   url: "https://wanderinginn.com/2016/09/18/1-15/"
   published: "2016-09-18"
@@ -136,7 +200,11 @@
     webVolume: 1
     eBook: 1
     audioBook: 1
-- index: 18
+  order:
+    webVolume: 17
+    eBook: 17
+    audioBook: 17
+- id: "ch-0018"
   title: "1.16"
   url: "https://wanderinginn.com/2016/09/21/1-16/"
   published: "2016-09-21"
@@ -144,7 +212,11 @@
     webVolume: 1
     eBook: 1
     audioBook: 1
-- index: 19
+  order:
+    webVolume: 18
+    eBook: 18
+    audioBook: 18
+- id: "ch-0019"
   title: "1.17"
   url: "https://wanderinginn.com/2016/09/25/1-17/"
   published: "2016-09-25"
@@ -152,7 +224,11 @@
     webVolume: 1
     eBook: 1
     audioBook: 1
-- index: 20
+  order:
+    webVolume: 19
+    eBook: 19
+    audioBook: 19
+- id: "ch-0020"
   title: "1.18"
   url: "https://wanderinginn.com/2016/09/28/1-18/"
   published: "2016-09-28"
@@ -160,7 +236,11 @@
     webVolume: 1
     eBook: 1
     audioBook: 1
-- index: 21
+  order:
+    webVolume: 20
+    eBook: 20
+    audioBook: 20
+- id: "ch-0021"
   title: "1.19"
   url: "https://wanderinginn.com/2016/10/02/1-19/"
   published: "2016-10-02"
@@ -168,7 +248,11 @@
     webVolume: 1
     eBook: 1
     audioBook: 1
-- index: 22
+  order:
+    webVolume: 21
+    eBook: 21
+    audioBook: 21
+- id: "ch-0022"
   title: "1.20"
   url: "https://wanderinginn.com/2016/10/05/1-20/"
   published: "2016-10-05"
@@ -176,7 +260,11 @@
     webVolume: 1
     eBook: 1
     audioBook: 1
-- index: 23
+  order:
+    webVolume: 22
+    eBook: 22
+    audioBook: 22
+- id: "ch-0023"
   title: "Interlude – 1.00 R"
   url: "https://wanderinginn.com/2016/10/06/interlude-1-00-r/"
   published: "2016-10-06"
@@ -184,7 +272,11 @@
     webVolume: 1
     eBook: 1
     audioBook: 1
-- index: 24
+  order:
+    webVolume: 23
+    eBook: 23
+    audioBook: 23
+- id: "ch-0024"
   title: "1.01 R"
   url: "https://wanderinginn.com/2016/10/12/1-01-r/"
   published: "2016-10-12"
@@ -192,7 +284,11 @@
     webVolume: 1
     eBook: 1
     audioBook: 1
-- index: 25
+  order:
+    webVolume: 24
+    eBook: 24
+    audioBook: 24
+- id: "ch-0025"
   title: "1.21"
   url: "https://wanderinginn.com/2016/10/16/1-21/"
   published: "2016-10-16"
@@ -200,7 +296,11 @@
     webVolume: 1
     eBook: 1
     audioBook: 1
-- index: 26
+  order:
+    webVolume: 25
+    eBook: 25
+    audioBook: 25
+- id: "ch-0026"
   title: "1.22"
   url: "https://wanderinginn.com/2016/10/19/1-22/"
   published: "2016-10-19"
@@ -208,7 +308,11 @@
     webVolume: 1
     eBook: 1
     audioBook: 1
-- index: 27
+  order:
+    webVolume: 26
+    eBook: 26
+    audioBook: 26
+- id: "ch-0027"
   title: "1.23"
   url: "https://wanderinginn.com/2016/10/23/1-23/"
   published: "2016-10-23"
@@ -216,7 +320,11 @@
     webVolume: 1
     eBook: 1
     audioBook: 1
-- index: 28
+  order:
+    webVolume: 27
+    eBook: 27
+    audioBook: 27
+- id: "ch-0028"
   title: "Interlude: King Edition"
   url: "https://wanderinginn.com/2016/10/26/interlude-king-edition/"
   published: "2016-10-26"
@@ -224,7 +332,11 @@
     webVolume: 1
     eBook: 1
     audioBook: 1
-- index: 29
+  order:
+    webVolume: 28
+    eBook: 28
+    audioBook: 28
+- id: "ch-0029"
   title: "1.24"
   url: "https://wanderinginn.com/2016/10/30/1-24/"
   published: "2016-10-30"
@@ -232,7 +344,11 @@
     webVolume: 1
     eBook: 1
     audioBook: 1
-- index: 30
+  order:
+    webVolume: 29
+    eBook: 29
+    audioBook: 29
+- id: "ch-0030"
   title: "1.02 R"
   url: "https://wanderinginn.com/2016/11/02/1-02-r/"
   published: "2016-11-02"
@@ -240,7 +356,11 @@
     webVolume: 1
     eBook: 1
     audioBook: 1
-- index: 31
+  order:
+    webVolume: 30
+    eBook: 30
+    audioBook: 30
+- id: "ch-0031"
   title: "1.03 R"
   url: "https://wanderinginn.com/2016/11/06/1-03-r/"
   published: "2016-11-06"
@@ -248,7 +368,11 @@
     webVolume: 1
     eBook: 1
     audioBook: 1
-- index: 32
+  order:
+    webVolume: 31
+    eBook: 31
+    audioBook: 31
+- id: "ch-0032"
   title: "1.25"
   url: "https://wanderinginn.com/2016/11/09/1-25/"
   published: "2016-11-09"
@@ -256,7 +380,11 @@
     webVolume: 1
     eBook: 1
     audioBook: 1
-- index: 33
+  order:
+    webVolume: 32
+    eBook: 32
+    audioBook: 32
+- id: "ch-0033"
   title: "1.26"
   url: "https://wanderinginn.com/2016/11/13/1-26/"
   published: "2016-11-13"
@@ -264,7 +392,11 @@
     webVolume: 1
     eBook: 1
     audioBook: 1
-- index: 34
+  order:
+    webVolume: 33
+    eBook: 33
+    audioBook: 33
+- id: "ch-0034"
   title: "1.27"
   url: "https://wanderinginn.com/2016/11/16/1-27/"
   published: "2016-11-16"
@@ -272,7 +404,11 @@
     webVolume: 1
     eBook: 1
     audioBook: 1
-- index: 35
+  order:
+    webVolume: 34
+    eBook: 34
+    audioBook: 34
+- id: "ch-0035"
   title: "1.04 R"
   url: "https://wanderinginn.com/2016/11/20/1-04-r/"
   published: "2016-11-20"
@@ -280,7 +416,11 @@
     webVolume: 1
     eBook: 1
     audioBook: 1
-- index: 36
+  order:
+    webVolume: 35
+    eBook: 35
+    audioBook: 35
+- id: "ch-0036"
   title: "1.05 R"
   url: "https://wanderinginn.com/2016/11/23/1-05-r/"
   published: "2016-11-23"
@@ -288,7 +428,11 @@
     webVolume: 1
     eBook: 1
     audioBook: 1
-- index: 37
+  order:
+    webVolume: 36
+    eBook: 36
+    audioBook: 36
+- id: "ch-0037"
   title: "1.28"
   url: "https://wanderinginn.com/2016/11/27/1-28/"
   published: "2016-11-27"
@@ -296,7 +440,11 @@
     webVolume: 1
     eBook: 1
     audioBook: 1
-- index: 38
+  order:
+    webVolume: 37
+    eBook: 37
+    audioBook: 37
+- id: "ch-0038"
   title: "1.06 R"
   url: "https://wanderinginn.com/2016/11/30/1-06-r/"
   published: "2016-11-30"
@@ -304,7 +452,11 @@
     webVolume: 1
     eBook: 1
     audioBook: 1
-- index: 39
+  order:
+    webVolume: 38
+    eBook: 38
+    audioBook: 38
+- id: "ch-0039"
   title: "1.29"
   url: "https://wanderinginn.com/2016/12/04/1-29/"
   published: "2016-12-04"
@@ -312,7 +464,11 @@
     webVolume: 1
     eBook: 1
     audioBook: 1
-- index: 40
+  order:
+    webVolume: 39
+    eBook: 39
+    audioBook: 39
+- id: "ch-0040"
   title: "1.30"
   url: "https://wanderinginn.com/2016/12/07/1-30/"
   published: "2016-12-07"
@@ -320,7 +476,11 @@
     webVolume: 1
     eBook: 1
     audioBook: 1
-- index: 41
+  order:
+    webVolume: 40
+    eBook: 40
+    audioBook: 40
+- id: "ch-0041"
   title: "1.31"
   url: "https://wanderinginn.com/2016/12/11/1-31/"
   published: "2016-12-11"
@@ -328,7 +488,11 @@
     webVolume: 1
     eBook: 1
     audioBook: 1
-- index: 42
+  order:
+    webVolume: 41
+    eBook: 41
+    audioBook: 41
+- id: "ch-0042"
   title: "1.07 R"
   url: "https://wanderinginn.com/2016/12/14/1-07-r/"
   published: "2016-12-14"
@@ -336,7 +500,11 @@
     webVolume: 1
     eBook: 1
     audioBook: 1
-- index: 43
+  order:
+    webVolume: 42
+    eBook: 42
+    audioBook: 42
+- id: "ch-0043"
   title: "1.08 R"
   url: "https://wanderinginn.com/2016/12/18/1-08-r/"
   published: "2016-12-18"
@@ -344,7 +512,11 @@
     webVolume: 1
     eBook: 1
     audioBook: 1
-- index: 44
+  order:
+    webVolume: 43
+    eBook: 43
+    audioBook: 43
+- id: "ch-0044"
   title: "1.32"
   url: "https://wanderinginn.com/2016/12/21/1-32/"
   published: "2016-12-21"
@@ -352,7 +524,11 @@
     webVolume: 1
     eBook: 1
     audioBook: 1
-- index: 45
+  order:
+    webVolume: 44
+    eBook: 44
+    audioBook: 44
+- id: "ch-0045"
   title: "1.33"
   url: "https://wanderinginn.com/2016/12/25/1-33/"
   published: "2016-12-25"
@@ -360,7 +536,11 @@
     webVolume: 1
     eBook: 1
     audioBook: 1
-- index: 46
+  order:
+    webVolume: 45
+    eBook: 45
+    audioBook: 45
+- id: "ch-0046"
   title: "1.09 R"
   url: "https://wanderinginn.com/2016/12/28/1-09-r/"
   published: "2016-12-28"
@@ -368,7 +548,11 @@
     webVolume: 1
     eBook: 1
     audioBook: 1
-- index: 47
+  order:
+    webVolume: 46
+    eBook: 46
+    audioBook: 46
+- id: "ch-0047"
   title: "1.10 R"
   url: "https://wanderinginn.com/2017/01/01/1-10-r/"
   published: "2017-01-01"
@@ -376,7 +560,11 @@
     webVolume: 1
     eBook: 1
     audioBook: 1
-- index: 48
+  order:
+    webVolume: 47
+    eBook: 47
+    audioBook: 47
+- id: "ch-0048"
   title: "1.34"
   url: "https://wanderinginn.com/2017/01/04/1-34/"
   published: "2017-01-04"
@@ -384,7 +572,11 @@
     webVolume: 1
     eBook: 1
     audioBook: 1
-- index: 49
+  order:
+    webVolume: 48
+    eBook: 48
+    audioBook: 48
+- id: "ch-0049"
   title: "1.35"
   url: "https://wanderinginn.com/2017/01/08/1-35/"
   published: "2017-01-08"
@@ -392,7 +584,11 @@
     webVolume: 1
     eBook: 1
     audioBook: 1
-- index: 50
+  order:
+    webVolume: 49
+    eBook: 49
+    audioBook: 49
+- id: "ch-0050"
   title: "1.11 R"
   url: "https://wanderinginn.com/2017/01/11/1-11-r/"
   published: "2017-01-11"
@@ -400,7 +596,11 @@
     webVolume: 1
     eBook: 1
     audioBook: 1
-- index: 51
+  order:
+    webVolume: 50
+    eBook: 50
+    audioBook: 50
+- id: "ch-0051"
   title: "1.12 R"
   url: "https://wanderinginn.com/2017/01/15/1-12-r/"
   published: "2017-01-15"
@@ -408,7 +608,11 @@
     webVolume: 1
     eBook: 1
     audioBook: 1
-- index: 52
+  order:
+    webVolume: 51
+    eBook: 51
+    audioBook: 51
+- id: "ch-0052"
   title: "1.36"
   url: "https://wanderinginn.com/2017/01/18/1-36/"
   published: "2017-01-18"
@@ -416,7 +620,11 @@
     webVolume: 1
     eBook: 1
     audioBook: 1
-- index: 53
+  order:
+    webVolume: 52
+    eBook: 52
+    audioBook: 52
+- id: "ch-0053"
   title: "1.37"
   url: "https://wanderinginn.com/2017/01/22/1-37/"
   published: "2017-01-22"
@@ -424,7 +632,11 @@
     webVolume: 1
     eBook: 1
     audioBook: 1
-- index: 54
+  order:
+    webVolume: 53
+    eBook: 53
+    audioBook: 53
+- id: "ch-0054"
   title: "1.38"
   url: "https://wanderinginn.com/2017/01/25/1-38/"
   published: "2017-01-25"
@@ -432,7 +644,11 @@
     webVolume: 1
     eBook: 1
     audioBook: 1
-- index: 55
+  order:
+    webVolume: 54
+    eBook: 54
+    audioBook: 54
+- id: "ch-0055"
   title: "1.39"
   url: "https://wanderinginn.com/2017/01/29/1-39/"
   published: "2017-01-29"
@@ -440,7 +656,11 @@
     webVolume: 1
     eBook: 1
     audioBook: 1
-- index: 56
+  order:
+    webVolume: 55
+    eBook: 55
+    audioBook: 55
+- id: "ch-0056"
   title: "1.40"
   url: "https://wanderinginn.com/2017/01/31/1-40/"
   published: "2017-01-31"
@@ -448,7 +668,11 @@
     webVolume: 1
     eBook: 1
     audioBook: 1
-- index: 57
+  order:
+    webVolume: 56
+    eBook: 56
+    audioBook: 56
+- id: "ch-0057"
   title: "1.13 R"
   url: "https://wanderinginn.com/2017/02/05/1-13-r/"
   published: "2017-02-05"
@@ -456,7 +680,11 @@
     webVolume: 1
     eBook: 1
     audioBook: 1
-- index: 58
+  order:
+    webVolume: 57
+    eBook: 57
+    audioBook: 57
+- id: "ch-0058"
   title: "1.41"
   url: "https://wanderinginn.com/2017/02/07/1-41/"
   published: "2017-02-07"
@@ -464,7 +692,11 @@
     webVolume: 1
     eBook: 1
     audioBook: 1
-- index: 59
+  order:
+    webVolume: 58
+    eBook: 58
+    audioBook: 58
+- id: "ch-0059"
   title: "1.00 H"
   url: "https://wanderinginn.com/2017/02/12/1-00-h/"
   published: "2017-02-12"
@@ -472,7 +704,11 @@
     webVolume: 1
     eBook: 1
     audioBook: 1
-- index: 60
+  order:
+    webVolume: 59
+    eBook: 59
+    audioBook: 59
+- id: "ch-0060"
   title: "1.01 H"
   url: "https://wanderinginn.com/2017/02/15/1-01-h/"
   published: "2017-02-15"
@@ -480,7 +716,11 @@
     webVolume: 1
     eBook: 1
     audioBook: 1
-- index: 61
+  order:
+    webVolume: 60
+    eBook: 60
+    audioBook: 60
+- id: "ch-0061"
   title: "1.02 H"
   url: "https://wanderinginn.com/2017/02/19/1-02-h/"
   published: "2017-02-19"
@@ -488,7 +728,11 @@
     webVolume: 1
     eBook: 1
     audioBook: 1
-- index: 62
+  order:
+    webVolume: 61
+    eBook: 61
+    audioBook: 61
+- id: "ch-0062"
   title: "1.42"
   url: "https://wanderinginn.com/2017/02/22/1-42/"
   published: "2017-02-22"
@@ -496,7 +740,11 @@
     webVolume: 1
     eBook: 1
     audioBook: 1
-- index: 63
+  order:
+    webVolume: 62
+    eBook: 62
+    audioBook: 62
+- id: "ch-0063"
   title: "1.43"
   url: "https://wanderinginn.com/2017/02/25/1-43/"
   published: "2017-02-25"
@@ -504,7 +752,11 @@
     webVolume: 1
     eBook: 1
     audioBook: 1
-- index: 64
+  order:
+    webVolume: 63
+    eBook: 63
+    audioBook: 63
+- id: "ch-0064"
   title: "1.44"
   url: "https://wanderinginn.com/2017/03/01/1-44/"
   published: "2017-03-01"
@@ -512,7 +764,11 @@
     webVolume: 1
     eBook: 1
     audioBook: 1
-- index: 65
+  order:
+    webVolume: 64
+    eBook: 64
+    audioBook: 64
+- id: "ch-0065"
   title: "1.45"
   url: "https://wanderinginn.com/2017/03/04/1-45/"
   published: "2017-03-04"
@@ -520,7 +776,11 @@
     webVolume: 1
     eBook: 1
     audioBook: 1
-- index: 66
+  order:
+    webVolume: 65
+    eBook: 65
+    audioBook: 65
+- id: "ch-0066"
   title: "Interlude"
   url: "https://wanderinginn.com/2017/03/07/interlude-2/"
   published: "2017-03-07"
@@ -528,7 +788,11 @@
     webVolume: 2
     eBook: 2
     audioBook: 2
-- index: 67
+  order:
+    webVolume: 66
+    eBook: 66
+    audioBook: 66
+- id: "ch-0067"
   title: "2.00"
   url: "https://wanderinginn.com/2017/03/12/2-01/"
   published: "2017-03-12"
@@ -536,7 +800,11 @@
     webVolume: 2
     eBook: 2
     audioBook: 2
-- index: 68
+  order:
+    webVolume: 67
+    eBook: 67
+    audioBook: 67
+- id: "ch-0068"
   title: "2.01"
   url: "https://wanderinginn.com/2017/03/15/2-02/"
   published: "2017-03-15"
@@ -544,7 +812,11 @@
     webVolume: 2
     eBook: 2
     audioBook: 2
-- index: 69
+  order:
+    webVolume: 68
+    eBook: 68
+    audioBook: 68
+- id: "ch-0069"
   title: "2.02"
   url: "https://wanderinginn.com/2017/03/18/2-03/"
   published: "2017-03-18"
@@ -552,7 +824,11 @@
     webVolume: 2
     eBook: 2
     audioBook: 2
-- index: 70
+  order:
+    webVolume: 69
+    eBook: 69
+    audioBook: 69
+- id: "ch-0070"
   title: "2.03"
   url: "https://wanderinginn.com/2017/03/22/2-04/"
   published: "2017-03-22"
@@ -560,7 +836,11 @@
     webVolume: 2
     eBook: 2
     audioBook: 2
-- index: 71
+  order:
+    webVolume: 70
+    eBook: 70
+    audioBook: 70
+- id: "ch-0071"
   title: "2.04"
   url: "https://wanderinginn.com/2017/03/25/2-05/"
   published: "2017-03-25"
@@ -568,7 +848,11 @@
     webVolume: 2
     eBook: 2
     audioBook: 2
-- index: 72
+  order:
+    webVolume: 71
+    eBook: 71
+    audioBook: 71
+- id: "ch-0072"
   title: "2.05"
   url: "https://wanderinginn.com/2017/03/28/2-06/"
   published: "2017-03-28"
@@ -576,7 +860,11 @@
     webVolume: 2
     eBook: 2
     audioBook: 2
-- index: 73
+  order:
+    webVolume: 72
+    eBook: 72
+    audioBook: 72
+- id: "ch-0073"
   title: "2.06"
   url: "https://wanderinginn.com/2017/04/02/2-07/"
   published: "2017-04-02"
@@ -584,7 +872,11 @@
     webVolume: 2
     eBook: 2
     audioBook: 2
-- index: 74
+  order:
+    webVolume: 73
+    eBook: 73
+    audioBook: 73
+- id: "ch-0074"
   title: "2.07"
   url: "https://wanderinginn.com/2017/04/04/2-08/"
   published: "2017-04-04"
@@ -592,7 +884,11 @@
     webVolume: 2
     eBook: 2
     audioBook: 2
-- index: 75
+  order:
+    webVolume: 74
+    eBook: 74
+    audioBook: 74
+- id: "ch-0075"
   title: "2.08"
   url: "https://wanderinginn.com/2017/04/09/2-09/"
   published: "2017-04-09"
@@ -600,7 +896,11 @@
     webVolume: 2
     eBook: 2
     audioBook: 2
-- index: 76
+  order:
+    webVolume: 75
+    eBook: 75
+    audioBook: 75
+- id: "ch-0076"
   title: "2.09"
   url: "https://wanderinginn.com/2017/04/12/2-10/"
   published: "2017-04-12"
@@ -608,7 +908,11 @@
     webVolume: 2
     eBook: 2
     audioBook: 2
-- index: 77
+  order:
+    webVolume: 76
+    eBook: 76
+    audioBook: 76
+- id: "ch-0077"
   title: "2.10 T"
   url: "https://wanderinginn.com/2017/04/12/2-00-t/"
   published: "2017-04-12"
@@ -616,7 +920,11 @@
     webVolume: 2
     eBook: 2
     audioBook: 2
-- index: 78
+  order:
+    webVolume: 77
+    eBook: 77
+    audioBook: 77
+- id: "ch-0078"
   title: "2.11"
   url: "https://wanderinginn.com/2017/04/13/2-11/"
   published: "2017-04-13"
@@ -624,7 +932,11 @@
     webVolume: 2
     eBook: 2
     audioBook: 2
-- index: 79
+  order:
+    webVolume: 78
+    eBook: 78
+    audioBook: 78
+- id: "ch-0079"
   title: "2.12"
   url: "https://wanderinginn.com/2017/04/14/2-12/"
   published: "2017-04-14"
@@ -632,7 +944,11 @@
     webVolume: 2
     eBook: 2
     audioBook: 2
-- index: 80
+  order:
+    webVolume: 79
+    eBook: 79
+    audioBook: 79
+- id: "ch-0080"
   title: "2.13"
   url: "https://wanderinginn.com/2017/04/15/2-13/"
   published: "2017-04-15"
@@ -640,7 +956,11 @@
     webVolume: 2
     eBook: 2
     audioBook: 2
-- index: 81
+  order:
+    webVolume: 80
+    eBook: 80
+    audioBook: 80
+- id: "ch-0081"
   title: "2.14 G"
   url: "https://wanderinginn.com/2017/04/16/2-00-g/"
   published: "2017-04-16"
@@ -648,7 +968,11 @@
     webVolume: 2
     eBook: 2
     audioBook: 2
-- index: 82
+  order:
+    webVolume: 81
+    eBook: 81
+    audioBook: 81
+- id: "ch-0082"
   title: "S01 – Mating Rituals"
   url: "https://wanderinginn.com/2017/04/17/side-story-mating-rituals/"
   published: "2017-04-17"
@@ -656,7 +980,11 @@
     webVolume: 2
     eBook: 2
     audioBook: 2
-- index: 83
+  order:
+    webVolume: 82
+    eBook: 82
+    audioBook: 82
+- id: "ch-0083"
   title: "2.15"
   url: "https://wanderinginn.com/2017/04/18/2-14/"
   published: "2017-04-18"
@@ -664,7 +992,11 @@
     webVolume: 2
     eBook: 2
     audioBook: 2
-- index: 84
+  order:
+    webVolume: 83
+    eBook: 83
+    audioBook: 83
+- id: "ch-0084"
   title: "2.16"
   url: "https://wanderinginn.com/2017/04/22/2-15/"
   published: "2017-04-22"
@@ -672,7 +1004,11 @@
     webVolume: 2
     eBook: 2
     audioBook: 2
-- index: 85
+  order:
+    webVolume: 84
+    eBook: 84
+    audioBook: 84
+- id: "ch-0085"
   title: "2.17"
   url: "https://wanderinginn.com/2017/04/22/2-16/"
   published: "2017-04-22"
@@ -680,7 +1016,11 @@
     webVolume: 2
     eBook: 2
     audioBook: 2
-- index: 86
+  order:
+    webVolume: 85
+    eBook: 85
+    audioBook: 85
+- id: "ch-0086"
   title: "2.18"
   url: "https://wanderinginn.com/2017/04/25/2-17/"
   published: "2017-04-25"
@@ -688,7 +1028,11 @@
     webVolume: 2
     eBook: 2
     audioBook: 2
-- index: 87
+  order:
+    webVolume: 86
+    eBook: 86
+    audioBook: 86
+- id: "ch-0087"
   title: "2.19 G"
   url: "https://wanderinginn.com/2017/04/27/2-01-g/"
   published: "2017-04-27"
@@ -696,7 +1040,11 @@
     webVolume: 2
     eBook: 2
     audioBook: 2
-- index: 88
+  order:
+    webVolume: 87
+    eBook: 87
+    audioBook: 87
+- id: "ch-0088"
   title: "2.20"
   url: "https://wanderinginn.com/2017/04/29/2-18/"
   published: "2017-04-29"
@@ -704,7 +1052,11 @@
     webVolume: 2
     eBook: 2
     audioBook: 2
-- index: 89
+  order:
+    webVolume: 88
+    eBook: 88
+    audioBook: 88
+- id: "ch-0089"
   title: "2.21"
   url: "https://wanderinginn.com/2017/05/03/2-19/"
   published: "2017-05-03"
@@ -712,7 +1064,11 @@
     webVolume: 2
     eBook: 2
     audioBook: 2
-- index: 90
+  order:
+    webVolume: 89
+    eBook: 89
+    audioBook: 89
+- id: "ch-0090"
   title: "2.22 K"
   url: "https://wanderinginn.com/2017/05/05/2-00-k/"
   published: "2017-05-05"
@@ -720,7 +1076,11 @@
     webVolume: 2
     eBook: 2
     audioBook: 2
-- index: 91
+  order:
+    webVolume: 90
+    eBook: 90
+    audioBook: 90
+- id: "ch-0091"
   title: "2.23"
   url: "https://wanderinginn.com/2017/05/07/2-20/"
   published: "2017-05-07"
@@ -728,7 +1088,11 @@
     webVolume: 2
     eBook: 2
     audioBook: 2
-- index: 92
+  order:
+    webVolume: 91
+    eBook: 91
+    audioBook: 91
+- id: "ch-0092"
   title: "2.24 T"
   url: "https://wanderinginn.com/2017/05/10/2-01-t/"
   published: "2017-05-10"
@@ -736,7 +1100,11 @@
     webVolume: 2
     eBook: 2
     audioBook: 2
-- index: 93
+  order:
+    webVolume: 92
+    eBook: 92
+    audioBook: 92
+- id: "ch-0093"
   title: "2.25"
   url: "https://wanderinginn.com/2017/05/14/2-21/"
   published: "2017-05-14"
@@ -744,7 +1112,11 @@
     webVolume: 2
     eBook: 2
     audioBook: 2
-- index: 94
+  order:
+    webVolume: 93
+    eBook: 93
+    audioBook: 93
+- id: "ch-0094"
   title: "2.26"
   url: "https://wanderinginn.com/2017/05/17/2-22/"
   published: "2017-05-17"
@@ -752,7 +1124,11 @@
     webVolume: 2
     eBook: 2
     audioBook: 2
-- index: 95
+  order:
+    webVolume: 94
+    eBook: 94
+    audioBook: 94
+- id: "ch-0095"
   title: "1.00 C"
   url: "https://wanderinginn.com/2017/04/25/1-00-c/"
   published: "2017-04-25"
@@ -760,7 +1136,11 @@
     webVolume: 2
     eBook: 2
     audioBook: 2
-- index: 96
+  order:
+    webVolume: 95
+    eBook: 95
+    audioBook: 95
+- id: "ch-0096"
   title: "1.01 C"
   url: "https://wanderinginn.com/2017/04/26/1-01-c/"
   published: "2017-04-26"
@@ -768,7 +1148,11 @@
     webVolume: 2
     eBook: 2
     audioBook: 2
-- index: 97
+  order:
+    webVolume: 96
+    eBook: 96
+    audioBook: 96
+- id: "ch-0097"
   title: "2.27 G"
   url: "https://wanderinginn.com/2017/05/21/2-02-g/"
   published: "2017-05-21"
@@ -776,7 +1160,11 @@
     webVolume: 2
     eBook: 2
     audioBook: 2
-- index: 98
+  order:
+    webVolume: 97
+    eBook: 97
+    audioBook: 97
+- id: "ch-0098"
   title: "2.28"
   url: "https://wanderinginn.com/2017/05/24/2-23/"
   published: "2017-05-24"
@@ -784,7 +1172,11 @@
     webVolume: 2
     eBook: 2
     audioBook: 2
-- index: 99
+  order:
+    webVolume: 98
+    eBook: 98
+    audioBook: 98
+- id: "ch-0099"
   title: "2.29"
   url: "https://wanderinginn.com/2017/05/26/2-24/"
   published: "2017-05-26"
@@ -792,7 +1184,11 @@
     webVolume: 2
     eBook: 2
     audioBook: 2
-- index: 100
+  order:
+    webVolume: 99
+    eBook: 99
+    audioBook: 99
+- id: "ch-0100"
   title: "2.30"
   url: "https://wanderinginn.com/2017/05/28/2-25/"
   published: "2017-05-28"
@@ -800,7 +1196,11 @@
     webVolume: 2
     eBook: 2
     audioBook: 2
-- index: 101
+  order:
+    webVolume: 100
+    eBook: 100
+    audioBook: 100
+- id: "ch-0101"
   title: "2.31"
   url: "https://wanderinginn.com/2017/05/31/2-26/"
   published: "2017-05-31"
@@ -808,7 +1208,11 @@
     webVolume: 2
     eBook: 2
     audioBook: 2
-- index: 102
+  order:
+    webVolume: 101
+    eBook: 101
+    audioBook: 101
+- id: "ch-0102"
   title: "2.32 H"
   url: "https://wanderinginn.com/2017/06/04/2-00-h/"
   published: "2017-06-04"
@@ -816,7 +1220,11 @@
     webVolume: 2
     eBook: 2
     audioBook: 2
-- index: 103
+  order:
+    webVolume: 102
+    eBook: 102
+    audioBook: 102
+- id: "ch-0103"
   title: "2.33"
   url: "https://wanderinginn.com/2017/06/07/2-27/"
   published: "2017-06-07"
@@ -824,7 +1232,11 @@
     webVolume: 2
     eBook: 2
     audioBook: 2
-- index: 104
+  order:
+    webVolume: 103
+    eBook: 103
+    audioBook: 103
+- id: "ch-0104"
   title: "2.34"
   url: "https://wanderinginn.com/2017/06/09/2-28/"
   published: "2017-06-09"
@@ -832,7 +1244,11 @@
     webVolume: 2
     eBook: 2
     audioBook: 2
-- index: 105
+  order:
+    webVolume: 104
+    eBook: 104
+    audioBook: 104
+- id: "ch-0105"
   title: "2.35"
   url: "https://wanderinginn.com/2017/06/11/2-29/"
   published: "2017-06-11"
@@ -840,7 +1256,11 @@
     webVolume: 2
     eBook: 2
     audioBook: 2
-- index: 106
+  order:
+    webVolume: 105
+    eBook: 105
+    audioBook: 105
+- id: "ch-0106"
   title: "2.36 G"
   url: "https://wanderinginn.com/2017/06/14/2-03-g/"
   published: "2017-06-14"
@@ -848,7 +1268,11 @@
     webVolume: 2
     eBook: 2
     audioBook: 2
-- index: 107
+  order:
+    webVolume: 106
+    eBook: 106
+    audioBook: 106
+- id: "ch-0107"
   title: "2.37"
   url: "https://wanderinginn.com/2017/06/18/2-30/"
   published: "2017-06-18"
@@ -856,7 +1280,11 @@
     webVolume: 2
     eBook: 2
     audioBook: 2
-- index: 108
+  order:
+    webVolume: 107
+    eBook: 107
+    audioBook: 107
+- id: "ch-0108"
   title: "2.38"
   url: "https://wanderinginn.com/2017/06/21/2-31/"
   published: "2017-06-21"
@@ -864,7 +1292,11 @@
     webVolume: 2
     eBook: 2
     audioBook: 2
-- index: 109
+  order:
+    webVolume: 108
+    eBook: 108
+    audioBook: 108
+- id: "ch-0109"
   title: "Interlude"
   url: "https://wanderinginn.com/2017/06/24/interlude-3/"
   published: "2017-06-24"
@@ -872,7 +1304,11 @@
     webVolume: 2
     eBook: 2
     audioBook: 2
-- index: 110
+  order:
+    webVolume: 109
+    eBook: 109
+    audioBook: 109
+- id: "ch-0110"
   title: "S02 – The Antinium Wars (Pt.1)"
   url: "https://wanderinginn.com/2017/05/28/s02-the-antinium-wars-pt-1/"
   published: "2017-05-28"
@@ -880,7 +1316,11 @@
     webVolume: 2
     eBook: 2
     audioBook: 2
-- index: 111
+  order:
+    webVolume: 110
+    eBook: 110
+    audioBook: 110
+- id: "ch-0111"
   title: "S02 – The Antinium Wars (Pt.2)"
   url: "https://wanderinginn.com/2017/05/31/s02-the-antinium-wars-pt-2/"
   published: "2017-05-31"
@@ -888,7 +1328,11 @@
     webVolume: 2
     eBook: 2
     audioBook: 2
-- index: 112
+  order:
+    webVolume: 111
+    eBook: 111
+    audioBook: 111
+- id: "ch-0112"
   title: "2.39"
   url: "https://wanderinginn.com/2017/06/27/2-32/"
   published: "2017-06-27"
@@ -896,7 +1340,11 @@
     webVolume: 2
     eBook: 2
     audioBook: 2
-- index: 113
+  order:
+    webVolume: 112
+    eBook: 112
+    audioBook: 112
+- id: "ch-0113"
   title: "2.40"
   url: "https://wanderinginn.com/2017/07/01/2-33/"
   published: "2017-07-01"
@@ -904,7 +1352,11 @@
     webVolume: 2
     eBook: 2
     audioBook: 2
-- index: 114
+  order:
+    webVolume: 113
+    eBook: 113
+    audioBook: 113
+- id: "ch-0114"
   title: "2.41"
   url: "https://wanderinginn.com/2017/07/04/2-34/"
   published: "2017-07-04"
@@ -912,7 +1364,11 @@
     webVolume: 2
     eBook: 2
     audioBook: 2
-- index: 115
+  order:
+    webVolume: 114
+    eBook: 114
+    audioBook: 114
+- id: "ch-0115"
   title: "2.42"
   url: "https://wanderinginn.com/2017/07/08/2-35/"
   published: "2017-07-08"
@@ -920,7 +1376,11 @@
     webVolume: 2
     eBook: 2
     audioBook: 2
-- index: 116
+  order:
+    webVolume: 115
+    eBook: 115
+    audioBook: 115
+- id: "ch-0116"
   title: "2.43"
   url: "https://wanderinginn.com/2017/07/11/2-36/"
   published: "2017-07-11"
@@ -928,7 +1388,11 @@
     webVolume: 2
     eBook: 2
     audioBook: 2
-- index: 117
+  order:
+    webVolume: 116
+    eBook: 116
+    audioBook: 116
+- id: "ch-0117"
   title: "2.44"
   url: "https://wanderinginn.com/2017/07/15/2-37/"
   published: "2017-07-15"
@@ -936,7 +1400,11 @@
     webVolume: 2
     eBook: 2
     audioBook: 2
-- index: 118
+  order:
+    webVolume: 117
+    eBook: 117
+    audioBook: 117
+- id: "ch-0118"
   title: "2.45"
   url: "https://wanderinginn.com/2017/07/18/2-38/"
   published: "2017-07-18"
@@ -944,7 +1412,11 @@
     webVolume: 2
     eBook: 2
     audioBook: 2
-- index: 119
+  order:
+    webVolume: 118
+    eBook: 118
+    audioBook: 118
+- id: "ch-0119"
   title: "S03 – Wistram Days (Pt. 1)"
   url: "https://wanderinginn.com/2017/06/30/s03-wistram-days-pt-1/"
   published: "2017-06-30"
@@ -952,7 +1424,11 @@
     webVolume: 2
     eBook: 4
     audioBook: 4
-- index: 120
+  order:
+    webVolume: 119
+    eBook: 156
+    audioBook: 156
+- id: "ch-0120"
   title: "2.46"
   url: "https://wanderinginn.com/2017/07/22/2-39/"
   published: "2017-07-22"
@@ -960,7 +1436,11 @@
     webVolume: 2
     eBook: 2
     audioBook: 2
-- index: 121
+  order:
+    webVolume: 120
+    eBook: 119
+    audioBook: 119
+- id: "ch-0121"
   title: "2.47"
   url: "https://wanderinginn.com/2017/07/25/2-40/"
   published: "2017-07-25"
@@ -968,7 +1448,11 @@
     webVolume: 2
     eBook: 2
     audioBook: 2
-- index: 122
+  order:
+    webVolume: 121
+    eBook: 120
+    audioBook: 120
+- id: "ch-0122"
   title: "2.48"
   url: "https://wanderinginn.com/2017/07/29/2-41/"
   published: "2017-07-29"
@@ -976,7 +1460,11 @@
     webVolume: 2
     eBook: 2
     audioBook: 2
-- index: 123
+  order:
+    webVolume: 122
+    eBook: 121
+    audioBook: 121
+- id: "ch-0123"
   title: "3.00 E"
   url: "https://wanderinginn.com/2017/08/01/3-00-e/"
   published: "2017-08-01"
@@ -984,7 +1472,11 @@
     webVolume: 3
     eBook: 3
     audioBook: 3
-- index: 124
+  order:
+    webVolume: 123
+    eBook: 122
+    audioBook: 122
+- id: "ch-0124"
   title: "3.01 E"
   url: "https://wanderinginn.com/2017/08/05/3-01-e/"
   published: "2017-08-05"
@@ -992,7 +1484,11 @@
     webVolume: 3
     eBook: 3
     audioBook: 3
-- index: 125
+  order:
+    webVolume: 124
+    eBook: 123
+    audioBook: 123
+- id: "ch-0125"
   title: "3.02 H"
   url: "https://wanderinginn.com/2017/08/08/3-02-h/"
   published: "2017-08-08"
@@ -1000,7 +1496,11 @@
     webVolume: 3
     eBook: 3
     audioBook: 3
-- index: 126
+  order:
+    webVolume: 125
+    eBook: 124
+    audioBook: 124
+- id: "ch-0126"
   title: "3.03"
   url: "https://wanderinginn.com/2017/08/12/3-03/"
   published: "2017-08-12"
@@ -1008,7 +1508,11 @@
     webVolume: 3
     eBook: 3
     audioBook: 3
-- index: 127
+  order:
+    webVolume: 126
+    eBook: 125
+    audioBook: 125
+- id: "ch-0127"
   title: "3.04"
   url: "https://wanderinginn.com/2017/08/15/3-04/"
   published: "2017-08-15"
@@ -1016,7 +1520,11 @@
     webVolume: 3
     eBook: 3
     audioBook: 3
-- index: 128
+  order:
+    webVolume: 127
+    eBook: 126
+    audioBook: 126
+- id: "ch-0128"
   title: "3.05 L"
   url: "https://wanderinginn.com/2017/08/19/3-05-l/"
   published: "2017-08-19"
@@ -1024,7 +1532,11 @@
     webVolume: 3
     eBook: 3
     audioBook: 3
-- index: 129
+  order:
+    webVolume: 128
+    eBook: 127
+    audioBook: 127
+- id: "ch-0129"
   title: "1.00 D"
   url: "https://wanderinginn.com/2017/07/14/1-00-d/"
   published: "2017-07-14"
@@ -1032,7 +1544,11 @@
     webVolume: 3
     eBook: 3
     audioBook: 3
-- index: 130
+  order:
+    webVolume: 129
+    eBook: 128
+    audioBook: 128
+- id: "ch-0130"
   title: "1.01 D"
   url: "https://wanderinginn.com/2017/07/14/1-01-d/"
   published: "2017-07-14"
@@ -1040,7 +1556,11 @@
     webVolume: 3
     eBook: 3
     audioBook: 3
-- index: 131
+  order:
+    webVolume: 130
+    eBook: 129
+    audioBook: 129
+- id: "ch-0131"
   title: "3.06 L"
   url: "https://wanderinginn.com/2017/08/22/3-06-l/"
   published: "2017-08-22"
@@ -1048,7 +1568,11 @@
     webVolume: 3
     eBook: 3
     audioBook: 3
-- index: 132
+  order:
+    webVolume: 131
+    eBook: 130
+    audioBook: 130
+- id: "ch-0132"
   title: "3.07 H"
   url: "https://wanderinginn.com/2017/08/26/3-07-h/"
   published: "2017-08-26"
@@ -1056,7 +1580,11 @@
     webVolume: 3
     eBook: 3
     audioBook: 3
-- index: 133
+  order:
+    webVolume: 132
+    eBook: 131
+    audioBook: 131
+- id: "ch-0133"
   title: "3.08 H"
   url: "https://wanderinginn.com/2017/08/29/3-08-h/"
   published: "2017-08-29"
@@ -1064,7 +1592,11 @@
     webVolume: 3
     eBook: 3
     audioBook: 3
-- index: 134
+  order:
+    webVolume: 133
+    eBook: 132
+    audioBook: 132
+- id: "ch-0134"
   title: "3.09"
   url: "https://wanderinginn.com/2017/09/02/3-09/"
   published: "2017-09-02"
@@ -1072,7 +1604,11 @@
     webVolume: 3
     eBook: 3
     audioBook: 3
-- index: 135
+  order:
+    webVolume: 134
+    eBook: 133
+    audioBook: 133
+- id: "ch-0135"
   title: "3.10"
   url: "https://wanderinginn.com/2017/09/05/3-10/"
   published: "2017-09-05"
@@ -1080,7 +1616,11 @@
     webVolume: 3
     eBook: 3
     audioBook: 3
-- index: 136
+  order:
+    webVolume: 135
+    eBook: 134
+    audioBook: 134
+- id: "ch-0136"
   title: "3.11 E"
   url: "https://wanderinginn.com/2017/09/09/3-11-e/"
   published: "2017-09-09"
@@ -1088,7 +1628,11 @@
     webVolume: 3
     eBook: 3
     audioBook: 3
-- index: 137
+  order:
+    webVolume: 136
+    eBook: 135
+    audioBook: 135
+- id: "ch-0137"
   title: "3.12 E"
   url: "https://wanderinginn.com/2017/09/12/3-12-e/"
   published: "2017-09-12"
@@ -1096,7 +1640,11 @@
     webVolume: 3
     eBook: 3
     audioBook: 3
-- index: 138
+  order:
+    webVolume: 137
+    eBook: 136
+    audioBook: 136
+- id: "ch-0138"
   title: "3.13"
   url: "https://wanderinginn.com/2017/09/16/3-13/"
   published: "2017-09-16"
@@ -1104,7 +1652,11 @@
     webVolume: 3
     eBook: 3
     audioBook: 3
-- index: 139
+  order:
+    webVolume: 138
+    eBook: 137
+    audioBook: 137
+- id: "ch-0139"
   title: "3.14"
   url: "https://wanderinginn.com/2017/09/19/3-14/"
   published: "2017-09-19"
@@ -1112,7 +1664,11 @@
     webVolume: 3
     eBook: 3
     audioBook: 3
-- index: 140
+  order:
+    webVolume: 139
+    eBook: 138
+    audioBook: 138
+- id: "ch-0140"
   title: "3.15"
   url: "https://wanderinginn.com/2017/09/23/3-15/"
   published: "2017-09-23"
@@ -1120,7 +1676,11 @@
     webVolume: 3
     eBook: 3
     audioBook: 3
-- index: 141
+  order:
+    webVolume: 140
+    eBook: 139
+    audioBook: 139
+- id: "ch-0141"
   title: "3.16"
   url: "https://wanderinginn.com/2017/09/26/3-16"
   published: "2017-09-26"
@@ -1128,7 +1688,11 @@
     webVolume: 3
     eBook: 3
     audioBook: 3
-- index: 142
+  order:
+    webVolume: 141
+    eBook: 140
+    audioBook: 140
+- id: "ch-0142"
   title: "S03 – Wistram Days (Pt. 2)"
   url: "https://wanderinginn.com/2017/08/31/s03-wistram-days-pt-2"
   published: "2017-08-31"
@@ -1136,7 +1700,11 @@
     webVolume: 3
     eBook: 4
     audioBook: 4
-- index: 143
+  order:
+    webVolume: 142
+    eBook: 157
+    audioBook: 157
+- id: "ch-0143"
   title: "3.17 T"
   url: "https://wanderinginn.com/2017/09/27/3-17-t/"
   published: "2017-09-27"
@@ -1144,7 +1712,11 @@
     webVolume: 3
     eBook: 3
     audioBook: 3
-- index: 144
+  order:
+    webVolume: 143
+    eBook: 141
+    audioBook: 141
+- id: "ch-0144"
   title: "3.18 T"
   url: "https://wanderinginn.com/2017/09/28/3-18-t/"
   published: "2017-09-28"
@@ -1152,7 +1724,11 @@
     webVolume: 3
     eBook: 3
     audioBook: 3
-- index: 145
+  order:
+    webVolume: 144
+    eBook: 142
+    audioBook: 142
+- id: "ch-0145"
   title: "3.19 T"
   url: "https://wanderinginn.com/2017/09/30/3-19-t/"
   published: "2017-09-30"
@@ -1160,7 +1736,11 @@
     webVolume: 3
     eBook: 3
     audioBook: 3
-- index: 146
+  order:
+    webVolume: 145
+    eBook: 143
+    audioBook: 143
+- id: "ch-0146"
   title: "3.20 T"
   url: "https://wanderinginn.com/2017/10/03/3-20-t/"
   published: "2017-10-03"
@@ -1168,7 +1748,11 @@
     webVolume: 3
     eBook: 3
     audioBook: 3
-- index: 147
+  order:
+    webVolume: 146
+    eBook: 144
+    audioBook: 144
+- id: "ch-0147"
   title: "3.21 L"
   url: "https://wanderinginn.com/2017/10/07/3-21-l/"
   published: "2017-10-07"
@@ -1176,7 +1760,11 @@
     webVolume: 3
     eBook: 3
     audioBook: 3
-- index: 148
+  order:
+    webVolume: 147
+    eBook: 145
+    audioBook: 145
+- id: "ch-0148"
   title: "3.22 L"
   url: "https://wanderinginn.com/2017/10/10/3-22-l/"
   published: "2017-10-10"
@@ -1184,7 +1772,11 @@
     webVolume: 3
     eBook: 3
     audioBook: 3
-- index: 149
+  order:
+    webVolume: 148
+    eBook: 146
+    audioBook: 146
+- id: "ch-0149"
   title: "3.23 L"
   url: "https://wanderinginn.com/2017/10/14/3-23-l/"
   published: "2017-10-14"
@@ -1192,7 +1784,11 @@
     webVolume: 3
     eBook: 3
     audioBook: 3
-- index: 150
+  order:
+    webVolume: 149
+    eBook: 147
+    audioBook: 147
+- id: "ch-0150"
   title: "3.24"
   url: "https://wanderinginn.com/2017/10/17/3-24/"
   published: "2017-10-17"
@@ -1200,7 +1796,11 @@
     webVolume: 3
     eBook: 3
     audioBook: 3
-- index: 151
+  order:
+    webVolume: 150
+    eBook: 148
+    audioBook: 148
+- id: "ch-0151"
   title: "3.25"
   url: "https://wanderinginn.com/2017/10/21/3-25/"
   published: "2017-10-21"
@@ -1208,7 +1808,11 @@
     webVolume: 3
     eBook: 3
     audioBook: 3
-- index: 152
+  order:
+    webVolume: 151
+    eBook: 149
+    audioBook: 149
+- id: "ch-0152"
   title: "3.26 G"
   url: "https://wanderinginn.com/2017/10/24/3-26-g/"
   published: "2017-10-24"
@@ -1216,7 +1820,11 @@
     webVolume: 3
     eBook: 4
     audioBook: 4
-- index: 153
+  order:
+    webVolume: 152
+    eBook: 150
+    audioBook: 150
+- id: "ch-0153"
   title: "3.27 M"
   url: "https://wanderinginn.com/2017/10/26/3-27-m/"
   published: "2017-10-26"
@@ -1224,7 +1832,11 @@
     webVolume: 3
     eBook: 4
     audioBook: 4
-- index: 154
+  order:
+    webVolume: 153
+    eBook: 151
+    audioBook: 151
+- id: "ch-0154"
   title: "3.28 G"
   url: "https://wanderinginn.com/2017/10/28/3-28-g/"
   published: "2017-10-28"
@@ -1232,7 +1844,11 @@
     webVolume: 3
     eBook: 4
     audioBook: 4
-- index: 155
+  order:
+    webVolume: 154
+    eBook: 152
+    audioBook: 152
+- id: "ch-0155"
   title: "3.29 G"
   url: "https://wanderinginn.com/2017/10/31/3-29-g/"
   published: "2017-10-31"
@@ -1240,7 +1856,11 @@
     webVolume: 3
     eBook: 4
     audioBook: 4
-- index: 156
+  order:
+    webVolume: 155
+    eBook: 153
+    audioBook: 153
+- id: "ch-0156"
   title: "3.30"
   url: "https://wanderinginn.com/2017/11/04/3-30/"
   published: "2017-11-04"
@@ -1248,7 +1868,11 @@
     webVolume: 3
     eBook: 4
     audioBook: 4
-- index: 157
+  order:
+    webVolume: 156
+    eBook: 154
+    audioBook: 154
+- id: "ch-0157"
   title: "3.31 G"
   url: "https://wanderinginn.com/2017/11/07/3-31-g/"
   published: "2017-11-07"
@@ -1256,7 +1880,11 @@
     webVolume: 3
     eBook: 4
     audioBook: 4
-- index: 158
+  order:
+    webVolume: 157
+    eBook: 155
+    audioBook: 155
+- id: "ch-0158"
   title: "S03 – Wistram Days (Pt. 3)"
   url: "https://wanderinginn.com/2017/11/11/wistram-days-pt-3/"
   published: "2017-11-11"
@@ -1264,7 +1892,11 @@
     webVolume: 3
     eBook: 4
     audioBook: 4
-- index: 159
+  order:
+    webVolume: 158
+    eBook: 158
+    audioBook: 158
+- id: "ch-0159"
   title: "S03 – Wistram Days (Pt. 4)"
   url: "https://wanderinginn.com/2017/11/12/wistram-days-pt-4/"
   published: "2017-11-12"
@@ -1272,7 +1904,11 @@
     webVolume: 3
     eBook: 4
     audioBook: 4
-- index: 160
+  order:
+    webVolume: 159
+    eBook: 159
+    audioBook: 159
+- id: "ch-0160"
   title: "S03 – Wistram Days (Pt. 5)"
   url: "https://wanderinginn.com/2017/11/14/wistram-days-pt-5/"
   published: "2017-11-14"
@@ -1280,7 +1916,11 @@
     webVolume: 3
     eBook: 4
     audioBook: 4
-- index: 161
+  order:
+    webVolume: 160
+    eBook: 160
+    audioBook: 160
+- id: "ch-0161"
   title: "S03 – Wistram Days (Pt. 6)"
   url: "https://wanderinginn.com/2017/11/18/wistram-days-pt-6/"
   published: "2017-11-18"
@@ -1288,7 +1928,11 @@
     webVolume: 3
     eBook: 4
     audioBook: 4
-- index: 162
+  order:
+    webVolume: 161
+    eBook: 161
+    audioBook: 161
+- id: "ch-0162"
   title: "S03 – Wistram Days (Pt. 7)"
   url: "https://wanderinginn.com/2017/11/21/wistram-days-pt-7/"
   published: "2017-11-21"
@@ -1296,7 +1940,11 @@
     webVolume: 3
     eBook: 4
     audioBook: 4
-- index: 163
+  order:
+    webVolume: 162
+    eBook: 162
+    audioBook: 162
+- id: "ch-0163"
   title: "3.32"
   url: "https://wanderinginn.com/2017/11/25/3-32/"
   published: "2017-11-25"
@@ -1304,7 +1952,11 @@
     webVolume: 3
     eBook: 4
     audioBook: 4
-- index: 164
+  order:
+    webVolume: 163
+    eBook: 163
+    audioBook: 163
+- id: "ch-0164"
   title: "3.33"
   url: "https://wanderinginn.com/2017/11/28/3-33/"
   published: "2017-11-28"
@@ -1312,7 +1964,11 @@
     webVolume: 3
     eBook: 4
     audioBook: 4
-- index: 165
+  order:
+    webVolume: 164
+    eBook: 164
+    audioBook: 164
+- id: "ch-0165"
   title: "3.34"
   url: "https://wanderinginn.com/2017/12/02/3-34/"
   published: "2017-12-02"
@@ -1320,7 +1976,11 @@
     webVolume: 3
     eBook: 4
     audioBook: 4
-- index: 166
+  order:
+    webVolume: 165
+    eBook: 165
+    audioBook: 165
+- id: "ch-0166"
   title: "3.35"
   url: "https://wanderinginn.com/2017/12/05/3-35/"
   published: "2017-12-05"
@@ -1328,7 +1988,11 @@
     webVolume: 3
     eBook: 4
     audioBook: 4
-- index: 167
+  order:
+    webVolume: 166
+    eBook: 166
+    audioBook: 166
+- id: "ch-0167"
   title: "3.36"
   url: "https://wanderinginn.com/2017/12/09/3-36/"
   published: "2017-12-09"
@@ -1336,7 +2000,11 @@
     webVolume: 3
     eBook: 4
     audioBook: 4
-- index: 168
+  order:
+    webVolume: 167
+    eBook: 167
+    audioBook: 167
+- id: "ch-0168"
   title: "3.37"
   url: "https://wanderinginn.com/2017/12/12/3-37/"
   published: "2017-12-12"
@@ -1344,7 +2012,11 @@
     webVolume: 3
     eBook: 4
     audioBook: 4
-- index: 169
+  order:
+    webVolume: 168
+    eBook: 168
+    audioBook: 168
+- id: "ch-0169"
   title: "3.38"
   url: "https://wanderinginn.com/2017/12/16/3-38/"
   published: "2017-12-16"
@@ -1352,7 +2024,11 @@
     webVolume: 3
     eBook: 4
     audioBook: 4
-- index: 170
+  order:
+    webVolume: 169
+    eBook: 169
+    audioBook: 169
+- id: "ch-0170"
   title: "3.39"
   url: "https://wanderinginn.com/2017/12/19/3-39/"
   published: "2017-12-19"
@@ -1360,7 +2036,11 @@
     webVolume: 3
     eBook: 4
     audioBook: 4
-- index: 171
+  order:
+    webVolume: 170
+    eBook: 170
+    audioBook: 170
+- id: "ch-0171"
   title: "3.40"
   url: "https://wanderinginn.com/2017/12/23/3-40/"
   published: "2017-12-23"
@@ -1368,7 +2048,11 @@
     webVolume: 3
     eBook: 4
     audioBook: 4
-- index: 172
+  order:
+    webVolume: 171
+    eBook: 171
+    audioBook: 171
+- id: "ch-0172"
   title: "3.41"
   url: "https://wanderinginn.com/2017/12/25/3-41"
   published: "2017-12-25"
@@ -1376,7 +2060,11 @@
     webVolume: 3
     eBook: 4
     audioBook: 4
-- index: 173
+  order:
+    webVolume: 172
+    eBook: 172
+    audioBook: 172
+- id: "ch-0173"
   title: "3.42"
   url: "https://wanderinginn.com/2017/12/26/3-42/"
   published: "2017-12-26"
@@ -1384,7 +2072,11 @@
     webVolume: 3
     eBook: 4
     audioBook: 4
-- index: 174
+  order:
+    webVolume: 173
+    eBook: 173
+    audioBook: 173
+- id: "ch-0174"
   title: "Interlude"
   url: "https://wanderinginn.com/2017/12/30/interlude-4/"
   published: "2017-12-30"
@@ -1392,7 +2084,11 @@
     webVolume: 3
     eBook: 4
     audioBook: 4
-- index: 175
+  order:
+    webVolume: 174
+    eBook: 174
+    audioBook: 174
+- id: "ch-0175"
   title: "4.00 K"
   url: "https://wanderinginn.com/2018/01/06/4-00-k/"
   published: "2018-01-06"
@@ -1400,7 +2096,11 @@
     webVolume: 4
     eBook: 5
     audioBook: 5
-- index: 176
+  order:
+    webVolume: 175
+    eBook: 175
+    audioBook: 175
+- id: "ch-0176"
   title: "4.01 K"
   url: "https://wanderinginn.com/2018/01/09/4-01-k/"
   published: "2018-01-09"
@@ -1408,7 +2108,11 @@
     webVolume: 4
     eBook: 5
     audioBook: 5
-- index: 177
+  order:
+    webVolume: 176
+    eBook: 176
+    audioBook: 176
+- id: "ch-0177"
   title: "4.02 K"
   url: "https://wanderinginn.com/2018/01/13/4-02-k/"
   published: "2018-01-13"
@@ -1416,7 +2120,11 @@
     webVolume: 4
     eBook: 5
     audioBook: 5
-- index: 178
+  order:
+    webVolume: 177
+    eBook: 177
+    audioBook: 177
+- id: "ch-0178"
   title: "4.03 K"
   url: "https://wanderinginn.com/2018/01/16/4-03-k/"
   published: "2018-01-16"
@@ -1424,7 +2132,11 @@
     webVolume: 4
     eBook: 5
     audioBook: 5
-- index: 179
+  order:
+    webVolume: 178
+    eBook: 178
+    audioBook: 178
+- id: "ch-0179"
   title: "4.04 K"
   url: "https://wanderinginn.com/2018/01/20/4-04-k/"
   published: "2018-01-20"
@@ -1432,7 +2144,11 @@
     webVolume: 4
     eBook: 5
     audioBook: 5
-- index: 180
+  order:
+    webVolume: 179
+    eBook: 179
+    audioBook: 179
+- id: "ch-0180"
   title: "4.05 K"
   url: "https://wanderinginn.com/2018/01/23/4-05-k/"
   published: "2018-01-23"
@@ -1440,7 +2156,11 @@
     webVolume: 4
     eBook: 5
     audioBook: 5
-- index: 181
+  order:
+    webVolume: 180
+    eBook: 180
+    audioBook: 180
+- id: "ch-0181"
   title: "4.06 KM"
   url: "https://wanderinginn.com/2018/01/27/4-06-km/"
   published: "2018-01-27"
@@ -1448,7 +2168,11 @@
     webVolume: 4
     eBook: 5
     audioBook: 5
-- index: 182
+  order:
+    webVolume: 181
+    eBook: 181
+    audioBook: 181
+- id: "ch-0182"
   title: "4.07"
   url: "https://wanderinginn.com/2018/01/30/4-07/"
   published: "2018-01-30"
@@ -1456,7 +2180,11 @@
     webVolume: 4
     eBook: 5
     audioBook: 5
-- index: 183
+  order:
+    webVolume: 182
+    eBook: 182
+    audioBook: 182
+- id: "ch-0183"
   title: "4.08 T"
   url: "https://wanderinginn.com/2018/02/01/4-08-t/"
   published: "2018-02-01"
@@ -1464,7 +2192,11 @@
     webVolume: 4
     eBook: 5
     audioBook: 5
-- index: 184
+  order:
+    webVolume: 183
+    eBook: 183
+    audioBook: 183
+- id: "ch-0184"
   title: "4.09"
   url: "https://wanderinginn.com/2018/02/03/4-09/"
   published: "2018-02-03"
@@ -1472,7 +2204,11 @@
     webVolume: 4
     eBook: 5
     audioBook: 5
-- index: 185
+  order:
+    webVolume: 184
+    eBook: 184
+    audioBook: 184
+- id: "ch-0185"
   title: "4.10"
   url: "https://wanderinginn.com/2018/02/06/4-10/"
   published: "2018-02-06"
@@ -1480,7 +2216,11 @@
     webVolume: 4
     eBook: 5
     audioBook: 5
-- index: 186
+  order:
+    webVolume: 185
+    eBook: 185
+    audioBook: 185
+- id: "ch-0186"
   title: "4.11"
   url: "https://wanderinginn.com/2018/02/10/4-11/"
   published: "2018-02-10"
@@ -1488,7 +2228,11 @@
     webVolume: 4
     eBook: 5
     audioBook: 5
-- index: 187
+  order:
+    webVolume: 186
+    eBook: 186
+    audioBook: 186
+- id: "ch-0187"
   title: "4.12"
   url: "https://wanderinginn.com/2018/02/13/4-12/"
   published: "2018-02-13"
@@ -1496,7 +2240,11 @@
     webVolume: 4
     eBook: 5
     audioBook: 5
-- index: 188
+  order:
+    webVolume: 187
+    eBook: 187
+    audioBook: 187
+- id: "ch-0188"
   title: "4.13 L"
   url: "https://wanderinginn.com/2018/02/17/4-13-l/"
   published: "2018-02-17"
@@ -1504,7 +2252,11 @@
     webVolume: 4
     eBook: 5
     audioBook: 5
-- index: 189
+  order:
+    webVolume: 188
+    eBook: 188
+    audioBook: 188
+- id: "ch-0189"
   title: "4.14 L"
   url: "https://wanderinginn.com/2018/02/20/4-14-l/"
   published: "2018-02-20"
@@ -1512,7 +2264,11 @@
     webVolume: 4
     eBook: 5
     audioBook: 5
-- index: 190
+  order:
+    webVolume: 189
+    eBook: 189
+    audioBook: 189
+- id: "ch-0190"
   title: "4.15 L"
   url: "https://wanderinginn.com/2018/02/20/4-15-l/"
   published: "2018-02-20"
@@ -1520,7 +2276,11 @@
     webVolume: 4
     eBook: 5
     audioBook: 5
-- index: 191
+  order:
+    webVolume: 190
+    eBook: 190
+    audioBook: 190
+- id: "ch-0191"
   title: "4.16"
   url: "https://wanderinginn.com/2018/02/24/4-16/"
   published: "2018-02-24"
@@ -1528,7 +2288,11 @@
     webVolume: 4
     eBook: 5
     audioBook: 5
-- index: 192
+  order:
+    webVolume: 191
+    eBook: 191
+    audioBook: 191
+- id: "ch-0192"
   title: "4.17"
   url: "https://wanderinginn.com/2018/02/27/4-17/"
   published: "2018-02-27"
@@ -1536,7 +2300,11 @@
     webVolume: 4
     eBook: 5
     audioBook: 5
-- index: 193
+  order:
+    webVolume: 192
+    eBook: 192
+    audioBook: 192
+- id: "ch-0193"
   title: "1.02 D"
   url: "https://wanderinginn.com/2018/03/01/1-02-d/"
   published: "2018-03-01"
@@ -1544,7 +2312,11 @@
     webVolume: 4
     eBook: 5
     audioBook: 5
-- index: 194
+  order:
+    webVolume: 193
+    eBook: 193
+    audioBook: 193
+- id: "ch-0194"
   title: "1.03 D"
   url: "https://wanderinginn.com/2018/03/03/1-03-d/"
   published: "2018-03-03"
@@ -1552,7 +2324,11 @@
     webVolume: 4
     eBook: 5
     audioBook: 5
-- index: 195
+  order:
+    webVolume: 194
+    eBook: 194
+    audioBook: 194
+- id: "ch-0195"
   title: "1.04 D"
   url: "https://wanderinginn.com/2018/03/06/1-04-d/"
   published: "2018-03-06"
@@ -1560,7 +2336,11 @@
     webVolume: 4
     eBook: 5
     audioBook: 5
-- index: 196
+  order:
+    webVolume: 195
+    eBook: 195
+    audioBook: 195
+- id: "ch-0196"
   title: "1.05 D"
   url: "https://wanderinginn.com/2018/03/06/1-05-d/"
   published: "2018-03-06"
@@ -1568,7 +2348,11 @@
     webVolume: 4
     eBook: 5
     audioBook: 5
-- index: 197
+  order:
+    webVolume: 196
+    eBook: 196
+    audioBook: 196
+- id: "ch-0197"
   title: "1.06 D"
   url: "https://wanderinginn.com/2018/03/10/1-06-d/"
   published: "2018-03-10"
@@ -1576,7 +2360,11 @@
     webVolume: 4
     eBook: 5
     audioBook: 5
-- index: 198
+  order:
+    webVolume: 197
+    eBook: 197
+    audioBook: 197
+- id: "ch-0198"
   title: "4.18"
   url: "https://wanderinginn.com/2018/03/13/4-18/"
   published: "2018-03-13"
@@ -1584,7 +2372,11 @@
     webVolume: 4
     eBook: 5
     audioBook: 5
-- index: 199
+  order:
+    webVolume: 198
+    eBook: 198
+    audioBook: 198
+- id: "ch-0199"
   title: "4.19"
   url: "https://wanderinginn.com/2018/03/17/4-19/"
   published: "2018-03-17"
@@ -1592,7 +2384,11 @@
     webVolume: 4
     eBook: 5
     audioBook: 5
-- index: 200
+  order:
+    webVolume: 199
+    eBook: 199
+    audioBook: 199
+- id: "ch-0200"
   title: "4.20 E"
   url: "https://wanderinginn.com/2018/03/20/4-20-e/"
   published: "2018-03-20"
@@ -1600,7 +2396,11 @@
     webVolume: 4
     eBook: 5
     audioBook: 5
-- index: 201
+  order:
+    webVolume: 200
+    eBook: 200
+    audioBook: 200
+- id: "ch-0201"
   title: "4.21 E"
   url: "https://wanderinginn.com/2018/03/24/4-21-e/"
   published: "2018-03-24"
@@ -1608,7 +2408,11 @@
     webVolume: 4
     eBook: 5
     audioBook: 5
-- index: 202
+  order:
+    webVolume: 201
+    eBook: 201
+    audioBook: 201
+- id: "ch-0202"
   title: "4.22 E"
   url: "https://wanderinginn.com/2018/03/27/4-22-e/"
   published: "2018-03-27"
@@ -1616,7 +2420,11 @@
     webVolume: 4
     eBook: 5
     audioBook: 5
-- index: 203
+  order:
+    webVolume: 202
+    eBook: 202
+    audioBook: 202
+- id: "ch-0203"
   title: "4.23 E"
   url: "https://wanderinginn.com/2018/03/27/4-23-e/"
   published: "2018-03-27"
@@ -1624,7 +2432,11 @@
     webVolume: 4
     eBook: 5
     audioBook: 5
-- index: 204
+  order:
+    webVolume: 203
+    eBook: 203
+    audioBook: 203
+- id: "ch-0204"
   title: "4.24"
   url: "https://wanderinginn.com/2018/03/31/4-24/"
   published: "2018-03-31"
@@ -1632,7 +2444,11 @@
     webVolume: 4
     eBook: 5
     audioBook: 5
-- index: 205
+  order:
+    webVolume: 204
+    eBook: 204
+    audioBook: 204
+- id: "ch-0205"
   title: "4.25 N"
   url: "https://wanderinginn.com/2018/04/03/4-25-n/"
   published: "2018-04-03"
@@ -1640,7 +2456,11 @@
     webVolume: 4
     eBook: 5
     audioBook: 5
-- index: 206
+  order:
+    webVolume: 205
+    eBook: 205
+    audioBook: 205
+- id: "ch-0206"
   title: "4.26 M"
   url: "https://wanderinginn.com/2018/04/07/4-26-m/"
   published: "2018-04-07"
@@ -1648,7 +2468,11 @@
     webVolume: 4
     eBook: 5
     audioBook: 5
-- index: 207
+  order:
+    webVolume: 206
+    eBook: 206
+    audioBook: 206
+- id: "ch-0207"
   title: "4.27 H"
   url: "https://wanderinginn.com/2018/04/10/4-27-h/"
   published: "2018-04-10"
@@ -1656,7 +2480,11 @@
     webVolume: 4
     eBook: 5
     audioBook: 5
-- index: 208
+  order:
+    webVolume: 207
+    eBook: 207
+    audioBook: 207
+- id: "ch-0208"
   title: "4.28"
   url: "https://wanderinginn.com/2018/04/14/4-28/"
   published: "2018-04-14"
@@ -1664,7 +2492,11 @@
     webVolume: 4
     eBook: 5
     audioBook: 5
-- index: 209
+  order:
+    webVolume: 208
+    eBook: 208
+    audioBook: 208
+- id: "ch-0209"
   title: "4.29"
   url: "https://wanderinginn.com/2018/04/17/4-29/"
   published: "2018-04-17"
@@ -1672,7 +2504,11 @@
     webVolume: 4
     eBook: 5
     audioBook: 5
-- index: 210
+  order:
+    webVolume: 209
+    eBook: 209
+    audioBook: 209
+- id: "ch-0210"
   title: "4.30"
   url: "https://wanderinginn.com/2018/04/21/4-30/"
   published: "2018-04-21"
@@ -1680,7 +2516,11 @@
     webVolume: 4
     eBook: 5
     audioBook: 5
-- index: 211
+  order:
+    webVolume: 210
+    eBook: 210
+    audioBook: 210
+- id: "ch-0211"
   title: "4.31"
   url: "https://wanderinginn.com/2018/04/24/4-31/"
   published: "2018-04-24"
@@ -1688,7 +2528,11 @@
     webVolume: 4
     eBook: 5
     audioBook: 5
-- index: 212
+  order:
+    webVolume: 211
+    eBook: 211
+    audioBook: 211
+- id: "ch-0212"
   title: "4.32 G"
   url: "https://wanderinginn.com/2018/04/28/4-32-g/"
   published: "2018-04-28"
@@ -1696,7 +2540,11 @@
     webVolume: 4
     eBook: 6
     audioBook: 6
-- index: 213
+  order:
+    webVolume: 212
+    eBook: 212
+    audioBook: 212
+- id: "ch-0213"
   title: "1.02 C"
   url: "https://wanderinginn.com/2018/05/01/1-02-d-2/"
   published: "2018-05-01"
@@ -1704,7 +2552,11 @@
     webVolume: 4
     eBook: 6
     audioBook: 6
-- index: 214
+  order:
+    webVolume: 213
+    eBook: 213
+    audioBook: 213
+- id: "ch-0214"
   title: "1.03 C"
   url: "https://wanderinginn.com/2018/05/01/1-03-d-2/"
   published: "2018-05-01"
@@ -1712,7 +2564,11 @@
     webVolume: 4
     eBook: 6
     audioBook: 6
-- index: 215
+  order:
+    webVolume: 214
+    eBook: 214
+    audioBook: 214
+- id: "ch-0215"
   title: "1.04 C"
   url: "https://wanderinginn.com/2018/05/05/1-04-c/"
   published: "2018-05-05"
@@ -1720,7 +2576,11 @@
     webVolume: 4
     eBook: 6
     audioBook: 6
-- index: 216
+  order:
+    webVolume: 215
+    eBook: 215
+    audioBook: 215
+- id: "ch-0216"
   title: "1.05 C"
   url: "https://wanderinginn.com/2018/05/05/1-05-c/"
   published: "2018-05-05"
@@ -1728,7 +2588,11 @@
     webVolume: 4
     eBook: 6
     audioBook: 6
-- index: 217
+  order:
+    webVolume: 216
+    eBook: 216
+    audioBook: 216
+- id: "ch-0217"
   title: "4.33"
   url: "https://wanderinginn.com/2018/05/08/4-33/"
   published: "2018-05-08"
@@ -1736,7 +2600,11 @@
     webVolume: 4
     eBook: 6
     audioBook: 6
-- index: 218
+  order:
+    webVolume: 217
+    eBook: 217
+    audioBook: 217
+- id: "ch-0218"
   title: "4.34"
   url: "https://wanderinginn.com/2018/05/12/4-34/"
   published: "2018-05-12"
@@ -1744,7 +2612,11 @@
     webVolume: 4
     eBook: 6
     audioBook: 6
-- index: 219
+  order:
+    webVolume: 218
+    eBook: 218
+    audioBook: 218
+- id: "ch-0219"
   title: "4.35 E"
   url: "https://wanderinginn.com/2018/05/15/4-35-e/"
   published: "2018-05-15"
@@ -1752,7 +2624,11 @@
     webVolume: 4
     eBook: 6
     audioBook: 6
-- index: 220
+  order:
+    webVolume: 219
+    eBook: 219
+    audioBook: 219
+- id: "ch-0220"
   title: "4.36 O"
   url: "https://wanderinginn.com/2018/05/17/4-36-o/"
   published: "2018-05-17"
@@ -1760,7 +2636,11 @@
     webVolume: 4
     eBook: 6
     audioBook: 6
-- index: 221
+  order:
+    webVolume: 220
+    eBook: 220
+    audioBook: 220
+- id: "ch-0221"
   title: "4.37 O"
   url: "https://wanderinginn.com/2018/05/19/4-37-o/"
   published: "2018-05-19"
@@ -1768,7 +2648,11 @@
     webVolume: 4
     eBook: 6
     audioBook: 6
-- index: 222
+  order:
+    webVolume: 221
+    eBook: 221
+    audioBook: 221
+- id: "ch-0222"
   title: "4.38 B"
   url: "https://wanderinginn.com/2018/05/22/4-38-n/"
   published: "2018-05-22"
@@ -1776,7 +2660,11 @@
     webVolume: 4
     eBook: 6
     audioBook: 6
-- index: 223
+  order:
+    webVolume: 222
+    eBook: 222
+    audioBook: 222
+- id: "ch-0223"
   title: "4.39 G"
   url: "https://wanderinginn.com/2018/05/26/4-39-g/"
   published: "2018-05-26"
@@ -1784,7 +2672,11 @@
     webVolume: 4
     eBook: 6
     audioBook: 6
-- index: 224
+  order:
+    webVolume: 223
+    eBook: 223
+    audioBook: 223
+- id: "ch-0224"
   title: "4.40 L"
   url: "https://wanderinginn.com/2018/05/29/4-40-l/"
   published: "2018-05-29"
@@ -1792,7 +2684,11 @@
     webVolume: 4
     eBook: 6
     audioBook: 6
-- index: 225
+  order:
+    webVolume: 224
+    eBook: 224
+    audioBook: 224
+- id: "ch-0225"
   title: "4.41 L"
   url: "https://wanderinginn.com/2018/06/02/4-41-l/"
   published: "2018-06-02"
@@ -1800,7 +2696,11 @@
     webVolume: 4
     eBook: 6
     audioBook: 6
-- index: 226
+  order:
+    webVolume: 225
+    eBook: 225
+    audioBook: 225
+- id: "ch-0226"
   title: "4.42 L"
   url: "https://wanderinginn.com/2018/06/02/4-42-l/"
   published: "2018-06-02"
@@ -1808,7 +2708,11 @@
     webVolume: 4
     eBook: 6
     audioBook: 6
-- index: 227
+  order:
+    webVolume: 226
+    eBook: 226
+    audioBook: 226
+- id: "ch-0227"
   title: "4.43"
   url: "https://wanderinginn.com/2018/06/05/4-43/"
   published: "2018-06-05"
@@ -1816,7 +2720,11 @@
     webVolume: 4
     eBook: 6
     audioBook: 6
-- index: 228
+  order:
+    webVolume: 227
+    eBook: 227
+    audioBook: 227
+- id: "ch-0228"
   title: "4.44 M"
   url: "https://wanderinginn.com/2018/06/09/4-44-m/"
   published: "2018-06-09"
@@ -1824,7 +2732,11 @@
     webVolume: 4
     eBook: 6
     audioBook: 6
-- index: 229
+  order:
+    webVolume: 228
+    eBook: 228
+    audioBook: 228
+- id: "ch-0229"
   title: "4.45"
   url: "https://wanderinginn.com/2018/06/12/4-45/"
   published: "2018-06-12"
@@ -1832,7 +2744,11 @@
     webVolume: 4
     eBook: 6
     audioBook: 6
-- index: 230
+  order:
+    webVolume: 229
+    eBook: 229
+    audioBook: 229
+- id: "ch-0230"
   title: "4.46"
   url: "https://wanderinginn.com/2018/06/16/4-46/"
   published: "2018-06-16"
@@ -1840,7 +2756,11 @@
     webVolume: 4
     eBook: 6
     audioBook: 6
-- index: 231
+  order:
+    webVolume: 230
+    eBook: 230
+    audioBook: 230
+- id: "ch-0231"
   title: "4.47"
   url: "https://wanderinginn.com/2018/06/19/4-47/"
   published: "2018-06-19"
@@ -1848,7 +2768,11 @@
     webVolume: 4
     eBook: 6
     audioBook: 6
-- index: 232
+  order:
+    webVolume: 231
+    eBook: 231
+    audioBook: 231
+- id: "ch-0232"
   title: "S02 – The Antinium Wars (Pt.3)"
   url: "https://wanderinginn.com/2018/06/23/s02-the-antinium-wars-pt-3/"
   published: "2018-06-23"
@@ -1856,7 +2780,11 @@
     webVolume: 4
     eBook: 6
     audioBook: 6
-- index: 233
+  order:
+    webVolume: 232
+    eBook: 232
+    audioBook: 232
+- id: "ch-0233"
   title: "S02 – The Antinium Wars (Pt.4)"
   url: "https://wanderinginn.com/2018/06/26/s02-the-antinium-wars-pt-4/"
   published: "2018-06-26"
@@ -1864,7 +2792,11 @@
     webVolume: 4
     eBook: 6
     audioBook: 6
-- index: 234
+  order:
+    webVolume: 233
+    eBook: 233
+    audioBook: 233
+- id: "ch-0234"
   title: "S02 – The Antinium Wars (Pt.5)"
   url: "https://wanderinginn.com/2018/06/26/s02-the-antinium-wars-pt-5/"
   published: "2018-06-26"
@@ -1872,7 +2804,11 @@
     webVolume: 4
     eBook: 6
     audioBook: 6
-- index: 235
+  order:
+    webVolume: 234
+    eBook: 234
+    audioBook: 234
+- id: "ch-0235"
   title: "4.48"
   url: "https://wanderinginn.com/2018/06/29/4-48/"
   published: "2018-06-29"
@@ -1880,7 +2816,11 @@
     webVolume: 4
     eBook: 6
     audioBook: 6
-- index: 236
+  order:
+    webVolume: 235
+    eBook: 235
+    audioBook: 235
+- id: "ch-0236"
   title: "4.49"
   url: "https://wanderinginn.com/2018/07/07/4-49/"
   published: "2018-07-07"
@@ -1888,7 +2828,11 @@
     webVolume: 4
     eBook: 6
     audioBook: 6
-- index: 237
+  order:
+    webVolume: 236
+    eBook: 236
+    audioBook: 236
+- id: "ch-0237"
   title: "The Depthless Doctor"
   url: "https://wanderinginn.com/2018/07/09/the-depthless-doctor/"
   published: "2018-07-09"
@@ -1896,7 +2840,11 @@
     webVolume: 4
     eBook: null
     audioBook: null
-- index: 238
+  order:
+    webVolume: 237
+    eBook: null
+    audioBook: null
+- id: "ch-0238"
   title: "Glossary"
   url: "https://wanderinginn.com/2018/10/19/glossary"
   published: "2018-10-19"
@@ -1904,7 +2852,11 @@
     webVolume: 5
     eBook: null
     audioBook: null
-- index: 239
+  order:
+    webVolume: 238
+    eBook: null
+    audioBook: null
+- id: "ch-0239"
   title: "5.00"
   url: "https://wanderinginn.com/2018/07/10/5-00/"
   published: "2018-07-10"
@@ -1912,7 +2864,11 @@
     webVolume: 5
     eBook: 7
     audioBook: 7
-- index: 240
+  order:
+    webVolume: 239
+    eBook: 237
+    audioBook: 237
+- id: "ch-0240"
   title: "5.01"
   url: "https://wanderinginn.com/2018/07/14/5-01/"
   published: "2018-07-14"
@@ -1920,7 +2876,11 @@
     webVolume: 5
     eBook: 7
     audioBook: 7
-- index: 241
+  order:
+    webVolume: 240
+    eBook: 238
+    audioBook: 238
+- id: "ch-0241"
   title: "5.02"
   url: "https://wanderinginn.com/2018/07/17/5-02/"
   published: "2018-07-17"
@@ -1928,7 +2888,11 @@
     webVolume: 5
     eBook: 7
     audioBook: 7
-- index: 242
+  order:
+    webVolume: 241
+    eBook: 239
+    audioBook: 239
+- id: "ch-0242"
   title: "5.03"
   url: "https://wanderinginn.com/2018/07/21/5-03/"
   published: "2018-07-21"
@@ -1936,7 +2900,11 @@
     webVolume: 5
     eBook: 7
     audioBook: 7
-- index: 243
+  order:
+    webVolume: 242
+    eBook: 240
+    audioBook: 240
+- id: "ch-0243"
   title: "5.04"
   url: "https://wanderinginn.com/2018/07/21/5-04/"
   published: "2018-07-21"
@@ -1944,7 +2912,11 @@
     webVolume: 5
     eBook: 7
     audioBook: 7
-- index: 244
+  order:
+    webVolume: 243
+    eBook: 241
+    audioBook: 241
+- id: "ch-0244"
   title: "5.05"
   url: "https://wanderinginn.com/2018/07/24/5-05/"
   published: "2018-07-24"
@@ -1952,7 +2924,11 @@
     webVolume: 5
     eBook: 7
     audioBook: 7
-- index: 245
+  order:
+    webVolume: 244
+    eBook: 242
+    audioBook: 242
+- id: "ch-0245"
   title: "5.06 M"
   url: "https://wanderinginn.com/2018/07/27/5-06-m/"
   published: "2018-07-27"
@@ -1960,7 +2936,11 @@
     webVolume: 5
     eBook: 7
     audioBook: 7
-- index: 246
+  order:
+    webVolume: 245
+    eBook: 243
+    audioBook: 243
+- id: "ch-0246"
   title: "5.07"
   url: "https://wanderinginn.com/2018/07/28/5-07/"
   published: "2018-07-28"
@@ -1968,7 +2948,11 @@
     webVolume: 5
     eBook: 7
     audioBook: 7
-- index: 247
+  order:
+    webVolume: 246
+    eBook: 244
+    audioBook: 244
+- id: "ch-0247"
   title: "5.08"
   url: "https://wanderinginn.com/2018/07/31/5-08/"
   published: "2018-07-31"
@@ -1976,7 +2960,11 @@
     webVolume: 5
     eBook: 7
     audioBook: 7
-- index: 248
+  order:
+    webVolume: 247
+    eBook: 245
+    audioBook: 245
+- id: "ch-0248"
   title: "Interlude – Flos"
   url: "https://wanderinginn.com/2018/08/04/interlude-flos/"
   published: "2018-08-04"
@@ -1984,7 +2972,11 @@
     webVolume: 5
     eBook: 7
     audioBook: 7
-- index: 249
+  order:
+    webVolume: 248
+    eBook: 246
+    audioBook: 246
+- id: "ch-0249"
   title: "5.09 E"
   url: "https://wanderinginn.com/2018/08/07/5-09-e/"
   published: "2018-08-07"
@@ -1992,7 +2984,11 @@
     webVolume: 5
     eBook: 7
     audioBook: 7
-- index: 250
+  order:
+    webVolume: 249
+    eBook: 247
+    audioBook: 247
+- id: "ch-0250"
   title: "5.10 E"
   url: "https://wanderinginn.com/2018/08/11/5-10-e/"
   published: "2018-08-11"
@@ -2000,7 +2996,11 @@
     webVolume: 5
     eBook: 7
     audioBook: 7
-- index: 251
+  order:
+    webVolume: 250
+    eBook: 248
+    audioBook: 248
+- id: "ch-0251"
   title: "5.11 E"
   url: "https://wanderinginn.com/2018/08/14/5-11-e/"
   published: "2018-08-14"
@@ -2008,7 +3008,11 @@
     webVolume: 5
     eBook: 7
     audioBook: 7
-- index: 252
+  order:
+    webVolume: 251
+    eBook: 249
+    audioBook: 249
+- id: "ch-0252"
   title: "5.12"
   url: "https://wanderinginn.com/2018/08/18/5-12/"
   published: "2018-08-18"
@@ -2016,7 +3020,11 @@
     webVolume: 5
     eBook: 7
     audioBook: 7
-- index: 253
+  order:
+    webVolume: 252
+    eBook: 250
+    audioBook: 250
+- id: "ch-0253"
   title: "5.13"
   url: "https://wanderinginn.com/2018/08/21/5-13/"
   published: "2018-08-21"
@@ -2024,7 +3032,11 @@
     webVolume: 5
     eBook: 7
     audioBook: 7
-- index: 254
+  order:
+    webVolume: 253
+    eBook: 251
+    audioBook: 251
+- id: "ch-0254"
   title: "5.14"
   url: "https://wanderinginn.com/2018/08/25/5-14/"
   published: "2018-08-25"
@@ -2032,7 +3044,11 @@
     webVolume: 5
     eBook: 7
     audioBook: 7
-- index: 255
+  order:
+    webVolume: 254
+    eBook: 252
+    audioBook: 252
+- id: "ch-0255"
   title: "5.15"
   url: "https://wanderinginn.com/2018/08/28/5-15/"
   published: "2018-08-28"
@@ -2040,7 +3056,11 @@
     webVolume: 5
     eBook: 7
     audioBook: 7
-- index: 256
+  order:
+    webVolume: 255
+    eBook: 253
+    audioBook: 253
+- id: "ch-0256"
   title: "5.16 S"
   url: "https://wanderinginn.com/2018/09/01/5-16-s/"
   published: "2018-09-01"
@@ -2048,7 +3068,11 @@
     webVolume: 5
     eBook: 7
     audioBook: 7
-- index: 257
+  order:
+    webVolume: 256
+    eBook: 254
+    audioBook: 254
+- id: "ch-0257"
   title: "5.17 S"
   url: "https://wanderinginn.com/2018/09/01/5-17-s/"
   published: "2018-09-01"
@@ -2056,7 +3080,11 @@
     webVolume: 5
     eBook: 7
     audioBook: 7
-- index: 258
+  order:
+    webVolume: 257
+    eBook: 255
+    audioBook: 255
+- id: "ch-0258"
   title: "5.18 S"
   url: "https://wanderinginn.com/2018/09/04/5-18-s//"
   published: "2018-09-04"
@@ -2064,7 +3092,11 @@
     webVolume: 5
     eBook: 7
     audioBook: 7
-- index: 259
+  order:
+    webVolume: 258
+    eBook: 256
+    audioBook: 256
+- id: "ch-0259"
   title: "5.19 G"
   url: "https://wanderinginn.com/2018/09/08/5-19-g/"
   published: "2018-09-08"
@@ -2072,7 +3104,11 @@
     webVolume: 5
     eBook: 7
     audioBook: 7
-- index: 260
+  order:
+    webVolume: 259
+    eBook: 257
+    audioBook: 257
+- id: "ch-0260"
   title: "5.20 G"
   url: "https://wanderinginn.com/2018/09/11/5-20-g/"
   published: "2018-09-11"
@@ -2080,7 +3116,11 @@
     webVolume: 5
     eBook: 7
     audioBook: 7
-- index: 261
+  order:
+    webVolume: 260
+    eBook: 258
+    audioBook: 258
+- id: "ch-0261"
   title: "5.21 E"
   url: "https://wanderinginn.com/2018/09/15/5-21-e/"
   published: "2018-09-15"
@@ -2088,7 +3128,11 @@
     webVolume: 5
     eBook: null
     audioBook: null
-- index: 262
+  order:
+    webVolume: 261
+    eBook: null
+    audioBook: null
+- id: "ch-0262"
   title: "5.22 G"
   url: "https://wanderinginn.com/2018/09/18/5-22-g/"
   published: "2018-09-18"
@@ -2096,7 +3140,11 @@
     webVolume: 5
     eBook: null
     audioBook: null
-- index: 263
+  order:
+    webVolume: 262
+    eBook: null
+    audioBook: null
+- id: "ch-0263"
   title: "5.23 G"
   url: "https://wanderinginn.com/2018/09/22/5-23-g/"
   published: "2018-09-22"
@@ -2104,7 +3152,11 @@
     webVolume: 5
     eBook: null
     audioBook: null
-- index: 264
+  order:
+    webVolume: 263
+    eBook: null
+    audioBook: null
+- id: "ch-0264"
   title: "5.24 L"
   url: "https://wanderinginn.com/2018/09/29/5-24-l/"
   published: "2018-09-29"
@@ -2112,7 +3164,11 @@
     webVolume: 5
     eBook: null
     audioBook: null
-- index: 265
+  order:
+    webVolume: 264
+    eBook: null
+    audioBook: null
+- id: "ch-0265"
   title: "5.25 L"
   url: "https://wanderinginn.com/2018/10/02/5-25-l/"
   published: "2018-10-02"
@@ -2120,7 +3176,11 @@
     webVolume: 5
     eBook: null
     audioBook: null
-- index: 266
+  order:
+    webVolume: 265
+    eBook: null
+    audioBook: null
+- id: "ch-0266"
   title: "5.26 L"
   url: "https://wanderinginn.com/2018/10/06/5-26-l/"
   published: "2018-10-06"
@@ -2128,7 +3188,11 @@
     webVolume: 5
     eBook: null
     audioBook: null
-- index: 267
+  order:
+    webVolume: 266
+    eBook: null
+    audioBook: null
+- id: "ch-0267"
   title: "5.27"
   url: "https://wanderinginn.com/2018/10/09/5-27/"
   published: "2018-10-09"
@@ -2136,7 +3200,11 @@
     webVolume: 5
     eBook: null
     audioBook: null
-- index: 268
+  order:
+    webVolume: 267
+    eBook: null
+    audioBook: null
+- id: "ch-0268"
   title: "5.28"
   url: "https://wanderinginn.com/2018/10/13/5-28/"
   published: "2018-10-13"
@@ -2144,7 +3212,11 @@
     webVolume: 5
     eBook: null
     audioBook: null
-- index: 269
+  order:
+    webVolume: 268
+    eBook: null
+    audioBook: null
+- id: "ch-0269"
   title: "5.29"
   url: "https://wanderinginn.com/2018/10/16/5-29/"
   published: "2018-10-16"
@@ -2152,7 +3224,11 @@
     webVolume: 5
     eBook: null
     audioBook: null
-- index: 270
+  order:
+    webVolume: 269
+    eBook: null
+    audioBook: null
+- id: "ch-0270"
   title: "5.30 G"
   url: "https://wanderinginn.com/2018/10/20/5-30-g/"
   published: "2018-10-20"
@@ -2160,7 +3236,11 @@
     webVolume: 5
     eBook: null
     audioBook: null
-- index: 271
+  order:
+    webVolume: 270
+    eBook: null
+    audioBook: null
+- id: "ch-0271"
   title: "5.31 G"
   url: "https://wanderinginn.com/2018/10/23/5-31-g/"
   published: "2018-10-23"
@@ -2168,7 +3248,11 @@
     webVolume: 5
     eBook: null
     audioBook: null
-- index: 272
+  order:
+    webVolume: 271
+    eBook: null
+    audioBook: null
+- id: "ch-0272"
   title: "5.32 G"
   url: "https://wanderinginn.com/2018/10/27/5-32-g/"
   published: "2018-10-27"
@@ -2176,7 +3260,11 @@
     webVolume: 5
     eBook: null
     audioBook: null
-- index: 273
+  order:
+    webVolume: 272
+    eBook: null
+    audioBook: null
+- id: "ch-0273"
   title: "5.33 B"
   url: "https://wanderinginn.com/2018/10/30/5-33-b/"
   published: "2018-10-30"
@@ -2184,7 +3272,11 @@
     webVolume: 5
     eBook: null
     audioBook: null
-- index: 274
+  order:
+    webVolume: 273
+    eBook: null
+    audioBook: null
+- id: "ch-0274"
   title: "Interlude – Blackmage"
   url: "https://wanderinginn.com/2018/11/01/interlude-blackmage/"
   published: "2018-11-01"
@@ -2192,7 +3284,11 @@
     webVolume: 5
     eBook: null
     audioBook: null
-- index: 275
+  order:
+    webVolume: 274
+    eBook: null
+    audioBook: null
+- id: "ch-0275"
   title: "5.34"
   url: "https://wanderinginn.com/2018/11/03/5-34/"
   published: "2018-11-03"
@@ -2200,7 +3296,11 @@
     webVolume: 5
     eBook: null
     audioBook: null
-- index: 276
+  order:
+    webVolume: 275
+    eBook: null
+    audioBook: null
+- id: "ch-0276"
   title: "5.35 H"
   url: "https://wanderinginn.com/2018/11/06/5-35-h/"
   published: "2018-11-06"
@@ -2208,7 +3308,11 @@
     webVolume: 5
     eBook: null
     audioBook: null
-- index: 277
+  order:
+    webVolume: 276
+    eBook: null
+    audioBook: null
+- id: "ch-0277"
   title: "5.36"
   url: "https://wanderinginn.com/2018/11/10/5-36/"
   published: "2018-11-10"
@@ -2216,7 +3320,11 @@
     webVolume: 5
     eBook: null
     audioBook: null
-- index: 278
+  order:
+    webVolume: 277
+    eBook: null
+    audioBook: null
+- id: "ch-0278"
   title: "5.37 G"
   url: "https://wanderinginn.com/2018/11/13/5-37-g/"
   published: "2018-11-13"
@@ -2224,7 +3332,11 @@
     webVolume: 5
     eBook: null
     audioBook: null
-- index: 279
+  order:
+    webVolume: 278
+    eBook: null
+    audioBook: null
+- id: "ch-0279"
   title: "5.38"
   url: "https://wanderinginn.com/2018/11/17/5-38/"
   published: "2018-11-17"
@@ -2232,7 +3344,11 @@
     webVolume: 5
     eBook: null
     audioBook: null
-- index: 280
+  order:
+    webVolume: 279
+    eBook: null
+    audioBook: null
+- id: "ch-0280"
   title: "5.39"
   url: "https://wanderinginn.com/2018/11/20/5-39//"
   published: "2018-11-20"
@@ -2240,7 +3356,11 @@
     webVolume: 5
     eBook: null
     audioBook: null
-- index: 281
+  order:
+    webVolume: 280
+    eBook: null
+    audioBook: null
+- id: "ch-0281"
   title: "5.40"
   url: "https://wanderinginn.com/2018/11/24/5-40"
   published: "2018-11-24"
@@ -2248,7 +3368,11 @@
     webVolume: 5
     eBook: null
     audioBook: null
-- index: 282
+  order:
+    webVolume: 281
+    eBook: null
+    audioBook: null
+- id: "ch-0282"
   title: "5.41"
   url: "https://wanderinginn.com/2018/11/27/5-41/"
   published: "2018-11-27"
@@ -2256,7 +3380,11 @@
     webVolume: 5
     eBook: null
     audioBook: null
-- index: 283
+  order:
+    webVolume: 282
+    eBook: null
+    audioBook: null
+- id: "ch-0283"
   title: "5.42"
   url: "https://wanderinginn.com/2018/12/01/5-42/"
   published: "2018-12-01"
@@ -2264,7 +3392,11 @@
     webVolume: 5
     eBook: null
     audioBook: null
-- index: 284
+  order:
+    webVolume: 283
+    eBook: null
+    audioBook: null
+- id: "ch-0284"
   title: "5.43"
   url: "https://wanderinginn.com/2018/12/04/5-43/"
   published: "2018-12-04"
@@ -2272,7 +3404,11 @@
     webVolume: 5
     eBook: null
     audioBook: null
-- index: 285
+  order:
+    webVolume: 284
+    eBook: null
+    audioBook: null
+- id: "ch-0285"
   title: "Interlude – Niers"
   url: "https://wanderinginn.com/2018/12/06/interlude-niers/"
   published: "2018-12-06"
@@ -2280,7 +3416,11 @@
     webVolume: 5
     eBook: null
     audioBook: null
-- index: 286
+  order:
+    webVolume: 285
+    eBook: null
+    audioBook: null
+- id: "ch-0286"
   title: "5.44"
   url: "https://wanderinginn.com/2018/12/08/5-44/"
   published: "2018-12-08"
@@ -2288,7 +3428,11 @@
     webVolume: 5
     eBook: null
     audioBook: null
-- index: 287
+  order:
+    webVolume: 286
+    eBook: null
+    audioBook: null
+- id: "ch-0287"
   title: "5.45"
   url: "https://wanderinginn.com/2018/12/11/5-45/"
   published: "2018-12-11"
@@ -2296,7 +3440,11 @@
     webVolume: 5
     eBook: null
     audioBook: null
-- index: 288
+  order:
+    webVolume: 287
+    eBook: null
+    audioBook: null
+- id: "ch-0288"
   title: "5.46"
   url: "https://wanderinginn.com/2018/12/15/5-46/"
   published: "2018-12-15"
@@ -2304,7 +3452,11 @@
     webVolume: 5
     eBook: null
     audioBook: null
-- index: 289
+  order:
+    webVolume: 288
+    eBook: null
+    audioBook: null
+- id: "ch-0289"
   title: "5.47 G"
   url: "https://wanderinginn.com/2018/12/18/5-47-g/"
   published: "2018-12-18"
@@ -2312,7 +3464,11 @@
     webVolume: 5
     eBook: null
     audioBook: null
-- index: 290
+  order:
+    webVolume: 289
+    eBook: null
+    audioBook: null
+- id: "ch-0290"
   title: "5.48 G"
   url: "https://wanderinginn.com/2018/12/22/5-48-g/"
   published: "2018-12-22"
@@ -2320,7 +3476,11 @@
     webVolume: 5
     eBook: null
     audioBook: null
-- index: 291
+  order:
+    webVolume: 290
+    eBook: null
+    audioBook: null
+- id: "ch-0291"
   title: "5.49"
   url: "https://wanderinginn.com/2018/12/25/5-49/"
   published: "2018-12-25"
@@ -2328,7 +3488,11 @@
     webVolume: 5
     eBook: null
     audioBook: null
-- index: 292
+  order:
+    webVolume: 291
+    eBook: null
+    audioBook: null
+- id: "ch-0292"
   title: "5.50 G"
   url: "https://wanderinginn.com/2018/12/29/5-50-g/"
   published: "2018-12-29"
@@ -2336,7 +3500,11 @@
     webVolume: 5
     eBook: null
     audioBook: null
-- index: 293
+  order:
+    webVolume: 292
+    eBook: null
+    audioBook: null
+- id: "ch-0293"
   title: "Interlude – Bird"
   url: "https://wanderinginn.com/2018/12/30/interlude-bird/"
   published: "2018-12-30"
@@ -2344,7 +3512,11 @@
     webVolume: 5
     eBook: null
     audioBook: null
-- index: 294
+  order:
+    webVolume: 293
+    eBook: null
+    audioBook: null
+- id: "ch-0294"
   title: "5.51 G"
   url: "https://wanderinginn.com/2019/01/08/5-51-g/"
   published: "2019-01-08"
@@ -2352,7 +3524,11 @@
     webVolume: 5
     eBook: null
     audioBook: null
-- index: 295
+  order:
+    webVolume: 294
+    eBook: null
+    audioBook: null
+- id: "ch-0295"
   title: "5.52"
   url: "https://wanderinginn.com/2019/01/12/5-52/"
   published: "2019-01-12"
@@ -2360,7 +3536,11 @@
     webVolume: 5
     eBook: null
     audioBook: null
-- index: 296
+  order:
+    webVolume: 295
+    eBook: null
+    audioBook: null
+- id: "ch-0296"
   title: "5.53"
   url: "https://wanderinginn.com/2019/01/15/5-53/"
   published: "2019-01-15"
@@ -2368,7 +3548,11 @@
     webVolume: 5
     eBook: null
     audioBook: null
-- index: 297
+  order:
+    webVolume: 296
+    eBook: null
+    audioBook: null
+- id: "ch-0297"
   title: "5.54 (Non-Canon)"
   url: "https://wanderinginn.com/2019/01/19/5-54/"
   published: "2019-01-19"
@@ -2376,7 +3560,11 @@
     webVolume: 5
     eBook: null
     audioBook: null
-- index: 298
+  order:
+    webVolume: 297
+    eBook: null
+    audioBook: null
+- id: "ch-0298"
   title: "5.54"
   url: "https://wanderinginn.com/2019/01/22/5-54-2/"
   published: "2019-01-22"
@@ -2384,7 +3572,11 @@
     webVolume: 5
     eBook: null
     audioBook: null
-- index: 299
+  order:
+    webVolume: 298
+    eBook: null
+    audioBook: null
+- id: "ch-0299"
   title: "Interlude – Krshia"
   url: "https://wanderinginn.com/2019/01/26/interlude-krshia/"
   published: "2019-01-26"
@@ -2392,7 +3584,11 @@
     webVolume: 5
     eBook: null
     audioBook: null
-- index: 300
+  order:
+    webVolume: 299
+    eBook: null
+    audioBook: null
+- id: "ch-0300"
   title: "5.55 G"
   url: "https://wanderinginn.com/2019/01/29/5-55-g/"
   published: "2019-01-29"
@@ -2400,7 +3596,11 @@
     webVolume: 5
     eBook: null
     audioBook: null
-- index: 301
+  order:
+    webVolume: 300
+    eBook: null
+    audioBook: null
+- id: "ch-0301"
   title: "5.56 G"
   url: "https://wanderinginn.com/2019/02/02/5-56-g/"
   published: "2019-02-02"
@@ -2408,7 +3608,11 @@
     webVolume: 5
     eBook: null
     audioBook: null
-- index: 302
+  order:
+    webVolume: 301
+    eBook: null
+    audioBook: null
+- id: "ch-0302"
   title: "5.57"
   url: "https://wanderinginn.com/2019/02/05/5-57/"
   published: "2019-02-05"
@@ -2416,7 +3620,11 @@
     webVolume: 5
     eBook: null
     audioBook: null
-- index: 303
+  order:
+    webVolume: 302
+    eBook: null
+    audioBook: null
+- id: "ch-0303"
   title: "5.58"
   url: "https://wanderinginn.com/2019/02/09/5-58/"
   published: "2019-02-09"
@@ -2424,7 +3632,11 @@
     webVolume: 5
     eBook: null
     audioBook: null
-- index: 304
+  order:
+    webVolume: 303
+    eBook: null
+    audioBook: null
+- id: "ch-0304"
   title: "5.59"
   url: "https://wanderinginn.com/2019/02/12/5-59/"
   published: "2019-02-12"
@@ -2432,7 +3644,11 @@
     webVolume: 5
     eBook: null
     audioBook: null
-- index: 305
+  order:
+    webVolume: 304
+    eBook: null
+    audioBook: null
+- id: "ch-0305"
   title: "Interlude – Pebblesnatch and Garry"
   url: "https://wanderinginn.com/2019/02/16/interlude-pebblesnatch-and-garry/"
   published: "2019-02-16"
@@ -2440,7 +3656,11 @@
     webVolume: 5
     eBook: null
     audioBook: null
-- index: 306
+  order:
+    webVolume: 305
+    eBook: null
+    audioBook: null
+- id: "ch-0306"
   title: "5.60"
   url: "https://wanderinginn.com/2019/02/16/5-60/"
   published: "2019-02-16"
@@ -2448,7 +3668,11 @@
     webVolume: 5
     eBook: null
     audioBook: null
-- index: 307
+  order:
+    webVolume: 306
+    eBook: null
+    audioBook: null
+- id: "ch-0307"
   title: "5.61"
   url: "https://wanderinginn.com/2019/02/19/5-61/"
   published: "2019-02-19"
@@ -2456,7 +3680,11 @@
     webVolume: 5
     eBook: null
     audioBook: null
-- index: 308
+  order:
+    webVolume: 307
+    eBook: null
+    audioBook: null
+- id: "ch-0308"
   title: "5.62"
   url: "https://wanderinginn.com/2019/02/26/5-62/"
   published: "2019-02-26"
@@ -2464,7 +3692,11 @@
     webVolume: 5
     eBook: null
     audioBook: null
-- index: 309
+  order:
+    webVolume: 308
+    eBook: null
+    audioBook: null
+- id: "ch-0309"
   title: "Interlude"
   url: "https://wanderinginn.com/2019/03/02/interlude-5/"
   published: "2019-03-02"
@@ -2472,7 +3704,11 @@
     webVolume: 5
     eBook: null
     audioBook: null
-- index: 310
+  order:
+    webVolume: 309
+    eBook: null
+    audioBook: null
+- id: "ch-0310"
   title: "6.00"
   url: "https://wanderinginn.com/2019/03/19/6-00/"
   published: "2019-03-19"
@@ -2480,7 +3716,11 @@
     webVolume: 6
     eBook: null
     audioBook: null
-- index: 311
+  order:
+    webVolume: 310
+    eBook: null
+    audioBook: null
+- id: "ch-0311"
   title: "6.01"
   url: "https://wanderinginn.com/2019/03/23/6-01/"
   published: "2019-03-23"
@@ -2488,7 +3728,11 @@
     webVolume: 6
     eBook: null
     audioBook: null
-- index: 312
+  order:
+    webVolume: 311
+    eBook: null
+    audioBook: null
+- id: "ch-0312"
   title: "6.02"
   url: "https://wanderinginn.com/2019/03/26/6-02/"
   published: "2019-03-26"
@@ -2496,7 +3740,11 @@
     webVolume: 6
     eBook: null
     audioBook: null
-- index: 313
+  order:
+    webVolume: 312
+    eBook: null
+    audioBook: null
+- id: "ch-0313"
   title: "6.03"
   url: "https://wanderinginn.com/2019/03/30/6-03/"
   published: "2019-03-30"
@@ -2504,7 +3752,11 @@
     webVolume: 6
     eBook: null
     audioBook: null
-- index: 314
+  order:
+    webVolume: 313
+    eBook: null
+    audioBook: null
+- id: "ch-0314"
   title: "6.04 D"
   url: "https://wanderinginn.com/2019/04/02/6-04-d/"
   published: "2019-04-02"
@@ -2512,7 +3764,11 @@
     webVolume: 6
     eBook: null
     audioBook: null
-- index: 315
+  order:
+    webVolume: 314
+    eBook: null
+    audioBook: null
+- id: "ch-0315"
   title: "6.05 D"
   url: "https://wanderinginn.com/2019/04/06/6-05-d/"
   published: "2019-04-06"
@@ -2520,7 +3776,11 @@
     webVolume: 6
     eBook: null
     audioBook: null
-- index: 316
+  order:
+    webVolume: 315
+    eBook: null
+    audioBook: null
+- id: "ch-0316"
   title: "6.06 D"
   url: "https://wanderinginn.com/2019/04/09/6-06-d/"
   published: "2019-04-09"
@@ -2528,7 +3788,11 @@
     webVolume: 6
     eBook: null
     audioBook: null
-- index: 317
+  order:
+    webVolume: 316
+    eBook: null
+    audioBook: null
+- id: "ch-0317"
   title: "6.07 D"
   url: "https://wanderinginn.com/2019/04/13/6-07-d/"
   published: "2019-04-13"
@@ -2536,7 +3800,11 @@
     webVolume: 6
     eBook: null
     audioBook: null
-- index: 318
+  order:
+    webVolume: 317
+    eBook: null
+    audioBook: null
+- id: "ch-0318"
   title: "6.08"
   url: "https://wanderinginn.com/2019/04/16/6-08/"
   published: "2019-04-16"
@@ -2544,7 +3812,11 @@
     webVolume: 6
     eBook: null
     audioBook: null
-- index: 319
+  order:
+    webVolume: 318
+    eBook: null
+    audioBook: null
+- id: "ch-0319"
   title: "6.09"
   url: "https://wanderinginn.com/2019/04/20/6-09/"
   published: "2019-04-20"
@@ -2552,7 +3824,11 @@
     webVolume: 6
     eBook: null
     audioBook: null
-- index: 320
+  order:
+    webVolume: 319
+    eBook: null
+    audioBook: null
+- id: "ch-0320"
   title: "6.10"
   url: "https://wanderinginn.com/2019/04/23/6-10/"
   published: "2019-04-23"
@@ -2560,7 +3836,11 @@
     webVolume: 6
     eBook: null
     audioBook: null
-- index: 321
+  order:
+    webVolume: 320
+    eBook: null
+    audioBook: null
+- id: "ch-0321"
   title: "6.11"
   url: "https://wanderinginn.com/2019/04/27/6-11/"
   published: "2019-04-27"
@@ -2568,7 +3848,11 @@
     webVolume: 6
     eBook: null
     audioBook: null
-- index: 322
+  order:
+    webVolume: 321
+    eBook: null
+    audioBook: null
+- id: "ch-0322"
   title: "6.12 K"
   url: "https://wanderinginn.com/2019/04/30/6-12-k/"
   published: "2019-04-30"
@@ -2576,7 +3860,11 @@
     webVolume: 6
     eBook: null
     audioBook: null
-- index: 323
+  order:
+    webVolume: 322
+    eBook: null
+    audioBook: null
+- id: "ch-0323"
   title: "6.13 K"
   url: "https://wanderinginn.com/2019/05/04/6-13-k/"
   published: "2019-05-04"
@@ -2584,7 +3872,11 @@
     webVolume: 6
     eBook: null
     audioBook: null
-- index: 324
+  order:
+    webVolume: 323
+    eBook: null
+    audioBook: null
+- id: "ch-0324"
   title: "6.14 K"
   url: "https://wanderinginn.com/2019/05/07/6-14-k/"
   published: "2019-05-07"
@@ -2592,7 +3884,11 @@
     webVolume: 6
     eBook: null
     audioBook: null
-- index: 325
+  order:
+    webVolume: 324
+    eBook: null
+    audioBook: null
+- id: "ch-0325"
   title: "6.15 K"
   url: "https://wanderinginn.com/2019/05/11/6-15-k/"
   published: "2019-05-11"
@@ -2600,7 +3896,11 @@
     webVolume: 6
     eBook: null
     audioBook: null
-- index: 326
+  order:
+    webVolume: 325
+    eBook: null
+    audioBook: null
+- id: "ch-0326"
   title: "6.16"
   url: "https://wanderinginn.com/2019/05/14/6-16/"
   published: "2019-05-14"
@@ -2608,7 +3908,11 @@
     webVolume: 6
     eBook: null
     audioBook: null
-- index: 327
+  order:
+    webVolume: 326
+    eBook: null
+    audioBook: null
+- id: "ch-0327"
   title: "6.17 S"
   url: "https://wanderinginn.com/2019/05/18/6-17-s/"
   published: "2019-05-18"
@@ -2616,7 +3920,11 @@
     webVolume: 6
     eBook: null
     audioBook: null
-- index: 328
+  order:
+    webVolume: 327
+    eBook: null
+    audioBook: null
+- id: "ch-0328"
   title: "6.18 H"
   url: "https://wanderinginn.com/2019/05/21/6-18-h/"
   published: "2019-05-21"
@@ -2624,7 +3932,11 @@
     webVolume: 6
     eBook: null
     audioBook: null
-- index: 329
+  order:
+    webVolume: 328
+    eBook: null
+    audioBook: null
+- id: "ch-0329"
   title: "6.19 H"
   url: "https://wanderinginn.com/2019/05/25/6-19-h/"
   published: "2019-05-25"
@@ -2632,7 +3944,11 @@
     webVolume: 6
     eBook: null
     audioBook: null
-- index: 330
+  order:
+    webVolume: 329
+    eBook: null
+    audioBook: null
+- id: "ch-0330"
   title: "6.20 D"
   url: "https://wanderinginn.com/2019/05/28/6-20-d/"
   published: "2019-05-28"
@@ -2640,7 +3956,11 @@
     webVolume: 6
     eBook: null
     audioBook: null
-- index: 331
+  order:
+    webVolume: 330
+    eBook: null
+    audioBook: null
+- id: "ch-0331"
   title: "6.21 D"
   url: "https://wanderinginn.com/2019/06/01/5-21-d/"
   published: "2019-06-01"
@@ -2648,7 +3968,11 @@
     webVolume: 6
     eBook: null
     audioBook: null
-- index: 332
+  order:
+    webVolume: 331
+    eBook: null
+    audioBook: null
+- id: "ch-0332"
   title: "6.22 D"
   url: "https://wanderinginn.com/2019/06/04/6-22-d/"
   published: "2019-06-04"
@@ -2656,7 +3980,11 @@
     webVolume: 6
     eBook: null
     audioBook: null
-- index: 333
+  order:
+    webVolume: 332
+    eBook: null
+    audioBook: null
+- id: "ch-0333"
   title: "6.23 D"
   url: "https://wanderinginn.com/2019/06/08/6-23-d/"
   published: "2019-06-08"
@@ -2664,7 +3992,11 @@
     webVolume: 6
     eBook: null
     audioBook: null
-- index: 334
+  order:
+    webVolume: 333
+    eBook: null
+    audioBook: null
+- id: "ch-0334"
   title: "6.24 D"
   url: "https://wanderinginn.com/2019/06/11/6-24-d/"
   published: "2019-06-11"
@@ -2672,7 +4004,11 @@
     webVolume: 6
     eBook: null
     audioBook: null
-- index: 335
+  order:
+    webVolume: 334
+    eBook: null
+    audioBook: null
+- id: "ch-0335"
   title: "6.25"
   url: "https://wanderinginn.com/2019/06/15/6-25/"
   published: "2019-06-15"
@@ -2680,7 +4016,11 @@
     webVolume: 6
     eBook: null
     audioBook: null
-- index: 336
+  order:
+    webVolume: 335
+    eBook: null
+    audioBook: null
+- id: "ch-0336"
   title: "6.26"
   url: "https://wanderinginn.com/2019/06/18/6-26/"
   published: "2019-06-18"
@@ -2688,7 +4028,11 @@
     webVolume: 6
     eBook: null
     audioBook: null
-- index: 337
+  order:
+    webVolume: 336
+    eBook: null
+    audioBook: null
+- id: "ch-0337"
   title: "6.27 M"
   url: "https://wanderinginn.com/2019/06/22/6-27-m/"
   published: "2019-06-22"
@@ -2696,7 +4040,11 @@
     webVolume: 6
     eBook: null
     audioBook: null
-- index: 338
+  order:
+    webVolume: 337
+    eBook: null
+    audioBook: null
+- id: "ch-0338"
   title: "6.28"
   url: "https://wanderinginn.com/2019/06/25/6-28/"
   published: "2019-06-25"
@@ -2704,7 +4052,11 @@
     webVolume: 6
     eBook: null
     audioBook: null
-- index: 339
+  order:
+    webVolume: 338
+    eBook: null
+    audioBook: null
+- id: "ch-0339"
   title: "6.29"
   url: "https://wanderinginn.com/2019/06/29/6-29/"
   published: "2019-06-29"
@@ -2712,7 +4064,11 @@
     webVolume: 6
     eBook: null
     audioBook: null
-- index: 340
+  order:
+    webVolume: 339
+    eBook: null
+    audioBook: null
+- id: "ch-0340"
   title: "Interlude – Embria"
   url: "https://wanderinginn.com/2019/07/02/interlude-embria/"
   published: "2019-07-02"
@@ -2720,7 +4076,11 @@
     webVolume: 6
     eBook: null
     audioBook: null
-- index: 341
+  order:
+    webVolume: 340
+    eBook: null
+    audioBook: null
+- id: "ch-0341"
   title: "6.30"
   url: "https://wanderinginn.com/2019/07/13/6-30/"
   published: "2019-07-13"
@@ -2728,7 +4088,11 @@
     webVolume: 6
     eBook: null
     audioBook: null
-- index: 342
+  order:
+    webVolume: 341
+    eBook: null
+    audioBook: null
+- id: "ch-0342"
   title: "6.31"
   url: "https://wanderinginn.com/2019/07/16/6-31/"
   published: "2019-07-16"
@@ -2736,7 +4100,11 @@
     webVolume: 6
     eBook: null
     audioBook: null
-- index: 343
+  order:
+    webVolume: 342
+    eBook: null
+    audioBook: null
+- id: "ch-0343"
   title: "6.32"
   url: "https://wanderinginn.com/2019/07/20/6-32/"
   published: "2019-07-20"
@@ -2744,7 +4112,11 @@
     webVolume: 6
     eBook: null
     audioBook: null
-- index: 344
+  order:
+    webVolume: 343
+    eBook: null
+    audioBook: null
+- id: "ch-0344"
   title: "6.33 E"
   url: "https://wanderinginn.com/2019/07/23/6-33-e/"
   published: "2019-07-23"
@@ -2752,7 +4124,11 @@
     webVolume: 6
     eBook: null
     audioBook: null
-- index: 345
+  order:
+    webVolume: 344
+    eBook: null
+    audioBook: null
+- id: "ch-0345"
   title: "6.34 E"
   url: "https://wanderinginn.com/2019/07/27/6-34-e/"
   published: "2019-07-27"
@@ -2760,7 +4136,11 @@
     webVolume: 6
     eBook: null
     audioBook: null
-- index: 346
+  order:
+    webVolume: 345
+    eBook: null
+    audioBook: null
+- id: "ch-0346"
   title: "Interlude – Numbtongue (Pt.1)"
   url: "https://wanderinginn.com/2019/07/30/interlude-numbtongue-pt-1/"
   published: "2019-07-30"
@@ -2768,7 +4148,11 @@
     webVolume: 6
     eBook: null
     audioBook: null
-- index: 347
+  order:
+    webVolume: 346
+    eBook: null
+    audioBook: null
+- id: "ch-0347"
   title: "Interlude – Numbtongue (Pt.2)"
   url: "https://wanderinginn.com/2019/08/03/interlude-numbtongue-pt-2/"
   published: "2019-08-03"
@@ -2776,7 +4160,11 @@
     webVolume: 6
     eBook: null
     audioBook: null
-- index: 348
+  order:
+    webVolume: 347
+    eBook: null
+    audioBook: null
+- id: "ch-0348"
   title: "6.35"
   url: "https://wanderinginn.com/2019/08/06/6-35/"
   published: "2019-08-06"
@@ -2784,7 +4172,11 @@
     webVolume: 6
     eBook: null
     audioBook: null
-- index: 349
+  order:
+    webVolume: 348
+    eBook: null
+    audioBook: null
+- id: "ch-0349"
   title: "6.36 E"
   url: "https://wanderinginn.com/2019/08/10/6-36-e/"
   published: "2019-08-10"
@@ -2792,7 +4184,11 @@
     webVolume: 6
     eBook: null
     audioBook: null
-- index: 350
+  order:
+    webVolume: 349
+    eBook: null
+    audioBook: null
+- id: "ch-0350"
   title: "6.37 E"
   url: "https://wanderinginn.com/2019/08/13/6-37-e/"
   published: "2019-08-13"
@@ -2800,7 +4196,11 @@
     webVolume: 6
     eBook: null
     audioBook: null
-- index: 351
+  order:
+    webVolume: 350
+    eBook: null
+    audioBook: null
+- id: "ch-0351"
   title: "6.38"
   url: "https://wanderinginn.com/2019/08/17/6-38/"
   published: "2019-08-17"
@@ -2808,7 +4208,11 @@
     webVolume: 6
     eBook: null
     audioBook: null
-- index: 352
+  order:
+    webVolume: 351
+    eBook: null
+    audioBook: null
+- id: "ch-0352"
   title: "6.39"
   url: "https://wanderinginn.com/2019/08/20/6-39/"
   published: "2019-08-20"
@@ -2816,7 +4220,11 @@
     webVolume: 6
     eBook: null
     audioBook: null
-- index: 353
+  order:
+    webVolume: 352
+    eBook: null
+    audioBook: null
+- id: "ch-0353"
   title: "6.40 E"
   url: "https://wanderinginn.com/2019/08/24/6-40-e/"
   published: "2019-08-24"
@@ -2824,7 +4232,11 @@
     webVolume: 6
     eBook: null
     audioBook: null
-- index: 354
+  order:
+    webVolume: 353
+    eBook: null
+    audioBook: null
+- id: "ch-0354"
   title: "6.41 E"
   url: "https://wanderinginn.com/2019/08/27/6-41-e/"
   published: "2019-08-27"
@@ -2832,7 +4244,11 @@
     webVolume: 6
     eBook: null
     audioBook: null
-- index: 355
+  order:
+    webVolume: 354
+    eBook: null
+    audioBook: null
+- id: "ch-0355"
   title: "Interlude – Two Rats"
   url: "https://wanderinginn.com/2019/08/31/interlude-two-rats/"
   published: "2019-08-31"
@@ -2840,7 +4256,11 @@
     webVolume: 6
     eBook: null
     audioBook: null
-- index: 356
+  order:
+    webVolume: 355
+    eBook: null
+    audioBook: null
+- id: "ch-0356"
   title: "Interlude – Rufelt"
   url: "https://wanderinginn.com/2019/09/03/interlude-rufelt/"
   published: "2019-09-03"
@@ -2848,7 +4268,11 @@
     webVolume: 6
     eBook: null
     audioBook: null
-- index: 357
+  order:
+    webVolume: 356
+    eBook: null
+    audioBook: null
+- id: "ch-0357"
   title: "6.42 E"
   url: "https://wanderinginn.com/2019/09/07/6-42-e/"
   published: "2019-09-07"
@@ -2856,7 +4280,11 @@
     webVolume: 6
     eBook: null
     audioBook: null
-- index: 358
+  order:
+    webVolume: 357
+    eBook: null
+    audioBook: null
+- id: "ch-0358"
   title: "6.43 E"
   url: "https://wanderinginn.com/2019/09/10/6-43-e/"
   published: "2019-09-10"
@@ -2864,7 +4292,11 @@
     webVolume: 6
     eBook: null
     audioBook: null
-- index: 359
+  order:
+    webVolume: 358
+    eBook: null
+    audioBook: null
+- id: "ch-0359"
   title: "6.44 E"
   url: "https://wanderinginn.com/2019/09/14/6-44-e/"
   published: "2019-09-14"
@@ -2872,7 +4304,11 @@
     webVolume: 6
     eBook: null
     audioBook: null
-- index: 360
+  order:
+    webVolume: 359
+    eBook: null
+    audioBook: null
+- id: "ch-0360"
   title: "6.45 E"
   url: "https://wanderinginn.com/2019/09/17/6-45-e/"
   published: "2019-09-17"
@@ -2880,7 +4316,11 @@
     webVolume: 6
     eBook: null
     audioBook: null
-- index: 361
+  order:
+    webVolume: 360
+    eBook: null
+    audioBook: null
+- id: "ch-0361"
   title: "6.46 E"
   url: "https://wanderinginn.com/2019/09/21/6-46-e/"
   published: "2019-09-21"
@@ -2888,7 +4328,11 @@
     webVolume: 6
     eBook: null
     audioBook: null
-- index: 362
+  order:
+    webVolume: 361
+    eBook: null
+    audioBook: null
+- id: "ch-0362"
   title: "6.47 E"
   url: "https://wanderinginn.com/2019/09/24/6-47-e/"
   published: "2019-09-24"
@@ -2896,7 +4340,11 @@
     webVolume: 6
     eBook: null
     audioBook: null
-- index: 363
+  order:
+    webVolume: 362
+    eBook: null
+    audioBook: null
+- id: "ch-0363"
   title: "6.48 T"
   url: "https://wanderinginn.com/2019/10/12/6-48-t/"
   published: "2019-10-12"
@@ -2904,7 +4352,11 @@
     webVolume: 6
     eBook: null
     audioBook: null
-- index: 364
+  order:
+    webVolume: 363
+    eBook: null
+    audioBook: null
+- id: "ch-0364"
   title: "6.49"
   url: "https://wanderinginn.com/2019/10/15/6-49/"
   published: "2019-10-15"
@@ -2912,7 +4364,11 @@
     webVolume: 6
     eBook: null
     audioBook: null
-- index: 365
+  order:
+    webVolume: 364
+    eBook: null
+    audioBook: null
+- id: "ch-0365"
   title: "6.50 I"
   url: "https://wanderinginn.com/2019/10/19/6-50-i/"
   published: "2019-10-19"
@@ -2920,7 +4376,11 @@
     webVolume: 6
     eBook: null
     audioBook: null
-- index: 366
+  order:
+    webVolume: 365
+    eBook: null
+    audioBook: null
+- id: "ch-0366"
   title: "6.51 A"
   url: "https://wanderinginn.com/2019/10/22/6-51-a/"
   published: "2019-10-22"
@@ -2928,7 +4388,11 @@
     webVolume: 6
     eBook: null
     audioBook: null
-- index: 367
+  order:
+    webVolume: 366
+    eBook: null
+    audioBook: null
+- id: "ch-0367"
   title: "6.52 K"
   url: "https://wanderinginn.com/2019/10/26/6-52-k/"
   published: "2019-10-26"
@@ -2936,7 +4400,11 @@
     webVolume: 6
     eBook: null
     audioBook: null
-- index: 368
+  order:
+    webVolume: 367
+    eBook: null
+    audioBook: null
+- id: "ch-0368"
   title: "6.53 K"
   url: "https://wanderinginn.com/2019/10/29/6-53-k/"
   published: "2019-10-29"
@@ -2944,7 +4412,11 @@
     webVolume: 6
     eBook: null
     audioBook: null
-- index: 369
+  order:
+    webVolume: 368
+    eBook: null
+    audioBook: null
+- id: "ch-0369"
   title: "6.54 K"
   url: "https://wanderinginn.com/2019/11/02/6-54-k/"
   published: "2019-11-02"
@@ -2952,7 +4424,11 @@
     webVolume: 6
     eBook: null
     audioBook: null
-- index: 370
+  order:
+    webVolume: 369
+    eBook: null
+    audioBook: null
+- id: "ch-0370"
   title: "6.55 K"
   url: "https://wanderinginn.com/2019/11/05/6-55-k/"
   published: "2019-11-05"
@@ -2960,7 +4436,11 @@
     webVolume: 6
     eBook: null
     audioBook: null
-- index: 371
+  order:
+    webVolume: 370
+    eBook: null
+    audioBook: null
+- id: "ch-0371"
   title: "Interlude – The Titan’s Question"
   url: "https://wanderinginn.com/2019/11/09/interlude-the-titans-question/"
   published: "2019-11-09"
@@ -2968,7 +4448,11 @@
     webVolume: 6
     eBook: null
     audioBook: null
-- index: 372
+  order:
+    webVolume: 371
+    eBook: null
+    audioBook: null
+- id: "ch-0372"
   title: "6.56"
   url: "https://wanderinginn.com/2019/11/12/6-56/"
   published: "2019-11-12"
@@ -2976,7 +4460,11 @@
     webVolume: 6
     eBook: null
     audioBook: null
-- index: 373
+  order:
+    webVolume: 372
+    eBook: null
+    audioBook: null
+- id: "ch-0373"
   title: "6.57"
   url: "https://wanderinginn.com/2019/11/16/6-57/"
   published: "2019-11-16"
@@ -2984,7 +4472,11 @@
     webVolume: 6
     eBook: null
     audioBook: null
-- index: 374
+  order:
+    webVolume: 373
+    eBook: null
+    audioBook: null
+- id: "ch-0374"
   title: "6.58"
   url: "https://wanderinginn.com/2019/11/19/6-58/"
   published: "2019-11-19"
@@ -2992,7 +4484,11 @@
     webVolume: 6
     eBook: null
     audioBook: null
-- index: 375
+  order:
+    webVolume: 374
+    eBook: null
+    audioBook: null
+- id: "ch-0375"
   title: "6.59"
   url: "https://wanderinginn.com/2019/11/23/6-59/"
   published: "2019-11-23"
@@ -3000,7 +4496,11 @@
     webVolume: 6
     eBook: null
     audioBook: null
-- index: 376
+  order:
+    webVolume: 375
+    eBook: null
+    audioBook: null
+- id: "ch-0376"
   title: "6.60"
   url: "https://wanderinginn.com/2019/11/26/6-60/"
   published: "2019-11-26"
@@ -3008,7 +4508,11 @@
     webVolume: 6
     eBook: null
     audioBook: null
-- index: 377
+  order:
+    webVolume: 376
+    eBook: null
+    audioBook: null
+- id: "ch-0377"
   title: "Interlude – Talia"
   url: "https://wanderinginn.com/2019/11/30/interlude-talia/"
   published: "2019-11-30"
@@ -3016,7 +4520,11 @@
     webVolume: 6
     eBook: null
     audioBook: null
-- index: 378
+  order:
+    webVolume: 377
+    eBook: null
+    audioBook: null
+- id: "ch-0378"
   title: "6.61 L"
   url: "https://wanderinginn.com/2019/12/03/6-61-l/"
   published: "2019-12-03"
@@ -3024,7 +4532,11 @@
     webVolume: 6
     eBook: null
     audioBook: null
-- index: 379
+  order:
+    webVolume: 378
+    eBook: null
+    audioBook: null
+- id: "ch-0379"
   title: "6.62 L"
   url: "https://wanderinginn.com/2019/12/07/6-62-l/"
   published: "2019-12-07"
@@ -3032,7 +4544,11 @@
     webVolume: 6
     eBook: null
     audioBook: null
-- index: 380
+  order:
+    webVolume: 379
+    eBook: null
+    audioBook: null
+- id: "ch-0380"
   title: "Interlude – Foliana"
   url: "https://wanderinginn.com/2019/12/11/interlude-foliana/"
   published: "2019-12-11"
@@ -3040,7 +4556,11 @@
     webVolume: 6
     eBook: null
     audioBook: null
-- index: 381
+  order:
+    webVolume: 380
+    eBook: null
+    audioBook: null
+- id: "ch-0381"
   title: "6.63 P"
   url: "https://wanderinginn.com/2019/12/14/6-63-p/"
   published: "2019-12-14"
@@ -3048,7 +4568,11 @@
     webVolume: 6
     eBook: null
     audioBook: null
-- index: 382
+  order:
+    webVolume: 381
+    eBook: null
+    audioBook: null
+- id: "ch-0382"
   title: "6.64"
   url: "https://wanderinginn.com/2019/12/18/6-64/"
   published: "2019-12-18"
@@ -3056,7 +4580,11 @@
     webVolume: 6
     eBook: null
     audioBook: null
-- index: 383
+  order:
+    webVolume: 382
+    eBook: null
+    audioBook: null
+- id: "ch-0383"
   title: "6.65"
   url: "https://wanderinginn.com/2019/12/22/6-65/"
   published: "2019-12-22"
@@ -3064,7 +4592,11 @@
     webVolume: 6
     eBook: null
     audioBook: null
-- index: 384
+  order:
+    webVolume: 383
+    eBook: null
+    audioBook: null
+- id: "ch-0384"
   title: "6.66 H"
   url: "https://wanderinginn.com/2019/12/25/6-66-h/"
   published: "2019-12-25"
@@ -3072,7 +4604,11 @@
     webVolume: 6
     eBook: null
     audioBook: null
-- index: 385
+  order:
+    webVolume: 384
+    eBook: null
+    audioBook: null
+- id: "ch-0385"
   title: "6.67"
   url: "https://wanderinginn.com/2019/12/29/6-67/"
   published: "2019-12-29"
@@ -3080,7 +4616,11 @@
     webVolume: 6
     eBook: null
     audioBook: null
-- index: 386
+  order:
+    webVolume: 385
+    eBook: null
+    audioBook: null
+- id: "ch-0386"
   title: "6.68"
   url: "https://wanderinginn.com/2020/01/01/6-68/"
   published: "2020-01-01"
@@ -3088,7 +4628,11 @@
     webVolume: 6
     eBook: null
     audioBook: null
-- index: 387
+  order:
+    webVolume: 386
+    eBook: null
+    audioBook: null
+- id: "ch-0387"
   title: "7.00"
   url: "https://wanderinginn.com/2020/01/19/7-00/"
   published: "2020-01-19"
@@ -3096,7 +4640,11 @@
     webVolume: 7
     eBook: null
     audioBook: null
-- index: 388
+  order:
+    webVolume: 387
+    eBook: null
+    audioBook: null
+- id: "ch-0388"
   title: "7.01"
   url: "https://wanderinginn.com/2020/01/22/7-01/"
   published: "2020-01-22"
@@ -3104,7 +4652,11 @@
     webVolume: 7
     eBook: null
     audioBook: null
-- index: 389
+  order:
+    webVolume: 388
+    eBook: null
+    audioBook: null
+- id: "ch-0389"
   title: "7.02"
   url: "https://wanderinginn.com/2020/01/26/7-02/"
   published: "2020-01-26"
@@ -3112,7 +4664,11 @@
     webVolume: 7
     eBook: null
     audioBook: null
-- index: 390
+  order:
+    webVolume: 389
+    eBook: null
+    audioBook: null
+- id: "ch-0390"
   title: "7.03"
   url: "https://wanderinginn.com/2020/01/29/7-03/"
   published: "2020-01-29"
@@ -3120,7 +4676,11 @@
     webVolume: 7
     eBook: null
     audioBook: null
-- index: 391
+  order:
+    webVolume: 390
+    eBook: null
+    audioBook: null
+- id: "ch-0391"
   title: "Mini Chapter #1"
   url: "https://wanderinginn.com/2020/01/30/mini-stories-crabs-and-drinks/"
   published: "2020-01-30"
@@ -3128,7 +4688,11 @@
     webVolume: 7
     eBook: null
     audioBook: null
-- index: 392
+  order:
+    webVolume: 391
+    eBook: null
+    audioBook: null
+- id: "ch-0392"
   title: "7.04"
   url: "https://wanderinginn.com/2020/02/01/7-04/"
   published: "2020-02-01"
@@ -3136,7 +4700,11 @@
     webVolume: 7
     eBook: null
     audioBook: null
-- index: 393
+  order:
+    webVolume: 392
+    eBook: null
+    audioBook: null
+- id: "ch-0393"
   title: "Interlude – Queens and Dragons"
   url: "https://wanderinginn.com/2020/02/04/interlude-queens-and-dragons/"
   published: "2020-02-04"
@@ -3144,7 +4712,11 @@
     webVolume: 7
     eBook: null
     audioBook: null
-- index: 394
+  order:
+    webVolume: 393
+    eBook: null
+    audioBook: null
+- id: "ch-0394"
   title: "7.05 P"
   url: "https://wanderinginn.com/2020/02/09/7-05-p/"
   published: "2020-02-09"
@@ -3152,7 +4724,11 @@
     webVolume: 7
     eBook: null
     audioBook: null
-- index: 395
+  order:
+    webVolume: 394
+    eBook: null
+    audioBook: null
+- id: "ch-0395"
   title: "7.06"
   url: "https://wanderinginn.com/2020/02/12/7-06/"
   published: "2020-02-12"
@@ -3160,7 +4736,11 @@
     webVolume: 7
     eBook: null
     audioBook: null
-- index: 396
+  order:
+    webVolume: 395
+    eBook: null
+    audioBook: null
+- id: "ch-0396"
   title: "7.07"
   url: "https://wanderinginn.com/2020/02/16/7-07"
   published: "2020-02-16"
@@ -3168,7 +4748,11 @@
     webVolume: 7
     eBook: null
     audioBook: null
-- index: 397
+  order:
+    webVolume: 396
+    eBook: null
+    audioBook: null
+- id: "ch-0397"
   title: "7.08 K"
   url: "https://wanderinginn.com/2020/02/19/7-08-k/"
   published: "2020-02-19"
@@ -3176,7 +4760,11 @@
     webVolume: 7
     eBook: null
     audioBook: null
-- index: 398
+  order:
+    webVolume: 397
+    eBook: null
+    audioBook: null
+- id: "ch-0398"
   title: "7.09 K"
   url: "https://wanderinginn.com/2020/02/23/7-09-k/"
   published: "2020-02-23"
@@ -3184,7 +4772,11 @@
     webVolume: 7
     eBook: null
     audioBook: null
-- index: 399
+  order:
+    webVolume: 398
+    eBook: null
+    audioBook: null
+- id: "ch-0399"
   title: "7.10 K"
   url: "https://wanderinginn.com/2020/02/26/7-10-k/"
   published: "2020-02-26"
@@ -3192,7 +4784,11 @@
     webVolume: 7
     eBook: null
     audioBook: null
-- index: 400
+  order:
+    webVolume: 399
+    eBook: null
+    audioBook: null
+- id: "ch-0400"
   title: "7.11"
   url: "https://wanderinginn.com/2020/03/01/7-11/"
   published: "2020-03-01"
@@ -3200,7 +4796,11 @@
     webVolume: 7
     eBook: null
     audioBook: null
-- index: 401
+  order:
+    webVolume: 400
+    eBook: null
+    audioBook: null
+- id: "ch-0401"
   title: "Interlude – Dancing and Brawling"
   url: "https://wanderinginn.com/2020/03/03/interlude-dancing-and-brawling/"
   published: "2020-03-03"
@@ -3208,7 +4808,11 @@
     webVolume: 7
     eBook: null
     audioBook: null
-- index: 402
+  order:
+    webVolume: 401
+    eBook: null
+    audioBook: null
+- id: "ch-0402"
   title: "Interlude – Chocolate Gold"
   url: "https://wanderinginn.com/2020/03/04/interlude-chocolate-gold/"
   published: "2020-03-04"
@@ -3216,7 +4820,11 @@
     webVolume: 7
     eBook: null
     audioBook: null
-- index: 403
+  order:
+    webVolume: 402
+    eBook: null
+    audioBook: null
+- id: "ch-0403"
   title: "Interlude – Chess and Ships"
   url: "https://wanderinginn.com/2020/03/05/interlude-chess-and-ships/"
   published: "2020-03-05"
@@ -3224,7 +4832,11 @@
     webVolume: 7
     eBook: null
     audioBook: null
-- index: 404
+  order:
+    webVolume: 403
+    eBook: null
+    audioBook: null
+- id: "ch-0404"
   title: "Interlude – Chocolate Alchemy"
   url: "https://wanderinginn.com/2020/03/06/interlude-chocolate-alchemy"
   published: "2020-03-06"
@@ -3232,7 +4844,11 @@
     webVolume: 7
     eBook: null
     audioBook: null
-- index: 405
+  order:
+    webVolume: 404
+    eBook: null
+    audioBook: null
+- id: "ch-0405"
   title: "Interlude – Lifting Ants"
   url: "https://wanderinginn.com/2020/03/07/interlude-lifting-ants"
   published: "2020-03-07"
@@ -3240,7 +4856,11 @@
     webVolume: 7
     eBook: null
     audioBook: null
-- index: 406
+  order:
+    webVolume: 405
+    eBook: null
+    audioBook: null
+- id: "ch-0406"
   title: "Interlude – Burning Alcohol"
   url: "https://wanderinginn.com/2020/03/08/interlude-burning-alcohol/"
   published: "2020-03-08"
@@ -3248,7 +4868,11 @@
     webVolume: 7
     eBook: null
     audioBook: null
-- index: 407
+  order:
+    webVolume: 406
+    eBook: null
+    audioBook: null
+- id: "ch-0407"
   title: "Interlude – The Hangover After"
   url: "https://wanderinginn.com/2020/03/09/interlude-the-hangover-after"
   published: "2020-03-09"
@@ -3256,7 +4880,11 @@
     webVolume: 7
     eBook: null
     audioBook: null
-- index: 408
+  order:
+    webVolume: 407
+    eBook: null
+    audioBook: null
+- id: "ch-0408"
   title: "7.12 G"
   url: "https://wanderinginn.com/2020/03/15/7-12-g/"
   published: "2020-03-15"
@@ -3264,7 +4892,11 @@
     webVolume: 7
     eBook: null
     audioBook: null
-- index: 409
+  order:
+    webVolume: 408
+    eBook: null
+    audioBook: null
+- id: "ch-0409"
   title: "7.13 K"
   url: "https://wanderinginn.com/2020/03/18/7-13-k/"
   published: "2020-03-18"
@@ -3272,7 +4904,11 @@
     webVolume: 7
     eBook: null
     audioBook: null
-- index: 410
+  order:
+    webVolume: 409
+    eBook: null
+    audioBook: null
+- id: "ch-0410"
   title: "Mating Rituals Pt.2"
   url: "https://wanderinginn.com/2020/03/21/mating-rituals-pt-2"
   published: "2020-03-21"
@@ -3280,7 +4916,11 @@
     webVolume: 7
     eBook: null
     audioBook: null
-- index: 411
+  order:
+    webVolume: 410
+    eBook: null
+    audioBook: null
+- id: "ch-0411"
   title: "7.14 T"
   url: "https://wanderinginn.com/2020/03/24/7-14-t/"
   published: "2020-03-24"
@@ -3288,7 +4928,11 @@
     webVolume: 7
     eBook: null
     audioBook: null
-- index: 412
+  order:
+    webVolume: 411
+    eBook: null
+    audioBook: null
+- id: "ch-0412"
   title: "7.15 R"
   url: "https://wanderinginn.com/2020/03/29/7-15-r/"
   published: "2020-03-29"
@@ -3296,7 +4940,11 @@
     webVolume: 7
     eBook: null
     audioBook: null
-- index: 413
+  order:
+    webVolume: 412
+    eBook: null
+    audioBook: null
+- id: "ch-0413"
   title: "7.16 L"
   url: "https://wanderinginn.com/2020/03/31/7-16-l"
   published: "2020-03-31"
@@ -3304,7 +4952,11 @@
     webVolume: 7
     eBook: null
     audioBook: null
-- index: 414
+  order:
+    webVolume: 413
+    eBook: null
+    audioBook: null
+- id: "ch-0414"
   title: "7.17 S"
   url: "https://wanderinginn.com/2020/04/12/7-17-s/"
   published: "2020-04-12"
@@ -3312,7 +4964,11 @@
     webVolume: 7
     eBook: null
     audioBook: null
-- index: 415
+  order:
+    webVolume: 414
+    eBook: null
+    audioBook: null
+- id: "ch-0415"
   title: "7.18 M"
   url: "https://wanderinginn.com/2020/04/15/7-18-m/"
   published: "2020-04-15"
@@ -3320,7 +4976,11 @@
     webVolume: 7
     eBook: null
     audioBook: null
-- index: 416
+  order:
+    webVolume: 415
+    eBook: null
+    audioBook: null
+- id: "ch-0416"
   title: "Interlude – Strategists at Sea (Pt. 1)"
   url: "https://wanderinginn.com/2020/04/19/interlude-strategists-at-sea-pt-1/"
   published: "2020-04-19"
@@ -3328,7 +4988,11 @@
     webVolume: 7
     eBook: null
     audioBook: null
-- index: 417
+  order:
+    webVolume: 416
+    eBook: null
+    audioBook: null
+- id: "ch-0417"
   title: "Interlude – Strategists at Sea (Pt. 2)"
   url: "https://wanderinginn.com/2020/04/22/interlude-strategists-at-sea-pt-2/"
   published: "2020-04-22"
@@ -3336,7 +5000,11 @@
     webVolume: 7
     eBook: null
     audioBook: null
-- index: 418
+  order:
+    webVolume: 417
+    eBook: null
+    audioBook: null
+- id: "ch-0418"
   title: "7.19"
   url: "https://wanderinginn.com/2020/04/26/7-19/"
   published: "2020-04-26"
@@ -3344,7 +5012,11 @@
     webVolume: 7
     eBook: null
     audioBook: null
-- index: 419
+  order:
+    webVolume: 418
+    eBook: null
+    audioBook: null
+- id: "ch-0419"
   title: "7.20"
   url: "https://wanderinginn.com/2020/04/29/7-20/"
   published: "2020-04-29"
@@ -3352,7 +5024,11 @@
     webVolume: 7
     eBook: null
     audioBook: null
-- index: 420
+  order:
+    webVolume: 419
+    eBook: null
+    audioBook: null
+- id: "ch-0420"
   title: "Interlude – A Night in the Inn"
   url: "https://wanderinginn.com/2020/05/03/interlude-a-night-in-the-inn/"
   published: "2020-05-03"
@@ -3360,7 +5036,11 @@
     webVolume: 7
     eBook: null
     audioBook: null
-- index: 421
+  order:
+    webVolume: 420
+    eBook: null
+    audioBook: null
+- id: "ch-0421"
   title: "7.21 KQ"
   url: "https://wanderinginn.com/2020/05/06/7-21-kq/"
   published: "2020-05-06"
@@ -3368,7 +5048,11 @@
     webVolume: 7
     eBook: null
     audioBook: null
-- index: 422
+  order:
+    webVolume: 421
+    eBook: null
+    audioBook: null
+- id: "ch-0422"
   title: "7.22 D"
   url: "https://wanderinginn.com/2020/05/10/7-22-d"
   published: "2020-05-10"
@@ -3376,7 +5060,11 @@
     webVolume: 7
     eBook: null
     audioBook: null
-- index: 423
+  order:
+    webVolume: 422
+    eBook: null
+    audioBook: null
+- id: "ch-0423"
   title: "7.23 LM"
   url: "https://wanderinginn.com/2020/05/13/7-23-lm/"
   published: "2020-05-13"
@@ -3384,7 +5072,11 @@
     webVolume: 7
     eBook: null
     audioBook: null
-- index: 424
+  order:
+    webVolume: 423
+    eBook: null
+    audioBook: null
+- id: "ch-0424"
   title: "7.24"
   url: "https://wanderinginn.com/2020/05/24/7-24/"
   published: "2020-05-24"
@@ -3392,7 +5084,11 @@
     webVolume: 7
     eBook: null
     audioBook: null
-- index: 425
+  order:
+    webVolume: 424
+    eBook: null
+    audioBook: null
+- id: "ch-0425"
   title: "7.25"
   url: "https://wanderinginn.com/2020/05/27/7-25/"
   published: "2020-05-27"
@@ -3400,7 +5096,11 @@
     webVolume: 7
     eBook: null
     audioBook: null
-- index: 426
+  order:
+    webVolume: 425
+    eBook: null
+    audioBook: null
+- id: "ch-0426"
   title: "7.26"
   url: "https://wanderinginn.com/2020/05/31/7-26/"
   published: "2020-05-31"
@@ -3408,7 +5108,11 @@
     webVolume: 7
     eBook: null
     audioBook: null
-- index: 427
+  order:
+    webVolume: 426
+    eBook: null
+    audioBook: null
+- id: "ch-0427"
   title: "7.27"
   url: "https://wanderinginn.com/2020/06/03/7-27/"
   published: "2020-06-03"
@@ -3416,7 +5120,11 @@
     webVolume: 7
     eBook: null
     audioBook: null
-- index: 428
+  order:
+    webVolume: 427
+    eBook: null
+    audioBook: null
+- id: "ch-0428"
   title: "Interlude – The Gecko of Illusions"
   url: "https://wanderinginn.com/2020/06/07/interlude-the-gecko-of-illusions/"
   published: "2020-06-07"
@@ -3424,7 +5132,11 @@
     webVolume: 7
     eBook: null
     audioBook: null
-- index: 429
+  order:
+    webVolume: 428
+    eBook: null
+    audioBook: null
+- id: "ch-0429"
   title: "7.28"
   url: "https://wanderinginn.com/2020/06/10/7-28/"
   published: "2020-06-10"
@@ -3432,7 +5144,11 @@
     webVolume: 7
     eBook: null
     audioBook: null
-- index: 430
+  order:
+    webVolume: 429
+    eBook: null
+    audioBook: null
+- id: "ch-0430"
   title: "7.29 B"
   url: "https://wanderinginn.com/2020/06/14/7-29-b/"
   published: "2020-06-14"
@@ -3440,7 +5156,11 @@
     webVolume: 7
     eBook: null
     audioBook: null
-- index: 431
+  order:
+    webVolume: 430
+    eBook: null
+    audioBook: null
+- id: "ch-0431"
   title: "7.30"
   url: "https://wanderinginn.com/2020/06/24/7-30/"
   published: "2020-06-24"
@@ -3448,7 +5168,11 @@
     webVolume: 7
     eBook: null
     audioBook: null
-- index: 432
+  order:
+    webVolume: 431
+    eBook: null
+    audioBook: null
+- id: "ch-0432"
   title: "7.31"
   url: "https://wanderinginn.com/2020/06/28/7-31/"
   published: "2020-06-28"
@@ -3456,7 +5180,11 @@
     webVolume: 7
     eBook: null
     audioBook: null
-- index: 433
+  order:
+    webVolume: 432
+    eBook: null
+    audioBook: null
+- id: "ch-0433"
   title: "Interlude – A Meeting of [Druids]"
   url: "https://wanderinginn.com/2020/07/01/interlude-a-meeting-of-druids/"
   published: "2020-07-01"
@@ -3464,7 +5192,11 @@
     webVolume: 7
     eBook: null
     audioBook: null
-- index: 434
+  order:
+    webVolume: 433
+    eBook: null
+    audioBook: null
+- id: "ch-0434"
   title: "7.32 D"
   url: "https://wanderinginn.com/2020/07/05/7-32-d/"
   published: "2020-07-05"
@@ -3472,7 +5204,11 @@
     webVolume: 7
     eBook: null
     audioBook: null
-- index: 435
+  order:
+    webVolume: 434
+    eBook: null
+    audioBook: null
+- id: "ch-0435"
   title: "7.33 I"
   url: "https://wanderinginn.com/2020/07/08/7-33-i/"
   published: "2020-07-08"
@@ -3480,7 +5216,11 @@
     webVolume: 7
     eBook: null
     audioBook: null
-- index: 436
+  order:
+    webVolume: 435
+    eBook: null
+    audioBook: null
+- id: "ch-0436"
   title: "7.34 C"
   url: "https://wanderinginn.com/2020/07/12/7-34-c/"
   published: "2020-07-12"
@@ -3488,7 +5228,11 @@
     webVolume: 7
     eBook: null
     audioBook: null
-- index: 437
+  order:
+    webVolume: 436
+    eBook: null
+    audioBook: null
+- id: "ch-0437"
   title: "7.35 C"
   url: "https://wanderinginn.com/2020/07/15/7-35-c/"
   published: "2020-07-15"
@@ -3496,7 +5240,11 @@
     webVolume: 7
     eBook: null
     audioBook: null
-- index: 438
+  order:
+    webVolume: 437
+    eBook: null
+    audioBook: null
+- id: "ch-0438"
   title: "7.36 C"
   url: "https://wanderinginn.com/2020/07/19/7-36-c/"
   published: "2020-07-19"
@@ -3504,7 +5252,11 @@
     webVolume: 7
     eBook: null
     audioBook: null
-- index: 439
+  order:
+    webVolume: 438
+    eBook: null
+    audioBook: null
+- id: "ch-0439"
   title: "7.37"
   url: "https://wanderinginn.com/2020/07/29/7-37/"
   published: "2020-07-29"
@@ -3512,7 +5264,11 @@
     webVolume: 7
     eBook: null
     audioBook: null
-- index: 440
+  order:
+    webVolume: 439
+    eBook: null
+    audioBook: null
+- id: "ch-0440"
   title: "7.38"
   url: "https://wanderinginn.com/2020/08/02/7-38/"
   published: "2020-08-02"
@@ -3520,7 +5276,11 @@
     webVolume: 7
     eBook: null
     audioBook: null
-- index: 441
+  order:
+    webVolume: 440
+    eBook: null
+    audioBook: null
+- id: "ch-0441"
   title: "7.39 A"
   url: "https://wanderinginn.com/2020/08/05/7-39-a/"
   published: "2020-08-05"
@@ -3528,7 +5288,11 @@
     webVolume: 7
     eBook: null
     audioBook: null
-- index: 442
+  order:
+    webVolume: 441
+    eBook: null
+    audioBook: null
+- id: "ch-0442"
   title: "Interlude – Carriages and Conversations"
   url: "https://wanderinginn.com/2020/08/08/interlude-carriages-and-conversations/"
   published: "2020-08-08"
@@ -3536,7 +5300,11 @@
     webVolume: 7
     eBook: null
     audioBook: null
-- index: 443
+  order:
+    webVolume: 442
+    eBook: null
+    audioBook: null
+- id: "ch-0443"
   title: "Interlude – Meetings and Friendships"
   url: "https://wanderinginn.com/2020/08/09/interlude-meetings-and-friendships/"
   published: "2020-08-09"
@@ -3544,7 +5312,11 @@
     webVolume: 7
     eBook: null
     audioBook: null
-- index: 444
+  order:
+    webVolume: 443
+    eBook: null
+    audioBook: null
+- id: "ch-0444"
   title: "Interlude – Sand and Notes"
   url: "https://wanderinginn.com/2020/08/10/interlude-sand-and-notes/"
   published: "2020-08-10"
@@ -3552,7 +5324,11 @@
     webVolume: 7
     eBook: null
     audioBook: null
-- index: 445
+  order:
+    webVolume: 444
+    eBook: null
+    audioBook: null
+- id: "ch-0445"
   title: "7.40 ER"
   url: "https://wanderinginn.com/2020/08/11/7-40-er/"
   published: "2020-08-11"
@@ -3560,7 +5336,11 @@
     webVolume: 7
     eBook: null
     audioBook: null
-- index: 446
+  order:
+    webVolume: 445
+    eBook: null
+    audioBook: null
+- id: "ch-0446"
   title: "Interlude – Food and Growth"
   url: "https://wanderinginn.com/2020/08/12/interlude-food-and-growth/"
   published: "2020-08-12"
@@ -3568,7 +5348,11 @@
     webVolume: 7
     eBook: null
     audioBook: null
-- index: 447
+  order:
+    webVolume: 446
+    eBook: null
+    audioBook: null
+- id: "ch-0447"
   title: "7.41"
   url: "https://wanderinginn.com/2020/08/13/7-41/"
   published: "2020-08-13"
@@ -3576,7 +5360,11 @@
     webVolume: 7
     eBook: null
     audioBook: null
-- index: 448
+  order:
+    webVolume: 447
+    eBook: null
+    audioBook: null
+- id: "ch-0448"
   title: "7.42 M"
   url: "https://wanderinginn.com/2020/08/14/7-42-m/"
   published: "2020-08-14"
@@ -3584,7 +5372,11 @@
     webVolume: 7
     eBook: null
     audioBook: null
-- index: 449
+  order:
+    webVolume: 448
+    eBook: null
+    audioBook: null
+- id: "ch-0449"
   title: "7.43 G"
   url: "https://wanderinginn.com/2020/09/02/7-43-g/"
   published: "2020-09-02"
@@ -3592,7 +5384,11 @@
     webVolume: 7
     eBook: null
     audioBook: null
-- index: 450
+  order:
+    webVolume: 449
+    eBook: null
+    audioBook: null
+- id: "ch-0450"
   title: "7.44"
   url: "https://wanderinginn.com/2020/09/06/7-44/"
   published: "2020-09-06"
@@ -3600,7 +5396,11 @@
     webVolume: 7
     eBook: null
     audioBook: null
-- index: 451
+  order:
+    webVolume: 450
+    eBook: null
+    audioBook: null
+- id: "ch-0451"
   title: "7.45"
   url: "https://wanderinginn.com/2020/09/09/7-45/"
   published: "2020-09-09"
@@ -3608,7 +5408,11 @@
     webVolume: 7
     eBook: null
     audioBook: null
-- index: 452
+  order:
+    webVolume: 451
+    eBook: null
+    audioBook: null
+- id: "ch-0452"
   title: "7.46 K"
   url: "https://wanderinginn.com/2020/09/13/7-46-k/"
   published: "2020-09-13"
@@ -3616,7 +5420,11 @@
     webVolume: 7
     eBook: null
     audioBook: null
-- index: 453
+  order:
+    webVolume: 452
+    eBook: null
+    audioBook: null
+- id: "ch-0453"
   title: "7.47 K"
   url: "https://wanderinginn.com/2020/09/16/7-47-k/"
   published: "2020-09-16"
@@ -3624,7 +5432,11 @@
     webVolume: 7
     eBook: null
     audioBook: null
-- index: 454
+  order:
+    webVolume: 453
+    eBook: null
+    audioBook: null
+- id: "ch-0454"
   title: "7.48 K"
   url: "https://wanderinginn.com/2020/09/20/7-48-k/"
   published: "2020-09-20"
@@ -3632,7 +5444,11 @@
     webVolume: 7
     eBook: null
     audioBook: null
-- index: 455
+  order:
+    webVolume: 454
+    eBook: null
+    audioBook: null
+- id: "ch-0455"
   title: "7.49"
   url: "https://wanderinginn.com/2020/09/23/7-49/"
   published: "2020-09-23"
@@ -3640,7 +5456,11 @@
     webVolume: 7
     eBook: null
     audioBook: null
-- index: 456
+  order:
+    webVolume: 455
+    eBook: null
+    audioBook: null
+- id: "ch-0456"
   title: "Interlude – Experiments in Golems"
   url: "https://wanderinginn.com/2020/10/04/interlude-experiments-in-golems/"
   published: "2020-10-04"
@@ -3648,7 +5468,11 @@
     webVolume: 7
     eBook: null
     audioBook: null
-- index: 457
+  order:
+    webVolume: 456
+    eBook: null
+    audioBook: null
+- id: "ch-0457"
   title: "7.50"
   url: "https://wanderinginn.com/2020/10/07/7-50/"
   published: "2020-10-07"
@@ -3656,7 +5480,11 @@
     webVolume: 7
     eBook: null
     audioBook: null
-- index: 458
+  order:
+    webVolume: 457
+    eBook: null
+    audioBook: null
+- id: "ch-0458"
   title: "7.51"
   url: "https://wanderinginn.com/2020/10/11/7-51/"
   published: "2020-10-11"
@@ -3664,7 +5492,11 @@
     webVolume: 7
     eBook: null
     audioBook: null
-- index: 459
+  order:
+    webVolume: 458
+    eBook: null
+    audioBook: null
+- id: "ch-0459"
   title: "7.52"
   url: "https://wanderinginn.com/2020/10/14/7-52/"
   published: "2020-10-14"
@@ -3672,7 +5504,11 @@
     webVolume: 7
     eBook: null
     audioBook: null
-- index: 460
+  order:
+    webVolume: 459
+    eBook: null
+    audioBook: null
+- id: "ch-0460"
   title: "7.53"
   url: "https://wanderinginn.com/2020/10/18/7-53/"
   published: "2020-10-18"
@@ -3680,7 +5516,11 @@
     webVolume: 7
     eBook: null
     audioBook: null
-- index: 461
+  order:
+    webVolume: 460
+    eBook: null
+    audioBook: null
+- id: "ch-0461"
   title: "7.54"
   url: "https://wanderinginn.com/2020/10/20/7-54/"
   published: "2020-10-20"
@@ -3688,7 +5528,11 @@
     webVolume: 7
     eBook: null
     audioBook: null
-- index: 462
+  order:
+    webVolume: 461
+    eBook: null
+    audioBook: null
+- id: "ch-0462"
   title: "7.55 E"
   url: "https://wanderinginn.com/2020/10/25/7-55-e/"
   published: "2020-10-25"
@@ -3696,7 +5540,11 @@
     webVolume: 7
     eBook: null
     audioBook: null
-- index: 463
+  order:
+    webVolume: 462
+    eBook: null
+    audioBook: null
+- id: "ch-0463"
   title: "Interlude – Saliss the Adventurer"
   url: "https://wanderinginn.com/2020/11/04/interlude-saliss-the-adventurer/"
   published: "2020-11-04"
@@ -3704,7 +5552,11 @@
     webVolume: 7
     eBook: null
     audioBook: null
-- index: 464
+  order:
+    webVolume: 463
+    eBook: null
+    audioBook: null
+- id: "ch-0464"
   title: "7.56"
   url: "https://wanderinginn.com/2020/11/08/7-56/"
   published: "2020-11-08"
@@ -3712,7 +5564,11 @@
     webVolume: 7
     eBook: null
     audioBook: null
-- index: 465
+  order:
+    webVolume: 464
+    eBook: null
+    audioBook: null
+- id: "ch-0465"
   title: "7.57"
   url: "https://wanderinginn.com/2020/11/11/7-57/"
   published: "2020-11-11"
@@ -3720,7 +5576,11 @@
     webVolume: 7
     eBook: null
     audioBook: null
-- index: 466
+  order:
+    webVolume: 465
+    eBook: null
+    audioBook: null
+- id: "ch-0466"
   title: "7.58"
   url: "https://wanderinginn.com/2020/11/15/7-58/"
   published: "2020-11-15"
@@ -3728,7 +5588,11 @@
     webVolume: 7
     eBook: null
     audioBook: null
-- index: 467
+  order:
+    webVolume: 466
+    eBook: null
+    audioBook: null
+- id: "ch-0467"
   title: "7.59"
   url: "https://wanderinginn.com/2020/11/18/7-59/"
   published: "2020-11-18"
@@ -3736,7 +5600,11 @@
     webVolume: 7
     eBook: null
     audioBook: null
-- index: 468
+  order:
+    webVolume: 467
+    eBook: null
+    audioBook: null
+- id: "ch-0468"
   title: "7.60"
   url: "https://wanderinginn.com/2020/11/22/7-60/"
   published: "2020-11-22"
@@ -3744,7 +5612,11 @@
     webVolume: 7
     eBook: null
     audioBook: null
-- index: 469
+  order:
+    webVolume: 468
+    eBook: null
+    audioBook: null
+- id: "ch-0469"
   title: "Interlude – The Tribes of Izril"
   url: "https://wanderinginn.com/2020/11/25/interlude-the-tribes-of-izril/"
   published: "2020-11-25"
@@ -3752,7 +5624,11 @@
     webVolume: 7
     eBook: null
     audioBook: null
-- index: 470
+  order:
+    webVolume: 469
+    eBook: null
+    audioBook: null
+- id: "ch-0470"
   title: "Interlude – The Innkeeper’s [Knight]"
   url: "https://wanderinginn.com/2020/12/06/interlude-the-innkeepers-knight/"
   published: "2020-12-06"
@@ -3760,7 +5636,11 @@
     webVolume: 7
     eBook: null
     audioBook: null
-- index: 471
+  order:
+    webVolume: 470
+    eBook: null
+    audioBook: null
+- id: "ch-0471"
   title: "7.61"
   url: "https://wanderinginn.com/2020/12/09/7-61/"
   published: "2020-12-09"
@@ -3768,7 +5648,11 @@
     webVolume: 7
     eBook: null
     audioBook: null
-- index: 472
+  order:
+    webVolume: 471
+    eBook: null
+    audioBook: null
+- id: "ch-0472"
   title: "7.62"
   url: "https://wanderinginn.com/2020/12/13/7-62/"
   published: "2020-12-13"
@@ -3776,7 +5660,11 @@
     webVolume: 7
     eBook: null
     audioBook: null
-- index: 473
+  order:
+    webVolume: 472
+    eBook: null
+    audioBook: null
+- id: "ch-0473"
   title: "Solstice (Pt. 1)"
   url: "https://wanderinginn.com/2020/12/16/solstice-pt-1/"
   published: "2020-12-16"
@@ -3784,7 +5672,11 @@
     webVolume: 7
     eBook: null
     audioBook: null
-- index: 474
+  order:
+    webVolume: 473
+    eBook: null
+    audioBook: null
+- id: "ch-0474"
   title: "Solstice (Pt. 2)"
   url: "https://wanderinginn.com/2020/12/20/solstice-pt-2/"
   published: "2020-12-20"
@@ -3792,7 +5684,11 @@
     webVolume: 7
     eBook: null
     audioBook: null
-- index: 475
+  order:
+    webVolume: 474
+    eBook: null
+    audioBook: null
+- id: "ch-0475"
   title: "Solstice (Pt. 3)"
   url: "https://wanderinginn.com/2020/12/23/solstice-pt-3/"
   published: "2020-12-23"
@@ -3800,7 +5696,11 @@
     webVolume: 7
     eBook: null
     audioBook: null
-- index: 476
+  order:
+    webVolume: 475
+    eBook: null
+    audioBook: null
+- id: "ch-0476"
   title: "Solstice (Pt. 4)"
   url: "https://wanderinginn.com/2020/12/23/solstice-pt-4/"
   published: "2020-12-23"
@@ -3808,7 +5708,11 @@
     webVolume: 7
     eBook: null
     audioBook: null
-- index: 477
+  order:
+    webVolume: 476
+    eBook: null
+    audioBook: null
+- id: "ch-0477"
   title: "Solstice (Pt. 5)"
   url: "https://wanderinginn.com/2020/12/23/solstice-pt-5/"
   published: "2020-12-23"
@@ -3816,7 +5720,11 @@
     webVolume: 7
     eBook: null
     audioBook: null
-- index: 478
+  order:
+    webVolume: 477
+    eBook: null
+    audioBook: null
+- id: "ch-0478"
   title: "Solstice (Pt. 6)"
   url: "https://wanderinginn.com/2020/12/23/solstice-pt-6/"
   published: "2020-12-23"
@@ -3824,7 +5732,11 @@
     webVolume: 7
     eBook: null
     audioBook: null
-- index: 479
+  order:
+    webVolume: 478
+    eBook: null
+    audioBook: null
+- id: "ch-0479"
   title: "Solstice (Pt. 7)"
   url: "https://wanderinginn.com/2020/12/23/solstice-pt-7/"
   published: "2020-12-23"
@@ -3832,7 +5744,11 @@
     webVolume: 7
     eBook: null
     audioBook: null
-- index: 480
+  order:
+    webVolume: 479
+    eBook: null
+    audioBook: null
+- id: "ch-0480"
   title: "Solstice (Pt. 8)"
   url: "https://wanderinginn.com/2020/12/23/solstice-pt-8/"
   published: "2020-12-23"
@@ -3840,7 +5756,11 @@
     webVolume: 7
     eBook: null
     audioBook: null
-- index: 481
+  order:
+    webVolume: 480
+    eBook: null
+    audioBook: null
+- id: "ch-0481"
   title: "Solstice (Pt. 9)"
   url: "https://wanderinginn.com/2020/12/23/solstice-pt-9/"
   published: "2020-12-23"
@@ -3848,7 +5768,11 @@
     webVolume: 7
     eBook: null
     audioBook: null
-- index: 482
+  order:
+    webVolume: 481
+    eBook: null
+    audioBook: null
+- id: "ch-0482"
   title: "8.00"
   url: "https://wanderinginn.com/2021/01/10/8-00/"
   published: "2021-01-10"
@@ -3856,7 +5780,11 @@
     webVolume: 8
     eBook: null
     audioBook: null
-- index: 483
+  order:
+    webVolume: 482
+    eBook: null
+    audioBook: null
+- id: "ch-0483"
   title: "8.01"
   url: "https://wanderinginn.com/2021/01/13/8-01/"
   published: "2021-01-13"
@@ -3864,7 +5792,11 @@
     webVolume: 8
     eBook: null
     audioBook: null
-- index: 484
+  order:
+    webVolume: 483
+    eBook: null
+    audioBook: null
+- id: "ch-0484"
   title: "8.02"
   url: "https://wanderinginn.com/2021/01/17/8-02/"
   published: "2021-01-17"
@@ -3872,7 +5804,11 @@
     webVolume: 8
     eBook: null
     audioBook: null
-- index: 485
+  order:
+    webVolume: 484
+    eBook: null
+    audioBook: null
+- id: "ch-0485"
   title: "8.03"
   url: "https://wanderinginn.com/2021/01/20/8-03/"
   published: "2021-01-20"
@@ -3880,7 +5816,11 @@
     webVolume: 8
     eBook: null
     audioBook: null
-- index: 486
+  order:
+    webVolume: 485
+    eBook: null
+    audioBook: null
+- id: "ch-0486"
   title: "Interlude – The Revenant and the Naga"
   url: "https://wanderinginn.com/2021/01/24/interlude-the-revenant-and-the-naga/"
   published: "2021-01-24"
@@ -3888,7 +5828,11 @@
     webVolume: 8
     eBook: null
     audioBook: null
-- index: 487
+  order:
+    webVolume: 486
+    eBook: null
+    audioBook: null
+- id: "ch-0487"
   title: "8.04 T"
   url: "https://wanderinginn.com/2021/01/27/8-04-t/"
   published: "2021-01-27"
@@ -3896,7 +5840,11 @@
     webVolume: 8
     eBook: null
     audioBook: null
-- index: 488
+  order:
+    webVolume: 487
+    eBook: null
+    audioBook: null
+- id: "ch-0488"
   title: "8.05 I"
   url: "https://wanderinginn.com/2021/02/07/8-05-i/"
   published: "2021-02-07"
@@ -3904,7 +5852,11 @@
     webVolume: 8
     eBook: null
     audioBook: null
-- index: 489
+  order:
+    webVolume: 488
+    eBook: null
+    audioBook: null
+- id: "ch-0489"
   title: "8.06 RT"
   url: "https://wanderinginn.com/2021/02/10/8-06-rt/"
   published: "2021-02-10"
@@ -3912,7 +5864,11 @@
     webVolume: 8
     eBook: null
     audioBook: null
-- index: 490
+  order:
+    webVolume: 489
+    eBook: null
+    audioBook: null
+- id: "ch-0490"
   title: "8.07 L"
   url: "https://wanderinginn.com/2021/02/14/8-07-l/"
   published: "2021-02-14"
@@ -3920,7 +5876,11 @@
     webVolume: 8
     eBook: null
     audioBook: null
-- index: 491
+  order:
+    webVolume: 490
+    eBook: null
+    audioBook: null
+- id: "ch-0491"
   title: "8.08 J"
   url: "https://wanderinginn.com/2021/02/17/8-08-j/"
   published: "2021-02-17"
@@ -3928,7 +5888,11 @@
     webVolume: 8
     eBook: null
     audioBook: null
-- index: 492
+  order:
+    webVolume: 491
+    eBook: null
+    audioBook: null
+- id: "ch-0492"
   title: "8.09"
   url: "https://wanderinginn.com/2021/02/21/8-09/"
   published: "2021-02-21"
@@ -3936,7 +5900,11 @@
     webVolume: 8
     eBook: null
     audioBook: null
-- index: 493
+  order:
+    webVolume: 492
+    eBook: null
+    audioBook: null
+- id: "ch-0493"
   title: "8.10"
   url: "https://wanderinginn.com/2021/02/24/8-10/"
   published: "2021-02-24"
@@ -3944,7 +5912,11 @@
     webVolume: 8
     eBook: null
     audioBook: null
-- index: 494
+  order:
+    webVolume: 493
+    eBook: null
+    audioBook: null
+- id: "ch-0494"
   title: "8.11 E"
   url: "https://wanderinginn.com/2021/03/16/8-11-e-revised/"
   published: "2021-03-16"
@@ -3952,7 +5924,11 @@
     webVolume: 8
     eBook: null
     audioBook: null
-- index: 495
+  order:
+    webVolume: 494
+    eBook: null
+    audioBook: null
+- id: "ch-0495"
   title: "8.12 T"
   url: "https://wanderinginn.com/2021/03/10/8-12-t/"
   published: "2021-03-10"
@@ -3960,7 +5936,11 @@
     webVolume: 8
     eBook: null
     audioBook: null
-- index: 496
+  order:
+    webVolume: 495
+    eBook: null
+    audioBook: null
+- id: "ch-0496"
   title: "Interlude – The [Rower] and the [Bartender]"
   url: "https://wanderinginn.com/2021/03/14/interlude-the-rower-and-the-bartender/"
   published: "2021-03-14"
@@ -3968,7 +5948,11 @@
     webVolume: 8
     eBook: null
     audioBook: null
-- index: 497
+  order:
+    webVolume: 496
+    eBook: null
+    audioBook: null
+- id: "ch-0497"
   title: "8.13 F"
   url: "https://wanderinginn.com/2021/03/17/8-13-f/"
   published: "2021-03-17"
@@ -3976,7 +5960,11 @@
     webVolume: 8
     eBook: null
     audioBook: null
-- index: 498
+  order:
+    webVolume: 497
+    eBook: null
+    audioBook: null
+- id: "ch-0498"
   title: "8.14 N"
   url: "https://wanderinginn.com/2021/03/21/8-14-n/"
   published: "2021-03-21"
@@ -3984,7 +5972,11 @@
     webVolume: 8
     eBook: null
     audioBook: null
-- index: 499
+  order:
+    webVolume: 498
+    eBook: null
+    audioBook: null
+- id: "ch-0499"
   title: "8.15"
   url: "https://wanderinginn.com/2021/03/30/8-15/"
   published: "2021-03-30"
@@ -3992,7 +5984,11 @@
     webVolume: 8
     eBook: null
     audioBook: null
-- index: 500
+  order:
+    webVolume: 499
+    eBook: null
+    audioBook: null
+- id: "ch-0500"
   title: "Interlude – Paradigm Shift (Pt. 1)"
   url: "https://wanderinginn.com/2021/04/04/interlude-paradigm-shift-pt-1/"
   published: "2021-04-04"
@@ -4000,7 +5996,11 @@
     webVolume: 8
     eBook: null
     audioBook: null
-- index: 501
+  order:
+    webVolume: 500
+    eBook: null
+    audioBook: null
+- id: "ch-0501"
   title: "Interlude – Paradigm Shift (Pt. 2)"
   url: "https://wanderinginn.com/2021/04/04/interlude-paradigm-shift-pt-2/"
   published: "2021-04-04"
@@ -4008,7 +6008,11 @@
     webVolume: 8
     eBook: null
     audioBook: null
-- index: 502
+  order:
+    webVolume: 501
+    eBook: null
+    audioBook: null
+- id: "ch-0502"
   title: "8.16"
   url: "https://wanderinginn.com/2021/04/10/8-16/"
   published: "2021-04-10"
@@ -4016,7 +6020,11 @@
     webVolume: 8
     eBook: null
     audioBook: null
-- index: 503
+  order:
+    webVolume: 502
+    eBook: null
+    audioBook: null
+- id: "ch-0503"
   title: "8.17 H"
   url: "https://wanderinginn.com/2021/04/13/8-17-h/"
   published: "2021-04-13"
@@ -4024,7 +6032,11 @@
     webVolume: 8
     eBook: null
     audioBook: null
-- index: 504
+  order:
+    webVolume: 503
+    eBook: null
+    audioBook: null
+- id: "ch-0504"
   title: "8.18 H"
   url: "https://wanderinginn.com/2021/04/25/8-18-h/"
   published: "2021-04-25"
@@ -4032,7 +6044,11 @@
     webVolume: 8
     eBook: null
     audioBook: null
-- index: 505
+  order:
+    webVolume: 504
+    eBook: null
+    audioBook: null
+- id: "ch-0505"
   title: "8.19 H"
   url: "https://wanderinginn.com/2021/04/28/8-19-h/"
   published: "2021-04-28"
@@ -4040,7 +6056,11 @@
     webVolume: 8
     eBook: null
     audioBook: null
-- index: 506
+  order:
+    webVolume: 505
+    eBook: null
+    audioBook: null
+- id: "ch-0506"
   title: "8.20"
   url: "https://wanderinginn.com/2021/05/02/8-20/"
   published: "2021-05-02"
@@ -4048,7 +6068,11 @@
     webVolume: 8
     eBook: null
     audioBook: null
-- index: 507
+  order:
+    webVolume: 506
+    eBook: null
+    audioBook: null
+- id: "ch-0507"
   title: "8.21 L"
   url: "https://wanderinginn.com/2021/05/04/8-21-l/"
   published: "2021-05-04"
@@ -4056,7 +6080,11 @@
     webVolume: 8
     eBook: null
     audioBook: null
-- index: 508
+  order:
+    webVolume: 507
+    eBook: null
+    audioBook: null
+- id: "ch-0508"
   title: "8.22 HE"
   url: "https://wanderinginn.com/2021/05/11/8-22-he/"
   published: "2021-05-11"
@@ -4064,7 +6092,11 @@
     webVolume: 8
     eBook: null
     audioBook: null
-- index: 509
+  order:
+    webVolume: 508
+    eBook: null
+    audioBook: null
+- id: "ch-0509"
   title: "Interlude – Senior Guardsman Relc"
   url: "https://wanderinginn.com/2021/05/16/interlude-senior-guardsman-relc/"
   published: "2021-05-16"
@@ -4072,7 +6104,11 @@
     webVolume: 8
     eBook: null
     audioBook: null
-- index: 510
+  order:
+    webVolume: 509
+    eBook: null
+    audioBook: null
+- id: "ch-0510"
   title: "8.23"
   url: "https://wanderinginn.com/2021/05/19/8-23/"
   published: "2021-05-19"
@@ -4080,7 +6116,11 @@
     webVolume: 8
     eBook: null
     audioBook: null
-- index: 511
+  order:
+    webVolume: 510
+    eBook: null
+    audioBook: null
+- id: "ch-0511"
   title: "8.24"
   url: "https://wanderinginn.com/2021/05/30/8-24/"
   published: "2021-05-30"
@@ -4088,7 +6128,11 @@
     webVolume: 8
     eBook: null
     audioBook: null
-- index: 512
+  order:
+    webVolume: 511
+    eBook: null
+    audioBook: null
+- id: "ch-0512"
   title: "8.25 KH"
   url: "https://wanderinginn.com/2021/06/02/8-25-kh/"
   published: "2021-06-02"
@@ -4096,7 +6140,11 @@
     webVolume: 8
     eBook: null
     audioBook: null
-- index: 513
+  order:
+    webVolume: 512
+    eBook: null
+    audioBook: null
+- id: "ch-0513"
   title: "8.26 FK"
   url: "https://wanderinginn.com/2021/06/06/8-26-fk/"
   published: "2021-06-06"
@@ -4104,7 +6152,11 @@
     webVolume: 8
     eBook: null
     audioBook: null
-- index: 514
+  order:
+    webVolume: 513
+    eBook: null
+    audioBook: null
+- id: "ch-0514"
   title: "Interlude – Luan the Giant"
   url: "https://wanderinginn.com/2021/06/08/interlude-luan-the-giant/"
   published: "2021-06-08"
@@ -4112,7 +6164,11 @@
     webVolume: 8
     eBook: null
     audioBook: null
-- index: 515
+  order:
+    webVolume: 514
+    eBook: null
+    audioBook: null
+- id: "ch-0515"
   title: "8.27"
   url: "https://wanderinginn.com/2021/06/12/8-27/"
   published: "2021-06-12"
@@ -4120,7 +6176,11 @@
     webVolume: 8
     eBook: null
     audioBook: null
-- index: 516
+  order:
+    webVolume: 515
+    eBook: null
+    audioBook: null
+- id: "ch-0516"
   title: "8.28"
   url: "https://wanderinginn.com/2021/06/19/8-28/"
   published: "2021-06-19"
@@ -4128,7 +6188,11 @@
     webVolume: 8
     eBook: null
     audioBook: null
-- index: 517
+  order:
+    webVolume: 516
+    eBook: null
+    audioBook: null
+- id: "ch-0517"
   title: "8.29"
   url: "https://wanderinginn.com/2021/06/22/8-29/"
   published: "2021-06-22"
@@ -4136,7 +6200,11 @@
     webVolume: 8
     eBook: null
     audioBook: null
-- index: 518
+  order:
+    webVolume: 517
+    eBook: null
+    audioBook: null
+- id: "ch-0518"
   title: "Interlude – The Pets of Innworld"
   url: "https://wanderinginn.com/2021/06/26/interlude-the-pets-of-innworld/"
   published: "2021-06-26"
@@ -4144,7 +6212,11 @@
     webVolume: 8
     eBook: null
     audioBook: null
-- index: 519
+  order:
+    webVolume: 518
+    eBook: null
+    audioBook: null
+- id: "ch-0519"
   title: "8.30"
   url: "https://wanderinginn.com/2021/07/13/8-30/"
   published: "2021-07-13"
@@ -4152,7 +6224,11 @@
     webVolume: 8
     eBook: null
     audioBook: null
-- index: 520
+  order:
+    webVolume: 519
+    eBook: null
+    audioBook: null
+- id: "ch-0520"
   title: "8.31"
   url: "https://wanderinginn.com/2021/07/18/8-31/"
   published: "2021-07-18"
@@ -4160,7 +6236,11 @@
     webVolume: 8
     eBook: null
     audioBook: null
-- index: 521
+  order:
+    webVolume: 520
+    eBook: null
+    audioBook: null
+- id: "ch-0521"
   title: "Interlude – Pisces (Revised)"
   url: "https://wanderinginn.com/2021/07/20/interlude-pisces-revised/"
   published: "2021-07-20"
@@ -4168,7 +6248,11 @@
     webVolume: 8
     eBook: null
     audioBook: null
-- index: 522
+  order:
+    webVolume: 521
+    eBook: null
+    audioBook: null
+- id: "ch-0522"
   title: "8.32"
   url: "https://wanderinginn.com/2021/07/25/8-32/"
   published: "2021-07-25"
@@ -4176,7 +6260,11 @@
     webVolume: 8
     eBook: null
     audioBook: null
-- index: 523
+  order:
+    webVolume: 522
+    eBook: null
+    audioBook: null
+- id: "ch-0523"
   title: "8.33 R"
   url: "https://wanderinginn.com/2021/07/28/8-33-r/"
   published: "2021-07-28"
@@ -4184,7 +6272,11 @@
     webVolume: 8
     eBook: null
     audioBook: null
-- index: 524
+  order:
+    webVolume: 523
+    eBook: null
+    audioBook: null
+- id: "ch-0524"
   title: "8.34 R"
   url: "https://wanderinginn.com/2021/08/01/8-34-r/"
   published: "2021-08-01"
@@ -4192,7 +6284,11 @@
     webVolume: 8
     eBook: null
     audioBook: null
-- index: 525
+  order:
+    webVolume: 524
+    eBook: null
+    audioBook: null
+- id: "ch-0525"
   title: "8.35"
   url: "https://wanderinginn.com/2021/08/04/8-35/"
   published: "2021-08-04"
@@ -4200,7 +6296,11 @@
     webVolume: 8
     eBook: null
     audioBook: null
-- index: 526
+  order:
+    webVolume: 525
+    eBook: null
+    audioBook: null
+- id: "ch-0526"
   title: "8.36 H"
   url: "https://wanderinginn.com/2021/08/15/8-36-h/"
   published: "2021-08-15"
@@ -4208,7 +6308,11 @@
     webVolume: 8
     eBook: null
     audioBook: null
-- index: 527
+  order:
+    webVolume: 526
+    eBook: null
+    audioBook: null
+- id: "ch-0527"
   title: "8.37 H"
   url: "https://wanderinginn.com/2021/08/17/8-37-h/"
   published: "2021-08-17"
@@ -4216,7 +6320,11 @@
     webVolume: 8
     eBook: null
     audioBook: null
-- index: 528
+  order:
+    webVolume: 527
+    eBook: null
+    audioBook: null
+- id: "ch-0528"
   title: "8.38 H"
   url: "https://wanderinginn.com/2021/08/22/8-38-h/"
   published: "2021-08-22"
@@ -4224,7 +6332,11 @@
     webVolume: 8
     eBook: null
     audioBook: null
-- index: 529
+  order:
+    webVolume: 528
+    eBook: null
+    audioBook: null
+- id: "ch-0529"
   title: "8.39"
   url: "https://wanderinginn.com/2021/08/24/8-39/"
   published: "2021-08-24"
@@ -4232,7 +6344,11 @@
     webVolume: 8
     eBook: null
     audioBook: null
-- index: 530
+  order:
+    webVolume: 529
+    eBook: null
+    audioBook: null
+- id: "ch-0530"
   title: "8.40 CTV"
   url: "https://wanderinginn.com/2021/08/29/8-40-ctv/"
   published: "2021-08-29"
@@ -4240,7 +6356,11 @@
     webVolume: 8
     eBook: null
     audioBook: null
-- index: 531
+  order:
+    webVolume: 530
+    eBook: null
+    audioBook: null
+- id: "ch-0531"
   title: "Interlude – Of Vampires and Fraerlings"
   url: "https://wanderinginn.com/2021/08/31/interlude-of-vampires-and-fraerlings/"
   published: "2021-08-31"
@@ -4248,7 +6368,11 @@
     webVolume: 8
     eBook: null
     audioBook: null
-- index: 532
+  order:
+    webVolume: 531
+    eBook: null
+    audioBook: null
+- id: "ch-0532"
   title: "8.41"
   url: "https://wanderinginn.com/2021/09/04/8-41/"
   published: "2021-09-04"
@@ -4256,7 +6380,11 @@
     webVolume: 8
     eBook: null
     audioBook: null
-- index: 533
+  order:
+    webVolume: 532
+    eBook: null
+    audioBook: null
+- id: "ch-0533"
   title: "Interlude – Songs and Stories"
   url: "https://wanderinginn.com/2021/09/15/interlude-songs-and-stories/"
   published: "2021-09-15"
@@ -4264,7 +6392,11 @@
     webVolume: 8
     eBook: null
     audioBook: null
-- index: 534
+  order:
+    webVolume: 533
+    eBook: null
+    audioBook: null
+- id: "ch-0534"
   title: "8.42"
   url: "https://wanderinginn.com/2021/09/19/8-42/"
   published: "2021-09-19"
@@ -4272,7 +6404,11 @@
     webVolume: 8
     eBook: null
     audioBook: null
-- index: 535
+  order:
+    webVolume: 534
+    eBook: null
+    audioBook: null
+- id: "ch-0535"
   title: "8.43"
   url: "https://wanderinginn.com/2021/09/22/8-43/"
   published: "2021-09-22"
@@ -4280,7 +6416,11 @@
     webVolume: 8
     eBook: null
     audioBook: null
-- index: 536
+  order:
+    webVolume: 535
+    eBook: null
+    audioBook: null
+- id: "ch-0536"
   title: "8.44 O"
   url: "https://wanderinginn.com/2021/09/26/8-44-o/"
   published: "2021-09-26"
@@ -4288,7 +6428,11 @@
     webVolume: 8
     eBook: null
     audioBook: null
-- index: 537
+  order:
+    webVolume: 536
+    eBook: null
+    audioBook: null
+- id: "ch-0537"
   title: "8.45 O"
   url: "https://wanderinginn.com/2021/09/26/8-45-o/"
   published: "2021-09-26"
@@ -4296,7 +6440,11 @@
     webVolume: 8
     eBook: null
     audioBook: null
-- index: 538
+  order:
+    webVolume: 537
+    eBook: null
+    audioBook: null
+- id: "ch-0538"
   title: "8.46 G"
   url: "https://wanderinginn.com/2021/10/03/8-46-g/"
   published: "2021-10-03"
@@ -4304,7 +6452,11 @@
     webVolume: 8
     eBook: null
     audioBook: null
-- index: 539
+  order:
+    webVolume: 538
+    eBook: null
+    audioBook: null
+- id: "ch-0539"
   title: "Interlude – Perspective and Past"
   url: "https://wanderinginn.com/2021/10/06/interlude-perspective-and-past/"
   published: "2021-10-06"
@@ -4312,7 +6464,11 @@
     webVolume: 8
     eBook: null
     audioBook: null
-- index: 540
+  order:
+    webVolume: 539
+    eBook: null
+    audioBook: null
+- id: "ch-0540"
   title: "8.47 H"
   url: "https://wanderinginn.com/2021/10/19/8-47-h/"
   published: "2021-10-19"
@@ -4320,7 +6476,11 @@
     webVolume: 8
     eBook: null
     audioBook: null
-- index: 541
+  order:
+    webVolume: 540
+    eBook: null
+    audioBook: null
+- id: "ch-0541"
   title: "8.48 H"
   url: "https://wanderinginn.com/2021/10/24/8-48-h/"
   published: "2021-10-24"
@@ -4328,7 +6488,11 @@
     webVolume: 8
     eBook: null
     audioBook: null
-- index: 542
+  order:
+    webVolume: 541
+    eBook: null
+    audioBook: null
+- id: "ch-0542"
   title: "8.49 M – Revised"
   url: "https://wanderinginn.com/2021/10/27/8-49-m-revised/"
   published: "2021-10-27"
@@ -4336,7 +6500,11 @@
     webVolume: 8
     eBook: null
     audioBook: null
-- index: 543
+  order:
+    webVolume: 542
+    eBook: null
+    audioBook: null
+- id: "ch-0543"
   title: "8.50"
   url: "https://wanderinginn.com/2021/10/31/8-50/"
   published: "2021-10-31"
@@ -4344,7 +6512,11 @@
     webVolume: 8
     eBook: null
     audioBook: null
-- index: 544
+  order:
+    webVolume: 543
+    eBook: null
+    audioBook: null
+- id: "ch-0544"
   title: "Interlude – Conversations"
   url: "https://wanderinginn.com/2021/11/03/interlude-conversations/"
   published: "2021-11-03"
@@ -4352,7 +6524,11 @@
     webVolume: 8
     eBook: null
     audioBook: null
-- index: 545
+  order:
+    webVolume: 544
+    eBook: null
+    audioBook: null
+- id: "ch-0545"
   title: "8.51 D"
   url: "https://wanderinginn.com/2021/11/14/8-51-d/"
   published: "2021-11-14"
@@ -4360,7 +6536,11 @@
     webVolume: 8
     eBook: null
     audioBook: null
-- index: 546
+  order:
+    webVolume: 545
+    eBook: null
+    audioBook: null
+- id: "ch-0546"
   title: "8.52 MN"
   url: "https://wanderinginn.com/2021/11/17/8-52-mn/"
   published: "2021-11-17"
@@ -4368,7 +6548,11 @@
     webVolume: 8
     eBook: null
     audioBook: null
-- index: 547
+  order:
+    webVolume: 546
+    eBook: null
+    audioBook: null
+- id: "ch-0547"
   title: "8.53 FH"
   url: "https://wanderinginn.com/2021/11/21/8-53-fh/"
   published: "2021-11-21"
@@ -4376,7 +6560,11 @@
     webVolume: 8
     eBook: null
     audioBook: null
-- index: 548
+  order:
+    webVolume: 547
+    eBook: null
+    audioBook: null
+- id: "ch-0548"
   title: "8.54 H"
   url: "https://wanderinginn.com/2021/12/01/8-54-h/"
   published: "2021-12-01"
@@ -4384,7 +6572,11 @@
     webVolume: 8
     eBook: null
     audioBook: null
-- index: 549
+  order:
+    webVolume: 548
+    eBook: null
+    audioBook: null
+- id: "ch-0549"
   title: "8.55 L"
   url: "https://wanderinginn.com/2021/12/05/8-55-l/"
   published: "2021-12-05"
@@ -4392,7 +6584,11 @@
     webVolume: 8
     eBook: null
     audioBook: null
-- index: 550
+  order:
+    webVolume: 549
+    eBook: null
+    audioBook: null
+- id: "ch-0550"
   title: "8.56"
   url: "https://wanderinginn.com/2021/12/08/8-56/"
   published: "2021-12-08"
@@ -4400,7 +6596,11 @@
     webVolume: 8
     eBook: null
     audioBook: null
-- index: 551
+  order:
+    webVolume: 550
+    eBook: null
+    audioBook: null
+- id: "ch-0551"
   title: "8.57 H"
   url: "https://wanderinginn.com/2021/12/12/8-57-h/"
   published: "2021-12-12"
@@ -4408,7 +6608,11 @@
     webVolume: 8
     eBook: null
     audioBook: null
-- index: 552
+  order:
+    webVolume: 551
+    eBook: null
+    audioBook: null
+- id: "ch-0552"
   title: "8.58 PFH"
   url: "https://wanderinginn.com/2021/12/15/8-58-pfh/"
   published: "2021-12-15"
@@ -4416,7 +6620,11 @@
     webVolume: 8
     eBook: null
     audioBook: null
-- index: 553
+  order:
+    webVolume: 552
+    eBook: null
+    audioBook: null
+- id: "ch-0553"
   title: "8.59 H"
   url: "https://wanderinginn.com/2021/12/22/8-59-h/"
   published: "2021-12-22"
@@ -4424,7 +6632,11 @@
     webVolume: 8
     eBook: null
     audioBook: null
-- index: 554
+  order:
+    webVolume: 553
+    eBook: null
+    audioBook: null
+- id: "ch-0554"
   title: "8.60"
   url: "https://wanderinginn.com/2021/12/26/8-60/"
   published: "2021-12-26"
@@ -4432,7 +6644,11 @@
     webVolume: 8
     eBook: null
     audioBook: null
-- index: 555
+  order:
+    webVolume: 554
+    eBook: null
+    audioBook: null
+- id: "ch-0555"
   title: "8.61"
   url: "https://wanderinginn.com/2021/12/29/8-61/"
   published: "2021-12-29"
@@ -4440,7 +6656,11 @@
     webVolume: 8
     eBook: null
     audioBook: null
-- index: 556
+  order:
+    webVolume: 555
+    eBook: null
+    audioBook: null
+- id: "ch-0556"
   title: "8.62 K"
   url: "https://wanderinginn.com/2022/01/16/8-62-k/"
   published: "2022-01-16"
@@ -4448,7 +6668,11 @@
     webVolume: 8
     eBook: null
     audioBook: null
-- index: 557
+  order:
+    webVolume: 556
+    eBook: null
+    audioBook: null
+- id: "ch-0557"
   title: "8.63 K"
   url: "https://wanderinginn.com/2022/01/19/8-63-k/"
   published: "2022-01-19"
@@ -4456,7 +6680,11 @@
     webVolume: 8
     eBook: null
     audioBook: null
-- index: 558
+  order:
+    webVolume: 557
+    eBook: null
+    audioBook: null
+- id: "ch-0558"
   title: "8.64 K"
   url: "https://wanderinginn.com/2022/01/23/8-64-k/"
   published: "2022-01-23"
@@ -4464,7 +6692,11 @@
     webVolume: 8
     eBook: null
     audioBook: null
-- index: 559
+  order:
+    webVolume: 558
+    eBook: null
+    audioBook: null
+- id: "ch-0559"
   title: "8.65"
   url: "https://wanderinginn.com/2022/01/30/8-65/"
   published: "2022-01-30"
@@ -4472,7 +6704,11 @@
     webVolume: 8
     eBook: null
     audioBook: null
-- index: 560
+  order:
+    webVolume: 559
+    eBook: null
+    audioBook: null
+- id: "ch-0560"
   title: "Interlude – Hectval (Pt. 1)"
   url: "https://wanderinginn.com/2022/02/09/interlude-hectval-pt-1/"
   published: "2022-02-09"
@@ -4480,7 +6716,11 @@
     webVolume: 8
     eBook: null
     audioBook: null
-- index: 561
+  order:
+    webVolume: 560
+    eBook: null
+    audioBook: null
+- id: "ch-0561"
   title: "Interlude – Hectval (Pt. 2)"
   url: "https://wanderinginn.com/2022/02/13/interlude-hectval-pt-2/"
   published: "2022-02-13"
@@ -4488,7 +6728,11 @@
     webVolume: 8
     eBook: null
     audioBook: null
-- index: 562
+  order:
+    webVolume: 561
+    eBook: null
+    audioBook: null
+- id: "ch-0562"
   title: "Interlude – Hectval (Pt. 3)"
   url: "https://wanderinginn.com/2022/02/16/interlude-hectval-pt-3/"
   published: "2022-02-16"
@@ -4496,14 +6740,23 @@
     webVolume: 8
     eBook: null
     audioBook: null
-- index: 563
+  order:
+    webVolume: 562
+    eBook: null
+    audioBook: null
+- id: "ch-0563"
   title: "Interlude – Satar (Revised)"
   url: "https://wanderinginn.com/interlude-satar-revised/"
+  published: "2022-02-20"
   partOf:
     webVolume: 8
     eBook: null
     audioBook: null
-- index: 564
+  order:
+    webVolume: 563
+    eBook: null
+    audioBook: null
+- id: "ch-0564"
   title: "8.66"
   url: "https://wanderinginn.com/2022/02/23/8-66/"
   published: "2022-02-23"
@@ -4511,7 +6764,11 @@
     webVolume: 8
     eBook: null
     audioBook: null
-- index: 565
+  order:
+    webVolume: 564
+    eBook: null
+    audioBook: null
+- id: "ch-0565"
   title: "8.67"
   url: "https://wanderinginn.com/2022/02/27/8-67/"
   published: "2022-02-27"
@@ -4519,7 +6776,11 @@
     webVolume: 8
     eBook: null
     audioBook: null
-- index: 566
+  order:
+    webVolume: 565
+    eBook: null
+    audioBook: null
+- id: "ch-0566"
   title: "8.68"
   url: "https://wanderinginn.com/2022/03/09/8-68/"
   published: "2022-03-09"
@@ -4527,7 +6788,11 @@
     webVolume: 8
     eBook: null
     audioBook: null
-- index: 567
+  order:
+    webVolume: 566
+    eBook: null
+    audioBook: null
+- id: "ch-0567"
   title: "8.69 T"
   url: "https://wanderinginn.com/2022/03/12/8-69-te/"
   published: "2022-03-12"
@@ -4535,7 +6800,11 @@
     webVolume: 8
     eBook: null
     audioBook: null
-- index: 568
+  order:
+    webVolume: 567
+    eBook: null
+    audioBook: null
+- id: "ch-0568"
   title: "8.70 E"
   url: "https://wanderinginn.com/2022/03/13/8-70-e/"
   published: "2022-03-13"
@@ -4543,7 +6812,11 @@
     webVolume: 8
     eBook: null
     audioBook: null
-- index: 569
+  order:
+    webVolume: 568
+    eBook: null
+    audioBook: null
+- id: "ch-0569"
   title: "8.71"
   url: "https://wanderinginn.com/2022/03/14/8-71/"
   published: "2022-03-14"
@@ -4551,7 +6824,11 @@
     webVolume: 8
     eBook: null
     audioBook: null
-- index: 570
+  order:
+    webVolume: 569
+    eBook: null
+    audioBook: null
+- id: "ch-0570"
   title: "8.72"
   url: "https://wanderinginn.com/2022/03/15/8-72/"
   published: "2022-03-15"
@@ -4559,7 +6836,11 @@
     webVolume: 8
     eBook: null
     audioBook: null
-- index: 571
+  order:
+    webVolume: 570
+    eBook: null
+    audioBook: null
+- id: "ch-0571"
   title: "8.73 R"
   url: "https://wanderinginn.com/2022/03/16/8-73-r/"
   published: "2022-03-16"
@@ -4567,7 +6848,11 @@
     webVolume: 8
     eBook: null
     audioBook: null
-- index: 572
+  order:
+    webVolume: 571
+    eBook: null
+    audioBook: null
+- id: "ch-0572"
   title: "8.74 DR"
   url: "https://wanderinginn.com/2022/03/17/8-74-dr/"
   published: "2022-03-17"
@@ -4575,7 +6860,11 @@
     webVolume: 8
     eBook: null
     audioBook: null
-- index: 573
+  order:
+    webVolume: 572
+    eBook: null
+    audioBook: null
+- id: "ch-0573"
   title: "8.75"
   url: "https://wanderinginn.com/2022/03/18/8-75/"
   published: "2022-03-18"
@@ -4583,7 +6872,11 @@
     webVolume: 8
     eBook: null
     audioBook: null
-- index: 574
+  order:
+    webVolume: 573
+    eBook: null
+    audioBook: null
+- id: "ch-0574"
   title: "8.76 B"
   url: "https://wanderinginn.com/2022/03/27/8-76-b/"
   published: "2022-03-27"
@@ -4591,7 +6884,11 @@
     webVolume: 8
     eBook: null
     audioBook: null
-- index: 575
+  order:
+    webVolume: 574
+    eBook: null
+    audioBook: null
+- id: "ch-0575"
   title: "8.77 B"
   url: "https://wanderinginn.com/2022/03/30/8-77-b/"
   published: "2022-03-30"
@@ -4599,7 +6896,11 @@
     webVolume: 8
     eBook: null
     audioBook: null
-- index: 576
+  order:
+    webVolume: 575
+    eBook: null
+    audioBook: null
+- id: "ch-0576"
   title: "8.78 F"
   url: "https://wanderinginn.com/2022/04/10/8-78-f/"
   published: "2022-04-10"
@@ -4607,7 +6908,11 @@
     webVolume: 8
     eBook: null
     audioBook: null
-- index: 577
+  order:
+    webVolume: 576
+    eBook: null
+    audioBook: null
+- id: "ch-0577"
   title: "8.79"
   url: "https://wanderinginn.com/2022/04/13/8-79/"
   published: "2022-04-13"
@@ -4615,7 +6920,11 @@
     webVolume: 8
     eBook: null
     audioBook: null
-- index: 578
+  order:
+    webVolume: 577
+    eBook: null
+    audioBook: null
+- id: "ch-0578"
   title: "8.80"
   url: "https://wanderinginn.com/2022/04/17/8-80/"
   published: "2022-04-17"
@@ -4623,7 +6932,11 @@
     webVolume: 8
     eBook: null
     audioBook: null
-- index: 579
+  order:
+    webVolume: 578
+    eBook: null
+    audioBook: null
+- id: "ch-0579"
   title: "8.81"
   url: "https://wanderinginn.com/2022/04/20/8-81/"
   published: "2022-04-20"
@@ -4631,7 +6944,11 @@
     webVolume: 8
     eBook: null
     audioBook: null
-- index: 580
+  order:
+    webVolume: 579
+    eBook: null
+    audioBook: null
+- id: "ch-0580"
   title: "8.82 (Pt. 1)"
   url: "https://wanderinginn.com/2022/04/26/8-82-pt-1/"
   published: "2022-04-26"
@@ -4639,7 +6956,11 @@
     webVolume: 8
     eBook: null
     audioBook: null
-- index: 581
+  order:
+    webVolume: 580
+    eBook: null
+    audioBook: null
+- id: "ch-0581"
   title: "8.82 (Pt. 2)"
   url: "https://wanderinginn.com/2022/04/26/8-82-pt-2/"
   published: "2022-04-26"
@@ -4647,7 +6968,11 @@
     webVolume: 8
     eBook: null
     audioBook: null
-- index: 582
+  order:
+    webVolume: 581
+    eBook: null
+    audioBook: null
+- id: "ch-0582"
   title: "8.82 (Pt. 3)"
   url: "https://wanderinginn.com/2022/04/26/8-82-pt-3/"
   published: "2022-04-26"
@@ -4655,7 +6980,11 @@
     webVolume: 8
     eBook: null
     audioBook: null
-- index: 583
+  order:
+    webVolume: 582
+    eBook: null
+    audioBook: null
+- id: "ch-0583"
   title: "8.83"
   url: "https://wanderinginn.com/2022/05/03/8-83/"
   published: "2022-05-03"
@@ -4663,7 +6992,11 @@
     webVolume: 8
     eBook: null
     audioBook: null
-- index: 584
+  order:
+    webVolume: 583
+    eBook: null
+    audioBook: null
+- id: "ch-0584"
   title: "8.84"
   url: "https://wanderinginn.com/2022/05/03/8-84/"
   published: "2022-05-03"
@@ -4671,7 +7004,11 @@
     webVolume: 8
     eBook: null
     audioBook: null
-- index: 585
+  order:
+    webVolume: 584
+    eBook: null
+    audioBook: null
+- id: "ch-0585"
   title: "8.85"
   url: "https://wanderinginn.com/2022/05/03/8-85/"
   published: "2022-05-03"
@@ -4679,7 +7016,11 @@
     webVolume: 8
     eBook: null
     audioBook: null
-- index: 586
+  order:
+    webVolume: 585
+    eBook: null
+    audioBook: null
+- id: "ch-0586"
   title: "Epilogue"
   url: "https://wanderinginn.com/2022/05/03/epilogue/"
   published: "2022-05-03"
@@ -4687,7 +7028,11 @@
     webVolume: 8
     eBook: null
     audioBook: null
-- index: 587
+  order:
+    webVolume: 586
+    eBook: null
+    audioBook: null
+- id: "ch-0587"
   title: "9.00"
   url: "https://wanderinginn.com/2022/06/03/9-00/"
   published: "2022-06-03"
@@ -4695,7 +7040,11 @@
     webVolume: 9
     eBook: null
     audioBook: null
-- index: 588
+  order:
+    webVolume: 587
+    eBook: null
+    audioBook: null
+- id: "ch-0588"
   title: "9.01"
   url: "https://wanderinginn.com/2022/06/07/9-01/"
   published: "2022-06-07"
@@ -4703,7 +7052,11 @@
     webVolume: 9
     eBook: null
     audioBook: null
-- index: 589
+  order:
+    webVolume: 588
+    eBook: null
+    audioBook: null
+- id: "ch-0589"
   title: "9.02"
   url: "https://wanderinginn.com/2022/06/11/9-02/"
   published: "2022-06-11"
@@ -4711,7 +7064,11 @@
     webVolume: 9
     eBook: null
     audioBook: null
-- index: 590
+  order:
+    webVolume: 589
+    eBook: null
+    audioBook: null
+- id: "ch-0590"
   title: "Interlude – Singing Ships"
   url: "https://wanderinginn.com/2022/06/18/interlude-singing-ships/"
   published: "2022-06-18"
@@ -4719,7 +7076,11 @@
     webVolume: 9
     eBook: null
     audioBook: null
-- index: 591
+  order:
+    webVolume: 590
+    eBook: null
+    audioBook: null
+- id: "ch-0591"
   title: "9.03"
   url: "https://wanderinginn.com/2022/06/28/9-03/"
   published: "2022-06-28"
@@ -4727,7 +7088,11 @@
     webVolume: 9
     eBook: null
     audioBook: null
-- index: 592
+  order:
+    webVolume: 591
+    eBook: null
+    audioBook: null
+- id: "ch-0592"
   title: "9.04"
   url: "https://wanderinginn.com/2022/07/02/9-04/"
   published: "2022-07-02"
@@ -4735,7 +7100,11 @@
     webVolume: 9
     eBook: null
     audioBook: null
-- index: 593
+  order:
+    webVolume: 592
+    eBook: null
+    audioBook: null
+- id: "ch-0593"
   title: "Interlude – The Isles of Goblin and Minos"
   url: "https://wanderinginn.com/2022/07/05/interlude-the-isles-of-goblin-and-minos/"
   published: "2022-07-05"
@@ -4743,7 +7112,11 @@
     webVolume: 9
     eBook: null
     audioBook: null
-- index: 594
+  order:
+    webVolume: 593
+    eBook: null
+    audioBook: null
+- id: "ch-0594"
   title: "9.05 NPR"
   url: "https://wanderinginn.com/2022/07/10/9-05-npr/"
   published: "2022-07-10"
@@ -4751,7 +7124,11 @@
     webVolume: 9
     eBook: null
     audioBook: null
-- index: 595
+  order:
+    webVolume: 594
+    eBook: null
+    audioBook: null
+- id: "ch-0595"
   title: "9.06"
   url: "https://wanderinginn.com/2022/07/12/9-06/"
   published: "2022-07-12"
@@ -4759,7 +7136,11 @@
     webVolume: 9
     eBook: null
     audioBook: null
-- index: 596
+  order:
+    webVolume: 595
+    eBook: null
+    audioBook: null
+- id: "ch-0596"
   title: "9.07"
   url: "https://wanderinginn.com/2022/07/17/9-07/"
   published: "2022-07-17"
@@ -4767,7 +7148,11 @@
     webVolume: 9
     eBook: null
     audioBook: null
-- index: 597
+  order:
+    webVolume: 596
+    eBook: null
+    audioBook: null
+- id: "ch-0597"
   title: "9.08"
   url: "https://wanderinginn.com/2022/07/19/9-08/"
   published: "2022-07-19"
@@ -4775,7 +7160,11 @@
     webVolume: 9
     eBook: null
     audioBook: null
-- index: 598
+  order:
+    webVolume: 597
+    eBook: null
+    audioBook: null
+- id: "ch-0598"
   title: "Interlude – Mundanity and Memorials"
   url: "https://wanderinginn.com/2022/07/30/interlude-mundanity-and-memorials/"
   published: "2022-07-30"
@@ -4783,7 +7172,11 @@
     webVolume: 9
     eBook: null
     audioBook: null
-- index: 599
+  order:
+    webVolume: 598
+    eBook: null
+    audioBook: null
+- id: "ch-0599"
   title: "Interlude – The Competition"
   url: "https://wanderinginn.com/2022/08/06/interlude-the-competition/"
   published: "2022-08-06"
@@ -4791,7 +7184,11 @@
     webVolume: 9
     eBook: null
     audioBook: null
-- index: 600
+  order:
+    webVolume: 599
+    eBook: null
+    audioBook: null
+- id: "ch-0600"
   title: "9.09 P"
   url: "https://wanderinginn.com/2022/08/20/9-09-p/"
   published: "2022-08-20"
@@ -4799,7 +7196,11 @@
     webVolume: 9
     eBook: null
     audioBook: null
-- index: 601
+  order:
+    webVolume: 600
+    eBook: null
+    audioBook: null
+- id: "ch-0601"
   title: "9.10 W"
   url: "https://wanderinginn.com/2022/08/23/9-10-w/"
   published: "2022-08-23"
@@ -4807,7 +7208,11 @@
     webVolume: 9
     eBook: null
     audioBook: null
-- index: 602
+  order:
+    webVolume: 601
+    eBook: null
+    audioBook: null
+- id: "ch-0602"
   title: "9.11 W"
   url: "https://wanderinginn.com/2022/08/27/9-11-w/"
   published: "2022-08-27"
@@ -4815,7 +7220,11 @@
     webVolume: 9
     eBook: null
     audioBook: null
-- index: 603
+  order:
+    webVolume: 602
+    eBook: null
+    audioBook: null
+- id: "ch-0603"
   title: "9.12"
   url: "https://wanderinginn.com/2022/08/30/9-12/"
   published: "2022-08-30"
@@ -4823,7 +7232,11 @@
     webVolume: 9
     eBook: null
     audioBook: null
-- index: 604
+  order:
+    webVolume: 603
+    eBook: null
+    audioBook: null
+- id: "ch-0604"
   title: "9.13"
   url: "https://wanderinginn.com/2022/09/04/9-13/"
   published: "2022-09-04"
@@ -4831,7 +7244,11 @@
     webVolume: 9
     eBook: null
     audioBook: null
-- index: 605
+  order:
+    webVolume: 604
+    eBook: null
+    audioBook: null
+- id: "ch-0605"
   title: "9.14 VM"
   url: "https://wanderinginn.com/2022/09/06/9-14-vm/"
   published: "2022-09-06"
@@ -4839,7 +7256,11 @@
     webVolume: 9
     eBook: null
     audioBook: null
-- index: 606
+  order:
+    webVolume: 605
+    eBook: null
+    audioBook: null
+- id: "ch-0606"
   title: "9.15 VM"
   url: "https://wanderinginn.com/2022/09/10/9-15-vm/"
   published: "2022-09-10"
@@ -4847,7 +7268,11 @@
     webVolume: 9
     eBook: null
     audioBook: null
-- index: 607
+  order:
+    webVolume: 606
+    eBook: null
+    audioBook: null
+- id: "ch-0607"
   title: "9.16 R"
   url: "https://wanderinginn.com/2022/09/21/9-16-r/"
   published: "2022-09-21"
@@ -4855,7 +7280,11 @@
     webVolume: 9
     eBook: null
     audioBook: null
-- index: 608
+  order:
+    webVolume: 607
+    eBook: null
+    audioBook: null
+- id: "ch-0608"
   title: "9.17 R"
   url: "https://wanderinginn.com/2022/09/25/9-17-r/"
   published: "2022-09-25"
@@ -4863,7 +7292,11 @@
     webVolume: 9
     eBook: null
     audioBook: null
-- index: 609
+  order:
+    webVolume: 608
+    eBook: null
+    audioBook: null
+- id: "ch-0609"
   title: "Interlude – The Great Race"
   url: "https://wanderinginn.com/2022/09/28/interlude-the-great-race/"
   published: "2022-09-28"
@@ -4871,7 +7304,11 @@
     webVolume: 9
     eBook: null
     audioBook: null
-- index: 610
+  order:
+    webVolume: 609
+    eBook: null
+    audioBook: null
+- id: "ch-0610"
   title: "9.18 E"
   url: "https://wanderinginn.com/2022/10/02/9-19-e/"
   published: "2022-10-02"
@@ -4879,7 +7316,11 @@
     webVolume: 9
     eBook: null
     audioBook: null
-- index: 611
+  order:
+    webVolume: 610
+    eBook: null
+    audioBook: null
+- id: "ch-0611"
   title: "Interlude – Relationships"
   url: "https://wanderinginn.com/2022/10/05/interlude-relationships/"
   published: "2022-10-05"
@@ -4887,7 +7328,11 @@
     webVolume: 9
     eBook: null
     audioBook: null
-- index: 612
+  order:
+    webVolume: 611
+    eBook: null
+    audioBook: null
+- id: "ch-0612"
   title: "9.19"
   url: "https://wanderinginn.com/2022/10/09/9-19/"
   published: "2022-10-09"
@@ -4895,7 +7340,11 @@
     webVolume: 9
     eBook: null
     audioBook: null
-- index: 613
+  order:
+    webVolume: 612
+    eBook: null
+    audioBook: null
+- id: "ch-0613"
   title: "9.20"
   url: "https://wanderinginn.com/2022/10/12/9-20/"
   published: "2022-10-12"
@@ -4903,11 +7352,19 @@
     webVolume: 9
     eBook: null
     audioBook: null
-- index: 614
+  order:
+    webVolume: 613
+    eBook: null
+    audioBook: null
+- id: "ch-0614"
   title: "Interlude – Death and Stitches"
   url: "https://wanderinginn.com/2022/10/16/interlude-death-and-stitches/"
   published: "2022-10-16"
   partOf:
     webVolume: 9
+    eBook: null
+    audioBook: null
+  order:
+    webVolume: 614
     eBook: null
     audioBook: null
