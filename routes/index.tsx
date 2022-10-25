@@ -40,7 +40,7 @@ export default function Home({ data }: PageProps<AllMedia | null>) {
           title={config.title}
         >
           <img
-            class="object-scale-down h-10"
+            class="h-10"
             src={config.imageUrl}
             alt={config.title}
           />
@@ -104,75 +104,77 @@ export default function Home({ data }: PageProps<AllMedia | null>) {
           <span class="font-medium">The Wandering Inndex</span>
         </nav>
 
-        <table class="table table-auto whitespace-nowrap text-sm text-gray-900">
-          <thead class="font-medium">
-            <tr>
-              <th colSpan={2}></th>
-              <th colSpan={2}>Web Volume</th>
-              <th colSpan={3}>E-book</th>
-              <th colSpan={3}>Audiobook</th>
-            </tr>
-            <tr>
-              <th scope="col">Published</th>
-              <th scope="col">Title</th>
-              <th scope="col">Included In</th>
-              <th scope="col">Order</th>
-              <th scope="col" colSpan={2}>Included In</th>
-              <th scope="col">Order</th>
-              <th scope="col" colSpan={2}>Included In</th>
-              <th scope="col">Order</th>
-            </tr>
-          </thead>
-          <tbody>
-            {chapters.map((chapter) => {
-              const eBookIndex = chapter.partOf.eBook;
-              const eBook = eBookIndex && eBookMap.has(eBookIndex)
-                ? eBookMap.get(eBookIndex)
-                : null;
-
-              const audioBookIndex = chapter.partOf.audioBook;
-              const audioBook =
-                audioBookIndex && audioBookMap.has(audioBookIndex)
-                  ? audioBookMap.get(audioBookIndex)
+        <div class="overflow-x-auto">
+          <table class="table min-w-max w-full table-auto text-sm text-gray-900">
+            <thead class="font-medium border-b mb-3">
+              <tr>
+                <th colSpan={2}></th>
+                <th colSpan={2}>Web Volume</th>
+                <th colSpan={3}>E-book</th>
+                <th colSpan={3}>Audiobook</th>
+              </tr>
+              <tr>
+                <th scope="col">Published</th>
+                <th scope="col">Title</th>
+                <th scope="col">Included In</th>
+                <th scope="col">Order</th>
+                <th scope="col" colSpan={2}>Included In</th>
+                <th scope="col">Order</th>
+                <th scope="col" colSpan={2}>Included In</th>
+                <th scope="col">Order</th>
+              </tr>
+            </thead>
+            <tbody>
+              {chapters.map((chapter) => {
+                const eBookIndex = chapter.partOf.eBook;
+                const eBook = eBookIndex && eBookMap.has(eBookIndex)
+                  ? eBookMap.get(eBookIndex)
                   : null;
 
-              return (
-                <tr class="border-b">
-                  <td class="px-6 py-1">
-                    {chapter.published}
-                  </td>
-                  <td class="px-6 py-1">
-                    <a href={chapter.url}>{chapter.title}</a>
-                  </td>
-                  <td class="px-6 py-1">
-                    Volume {chapter.partOf.webVolume}
-                  </td>
-                  <td class="px-6 py-1">
-                    {chapter.order.webVolume}
-                  </td>
-                  <td class="pl-6 py-1">
-                    {eBook ? getRowImage(eBook) : null}
-                  </td>
-                  <td class="pl-2 pr-6 py-1">
-                    {eBook ? getRowTitle(eBook) : null}
-                  </td>
-                  <td class="px-6 py-1">
-                    {chapter.order.eBook}
-                  </td>
-                  <td class="pl-6 py-1">
-                    {audioBook ? getRowImage(audioBook) : null}
-                  </td>
-                  <td class="pl-2 pr-6 py-1">
-                    {audioBook ? getRowTitle(audioBook) : null}
-                  </td>
-                  <td class="px-6 py-1">
-                    {chapter.order.audioBook}
-                  </td>
-                </tr>
-              );
-            })}
-          </tbody>
-        </table>
+                const audioBookIndex = chapter.partOf.audioBook;
+                const audioBook =
+                  audioBookIndex && audioBookMap.has(audioBookIndex)
+                    ? audioBookMap.get(audioBookIndex)
+                    : null;
+
+                return (
+                  <tr class="border-b">
+                    <td class="px-6 py-1">
+                      {chapter.published}
+                    </td>
+                    <td class="px-6 py-1 font-medium">
+                      <a href={chapter.url}>{chapter.title}</a>
+                    </td>
+                    <td class="px-6 py-1">
+                      Volume {chapter.partOf.webVolume}
+                    </td>
+                    <td class="px-6 py-1">
+                      {chapter.order.webVolume}
+                    </td>
+                    <td class="pl-6 py-1">
+                      {eBook ? getRowImage(eBook) : null}
+                    </td>
+                    <td class="pl-2 pr-6 py-1">
+                      {eBook ? getRowTitle(eBook) : null}
+                    </td>
+                    <td class="px-6 py-1">
+                      {chapter.order.eBook}
+                    </td>
+                    <td class="pl-6 py-1">
+                      {audioBook ? getRowImage(audioBook) : null}
+                    </td>
+                    <td class="pl-2 pr-6 py-1">
+                      {audioBook ? getRowTitle(audioBook) : null}
+                    </td>
+                    <td class="px-6 py-1">
+                      {chapter.order.audioBook}
+                    </td>
+                  </tr>
+                );
+              })}
+            </tbody>
+          </table>
+        </div>
 
         <div>
           <input
