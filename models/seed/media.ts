@@ -7,18 +7,25 @@
  */
 export interface Chapter {
   id: string;
-  title: string;
   url: string;
+  wikiUrl: string;
   published: string;
   partOf: {
-    webVolume: number | null;
-    eBook: number | null;
-    audioBook: number | null;
-  };
-  order: {
-    webVolume: number | null;
-    eBook: number | null;
-    audioBook: number | null;
+    webVolume: {
+      ref: number | null;
+      title: string | null;
+      order: number | null;
+    };
+    eBook: {
+      ref: number | null;
+      title: string | null;
+      order: number | null;
+    };
+    audioBook: {
+      ref: number | null;
+      title: string | null;
+      order: number | null;
+    };
   };
 }
 

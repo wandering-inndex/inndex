@@ -9,6 +9,7 @@ import * as $2 from "./routes/api/media/ebooks.ts";
 import * as $3 from "./routes/api/media/index.ts";
 import * as $4 from "./routes/api/media/volumes.ts";
 import * as $5 from "./routes/index.tsx";
+import * as $6 from "./routes/toc.tsx";
 
 const manifest = {
   routes: {
@@ -18,6 +19,7 @@ const manifest = {
     "./routes/api/media/index.ts": $3,
     "./routes/api/media/volumes.ts": $4,
     "./routes/index.tsx": $5,
+    "./routes/toc.tsx": $6,
   },
   islands: {},
   baseUrl: import.meta.url,
