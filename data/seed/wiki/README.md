@@ -5,7 +5,7 @@ Very crude extraction of all items from a [Fandom](https://www.fandom.com/) page
 ```javascript
 let yaml = "";
 document.querySelectorAll(".category-page__members li > a").forEach((item) => {
-  s += `
+  yaml += `
   - name: "${item.text}"
     url: "${item.href}"`;
 });

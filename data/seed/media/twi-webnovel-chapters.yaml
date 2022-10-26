@@ -1,8 +1,9 @@
 # https://wanderinginn.com/table-of-contents/
 
-- id: "ch-0001"
+- id: "ch-00010"
   title: "1.00"
   url: "https://wanderinginn.com/2016/07/27/1-00/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_1.00"
   published: "2016-07-27"
   partOf:
     webVolume: 1
@@ -12,9 +13,10 @@
     webVolume: 1
     eBook: 1
     audioBook: 1
-- id: "ch-0002"
+- id: "ch-00020"
   title: "1.01"
   url: "https://wanderinginn.com/2016/07/27/1-01/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_1.01"
   published: "2016-07-27"
   partOf:
     webVolume: 1
@@ -24,9 +26,10 @@
     webVolume: 2
     eBook: 2
     audioBook: 2
-- id: "ch-0003"
+- id: "ch-00030"
   title: "1.02"
   url: "https://wanderinginn.com/2016/07/30/1-02/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_1.02"
   published: "2016-07-30"
   partOf:
     webVolume: 1
@@ -36,9 +39,10 @@
     webVolume: 3
     eBook: 3
     audioBook: 3
-- id: "ch-0004"
+- id: "ch-00040"
   title: "1.03"
   url: "https://wanderinginn.com/2016/08/07/1-03/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_1.03"
   published: "2016-08-07"
   partOf:
     webVolume: 1
@@ -48,9 +52,10 @@
     webVolume: 4
     eBook: 4
     audioBook: 4
-- id: "ch-0005"
+- id: "ch-00050"
   title: "1.04"
   url: "https://wanderinginn.com/2016/08/10/1-04/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_1.04"
   published: "2016-08-10"
   partOf:
     webVolume: 1
@@ -60,9 +65,10 @@
     webVolume: 5
     eBook: 5
     audioBook: 5
-- id: "ch-0006"
+- id: "ch-00060"
   title: "1.05"
   url: "https://wanderinginn.com/2016/08/13/1-05/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_1.05"
   published: "2016-08-13"
   partOf:
     webVolume: 1
@@ -72,9 +78,10 @@
     webVolume: 6
     eBook: 6
     audioBook: 6
-- id: "ch-0007"
+- id: "ch-00070"
   title: "1.06"
   url: "https://wanderinginn.com/2016/08/17/1-06/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_1.06"
   published: "2016-08-17"
   partOf:
     webVolume: 1
@@ -84,9 +91,10 @@
     webVolume: 7
     eBook: 7
     audioBook: 7
-- id: "ch-0008"
+- id: "ch-00080"
   title: "1.07"
   url: "https://wanderinginn.com/2016/08/20/1-07/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_1.07"
   published: "2016-08-20"
   partOf:
     webVolume: 1
@@ -96,9 +104,10 @@
     webVolume: 8
     eBook: 8
     audioBook: 8
-- id: "ch-0009"
+- id: "ch-00090"
   title: "1.08"
   url: "https://wanderinginn.com/2016/08/24/1-08/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_1.08"
   published: "2016-08-24"
   partOf:
     webVolume: 1
@@ -108,9 +117,10 @@
     webVolume: 9
     eBook: 9
     audioBook: 9
-- id: "ch-0010"
+- id: "ch-00100"
   title: "1.09"
   url: "https://wanderinginn.com/2016/08/28/1-09/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_1.09"
   published: "2016-08-28"
   partOf:
     webVolume: 1
@@ -120,9 +130,10 @@
     webVolume: 10
     eBook: 10
     audioBook: 10
-- id: "ch-0011"
+- id: "ch-00110"
   title: "1.10"
   url: "https://wanderinginn.com/2016/08/31/1-10/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_1.10"
   published: "2016-08-31"
   partOf:
     webVolume: 1
@@ -132,9 +143,10 @@
     webVolume: 11
     eBook: 11
     audioBook: 11
-- id: "ch-0012"
+- id: "ch-00120"
   title: "1.11"
   url: "https://wanderinginn.com/2016/09/04/1-11/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_1.11"
   published: "2016-09-04"
   partOf:
     webVolume: 1
@@ -144,9 +156,10 @@
     webVolume: 12
     eBook: 12
     audioBook: 12
-- id: "ch-0013"
+- id: "ch-00130"
   title: "Interlude"
   url: "https://wanderinginn.com/2016/09/04/interlude/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Interlude_-_1"
   published: "2016-09-04"
   partOf:
     webVolume: 1
@@ -156,9 +169,10 @@
     webVolume: 13
     eBook: 13
     audioBook: 13
-- id: "ch-0014"
+- id: "ch-00140"
   title: "1.12"
   url: "https://wanderinginn.com/2016/09/07/1-12/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_1.12"
   published: "2016-09-07"
   partOf:
     webVolume: 1
@@ -168,9 +182,10 @@
     webVolume: 14
     eBook: 14
     audioBook: 14
-- id: "ch-0015"
+- id: "ch-00150"
   title: "1.13"
   url: "https://wanderinginn.com/2016/09/11/1-13/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_1.13"
   published: "2016-09-11"
   partOf:
     webVolume: 1
@@ -180,9 +195,10 @@
     webVolume: 15
     eBook: 15
     audioBook: 15
-- id: "ch-0016"
+- id: "ch-00160"
   title: "1.14"
   url: "https://wanderinginn.com/2016/09/14/1-14/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_1.14"
   published: "2016-09-14"
   partOf:
     webVolume: 1
@@ -192,9 +208,10 @@
     webVolume: 16
     eBook: 16
     audioBook: 16
-- id: "ch-0017"
+- id: "ch-00170"
   title: "1.15"
   url: "https://wanderinginn.com/2016/09/18/1-15/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_1.15"
   published: "2016-09-18"
   partOf:
     webVolume: 1
@@ -204,9 +221,10 @@
     webVolume: 17
     eBook: 17
     audioBook: 17
-- id: "ch-0018"
+- id: "ch-00180"
   title: "1.16"
   url: "https://wanderinginn.com/2016/09/21/1-16/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_1.16"
   published: "2016-09-21"
   partOf:
     webVolume: 1
@@ -216,9 +234,10 @@
     webVolume: 18
     eBook: 18
     audioBook: 18
-- id: "ch-0019"
+- id: "ch-00190"
   title: "1.17"
   url: "https://wanderinginn.com/2016/09/25/1-17/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_1.17"
   published: "2016-09-25"
   partOf:
     webVolume: 1
@@ -228,9 +247,10 @@
     webVolume: 19
     eBook: 19
     audioBook: 19
-- id: "ch-0020"
+- id: "ch-00200"
   title: "1.18"
   url: "https://wanderinginn.com/2016/09/28/1-18/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_1.18"
   published: "2016-09-28"
   partOf:
     webVolume: 1
@@ -240,9 +260,10 @@
     webVolume: 20
     eBook: 20
     audioBook: 20
-- id: "ch-0021"
+- id: "ch-00210"
   title: "1.19"
   url: "https://wanderinginn.com/2016/10/02/1-19/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_1.19"
   published: "2016-10-02"
   partOf:
     webVolume: 1
@@ -252,9 +273,10 @@
     webVolume: 21
     eBook: 21
     audioBook: 21
-- id: "ch-0022"
+- id: "ch-00220"
   title: "1.20"
   url: "https://wanderinginn.com/2016/10/05/1-20/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_1.20"
   published: "2016-10-05"
   partOf:
     webVolume: 1
@@ -264,9 +286,10 @@
     webVolume: 22
     eBook: 22
     audioBook: 22
-- id: "ch-0023"
+- id: "ch-00230"
   title: "Interlude – 1.00 R"
   url: "https://wanderinginn.com/2016/10/06/interlude-1-00-r/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_1.00_R"
   published: "2016-10-06"
   partOf:
     webVolume: 1
@@ -276,9 +299,10 @@
     webVolume: 23
     eBook: 23
     audioBook: 23
-- id: "ch-0024"
+- id: "ch-00240"
   title: "1.01 R"
   url: "https://wanderinginn.com/2016/10/12/1-01-r/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_1.01_R"
   published: "2016-10-12"
   partOf:
     webVolume: 1
@@ -288,9 +312,10 @@
     webVolume: 24
     eBook: 24
     audioBook: 24
-- id: "ch-0025"
+- id: "ch-00250"
   title: "1.21"
   url: "https://wanderinginn.com/2016/10/16/1-21/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_1.21"
   published: "2016-10-16"
   partOf:
     webVolume: 1
@@ -300,9 +325,10 @@
     webVolume: 25
     eBook: 25
     audioBook: 25
-- id: "ch-0026"
+- id: "ch-00260"
   title: "1.22"
   url: "https://wanderinginn.com/2016/10/19/1-22/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_1.22"
   published: "2016-10-19"
   partOf:
     webVolume: 1
@@ -312,9 +338,10 @@
     webVolume: 26
     eBook: 26
     audioBook: 26
-- id: "ch-0027"
+- id: "ch-00270"
   title: "1.23"
   url: "https://wanderinginn.com/2016/10/23/1-23/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_1.23"
   published: "2016-10-23"
   partOf:
     webVolume: 1
@@ -324,9 +351,10 @@
     webVolume: 27
     eBook: 27
     audioBook: 27
-- id: "ch-0028"
+- id: "ch-00280"
   title: "Interlude: King Edition"
   url: "https://wanderinginn.com/2016/10/26/interlude-king-edition/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Interlude:_King_Edition"
   published: "2016-10-26"
   partOf:
     webVolume: 1
@@ -336,9 +364,10 @@
     webVolume: 28
     eBook: 28
     audioBook: 28
-- id: "ch-0029"
+- id: "ch-00290"
   title: "1.24"
   url: "https://wanderinginn.com/2016/10/30/1-24/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_1.24"
   published: "2016-10-30"
   partOf:
     webVolume: 1
@@ -348,9 +377,10 @@
     webVolume: 29
     eBook: 29
     audioBook: 29
-- id: "ch-0030"
+- id: "ch-00300"
   title: "1.02 R"
   url: "https://wanderinginn.com/2016/11/02/1-02-r/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_1.02_R"
   published: "2016-11-02"
   partOf:
     webVolume: 1
@@ -360,9 +390,10 @@
     webVolume: 30
     eBook: 30
     audioBook: 30
-- id: "ch-0031"
+- id: "ch-00310"
   title: "1.03 R"
   url: "https://wanderinginn.com/2016/11/06/1-03-r/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_1.03_R"
   published: "2016-11-06"
   partOf:
     webVolume: 1
@@ -372,9 +403,10 @@
     webVolume: 31
     eBook: 31
     audioBook: 31
-- id: "ch-0032"
+- id: "ch-00320"
   title: "1.25"
   url: "https://wanderinginn.com/2016/11/09/1-25/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_1.25"
   published: "2016-11-09"
   partOf:
     webVolume: 1
@@ -384,9 +416,10 @@
     webVolume: 32
     eBook: 32
     audioBook: 32
-- id: "ch-0033"
+- id: "ch-00330"
   title: "1.26"
   url: "https://wanderinginn.com/2016/11/13/1-26/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_1.26"
   published: "2016-11-13"
   partOf:
     webVolume: 1
@@ -396,9 +429,10 @@
     webVolume: 33
     eBook: 33
     audioBook: 33
-- id: "ch-0034"
+- id: "ch-00340"
   title: "1.27"
   url: "https://wanderinginn.com/2016/11/16/1-27/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_1.27"
   published: "2016-11-16"
   partOf:
     webVolume: 1
@@ -408,9 +442,10 @@
     webVolume: 34
     eBook: 34
     audioBook: 34
-- id: "ch-0035"
+- id: "ch-00350"
   title: "1.04 R"
   url: "https://wanderinginn.com/2016/11/20/1-04-r/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_1.04_R"
   published: "2016-11-20"
   partOf:
     webVolume: 1
@@ -420,9 +455,10 @@
     webVolume: 35
     eBook: 35
     audioBook: 35
-- id: "ch-0036"
+- id: "ch-00360"
   title: "1.05 R"
   url: "https://wanderinginn.com/2016/11/23/1-05-r/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_1.05_R"
   published: "2016-11-23"
   partOf:
     webVolume: 1
@@ -432,9 +468,10 @@
     webVolume: 36
     eBook: 36
     audioBook: 36
-- id: "ch-0037"
+- id: "ch-00370"
   title: "1.28"
   url: "https://wanderinginn.com/2016/11/27/1-28/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_1.28"
   published: "2016-11-27"
   partOf:
     webVolume: 1
@@ -444,9 +481,10 @@
     webVolume: 37
     eBook: 37
     audioBook: 37
-- id: "ch-0038"
+- id: "ch-00380"
   title: "1.06 R"
   url: "https://wanderinginn.com/2016/11/30/1-06-r/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_1.06_R"
   published: "2016-11-30"
   partOf:
     webVolume: 1
@@ -456,9 +494,10 @@
     webVolume: 38
     eBook: 38
     audioBook: 38
-- id: "ch-0039"
+- id: "ch-00390"
   title: "1.29"
   url: "https://wanderinginn.com/2016/12/04/1-29/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_1.29"
   published: "2016-12-04"
   partOf:
     webVolume: 1
@@ -468,9 +507,10 @@
     webVolume: 39
     eBook: 39
     audioBook: 39
-- id: "ch-0040"
+- id: "ch-00400"
   title: "1.30"
   url: "https://wanderinginn.com/2016/12/07/1-30/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_1.30"
   published: "2016-12-07"
   partOf:
     webVolume: 1
@@ -480,9 +520,10 @@
     webVolume: 40
     eBook: 40
     audioBook: 40
-- id: "ch-0041"
+- id: "ch-00410"
   title: "1.31"
   url: "https://wanderinginn.com/2016/12/11/1-31/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_1.31"
   published: "2016-12-11"
   partOf:
     webVolume: 1
@@ -492,9 +533,10 @@
     webVolume: 41
     eBook: 41
     audioBook: 41
-- id: "ch-0042"
+- id: "ch-00420"
   title: "1.07 R"
   url: "https://wanderinginn.com/2016/12/14/1-07-r/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_1.07_R"
   published: "2016-12-14"
   partOf:
     webVolume: 1
@@ -504,9 +546,10 @@
     webVolume: 42
     eBook: 42
     audioBook: 42
-- id: "ch-0043"
+- id: "ch-00430"
   title: "1.08 R"
   url: "https://wanderinginn.com/2016/12/18/1-08-r/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_1.08_R"
   published: "2016-12-18"
   partOf:
     webVolume: 1
@@ -516,9 +559,10 @@
     webVolume: 43
     eBook: 43
     audioBook: 43
-- id: "ch-0044"
+- id: "ch-00440"
   title: "1.32"
   url: "https://wanderinginn.com/2016/12/21/1-32/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_1.32"
   published: "2016-12-21"
   partOf:
     webVolume: 1
@@ -528,9 +572,10 @@
     webVolume: 44
     eBook: 44
     audioBook: 44
-- id: "ch-0045"
+- id: "ch-00450"
   title: "1.33"
   url: "https://wanderinginn.com/2016/12/25/1-33/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_1.33"
   published: "2016-12-25"
   partOf:
     webVolume: 1
@@ -540,9 +585,10 @@
     webVolume: 45
     eBook: 45
     audioBook: 45
-- id: "ch-0046"
+- id: "ch-00460"
   title: "1.09 R"
   url: "https://wanderinginn.com/2016/12/28/1-09-r/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_1.09_R"
   published: "2016-12-28"
   partOf:
     webVolume: 1
@@ -552,9 +598,10 @@
     webVolume: 46
     eBook: 46
     audioBook: 46
-- id: "ch-0047"
+- id: "ch-00470"
   title: "1.10 R"
   url: "https://wanderinginn.com/2017/01/01/1-10-r/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_1.10_R"
   published: "2017-01-01"
   partOf:
     webVolume: 1
@@ -564,9 +611,10 @@
     webVolume: 47
     eBook: 47
     audioBook: 47
-- id: "ch-0048"
+- id: "ch-00480"
   title: "1.34"
   url: "https://wanderinginn.com/2017/01/04/1-34/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_1.34"
   published: "2017-01-04"
   partOf:
     webVolume: 1
@@ -576,9 +624,10 @@
     webVolume: 48
     eBook: 48
     audioBook: 48
-- id: "ch-0049"
+- id: "ch-00490"
   title: "1.35"
   url: "https://wanderinginn.com/2017/01/08/1-35/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_1.35"
   published: "2017-01-08"
   partOf:
     webVolume: 1
@@ -588,9 +637,10 @@
     webVolume: 49
     eBook: 49
     audioBook: 49
-- id: "ch-0050"
+- id: "ch-00500"
   title: "1.11 R"
   url: "https://wanderinginn.com/2017/01/11/1-11-r/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_1.11_R"
   published: "2017-01-11"
   partOf:
     webVolume: 1
@@ -600,9 +650,10 @@
     webVolume: 50
     eBook: 50
     audioBook: 50
-- id: "ch-0051"
+- id: "ch-00510"
   title: "1.12 R"
   url: "https://wanderinginn.com/2017/01/15/1-12-r/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_1.12_R"
   published: "2017-01-15"
   partOf:
     webVolume: 1
@@ -612,9 +663,10 @@
     webVolume: 51
     eBook: 51
     audioBook: 51
-- id: "ch-0052"
+- id: "ch-00520"
   title: "1.36"
   url: "https://wanderinginn.com/2017/01/18/1-36/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_1.36"
   published: "2017-01-18"
   partOf:
     webVolume: 1
@@ -624,9 +676,10 @@
     webVolume: 52
     eBook: 52
     audioBook: 52
-- id: "ch-0053"
+- id: "ch-00530"
   title: "1.37"
   url: "https://wanderinginn.com/2017/01/22/1-37/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_1.37"
   published: "2017-01-22"
   partOf:
     webVolume: 1
@@ -636,9 +689,10 @@
     webVolume: 53
     eBook: 53
     audioBook: 53
-- id: "ch-0054"
+- id: "ch-00540"
   title: "1.38"
   url: "https://wanderinginn.com/2017/01/25/1-38/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_1.38"
   published: "2017-01-25"
   partOf:
     webVolume: 1
@@ -648,9 +702,10 @@
     webVolume: 54
     eBook: 54
     audioBook: 54
-- id: "ch-0055"
+- id: "ch-00550"
   title: "1.39"
   url: "https://wanderinginn.com/2017/01/29/1-39/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_1.39"
   published: "2017-01-29"
   partOf:
     webVolume: 1
@@ -660,9 +715,10 @@
     webVolume: 55
     eBook: 55
     audioBook: 55
-- id: "ch-0056"
+- id: "ch-00560"
   title: "1.40"
   url: "https://wanderinginn.com/2017/01/31/1-40/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_1.40"
   published: "2017-01-31"
   partOf:
     webVolume: 1
@@ -672,9 +728,10 @@
     webVolume: 56
     eBook: 56
     audioBook: 56
-- id: "ch-0057"
+- id: "ch-00570"
   title: "1.13 R"
   url: "https://wanderinginn.com/2017/02/05/1-13-r/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_1.13_R"
   published: "2017-02-05"
   partOf:
     webVolume: 1
@@ -684,9 +741,10 @@
     webVolume: 57
     eBook: 57
     audioBook: 57
-- id: "ch-0058"
+- id: "ch-00580"
   title: "1.41"
   url: "https://wanderinginn.com/2017/02/07/1-41/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_1.41"
   published: "2017-02-07"
   partOf:
     webVolume: 1
@@ -696,9 +754,10 @@
     webVolume: 58
     eBook: 58
     audioBook: 58
-- id: "ch-0059"
+- id: "ch-00590"
   title: "1.00 H"
   url: "https://wanderinginn.com/2017/02/12/1-00-h/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_1.00_H"
   published: "2017-02-12"
   partOf:
     webVolume: 1
@@ -708,9 +767,10 @@
     webVolume: 59
     eBook: 59
     audioBook: 59
-- id: "ch-0060"
+- id: "ch-00600"
   title: "1.01 H"
   url: "https://wanderinginn.com/2017/02/15/1-01-h/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_1.01_H"
   published: "2017-02-15"
   partOf:
     webVolume: 1
@@ -720,9 +780,10 @@
     webVolume: 60
     eBook: 60
     audioBook: 60
-- id: "ch-0061"
+- id: "ch-00610"
   title: "1.02 H"
   url: "https://wanderinginn.com/2017/02/19/1-02-h/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_1.02_H"
   published: "2017-02-19"
   partOf:
     webVolume: 1
@@ -732,9 +793,10 @@
     webVolume: 61
     eBook: 61
     audioBook: 61
-- id: "ch-0062"
+- id: "ch-00620"
   title: "1.42"
   url: "https://wanderinginn.com/2017/02/22/1-42/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_1.42"
   published: "2017-02-22"
   partOf:
     webVolume: 1
@@ -744,9 +806,10 @@
     webVolume: 62
     eBook: 62
     audioBook: 62
-- id: "ch-0063"
+- id: "ch-00630"
   title: "1.43"
   url: "https://wanderinginn.com/2017/02/25/1-43/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_1.43"
   published: "2017-02-25"
   partOf:
     webVolume: 1
@@ -756,9 +819,10 @@
     webVolume: 63
     eBook: 63
     audioBook: 63
-- id: "ch-0064"
+- id: "ch-00640"
   title: "1.44"
   url: "https://wanderinginn.com/2017/03/01/1-44/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_1.44"
   published: "2017-03-01"
   partOf:
     webVolume: 1
@@ -768,9 +832,10 @@
     webVolume: 64
     eBook: 64
     audioBook: 64
-- id: "ch-0065"
+- id: "ch-00650"
   title: "1.45"
   url: "https://wanderinginn.com/2017/03/04/1-45/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_1.45"
   published: "2017-03-04"
   partOf:
     webVolume: 1
@@ -780,9 +845,10 @@
     webVolume: 65
     eBook: 65
     audioBook: 65
-- id: "ch-0066"
+- id: "ch-00660"
   title: "Interlude"
   url: "https://wanderinginn.com/2017/03/07/interlude-2/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Interlude_-_2"
   published: "2017-03-07"
   partOf:
     webVolume: 2
@@ -792,9 +858,10 @@
     webVolume: 66
     eBook: 66
     audioBook: 66
-- id: "ch-0067"
+- id: "ch-00670"
   title: "2.00"
   url: "https://wanderinginn.com/2017/03/12/2-01/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_2.00"
   published: "2017-03-12"
   partOf:
     webVolume: 2
@@ -804,9 +871,10 @@
     webVolume: 67
     eBook: 67
     audioBook: 67
-- id: "ch-0068"
+- id: "ch-00680"
   title: "2.01"
   url: "https://wanderinginn.com/2017/03/15/2-02/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_2.01"
   published: "2017-03-15"
   partOf:
     webVolume: 2
@@ -816,9 +884,10 @@
     webVolume: 68
     eBook: 68
     audioBook: 68
-- id: "ch-0069"
+- id: "ch-00690"
   title: "2.02"
   url: "https://wanderinginn.com/2017/03/18/2-03/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_2.02"
   published: "2017-03-18"
   partOf:
     webVolume: 2
@@ -828,9 +897,10 @@
     webVolume: 69
     eBook: 69
     audioBook: 69
-- id: "ch-0070"
+- id: "ch-00700"
   title: "2.03"
   url: "https://wanderinginn.com/2017/03/22/2-04/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_2.03"
   published: "2017-03-22"
   partOf:
     webVolume: 2
@@ -840,9 +910,10 @@
     webVolume: 70
     eBook: 70
     audioBook: 70
-- id: "ch-0071"
+- id: "ch-00710"
   title: "2.04"
   url: "https://wanderinginn.com/2017/03/25/2-05/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_2.04"
   published: "2017-03-25"
   partOf:
     webVolume: 2
@@ -852,9 +923,10 @@
     webVolume: 71
     eBook: 71
     audioBook: 71
-- id: "ch-0072"
+- id: "ch-00720"
   title: "2.05"
   url: "https://wanderinginn.com/2017/03/28/2-06/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_2.05"
   published: "2017-03-28"
   partOf:
     webVolume: 2
@@ -864,9 +936,10 @@
     webVolume: 72
     eBook: 72
     audioBook: 72
-- id: "ch-0073"
+- id: "ch-00730"
   title: "2.06"
   url: "https://wanderinginn.com/2017/04/02/2-07/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_2.06"
   published: "2017-04-02"
   partOf:
     webVolume: 2
@@ -876,9 +949,10 @@
     webVolume: 73
     eBook: 73
     audioBook: 73
-- id: "ch-0074"
+- id: "ch-00740"
   title: "2.07"
   url: "https://wanderinginn.com/2017/04/04/2-08/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_2.07"
   published: "2017-04-04"
   partOf:
     webVolume: 2
@@ -888,9 +962,10 @@
     webVolume: 74
     eBook: 74
     audioBook: 74
-- id: "ch-0075"
+- id: "ch-00750"
   title: "2.08"
   url: "https://wanderinginn.com/2017/04/09/2-09/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_2.08"
   published: "2017-04-09"
   partOf:
     webVolume: 2
@@ -900,9 +975,10 @@
     webVolume: 75
     eBook: 75
     audioBook: 75
-- id: "ch-0076"
+- id: "ch-00760"
   title: "2.09"
   url: "https://wanderinginn.com/2017/04/12/2-10/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_2.09"
   published: "2017-04-12"
   partOf:
     webVolume: 2
@@ -912,9 +988,10 @@
     webVolume: 76
     eBook: 76
     audioBook: 76
-- id: "ch-0077"
+- id: "ch-00770"
   title: "2.10 T"
   url: "https://wanderinginn.com/2017/04/12/2-00-t/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_2.10_T"
   published: "2017-04-12"
   partOf:
     webVolume: 2
@@ -924,9 +1001,10 @@
     webVolume: 77
     eBook: 77
     audioBook: 77
-- id: "ch-0078"
+- id: "ch-00780"
   title: "2.11"
   url: "https://wanderinginn.com/2017/04/13/2-11/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_2.11"
   published: "2017-04-13"
   partOf:
     webVolume: 2
@@ -936,9 +1014,10 @@
     webVolume: 78
     eBook: 78
     audioBook: 78
-- id: "ch-0079"
+- id: "ch-00790"
   title: "2.12"
   url: "https://wanderinginn.com/2017/04/14/2-12/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_2.12"
   published: "2017-04-14"
   partOf:
     webVolume: 2
@@ -948,9 +1027,10 @@
     webVolume: 79
     eBook: 79
     audioBook: 79
-- id: "ch-0080"
+- id: "ch-00800"
   title: "2.13"
   url: "https://wanderinginn.com/2017/04/15/2-13/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_2.13"
   published: "2017-04-15"
   partOf:
     webVolume: 2
@@ -960,9 +1040,10 @@
     webVolume: 80
     eBook: 80
     audioBook: 80
-- id: "ch-0081"
+- id: "ch-00810"
   title: "2.14 G"
   url: "https://wanderinginn.com/2017/04/16/2-00-g/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_2.14_G"
   published: "2017-04-16"
   partOf:
     webVolume: 2
@@ -972,9 +1053,10 @@
     webVolume: 81
     eBook: 81
     audioBook: 81
-- id: "ch-0082"
+- id: "ch-00820"
   title: "S01 – Mating Rituals"
   url: "https://wanderinginn.com/2017/04/17/side-story-mating-rituals/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/S01_-_Mating_Rituals"
   published: "2017-04-17"
   partOf:
     webVolume: 2
@@ -984,9 +1066,10 @@
     webVolume: 82
     eBook: 82
     audioBook: 82
-- id: "ch-0083"
+- id: "ch-00830"
   title: "2.15"
   url: "https://wanderinginn.com/2017/04/18/2-14/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_2.15"
   published: "2017-04-18"
   partOf:
     webVolume: 2
@@ -996,9 +1079,10 @@
     webVolume: 83
     eBook: 83
     audioBook: 83
-- id: "ch-0084"
+- id: "ch-00840"
   title: "2.16"
   url: "https://wanderinginn.com/2017/04/22/2-15/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_2.16"
   published: "2017-04-22"
   partOf:
     webVolume: 2
@@ -1008,9 +1092,10 @@
     webVolume: 84
     eBook: 84
     audioBook: 84
-- id: "ch-0085"
+- id: "ch-00850"
   title: "2.17"
   url: "https://wanderinginn.com/2017/04/22/2-16/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_2.17"
   published: "2017-04-22"
   partOf:
     webVolume: 2
@@ -1020,9 +1105,10 @@
     webVolume: 85
     eBook: 85
     audioBook: 85
-- id: "ch-0086"
+- id: "ch-00860"
   title: "2.18"
   url: "https://wanderinginn.com/2017/04/25/2-17/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_2.18"
   published: "2017-04-25"
   partOf:
     webVolume: 2
@@ -1032,9 +1118,10 @@
     webVolume: 86
     eBook: 86
     audioBook: 86
-- id: "ch-0087"
+- id: "ch-00870"
   title: "2.19 G"
   url: "https://wanderinginn.com/2017/04/27/2-01-g/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_2.19_G"
   published: "2017-04-27"
   partOf:
     webVolume: 2
@@ -1044,9 +1131,10 @@
     webVolume: 87
     eBook: 87
     audioBook: 87
-- id: "ch-0088"
+- id: "ch-00880"
   title: "2.20"
   url: "https://wanderinginn.com/2017/04/29/2-18/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_2.20"
   published: "2017-04-29"
   partOf:
     webVolume: 2
@@ -1056,9 +1144,10 @@
     webVolume: 88
     eBook: 88
     audioBook: 88
-- id: "ch-0089"
+- id: "ch-00890"
   title: "2.21"
   url: "https://wanderinginn.com/2017/05/03/2-19/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_2.21"
   published: "2017-05-03"
   partOf:
     webVolume: 2
@@ -1068,9 +1157,10 @@
     webVolume: 89
     eBook: 89
     audioBook: 89
-- id: "ch-0090"
+- id: "ch-00900"
   title: "2.22 K"
   url: "https://wanderinginn.com/2017/05/05/2-00-k/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_2.22_K"
   published: "2017-05-05"
   partOf:
     webVolume: 2
@@ -1080,9 +1170,10 @@
     webVolume: 90
     eBook: 90
     audioBook: 90
-- id: "ch-0091"
+- id: "ch-00910"
   title: "2.23"
   url: "https://wanderinginn.com/2017/05/07/2-20/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_2.23"
   published: "2017-05-07"
   partOf:
     webVolume: 2
@@ -1092,9 +1183,10 @@
     webVolume: 91
     eBook: 91
     audioBook: 91
-- id: "ch-0092"
+- id: "ch-00920"
   title: "2.24 T"
   url: "https://wanderinginn.com/2017/05/10/2-01-t/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_2.24_T"
   published: "2017-05-10"
   partOf:
     webVolume: 2
@@ -1104,9 +1196,10 @@
     webVolume: 92
     eBook: 92
     audioBook: 92
-- id: "ch-0093"
+- id: "ch-00930"
   title: "2.25"
   url: "https://wanderinginn.com/2017/05/14/2-21/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_2.25"
   published: "2017-05-14"
   partOf:
     webVolume: 2
@@ -1116,9 +1209,10 @@
     webVolume: 93
     eBook: 93
     audioBook: 93
-- id: "ch-0094"
+- id: "ch-00940"
   title: "2.26"
   url: "https://wanderinginn.com/2017/05/17/2-22/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_2.26"
   published: "2017-05-17"
   partOf:
     webVolume: 2
@@ -1128,9 +1222,10 @@
     webVolume: 94
     eBook: 94
     audioBook: 94
-- id: "ch-0095"
+- id: "ch-00950"
   title: "1.00 C"
   url: "https://wanderinginn.com/2017/04/25/1-00-c/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_1.00_C"
   published: "2017-04-25"
   partOf:
     webVolume: 2
@@ -1140,9 +1235,10 @@
     webVolume: 95
     eBook: 95
     audioBook: 95
-- id: "ch-0096"
+- id: "ch-00960"
   title: "1.01 C"
   url: "https://wanderinginn.com/2017/04/26/1-01-c/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_1.01_C"
   published: "2017-04-26"
   partOf:
     webVolume: 2
@@ -1152,9 +1248,10 @@
     webVolume: 96
     eBook: 96
     audioBook: 96
-- id: "ch-0097"
+- id: "ch-00970"
   title: "2.27 G"
   url: "https://wanderinginn.com/2017/05/21/2-02-g/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_2.27_G"
   published: "2017-05-21"
   partOf:
     webVolume: 2
@@ -1164,9 +1261,10 @@
     webVolume: 97
     eBook: 97
     audioBook: 97
-- id: "ch-0098"
+- id: "ch-00980"
   title: "2.28"
   url: "https://wanderinginn.com/2017/05/24/2-23/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_2.28"
   published: "2017-05-24"
   partOf:
     webVolume: 2
@@ -1176,9 +1274,10 @@
     webVolume: 98
     eBook: 98
     audioBook: 98
-- id: "ch-0099"
+- id: "ch-00990"
   title: "2.29"
   url: "https://wanderinginn.com/2017/05/26/2-24/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_2.29"
   published: "2017-05-26"
   partOf:
     webVolume: 2
@@ -1188,9 +1287,10 @@
     webVolume: 99
     eBook: 99
     audioBook: 99
-- id: "ch-0100"
+- id: "ch-01000"
   title: "2.30"
   url: "https://wanderinginn.com/2017/05/28/2-25/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_2.30"
   published: "2017-05-28"
   partOf:
     webVolume: 2
@@ -1200,9 +1300,10 @@
     webVolume: 100
     eBook: 100
     audioBook: 100
-- id: "ch-0101"
+- id: "ch-01010"
   title: "2.31"
   url: "https://wanderinginn.com/2017/05/31/2-26/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_2.31"
   published: "2017-05-31"
   partOf:
     webVolume: 2
@@ -1212,9 +1313,10 @@
     webVolume: 101
     eBook: 101
     audioBook: 101
-- id: "ch-0102"
+- id: "ch-01020"
   title: "2.32 H"
   url: "https://wanderinginn.com/2017/06/04/2-00-h/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_2.32_H"
   published: "2017-06-04"
   partOf:
     webVolume: 2
@@ -1224,9 +1326,10 @@
     webVolume: 102
     eBook: 102
     audioBook: 102
-- id: "ch-0103"
+- id: "ch-01030"
   title: "2.33"
   url: "https://wanderinginn.com/2017/06/07/2-27/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_2.33"
   published: "2017-06-07"
   partOf:
     webVolume: 2
@@ -1236,9 +1339,10 @@
     webVolume: 103
     eBook: 103
     audioBook: 103
-- id: "ch-0104"
+- id: "ch-01040"
   title: "2.34"
   url: "https://wanderinginn.com/2017/06/09/2-28/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_2.34"
   published: "2017-06-09"
   partOf:
     webVolume: 2
@@ -1248,9 +1352,10 @@
     webVolume: 104
     eBook: 104
     audioBook: 104
-- id: "ch-0105"
+- id: "ch-01050"
   title: "2.35"
   url: "https://wanderinginn.com/2017/06/11/2-29/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_2.35"
   published: "2017-06-11"
   partOf:
     webVolume: 2
@@ -1260,9 +1365,10 @@
     webVolume: 105
     eBook: 105
     audioBook: 105
-- id: "ch-0106"
+- id: "ch-01060"
   title: "2.36 G"
   url: "https://wanderinginn.com/2017/06/14/2-03-g/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_2.36_G"
   published: "2017-06-14"
   partOf:
     webVolume: 2
@@ -1272,9 +1378,10 @@
     webVolume: 106
     eBook: 106
     audioBook: 106
-- id: "ch-0107"
+- id: "ch-01070"
   title: "2.37"
   url: "https://wanderinginn.com/2017/06/18/2-30/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_2.37"
   published: "2017-06-18"
   partOf:
     webVolume: 2
@@ -1284,9 +1391,10 @@
     webVolume: 107
     eBook: 107
     audioBook: 107
-- id: "ch-0108"
+- id: "ch-01080"
   title: "2.38"
   url: "https://wanderinginn.com/2017/06/21/2-31/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_2.38"
   published: "2017-06-21"
   partOf:
     webVolume: 2
@@ -1296,9 +1404,10 @@
     webVolume: 108
     eBook: 108
     audioBook: 108
-- id: "ch-0109"
+- id: "ch-01090"
   title: "Interlude"
   url: "https://wanderinginn.com/2017/06/24/interlude-3/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Interlude_-_3"
   published: "2017-06-24"
   partOf:
     webVolume: 2
@@ -1308,9 +1417,10 @@
     webVolume: 109
     eBook: 109
     audioBook: 109
-- id: "ch-0110"
+- id: "ch-01100"
   title: "S02 – The Antinium Wars (Pt.1)"
   url: "https://wanderinginn.com/2017/05/28/s02-the-antinium-wars-pt-1/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/S02_%E2%80%93_The_Antinium_Wars_(Pt.1)"
   published: "2017-05-28"
   partOf:
     webVolume: 2
@@ -1320,9 +1430,10 @@
     webVolume: 110
     eBook: 110
     audioBook: 110
-- id: "ch-0111"
+- id: "ch-01110"
   title: "S02 – The Antinium Wars (Pt.2)"
   url: "https://wanderinginn.com/2017/05/31/s02-the-antinium-wars-pt-2/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/S02_%E2%80%93_The_Antinium_Wars_(Pt.2)"
   published: "2017-05-31"
   partOf:
     webVolume: 2
@@ -1332,9 +1443,10 @@
     webVolume: 111
     eBook: 111
     audioBook: 111
-- id: "ch-0112"
+- id: "ch-01120"
   title: "2.39"
   url: "https://wanderinginn.com/2017/06/27/2-32/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_2.39"
   published: "2017-06-27"
   partOf:
     webVolume: 2
@@ -1344,9 +1456,10 @@
     webVolume: 112
     eBook: 112
     audioBook: 112
-- id: "ch-0113"
+- id: "ch-01130"
   title: "2.40"
   url: "https://wanderinginn.com/2017/07/01/2-33/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_2.40"
   published: "2017-07-01"
   partOf:
     webVolume: 2
@@ -1356,9 +1469,10 @@
     webVolume: 113
     eBook: 113
     audioBook: 113
-- id: "ch-0114"
+- id: "ch-01140"
   title: "2.41"
   url: "https://wanderinginn.com/2017/07/04/2-34/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_2.41"
   published: "2017-07-04"
   partOf:
     webVolume: 2
@@ -1368,9 +1482,10 @@
     webVolume: 114
     eBook: 114
     audioBook: 114
-- id: "ch-0115"
+- id: "ch-01150"
   title: "2.42"
   url: "https://wanderinginn.com/2017/07/08/2-35/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_2.42"
   published: "2017-07-08"
   partOf:
     webVolume: 2
@@ -1380,9 +1495,10 @@
     webVolume: 115
     eBook: 115
     audioBook: 115
-- id: "ch-0116"
+- id: "ch-01160"
   title: "2.43"
   url: "https://wanderinginn.com/2017/07/11/2-36/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_2.43"
   published: "2017-07-11"
   partOf:
     webVolume: 2
@@ -1392,9 +1508,10 @@
     webVolume: 116
     eBook: 116
     audioBook: 116
-- id: "ch-0117"
+- id: "ch-01170"
   title: "2.44"
   url: "https://wanderinginn.com/2017/07/15/2-37/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_2.44"
   published: "2017-07-15"
   partOf:
     webVolume: 2
@@ -1404,9 +1521,10 @@
     webVolume: 117
     eBook: 117
     audioBook: 117
-- id: "ch-0118"
+- id: "ch-01180"
   title: "2.45"
   url: "https://wanderinginn.com/2017/07/18/2-38/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_2.45"
   published: "2017-07-18"
   partOf:
     webVolume: 2
@@ -1416,9 +1534,10 @@
     webVolume: 118
     eBook: 118
     audioBook: 118
-- id: "ch-0119"
+- id: "ch-01190"
   title: "S03 – Wistram Days (Pt. 1)"
   url: "https://wanderinginn.com/2017/06/30/s03-wistram-days-pt-1/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/S03_%E2%80%93_Wistram_Days_(Pt.1)"
   published: "2017-06-30"
   partOf:
     webVolume: 2
@@ -1428,9 +1547,10 @@
     webVolume: 119
     eBook: 156
     audioBook: 156
-- id: "ch-0120"
+- id: "ch-01200"
   title: "2.46"
   url: "https://wanderinginn.com/2017/07/22/2-39/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_2.46"
   published: "2017-07-22"
   partOf:
     webVolume: 2
@@ -1440,9 +1560,10 @@
     webVolume: 120
     eBook: 119
     audioBook: 119
-- id: "ch-0121"
+- id: "ch-01210"
   title: "2.47"
   url: "https://wanderinginn.com/2017/07/25/2-40/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_2.47"
   published: "2017-07-25"
   partOf:
     webVolume: 2
@@ -1452,9 +1573,10 @@
     webVolume: 121
     eBook: 120
     audioBook: 120
-- id: "ch-0122"
+- id: "ch-01220"
   title: "2.48"
   url: "https://wanderinginn.com/2017/07/29/2-41/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_2.48"
   published: "2017-07-29"
   partOf:
     webVolume: 2
@@ -1464,9 +1586,10 @@
     webVolume: 122
     eBook: 121
     audioBook: 121
-- id: "ch-0123"
+- id: "ch-01230"
   title: "3.00 E"
   url: "https://wanderinginn.com/2017/08/01/3-00-e/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_3.00_E"
   published: "2017-08-01"
   partOf:
     webVolume: 3
@@ -1476,9 +1599,10 @@
     webVolume: 123
     eBook: 122
     audioBook: 122
-- id: "ch-0124"
+- id: "ch-01240"
   title: "3.01 E"
   url: "https://wanderinginn.com/2017/08/05/3-01-e/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_3.01_E"
   published: "2017-08-05"
   partOf:
     webVolume: 3
@@ -1488,9 +1612,10 @@
     webVolume: 124
     eBook: 123
     audioBook: 123
-- id: "ch-0125"
+- id: "ch-01250"
   title: "3.02 H"
   url: "https://wanderinginn.com/2017/08/08/3-02-h/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_3.02_H"
   published: "2017-08-08"
   partOf:
     webVolume: 3
@@ -1500,9 +1625,10 @@
     webVolume: 125
     eBook: 124
     audioBook: 124
-- id: "ch-0126"
+- id: "ch-01260"
   title: "3.03"
   url: "https://wanderinginn.com/2017/08/12/3-03/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_3.03"
   published: "2017-08-12"
   partOf:
     webVolume: 3
@@ -1512,9 +1638,10 @@
     webVolume: 126
     eBook: 125
     audioBook: 125
-- id: "ch-0127"
+- id: "ch-01270"
   title: "3.04"
   url: "https://wanderinginn.com/2017/08/15/3-04/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_3.04"
   published: "2017-08-15"
   partOf:
     webVolume: 3
@@ -1524,9 +1651,10 @@
     webVolume: 127
     eBook: 126
     audioBook: 126
-- id: "ch-0128"
+- id: "ch-01280"
   title: "3.05 L"
   url: "https://wanderinginn.com/2017/08/19/3-05-l/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_3.05_L"
   published: "2017-08-19"
   partOf:
     webVolume: 3
@@ -1536,9 +1664,10 @@
     webVolume: 128
     eBook: 127
     audioBook: 127
-- id: "ch-0129"
+- id: "ch-01290"
   title: "1.00 D"
   url: "https://wanderinginn.com/2017/07/14/1-00-d/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_1.00_D"
   published: "2017-07-14"
   partOf:
     webVolume: 3
@@ -1548,9 +1677,10 @@
     webVolume: 129
     eBook: 128
     audioBook: 128
-- id: "ch-0130"
+- id: "ch-01300"
   title: "1.01 D"
   url: "https://wanderinginn.com/2017/07/14/1-01-d/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_1.01_D"
   published: "2017-07-14"
   partOf:
     webVolume: 3
@@ -1560,9 +1690,10 @@
     webVolume: 130
     eBook: 129
     audioBook: 129
-- id: "ch-0131"
+- id: "ch-01310"
   title: "3.06 L"
   url: "https://wanderinginn.com/2017/08/22/3-06-l/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_3.06_L"
   published: "2017-08-22"
   partOf:
     webVolume: 3
@@ -1572,9 +1703,10 @@
     webVolume: 131
     eBook: 130
     audioBook: 130
-- id: "ch-0132"
+- id: "ch-01320"
   title: "3.07 H"
   url: "https://wanderinginn.com/2017/08/26/3-07-h/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_3.07_H"
   published: "2017-08-26"
   partOf:
     webVolume: 3
@@ -1584,9 +1716,10 @@
     webVolume: 132
     eBook: 131
     audioBook: 131
-- id: "ch-0133"
+- id: "ch-01330"
   title: "3.08 H"
   url: "https://wanderinginn.com/2017/08/29/3-08-h/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_3.08_H"
   published: "2017-08-29"
   partOf:
     webVolume: 3
@@ -1596,9 +1729,10 @@
     webVolume: 133
     eBook: 132
     audioBook: 132
-- id: "ch-0134"
+- id: "ch-01340"
   title: "3.09"
   url: "https://wanderinginn.com/2017/09/02/3-09/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_3.09"
   published: "2017-09-02"
   partOf:
     webVolume: 3
@@ -1608,9 +1742,10 @@
     webVolume: 134
     eBook: 133
     audioBook: 133
-- id: "ch-0135"
+- id: "ch-01350"
   title: "3.10"
   url: "https://wanderinginn.com/2017/09/05/3-10/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_3.10"
   published: "2017-09-05"
   partOf:
     webVolume: 3
@@ -1620,9 +1755,10 @@
     webVolume: 135
     eBook: 134
     audioBook: 134
-- id: "ch-0136"
+- id: "ch-01360"
   title: "3.11 E"
   url: "https://wanderinginn.com/2017/09/09/3-11-e/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_3.11_E"
   published: "2017-09-09"
   partOf:
     webVolume: 3
@@ -1632,9 +1768,10 @@
     webVolume: 136
     eBook: 135
     audioBook: 135
-- id: "ch-0137"
+- id: "ch-01370"
   title: "3.12 E"
   url: "https://wanderinginn.com/2017/09/12/3-12-e/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_3.12_E"
   published: "2017-09-12"
   partOf:
     webVolume: 3
@@ -1644,9 +1781,10 @@
     webVolume: 137
     eBook: 136
     audioBook: 136
-- id: "ch-0138"
+- id: "ch-01380"
   title: "3.13"
   url: "https://wanderinginn.com/2017/09/16/3-13/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_3.13"
   published: "2017-09-16"
   partOf:
     webVolume: 3
@@ -1656,9 +1794,10 @@
     webVolume: 138
     eBook: 137
     audioBook: 137
-- id: "ch-0139"
+- id: "ch-01390"
   title: "3.14"
   url: "https://wanderinginn.com/2017/09/19/3-14/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_3.14"
   published: "2017-09-19"
   partOf:
     webVolume: 3
@@ -1668,9 +1807,10 @@
     webVolume: 139
     eBook: 138
     audioBook: 138
-- id: "ch-0140"
+- id: "ch-01400"
   title: "3.15"
   url: "https://wanderinginn.com/2017/09/23/3-15/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_3.15"
   published: "2017-09-23"
   partOf:
     webVolume: 3
@@ -1680,9 +1820,10 @@
     webVolume: 140
     eBook: 139
     audioBook: 139
-- id: "ch-0141"
+- id: "ch-01410"
   title: "3.16"
   url: "https://wanderinginn.com/2017/09/26/3-16"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_3.16"
   published: "2017-09-26"
   partOf:
     webVolume: 3
@@ -1692,9 +1833,10 @@
     webVolume: 141
     eBook: 140
     audioBook: 140
-- id: "ch-0142"
+- id: "ch-01420"
   title: "S03 – Wistram Days (Pt. 2)"
   url: "https://wanderinginn.com/2017/08/31/s03-wistram-days-pt-2"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/S03_%E2%80%93_Wistram_Days_(Pt.2)"
   published: "2017-08-31"
   partOf:
     webVolume: 3
@@ -1704,9 +1846,10 @@
     webVolume: 142
     eBook: 157
     audioBook: 157
-- id: "ch-0143"
+- id: "ch-01430"
   title: "3.17 T"
   url: "https://wanderinginn.com/2017/09/27/3-17-t/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_3.17_T"
   published: "2017-09-27"
   partOf:
     webVolume: 3
@@ -1716,9 +1859,10 @@
     webVolume: 143
     eBook: 141
     audioBook: 141
-- id: "ch-0144"
+- id: "ch-01440"
   title: "3.18 T"
   url: "https://wanderinginn.com/2017/09/28/3-18-t/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_3.18_T"
   published: "2017-09-28"
   partOf:
     webVolume: 3
@@ -1728,9 +1872,10 @@
     webVolume: 144
     eBook: 142
     audioBook: 142
-- id: "ch-0145"
+- id: "ch-01450"
   title: "3.19 T"
   url: "https://wanderinginn.com/2017/09/30/3-19-t/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_3.19_T"
   published: "2017-09-30"
   partOf:
     webVolume: 3
@@ -1740,9 +1885,10 @@
     webVolume: 145
     eBook: 143
     audioBook: 143
-- id: "ch-0146"
+- id: "ch-01460"
   title: "3.20 T"
   url: "https://wanderinginn.com/2017/10/03/3-20-t/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_3.20_T"
   published: "2017-10-03"
   partOf:
     webVolume: 3
@@ -1752,9 +1898,10 @@
     webVolume: 146
     eBook: 144
     audioBook: 144
-- id: "ch-0147"
+- id: "ch-01470"
   title: "3.21 L"
   url: "https://wanderinginn.com/2017/10/07/3-21-l/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_3.21_L"
   published: "2017-10-07"
   partOf:
     webVolume: 3
@@ -1764,9 +1911,10 @@
     webVolume: 147
     eBook: 145
     audioBook: 145
-- id: "ch-0148"
+- id: "ch-01480"
   title: "3.22 L"
   url: "https://wanderinginn.com/2017/10/10/3-22-l/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_3.22_L"
   published: "2017-10-10"
   partOf:
     webVolume: 3
@@ -1776,9 +1924,10 @@
     webVolume: 148
     eBook: 146
     audioBook: 146
-- id: "ch-0149"
+- id: "ch-01490"
   title: "3.23 L"
   url: "https://wanderinginn.com/2017/10/14/3-23-l/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_3.23_L"
   published: "2017-10-14"
   partOf:
     webVolume: 3
@@ -1788,9 +1937,10 @@
     webVolume: 149
     eBook: 147
     audioBook: 147
-- id: "ch-0150"
+- id: "ch-01500"
   title: "3.24"
   url: "https://wanderinginn.com/2017/10/17/3-24/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_3.24"
   published: "2017-10-17"
   partOf:
     webVolume: 3
@@ -1800,9 +1950,10 @@
     webVolume: 150
     eBook: 148
     audioBook: 148
-- id: "ch-0151"
+- id: "ch-01510"
   title: "3.25"
   url: "https://wanderinginn.com/2017/10/21/3-25/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_3.25"
   published: "2017-10-21"
   partOf:
     webVolume: 3
@@ -1812,9 +1963,10 @@
     webVolume: 151
     eBook: 149
     audioBook: 149
-- id: "ch-0152"
+- id: "ch-01520"
   title: "3.26 G"
   url: "https://wanderinginn.com/2017/10/24/3-26-g/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_3.26_G"
   published: "2017-10-24"
   partOf:
     webVolume: 3
@@ -1824,9 +1976,10 @@
     webVolume: 152
     eBook: 150
     audioBook: 150
-- id: "ch-0153"
+- id: "ch-01530"
   title: "3.27 M"
   url: "https://wanderinginn.com/2017/10/26/3-27-m/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_3.27_M"
   published: "2017-10-26"
   partOf:
     webVolume: 3
@@ -1836,9 +1989,10 @@
     webVolume: 153
     eBook: 151
     audioBook: 151
-- id: "ch-0154"
+- id: "ch-01540"
   title: "3.28 G"
   url: "https://wanderinginn.com/2017/10/28/3-28-g/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_3.28_G"
   published: "2017-10-28"
   partOf:
     webVolume: 3
@@ -1848,9 +2002,10 @@
     webVolume: 154
     eBook: 152
     audioBook: 152
-- id: "ch-0155"
+- id: "ch-01550"
   title: "3.29 G"
   url: "https://wanderinginn.com/2017/10/31/3-29-g/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_3.29_G"
   published: "2017-10-31"
   partOf:
     webVolume: 3
@@ -1860,9 +2015,10 @@
     webVolume: 155
     eBook: 153
     audioBook: 153
-- id: "ch-0156"
+- id: "ch-01560"
   title: "3.30"
   url: "https://wanderinginn.com/2017/11/04/3-30/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_3.30"
   published: "2017-11-04"
   partOf:
     webVolume: 3
@@ -1872,9 +2028,10 @@
     webVolume: 156
     eBook: 154
     audioBook: 154
-- id: "ch-0157"
+- id: "ch-01570"
   title: "3.31 G"
   url: "https://wanderinginn.com/2017/11/07/3-31-g/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_3.31_G"
   published: "2017-11-07"
   partOf:
     webVolume: 3
@@ -1884,9 +2041,10 @@
     webVolume: 157
     eBook: 155
     audioBook: 155
-- id: "ch-0158"
+- id: "ch-01580"
   title: "S03 – Wistram Days (Pt. 3)"
   url: "https://wanderinginn.com/2017/11/11/wistram-days-pt-3/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/S03_%E2%80%93_Wistram_Days_(Pt.3)"
   published: "2017-11-11"
   partOf:
     webVolume: 3
@@ -1896,9 +2054,10 @@
     webVolume: 158
     eBook: 158
     audioBook: 158
-- id: "ch-0159"
+- id: "ch-01590"
   title: "S03 – Wistram Days (Pt. 4)"
   url: "https://wanderinginn.com/2017/11/12/wistram-days-pt-4/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/S03_%E2%80%93_Wistram_Days_(Pt.4)"
   published: "2017-11-12"
   partOf:
     webVolume: 3
@@ -1908,9 +2067,10 @@
     webVolume: 159
     eBook: 159
     audioBook: 159
-- id: "ch-0160"
+- id: "ch-01600"
   title: "S03 – Wistram Days (Pt. 5)"
   url: "https://wanderinginn.com/2017/11/14/wistram-days-pt-5/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/S03_%E2%80%93_Wistram_Days_(Pt.5)"
   published: "2017-11-14"
   partOf:
     webVolume: 3
@@ -1920,9 +2080,10 @@
     webVolume: 160
     eBook: 160
     audioBook: 160
-- id: "ch-0161"
+- id: "ch-01610"
   title: "S03 – Wistram Days (Pt. 6)"
   url: "https://wanderinginn.com/2017/11/18/wistram-days-pt-6/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/S03_%E2%80%93_Wistram_Days_(Pt.6)"
   published: "2017-11-18"
   partOf:
     webVolume: 3
@@ -1932,9 +2093,10 @@
     webVolume: 161
     eBook: 161
     audioBook: 161
-- id: "ch-0162"
+- id: "ch-01620"
   title: "S03 – Wistram Days (Pt. 7)"
   url: "https://wanderinginn.com/2017/11/21/wistram-days-pt-7/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/S03_%E2%80%93_Wistram_Days_(Pt.7)"
   published: "2017-11-21"
   partOf:
     webVolume: 3
@@ -1944,9 +2106,10 @@
     webVolume: 162
     eBook: 162
     audioBook: 162
-- id: "ch-0163"
+- id: "ch-01630"
   title: "3.32"
   url: "https://wanderinginn.com/2017/11/25/3-32/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_3.32"
   published: "2017-11-25"
   partOf:
     webVolume: 3
@@ -1956,9 +2119,10 @@
     webVolume: 163
     eBook: 163
     audioBook: 163
-- id: "ch-0164"
+- id: "ch-01640"
   title: "3.33"
   url: "https://wanderinginn.com/2017/11/28/3-33/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_3.33"
   published: "2017-11-28"
   partOf:
     webVolume: 3
@@ -1968,9 +2132,10 @@
     webVolume: 164
     eBook: 164
     audioBook: 164
-- id: "ch-0165"
+- id: "ch-01650"
   title: "3.34"
   url: "https://wanderinginn.com/2017/12/02/3-34/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_3.34"
   published: "2017-12-02"
   partOf:
     webVolume: 3
@@ -1980,9 +2145,10 @@
     webVolume: 165
     eBook: 165
     audioBook: 165
-- id: "ch-0166"
+- id: "ch-01660"
   title: "3.35"
   url: "https://wanderinginn.com/2017/12/05/3-35/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_3.35"
   published: "2017-12-05"
   partOf:
     webVolume: 3
@@ -1992,9 +2158,10 @@
     webVolume: 166
     eBook: 166
     audioBook: 166
-- id: "ch-0167"
+- id: "ch-01670"
   title: "3.36"
   url: "https://wanderinginn.com/2017/12/09/3-36/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_3.36"
   published: "2017-12-09"
   partOf:
     webVolume: 3
@@ -2004,9 +2171,10 @@
     webVolume: 167
     eBook: 167
     audioBook: 167
-- id: "ch-0168"
+- id: "ch-01680"
   title: "3.37"
   url: "https://wanderinginn.com/2017/12/12/3-37/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_3.37"
   published: "2017-12-12"
   partOf:
     webVolume: 3
@@ -2016,9 +2184,10 @@
     webVolume: 168
     eBook: 168
     audioBook: 168
-- id: "ch-0169"
+- id: "ch-01690"
   title: "3.38"
   url: "https://wanderinginn.com/2017/12/16/3-38/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_3.38"
   published: "2017-12-16"
   partOf:
     webVolume: 3
@@ -2028,9 +2197,10 @@
     webVolume: 169
     eBook: 169
     audioBook: 169
-- id: "ch-0170"
+- id: "ch-01700"
   title: "3.39"
   url: "https://wanderinginn.com/2017/12/19/3-39/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_3.39"
   published: "2017-12-19"
   partOf:
     webVolume: 3
@@ -2040,9 +2210,10 @@
     webVolume: 170
     eBook: 170
     audioBook: 170
-- id: "ch-0171"
+- id: "ch-01710"
   title: "3.40"
   url: "https://wanderinginn.com/2017/12/23/3-40/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_3.40"
   published: "2017-12-23"
   partOf:
     webVolume: 3
@@ -2052,9 +2223,10 @@
     webVolume: 171
     eBook: 171
     audioBook: 171
-- id: "ch-0172"
+- id: "ch-01720"
   title: "3.41"
   url: "https://wanderinginn.com/2017/12/25/3-41"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_3.41"
   published: "2017-12-25"
   partOf:
     webVolume: 3
@@ -2064,9 +2236,10 @@
     webVolume: 172
     eBook: 172
     audioBook: 172
-- id: "ch-0173"
+- id: "ch-01730"
   title: "3.42"
   url: "https://wanderinginn.com/2017/12/26/3-42/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_3.42"
   published: "2017-12-26"
   partOf:
     webVolume: 3
@@ -2076,9 +2249,10 @@
     webVolume: 173
     eBook: 173
     audioBook: 173
-- id: "ch-0174"
+- id: "ch-01740"
   title: "Interlude"
   url: "https://wanderinginn.com/2017/12/30/interlude-4/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Interlude_-_4"
   published: "2017-12-30"
   partOf:
     webVolume: 3
@@ -2088,9 +2262,10 @@
     webVolume: 174
     eBook: 174
     audioBook: 174
-- id: "ch-0175"
+- id: "ch-01750"
   title: "4.00 K"
   url: "https://wanderinginn.com/2018/01/06/4-00-k/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_4.00_K"
   published: "2018-01-06"
   partOf:
     webVolume: 4
@@ -2100,9 +2275,10 @@
     webVolume: 175
     eBook: 175
     audioBook: 175
-- id: "ch-0176"
+- id: "ch-01760"
   title: "4.01 K"
   url: "https://wanderinginn.com/2018/01/09/4-01-k/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_4.01_K"
   published: "2018-01-09"
   partOf:
     webVolume: 4
@@ -2112,9 +2288,10 @@
     webVolume: 176
     eBook: 176
     audioBook: 176
-- id: "ch-0177"
+- id: "ch-01770"
   title: "4.02 K"
   url: "https://wanderinginn.com/2018/01/13/4-02-k/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_4.02_K"
   published: "2018-01-13"
   partOf:
     webVolume: 4
@@ -2124,9 +2301,10 @@
     webVolume: 177
     eBook: 177
     audioBook: 177
-- id: "ch-0178"
+- id: "ch-01780"
   title: "4.03 K"
   url: "https://wanderinginn.com/2018/01/16/4-03-k/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_4.03_K"
   published: "2018-01-16"
   partOf:
     webVolume: 4
@@ -2136,9 +2314,10 @@
     webVolume: 178
     eBook: 178
     audioBook: 178
-- id: "ch-0179"
+- id: "ch-01790"
   title: "4.04 K"
   url: "https://wanderinginn.com/2018/01/20/4-04-k/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_4.04_K"
   published: "2018-01-20"
   partOf:
     webVolume: 4
@@ -2148,9 +2327,10 @@
     webVolume: 179
     eBook: 179
     audioBook: 179
-- id: "ch-0180"
+- id: "ch-01800"
   title: "4.05 K"
   url: "https://wanderinginn.com/2018/01/23/4-05-k/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_4.05_K"
   published: "2018-01-23"
   partOf:
     webVolume: 4
@@ -2160,9 +2340,10 @@
     webVolume: 180
     eBook: 180
     audioBook: 180
-- id: "ch-0181"
+- id: "ch-01810"
   title: "4.06 KM"
   url: "https://wanderinginn.com/2018/01/27/4-06-km/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_4.06_KM"
   published: "2018-01-27"
   partOf:
     webVolume: 4
@@ -2172,9 +2353,10 @@
     webVolume: 181
     eBook: 181
     audioBook: 181
-- id: "ch-0182"
+- id: "ch-01820"
   title: "4.07"
   url: "https://wanderinginn.com/2018/01/30/4-07/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_4.07"
   published: "2018-01-30"
   partOf:
     webVolume: 4
@@ -2184,9 +2366,10 @@
     webVolume: 182
     eBook: 182
     audioBook: 182
-- id: "ch-0183"
+- id: "ch-01830"
   title: "4.08 T"
   url: "https://wanderinginn.com/2018/02/01/4-08-t/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_4.08_T"
   published: "2018-02-01"
   partOf:
     webVolume: 4
@@ -2196,9 +2379,10 @@
     webVolume: 183
     eBook: 183
     audioBook: 183
-- id: "ch-0184"
+- id: "ch-01840"
   title: "4.09"
   url: "https://wanderinginn.com/2018/02/03/4-09/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_4.09"
   published: "2018-02-03"
   partOf:
     webVolume: 4
@@ -2208,9 +2392,10 @@
     webVolume: 184
     eBook: 184
     audioBook: 184
-- id: "ch-0185"
+- id: "ch-01850"
   title: "4.10"
   url: "https://wanderinginn.com/2018/02/06/4-10/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_4.10"
   published: "2018-02-06"
   partOf:
     webVolume: 4
@@ -2220,9 +2405,10 @@
     webVolume: 185
     eBook: 185
     audioBook: 185
-- id: "ch-0186"
+- id: "ch-01860"
   title: "4.11"
   url: "https://wanderinginn.com/2018/02/10/4-11/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_4.11"
   published: "2018-02-10"
   partOf:
     webVolume: 4
@@ -2232,9 +2418,10 @@
     webVolume: 186
     eBook: 186
     audioBook: 186
-- id: "ch-0187"
+- id: "ch-01870"
   title: "4.12"
   url: "https://wanderinginn.com/2018/02/13/4-12/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_4.12"
   published: "2018-02-13"
   partOf:
     webVolume: 4
@@ -2244,9 +2431,10 @@
     webVolume: 187
     eBook: 187
     audioBook: 187
-- id: "ch-0188"
+- id: "ch-01880"
   title: "4.13 L"
   url: "https://wanderinginn.com/2018/02/17/4-13-l/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_4.13_L"
   published: "2018-02-17"
   partOf:
     webVolume: 4
@@ -2256,9 +2444,10 @@
     webVolume: 188
     eBook: 188
     audioBook: 188
-- id: "ch-0189"
+- id: "ch-01890"
   title: "4.14 L"
   url: "https://wanderinginn.com/2018/02/20/4-14-l/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_4.14_L"
   published: "2018-02-20"
   partOf:
     webVolume: 4
@@ -2268,9 +2457,10 @@
     webVolume: 189
     eBook: 189
     audioBook: 189
-- id: "ch-0190"
+- id: "ch-01900"
   title: "4.15 L"
   url: "https://wanderinginn.com/2018/02/20/4-15-l/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_4.15_L"
   published: "2018-02-20"
   partOf:
     webVolume: 4
@@ -2280,9 +2470,10 @@
     webVolume: 190
     eBook: 190
     audioBook: 190
-- id: "ch-0191"
+- id: "ch-01910"
   title: "4.16"
   url: "https://wanderinginn.com/2018/02/24/4-16/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_4.16"
   published: "2018-02-24"
   partOf:
     webVolume: 4
@@ -2292,9 +2483,10 @@
     webVolume: 191
     eBook: 191
     audioBook: 191
-- id: "ch-0192"
+- id: "ch-01920"
   title: "4.17"
   url: "https://wanderinginn.com/2018/02/27/4-17/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_4.17"
   published: "2018-02-27"
   partOf:
     webVolume: 4
@@ -2304,9 +2496,10 @@
     webVolume: 192
     eBook: 192
     audioBook: 192
-- id: "ch-0193"
+- id: "ch-01930"
   title: "1.02 D"
   url: "https://wanderinginn.com/2018/03/01/1-02-d/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_1.02_D"
   published: "2018-03-01"
   partOf:
     webVolume: 4
@@ -2316,9 +2509,10 @@
     webVolume: 193
     eBook: 193
     audioBook: 193
-- id: "ch-0194"
+- id: "ch-01940"
   title: "1.03 D"
   url: "https://wanderinginn.com/2018/03/03/1-03-d/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_1.03_D"
   published: "2018-03-03"
   partOf:
     webVolume: 4
@@ -2328,9 +2522,10 @@
     webVolume: 194
     eBook: 194
     audioBook: 194
-- id: "ch-0195"
+- id: "ch-01950"
   title: "1.04 D"
   url: "https://wanderinginn.com/2018/03/06/1-04-d/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_1.04_D"
   published: "2018-03-06"
   partOf:
     webVolume: 4
@@ -2340,9 +2535,10 @@
     webVolume: 195
     eBook: 195
     audioBook: 195
-- id: "ch-0196"
+- id: "ch-01960"
   title: "1.05 D"
   url: "https://wanderinginn.com/2018/03/06/1-05-d/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_1.05_D"
   published: "2018-03-06"
   partOf:
     webVolume: 4
@@ -2352,9 +2548,10 @@
     webVolume: 196
     eBook: 196
     audioBook: 196
-- id: "ch-0197"
+- id: "ch-01970"
   title: "1.06 D"
   url: "https://wanderinginn.com/2018/03/10/1-06-d/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_1.06_D"
   published: "2018-03-10"
   partOf:
     webVolume: 4
@@ -2364,9 +2561,10 @@
     webVolume: 197
     eBook: 197
     audioBook: 197
-- id: "ch-0198"
+- id: "ch-01980"
   title: "4.18"
   url: "https://wanderinginn.com/2018/03/13/4-18/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_4.18"
   published: "2018-03-13"
   partOf:
     webVolume: 4
@@ -2376,9 +2574,10 @@
     webVolume: 198
     eBook: 198
     audioBook: 198
-- id: "ch-0199"
+- id: "ch-01990"
   title: "4.19"
   url: "https://wanderinginn.com/2018/03/17/4-19/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_4.19"
   published: "2018-03-17"
   partOf:
     webVolume: 4
@@ -2388,9 +2587,10 @@
     webVolume: 199
     eBook: 199
     audioBook: 199
-- id: "ch-0200"
+- id: "ch-02000"
   title: "4.20 E"
   url: "https://wanderinginn.com/2018/03/20/4-20-e/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_4.20_E"
   published: "2018-03-20"
   partOf:
     webVolume: 4
@@ -2400,9 +2600,10 @@
     webVolume: 200
     eBook: 200
     audioBook: 200
-- id: "ch-0201"
+- id: "ch-02010"
   title: "4.21 E"
   url: "https://wanderinginn.com/2018/03/24/4-21-e/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_4.21_E"
   published: "2018-03-24"
   partOf:
     webVolume: 4
@@ -2412,9 +2613,10 @@
     webVolume: 201
     eBook: 201
     audioBook: 201
-- id: "ch-0202"
+- id: "ch-02020"
   title: "4.22 E"
   url: "https://wanderinginn.com/2018/03/27/4-22-e/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_4.22_E"
   published: "2018-03-27"
   partOf:
     webVolume: 4
@@ -2424,9 +2626,10 @@
     webVolume: 202
     eBook: 202
     audioBook: 202
-- id: "ch-0203"
+- id: "ch-02030"
   title: "4.23 E"
   url: "https://wanderinginn.com/2018/03/27/4-23-e/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_4.23_E"
   published: "2018-03-27"
   partOf:
     webVolume: 4
@@ -2436,9 +2639,10 @@
     webVolume: 203
     eBook: 203
     audioBook: 203
-- id: "ch-0204"
+- id: "ch-02040"
   title: "4.24"
   url: "https://wanderinginn.com/2018/03/31/4-24/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_4.24"
   published: "2018-03-31"
   partOf:
     webVolume: 4
@@ -2448,9 +2652,10 @@
     webVolume: 204
     eBook: 204
     audioBook: 204
-- id: "ch-0205"
+- id: "ch-02050"
   title: "4.25 N"
   url: "https://wanderinginn.com/2018/04/03/4-25-n/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_4.25_N"
   published: "2018-04-03"
   partOf:
     webVolume: 4
@@ -2460,9 +2665,10 @@
     webVolume: 205
     eBook: 205
     audioBook: 205
-- id: "ch-0206"
+- id: "ch-02060"
   title: "4.26 M"
   url: "https://wanderinginn.com/2018/04/07/4-26-m/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_4.26_M"
   published: "2018-04-07"
   partOf:
     webVolume: 4
@@ -2472,9 +2678,10 @@
     webVolume: 206
     eBook: 206
     audioBook: 206
-- id: "ch-0207"
+- id: "ch-02070"
   title: "4.27 H"
   url: "https://wanderinginn.com/2018/04/10/4-27-h/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_4.27_H"
   published: "2018-04-10"
   partOf:
     webVolume: 4
@@ -2484,9 +2691,10 @@
     webVolume: 207
     eBook: 207
     audioBook: 207
-- id: "ch-0208"
+- id: "ch-02080"
   title: "4.28"
   url: "https://wanderinginn.com/2018/04/14/4-28/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_4.28"
   published: "2018-04-14"
   partOf:
     webVolume: 4
@@ -2496,9 +2704,10 @@
     webVolume: 208
     eBook: 208
     audioBook: 208
-- id: "ch-0209"
+- id: "ch-02090"
   title: "4.29"
   url: "https://wanderinginn.com/2018/04/17/4-29/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_4.29"
   published: "2018-04-17"
   partOf:
     webVolume: 4
@@ -2508,9 +2717,10 @@
     webVolume: 209
     eBook: 209
     audioBook: 209
-- id: "ch-0210"
+- id: "ch-02100"
   title: "4.30"
   url: "https://wanderinginn.com/2018/04/21/4-30/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_4.30"
   published: "2018-04-21"
   partOf:
     webVolume: 4
@@ -2520,9 +2730,10 @@
     webVolume: 210
     eBook: 210
     audioBook: 210
-- id: "ch-0211"
+- id: "ch-02110"
   title: "4.31"
   url: "https://wanderinginn.com/2018/04/24/4-31/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_4.31"
   published: "2018-04-24"
   partOf:
     webVolume: 4
@@ -2532,9 +2743,10 @@
     webVolume: 211
     eBook: 211
     audioBook: 211
-- id: "ch-0212"
+- id: "ch-02120"
   title: "4.32 G"
   url: "https://wanderinginn.com/2018/04/28/4-32-g/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_4.32_G"
   published: "2018-04-28"
   partOf:
     webVolume: 4
@@ -2544,9 +2756,10 @@
     webVolume: 212
     eBook: 212
     audioBook: 212
-- id: "ch-0213"
+- id: "ch-02130"
   title: "1.02 C"
   url: "https://wanderinginn.com/2018/05/01/1-02-d-2/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_1.02_C"
   published: "2018-05-01"
   partOf:
     webVolume: 4
@@ -2556,9 +2769,10 @@
     webVolume: 213
     eBook: 213
     audioBook: 213
-- id: "ch-0214"
+- id: "ch-02140"
   title: "1.03 C"
   url: "https://wanderinginn.com/2018/05/01/1-03-d-2/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_1.03_C"
   published: "2018-05-01"
   partOf:
     webVolume: 4
@@ -2568,9 +2782,10 @@
     webVolume: 214
     eBook: 214
     audioBook: 214
-- id: "ch-0215"
+- id: "ch-02150"
   title: "1.04 C"
   url: "https://wanderinginn.com/2018/05/05/1-04-c/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_1.04_C"
   published: "2018-05-05"
   partOf:
     webVolume: 4
@@ -2580,9 +2795,10 @@
     webVolume: 215
     eBook: 215
     audioBook: 215
-- id: "ch-0216"
+- id: "ch-02160"
   title: "1.05 C"
   url: "https://wanderinginn.com/2018/05/05/1-05-c/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_1.05_C"
   published: "2018-05-05"
   partOf:
     webVolume: 4
@@ -2592,9 +2808,10 @@
     webVolume: 216
     eBook: 216
     audioBook: 216
-- id: "ch-0217"
+- id: "ch-02170"
   title: "4.33"
   url: "https://wanderinginn.com/2018/05/08/4-33/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_4.33"
   published: "2018-05-08"
   partOf:
     webVolume: 4
@@ -2604,9 +2821,10 @@
     webVolume: 217
     eBook: 217
     audioBook: 217
-- id: "ch-0218"
+- id: "ch-02180"
   title: "4.34"
   url: "https://wanderinginn.com/2018/05/12/4-34/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_4.34"
   published: "2018-05-12"
   partOf:
     webVolume: 4
@@ -2616,9 +2834,10 @@
     webVolume: 218
     eBook: 218
     audioBook: 218
-- id: "ch-0219"
+- id: "ch-02190"
   title: "4.35 E"
   url: "https://wanderinginn.com/2018/05/15/4-35-e/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_4.35_E"
   published: "2018-05-15"
   partOf:
     webVolume: 4
@@ -2628,9 +2847,10 @@
     webVolume: 219
     eBook: 219
     audioBook: 219
-- id: "ch-0220"
+- id: "ch-02200"
   title: "4.36 O"
   url: "https://wanderinginn.com/2018/05/17/4-36-o/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_4.36_O"
   published: "2018-05-17"
   partOf:
     webVolume: 4
@@ -2640,9 +2860,10 @@
     webVolume: 220
     eBook: 220
     audioBook: 220
-- id: "ch-0221"
+- id: "ch-02210"
   title: "4.37 O"
   url: "https://wanderinginn.com/2018/05/19/4-37-o/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_4.37_O"
   published: "2018-05-19"
   partOf:
     webVolume: 4
@@ -2652,9 +2873,10 @@
     webVolume: 221
     eBook: 221
     audioBook: 221
-- id: "ch-0222"
+- id: "ch-02220"
   title: "4.38 B"
   url: "https://wanderinginn.com/2018/05/22/4-38-n/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_4.38"
   published: "2018-05-22"
   partOf:
     webVolume: 4
@@ -2664,9 +2886,10 @@
     webVolume: 222
     eBook: 222
     audioBook: 222
-- id: "ch-0223"
+- id: "ch-02230"
   title: "4.39 G"
   url: "https://wanderinginn.com/2018/05/26/4-39-g/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_4.39_G"
   published: "2018-05-26"
   partOf:
     webVolume: 4
@@ -2676,9 +2899,10 @@
     webVolume: 223
     eBook: 223
     audioBook: 223
-- id: "ch-0224"
+- id: "ch-02240"
   title: "4.40 L"
   url: "https://wanderinginn.com/2018/05/29/4-40-l/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_4.40_L"
   published: "2018-05-29"
   partOf:
     webVolume: 4
@@ -2688,9 +2912,10 @@
     webVolume: 224
     eBook: 224
     audioBook: 224
-- id: "ch-0225"
+- id: "ch-02250"
   title: "4.41 L"
   url: "https://wanderinginn.com/2018/06/02/4-41-l/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_4.41_L"
   published: "2018-06-02"
   partOf:
     webVolume: 4
@@ -2700,9 +2925,10 @@
     webVolume: 225
     eBook: 225
     audioBook: 225
-- id: "ch-0226"
+- id: "ch-02260"
   title: "4.42 L"
   url: "https://wanderinginn.com/2018/06/02/4-42-l/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_4.42_L"
   published: "2018-06-02"
   partOf:
     webVolume: 4
@@ -2712,9 +2938,10 @@
     webVolume: 226
     eBook: 226
     audioBook: 226
-- id: "ch-0227"
+- id: "ch-02270"
   title: "4.43"
   url: "https://wanderinginn.com/2018/06/05/4-43/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_4.43"
   published: "2018-06-05"
   partOf:
     webVolume: 4
@@ -2724,9 +2951,10 @@
     webVolume: 227
     eBook: 227
     audioBook: 227
-- id: "ch-0228"
+- id: "ch-02280"
   title: "4.44 M"
   url: "https://wanderinginn.com/2018/06/09/4-44-m/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_4.44_M"
   published: "2018-06-09"
   partOf:
     webVolume: 4
@@ -2736,9 +2964,10 @@
     webVolume: 228
     eBook: 228
     audioBook: 228
-- id: "ch-0229"
+- id: "ch-02290"
   title: "4.45"
   url: "https://wanderinginn.com/2018/06/12/4-45/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_4.45"
   published: "2018-06-12"
   partOf:
     webVolume: 4
@@ -2748,9 +2977,10 @@
     webVolume: 229
     eBook: 229
     audioBook: 229
-- id: "ch-0230"
+- id: "ch-02300"
   title: "4.46"
   url: "https://wanderinginn.com/2018/06/16/4-46/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_4.46"
   published: "2018-06-16"
   partOf:
     webVolume: 4
@@ -2760,9 +2990,10 @@
     webVolume: 230
     eBook: 230
     audioBook: 230
-- id: "ch-0231"
+- id: "ch-02310"
   title: "4.47"
   url: "https://wanderinginn.com/2018/06/19/4-47/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_4.47"
   published: "2018-06-19"
   partOf:
     webVolume: 4
@@ -2772,9 +3003,10 @@
     webVolume: 231
     eBook: 231
     audioBook: 231
-- id: "ch-0232"
+- id: "ch-02320"
   title: "S02 – The Antinium Wars (Pt.3)"
   url: "https://wanderinginn.com/2018/06/23/s02-the-antinium-wars-pt-3/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/S02_%E2%80%93_The_Antinium_Wars_(Pt.3)"
   published: "2018-06-23"
   partOf:
     webVolume: 4
@@ -2784,9 +3016,10 @@
     webVolume: 232
     eBook: 232
     audioBook: 232
-- id: "ch-0233"
+- id: "ch-02330"
   title: "S02 – The Antinium Wars (Pt.4)"
   url: "https://wanderinginn.com/2018/06/26/s02-the-antinium-wars-pt-4/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/S02_%E2%80%93_The_Antinium_Wars_(Pt.4)"
   published: "2018-06-26"
   partOf:
     webVolume: 4
@@ -2796,9 +3029,10 @@
     webVolume: 233
     eBook: 233
     audioBook: 233
-- id: "ch-0234"
+- id: "ch-02340"
   title: "S02 – The Antinium Wars (Pt.5)"
   url: "https://wanderinginn.com/2018/06/26/s02-the-antinium-wars-pt-5/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/S02_%E2%80%93_The_Antinium_Wars_(Pt.5)"
   published: "2018-06-26"
   partOf:
     webVolume: 4
@@ -2808,9 +3042,10 @@
     webVolume: 234
     eBook: 234
     audioBook: 234
-- id: "ch-0235"
+- id: "ch-02350"
   title: "4.48"
   url: "https://wanderinginn.com/2018/06/29/4-48/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_4.48"
   published: "2018-06-29"
   partOf:
     webVolume: 4
@@ -2820,9 +3055,10 @@
     webVolume: 235
     eBook: 235
     audioBook: 235
-- id: "ch-0236"
+- id: "ch-02360"
   title: "4.49"
   url: "https://wanderinginn.com/2018/07/07/4-49/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_4.49"
   published: "2018-07-07"
   partOf:
     webVolume: 4
@@ -2832,9 +3068,10 @@
     webVolume: 236
     eBook: 236
     audioBook: 236
-- id: "ch-0237"
+- id: "ch-02370"
   title: "The Depthless Doctor"
   url: "https://wanderinginn.com/2018/07/09/the-depthless-doctor/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/The_Depthless_Doctor"
   published: "2018-07-09"
   partOf:
     webVolume: 4
@@ -2844,9 +3081,10 @@
     webVolume: 237
     eBook: null
     audioBook: null
-- id: "ch-0238"
+- id: "ch-02380"
   title: "Glossary"
   url: "https://wanderinginn.com/2018/10/19/glossary"
+  wikiUrl: null
   published: "2018-10-19"
   partOf:
     webVolume: 5
@@ -2856,9 +3094,10 @@
     webVolume: 238
     eBook: null
     audioBook: null
-- id: "ch-0239"
+- id: "ch-02390"
   title: "5.00"
   url: "https://wanderinginn.com/2018/07/10/5-00/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_5.00"
   published: "2018-07-10"
   partOf:
     webVolume: 5
@@ -2868,9 +3107,10 @@
     webVolume: 239
     eBook: 237
     audioBook: 237
-- id: "ch-0240"
+- id: "ch-02400"
   title: "5.01"
   url: "https://wanderinginn.com/2018/07/14/5-01/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_5.01"
   published: "2018-07-14"
   partOf:
     webVolume: 5
@@ -2880,9 +3120,10 @@
     webVolume: 240
     eBook: 238
     audioBook: 238
-- id: "ch-0241"
+- id: "ch-02410"
   title: "5.02"
   url: "https://wanderinginn.com/2018/07/17/5-02/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_5.02"
   published: "2018-07-17"
   partOf:
     webVolume: 5
@@ -2892,9 +3133,10 @@
     webVolume: 241
     eBook: 239
     audioBook: 239
-- id: "ch-0242"
+- id: "ch-02420"
   title: "5.03"
   url: "https://wanderinginn.com/2018/07/21/5-03/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_5.03"
   published: "2018-07-21"
   partOf:
     webVolume: 5
@@ -2904,9 +3146,10 @@
     webVolume: 242
     eBook: 240
     audioBook: 240
-- id: "ch-0243"
+- id: "ch-02430"
   title: "5.04"
   url: "https://wanderinginn.com/2018/07/21/5-04/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_5.04"
   published: "2018-07-21"
   partOf:
     webVolume: 5
@@ -2916,9 +3159,10 @@
     webVolume: 243
     eBook: 241
     audioBook: 241
-- id: "ch-0244"
+- id: "ch-02440"
   title: "5.05"
   url: "https://wanderinginn.com/2018/07/24/5-05/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_5.05"
   published: "2018-07-24"
   partOf:
     webVolume: 5
@@ -2928,9 +3172,10 @@
     webVolume: 244
     eBook: 242
     audioBook: 242
-- id: "ch-0245"
+- id: "ch-02450"
   title: "5.06 M"
   url: "https://wanderinginn.com/2018/07/27/5-06-m/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_5.06_M"
   published: "2018-07-27"
   partOf:
     webVolume: 5
@@ -2940,9 +3185,10 @@
     webVolume: 245
     eBook: 243
     audioBook: 243
-- id: "ch-0246"
+- id: "ch-02460"
   title: "5.07"
   url: "https://wanderinginn.com/2018/07/28/5-07/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_5.07"
   published: "2018-07-28"
   partOf:
     webVolume: 5
@@ -2952,9 +3198,10 @@
     webVolume: 246
     eBook: 244
     audioBook: 244
-- id: "ch-0247"
+- id: "ch-02470"
   title: "5.08"
   url: "https://wanderinginn.com/2018/07/31/5-08/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_5.08"
   published: "2018-07-31"
   partOf:
     webVolume: 5
@@ -2964,9 +3211,10 @@
     webVolume: 247
     eBook: 245
     audioBook: 245
-- id: "ch-0248"
+- id: "ch-02480"
   title: "Interlude – Flos"
   url: "https://wanderinginn.com/2018/08/04/interlude-flos/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Interlude_-_Flos"
   published: "2018-08-04"
   partOf:
     webVolume: 5
@@ -2976,9 +3224,10 @@
     webVolume: 248
     eBook: 246
     audioBook: 246
-- id: "ch-0249"
+- id: "ch-02490"
   title: "5.09 E"
   url: "https://wanderinginn.com/2018/08/07/5-09-e/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_5.09_E"
   published: "2018-08-07"
   partOf:
     webVolume: 5
@@ -2988,9 +3237,10 @@
     webVolume: 249
     eBook: 247
     audioBook: 247
-- id: "ch-0250"
+- id: "ch-02500"
   title: "5.10 E"
   url: "https://wanderinginn.com/2018/08/11/5-10-e/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_5.10_E"
   published: "2018-08-11"
   partOf:
     webVolume: 5
@@ -3000,9 +3250,10 @@
     webVolume: 250
     eBook: 248
     audioBook: 248
-- id: "ch-0251"
+- id: "ch-02510"
   title: "5.11 E"
   url: "https://wanderinginn.com/2018/08/14/5-11-e/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_5.11_E"
   published: "2018-08-14"
   partOf:
     webVolume: 5
@@ -3012,9 +3263,10 @@
     webVolume: 251
     eBook: 249
     audioBook: 249
-- id: "ch-0252"
+- id: "ch-02520"
   title: "5.12"
   url: "https://wanderinginn.com/2018/08/18/5-12/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_5.12"
   published: "2018-08-18"
   partOf:
     webVolume: 5
@@ -3024,9 +3276,10 @@
     webVolume: 252
     eBook: 250
     audioBook: 250
-- id: "ch-0253"
+- id: "ch-02530"
   title: "5.13"
   url: "https://wanderinginn.com/2018/08/21/5-13/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_5.13"
   published: "2018-08-21"
   partOf:
     webVolume: 5
@@ -3036,9 +3289,10 @@
     webVolume: 253
     eBook: 251
     audioBook: 251
-- id: "ch-0254"
+- id: "ch-02540"
   title: "5.14"
   url: "https://wanderinginn.com/2018/08/25/5-14/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_5.14"
   published: "2018-08-25"
   partOf:
     webVolume: 5
@@ -3048,9 +3302,10 @@
     webVolume: 254
     eBook: 252
     audioBook: 252
-- id: "ch-0255"
+- id: "ch-02550"
   title: "5.15"
   url: "https://wanderinginn.com/2018/08/28/5-15/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_5.15"
   published: "2018-08-28"
   partOf:
     webVolume: 5
@@ -3060,9 +3315,10 @@
     webVolume: 255
     eBook: 253
     audioBook: 253
-- id: "ch-0256"
+- id: "ch-02560"
   title: "5.16 S"
   url: "https://wanderinginn.com/2018/09/01/5-16-s/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_5.16_S"
   published: "2018-09-01"
   partOf:
     webVolume: 5
@@ -3072,9 +3328,10 @@
     webVolume: 256
     eBook: 254
     audioBook: 254
-- id: "ch-0257"
+- id: "ch-02570"
   title: "5.17 S"
   url: "https://wanderinginn.com/2018/09/01/5-17-s/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_5.17_S"
   published: "2018-09-01"
   partOf:
     webVolume: 5
@@ -3084,9 +3341,10 @@
     webVolume: 257
     eBook: 255
     audioBook: 255
-- id: "ch-0258"
+- id: "ch-02580"
   title: "5.18 S"
   url: "https://wanderinginn.com/2018/09/04/5-18-s//"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_5.18_S"
   published: "2018-09-04"
   partOf:
     webVolume: 5
@@ -3096,9 +3354,10 @@
     webVolume: 258
     eBook: 256
     audioBook: 256
-- id: "ch-0259"
+- id: "ch-02590"
   title: "5.19 G"
   url: "https://wanderinginn.com/2018/09/08/5-19-g/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_5.19_G"
   published: "2018-09-08"
   partOf:
     webVolume: 5
@@ -3108,9 +3367,10 @@
     webVolume: 259
     eBook: 257
     audioBook: 257
-- id: "ch-0260"
+- id: "ch-02600"
   title: "5.20 G"
   url: "https://wanderinginn.com/2018/09/11/5-20-g/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_5.20_G"
   published: "2018-09-11"
   partOf:
     webVolume: 5
@@ -3120,9 +3380,10 @@
     webVolume: 260
     eBook: 258
     audioBook: 258
-- id: "ch-0261"
+- id: "ch-02610"
   title: "5.21 E"
   url: "https://wanderinginn.com/2018/09/15/5-21-e/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_5.21_E"
   published: "2018-09-15"
   partOf:
     webVolume: 5
@@ -3132,9 +3393,10 @@
     webVolume: 261
     eBook: null
     audioBook: null
-- id: "ch-0262"
+- id: "ch-02620"
   title: "5.22 G"
   url: "https://wanderinginn.com/2018/09/18/5-22-g/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_5.22_G"
   published: "2018-09-18"
   partOf:
     webVolume: 5
@@ -3144,9 +3406,10 @@
     webVolume: 262
     eBook: null
     audioBook: null
-- id: "ch-0263"
+- id: "ch-02630"
   title: "5.23 G"
   url: "https://wanderinginn.com/2018/09/22/5-23-g/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_5.23_G"
   published: "2018-09-22"
   partOf:
     webVolume: 5
@@ -3156,9 +3419,10 @@
     webVolume: 263
     eBook: null
     audioBook: null
-- id: "ch-0264"
+- id: "ch-02640"
   title: "5.24 L"
   url: "https://wanderinginn.com/2018/09/29/5-24-l/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_5.24_L"
   published: "2018-09-29"
   partOf:
     webVolume: 5
@@ -3168,9 +3432,10 @@
     webVolume: 264
     eBook: null
     audioBook: null
-- id: "ch-0265"
+- id: "ch-02650"
   title: "5.25 L"
   url: "https://wanderinginn.com/2018/10/02/5-25-l/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_5.25_L"
   published: "2018-10-02"
   partOf:
     webVolume: 5
@@ -3180,9 +3445,10 @@
     webVolume: 265
     eBook: null
     audioBook: null
-- id: "ch-0266"
+- id: "ch-02660"
   title: "5.26 L"
   url: "https://wanderinginn.com/2018/10/06/5-26-l/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_5.26_L"
   published: "2018-10-06"
   partOf:
     webVolume: 5
@@ -3192,9 +3458,10 @@
     webVolume: 266
     eBook: null
     audioBook: null
-- id: "ch-0267"
+- id: "ch-02670"
   title: "5.27"
   url: "https://wanderinginn.com/2018/10/09/5-27/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_5.27"
   published: "2018-10-09"
   partOf:
     webVolume: 5
@@ -3204,9 +3471,10 @@
     webVolume: 267
     eBook: null
     audioBook: null
-- id: "ch-0268"
+- id: "ch-02680"
   title: "5.28"
   url: "https://wanderinginn.com/2018/10/13/5-28/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_5.28"
   published: "2018-10-13"
   partOf:
     webVolume: 5
@@ -3216,9 +3484,10 @@
     webVolume: 268
     eBook: null
     audioBook: null
-- id: "ch-0269"
+- id: "ch-02690"
   title: "5.29"
   url: "https://wanderinginn.com/2018/10/16/5-29/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_5.29"
   published: "2018-10-16"
   partOf:
     webVolume: 5
@@ -3228,9 +3497,10 @@
     webVolume: 269
     eBook: null
     audioBook: null
-- id: "ch-0270"
+- id: "ch-02700"
   title: "5.30 G"
   url: "https://wanderinginn.com/2018/10/20/5-30-g/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_5.30_G"
   published: "2018-10-20"
   partOf:
     webVolume: 5
@@ -3240,9 +3510,10 @@
     webVolume: 270
     eBook: null
     audioBook: null
-- id: "ch-0271"
+- id: "ch-02710"
   title: "5.31 G"
   url: "https://wanderinginn.com/2018/10/23/5-31-g/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_5.31_G"
   published: "2018-10-23"
   partOf:
     webVolume: 5
@@ -3252,9 +3523,10 @@
     webVolume: 271
     eBook: null
     audioBook: null
-- id: "ch-0272"
+- id: "ch-02720"
   title: "5.32 G"
   url: "https://wanderinginn.com/2018/10/27/5-32-g/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_5.32_G"
   published: "2018-10-27"
   partOf:
     webVolume: 5
@@ -3264,9 +3536,10 @@
     webVolume: 272
     eBook: null
     audioBook: null
-- id: "ch-0273"
+- id: "ch-02730"
   title: "5.33 B"
   url: "https://wanderinginn.com/2018/10/30/5-33-b/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_5.33_B"
   published: "2018-10-30"
   partOf:
     webVolume: 5
@@ -3276,9 +3549,10 @@
     webVolume: 273
     eBook: null
     audioBook: null
-- id: "ch-0274"
+- id: "ch-02740"
   title: "Interlude – Blackmage"
   url: "https://wanderinginn.com/2018/11/01/interlude-blackmage/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_Blackmage"
   published: "2018-11-01"
   partOf:
     webVolume: 5
@@ -3288,9 +3562,10 @@
     webVolume: 274
     eBook: null
     audioBook: null
-- id: "ch-0275"
+- id: "ch-02750"
   title: "5.34"
   url: "https://wanderinginn.com/2018/11/03/5-34/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_5.34"
   published: "2018-11-03"
   partOf:
     webVolume: 5
@@ -3300,9 +3575,10 @@
     webVolume: 275
     eBook: null
     audioBook: null
-- id: "ch-0276"
+- id: "ch-02760"
   title: "5.35 H"
   url: "https://wanderinginn.com/2018/11/06/5-35-h/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_5.35_H"
   published: "2018-11-06"
   partOf:
     webVolume: 5
@@ -3312,9 +3588,10 @@
     webVolume: 276
     eBook: null
     audioBook: null
-- id: "ch-0277"
+- id: "ch-02770"
   title: "5.36"
   url: "https://wanderinginn.com/2018/11/10/5-36/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_5.36"
   published: "2018-11-10"
   partOf:
     webVolume: 5
@@ -3324,9 +3601,10 @@
     webVolume: 277
     eBook: null
     audioBook: null
-- id: "ch-0278"
+- id: "ch-02780"
   title: "5.37 G"
   url: "https://wanderinginn.com/2018/11/13/5-37-g/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_5.37_G"
   published: "2018-11-13"
   partOf:
     webVolume: 5
@@ -3336,9 +3614,10 @@
     webVolume: 278
     eBook: null
     audioBook: null
-- id: "ch-0279"
+- id: "ch-02790"
   title: "5.38"
   url: "https://wanderinginn.com/2018/11/17/5-38/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_5.38"
   published: "2018-11-17"
   partOf:
     webVolume: 5
@@ -3348,9 +3627,10 @@
     webVolume: 279
     eBook: null
     audioBook: null
-- id: "ch-0280"
+- id: "ch-02800"
   title: "5.39"
   url: "https://wanderinginn.com/2018/11/20/5-39//"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_5.39"
   published: "2018-11-20"
   partOf:
     webVolume: 5
@@ -3360,9 +3640,10 @@
     webVolume: 280
     eBook: null
     audioBook: null
-- id: "ch-0281"
+- id: "ch-02810"
   title: "5.40"
   url: "https://wanderinginn.com/2018/11/24/5-40"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_5.40"
   published: "2018-11-24"
   partOf:
     webVolume: 5
@@ -3372,9 +3653,10 @@
     webVolume: 281
     eBook: null
     audioBook: null
-- id: "ch-0282"
+- id: "ch-02820"
   title: "5.41"
   url: "https://wanderinginn.com/2018/11/27/5-41/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_5.41"
   published: "2018-11-27"
   partOf:
     webVolume: 5
@@ -3384,9 +3666,10 @@
     webVolume: 282
     eBook: null
     audioBook: null
-- id: "ch-0283"
+- id: "ch-02830"
   title: "5.42"
   url: "https://wanderinginn.com/2018/12/01/5-42/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_5.42"
   published: "2018-12-01"
   partOf:
     webVolume: 5
@@ -3396,9 +3679,10 @@
     webVolume: 283
     eBook: null
     audioBook: null
-- id: "ch-0284"
+- id: "ch-02840"
   title: "5.43"
   url: "https://wanderinginn.com/2018/12/04/5-43/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_5.43"
   published: "2018-12-04"
   partOf:
     webVolume: 5
@@ -3408,9 +3692,10 @@
     webVolume: 284
     eBook: null
     audioBook: null
-- id: "ch-0285"
+- id: "ch-02850"
   title: "Interlude – Niers"
   url: "https://wanderinginn.com/2018/12/06/interlude-niers/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_Niers"
   published: "2018-12-06"
   partOf:
     webVolume: 5
@@ -3420,9 +3705,10 @@
     webVolume: 285
     eBook: null
     audioBook: null
-- id: "ch-0286"
+- id: "ch-02860"
   title: "5.44"
   url: "https://wanderinginn.com/2018/12/08/5-44/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_5.44"
   published: "2018-12-08"
   partOf:
     webVolume: 5
@@ -3432,9 +3718,10 @@
     webVolume: 286
     eBook: null
     audioBook: null
-- id: "ch-0287"
+- id: "ch-02870"
   title: "5.45"
   url: "https://wanderinginn.com/2018/12/11/5-45/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_5.45"
   published: "2018-12-11"
   partOf:
     webVolume: 5
@@ -3444,9 +3731,10 @@
     webVolume: 287
     eBook: null
     audioBook: null
-- id: "ch-0288"
+- id: "ch-02880"
   title: "5.46"
   url: "https://wanderinginn.com/2018/12/15/5-46/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_5.46"
   published: "2018-12-15"
   partOf:
     webVolume: 5
@@ -3456,9 +3744,10 @@
     webVolume: 288
     eBook: null
     audioBook: null
-- id: "ch-0289"
+- id: "ch-02890"
   title: "5.47 G"
   url: "https://wanderinginn.com/2018/12/18/5-47-g/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_5.47_G"
   published: "2018-12-18"
   partOf:
     webVolume: 5
@@ -3468,9 +3757,10 @@
     webVolume: 289
     eBook: null
     audioBook: null
-- id: "ch-0290"
+- id: "ch-02900"
   title: "5.48 G"
   url: "https://wanderinginn.com/2018/12/22/5-48-g/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_5.48_G"
   published: "2018-12-22"
   partOf:
     webVolume: 5
@@ -3480,9 +3770,10 @@
     webVolume: 290
     eBook: null
     audioBook: null
-- id: "ch-0291"
+- id: "ch-02910"
   title: "5.49"
   url: "https://wanderinginn.com/2018/12/25/5-49/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_5.49"
   published: "2018-12-25"
   partOf:
     webVolume: 5
@@ -3492,9 +3783,10 @@
     webVolume: 291
     eBook: null
     audioBook: null
-- id: "ch-0292"
+- id: "ch-02920"
   title: "5.50 G"
   url: "https://wanderinginn.com/2018/12/29/5-50-g/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_5.50_G"
   published: "2018-12-29"
   partOf:
     webVolume: 5
@@ -3504,9 +3796,10 @@
     webVolume: 292
     eBook: null
     audioBook: null
-- id: "ch-0293"
+- id: "ch-02930"
   title: "Interlude – Bird"
   url: "https://wanderinginn.com/2018/12/30/interlude-bird/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_Bird"
   published: "2018-12-30"
   partOf:
     webVolume: 5
@@ -3516,9 +3809,10 @@
     webVolume: 293
     eBook: null
     audioBook: null
-- id: "ch-0294"
+- id: "ch-02940"
   title: "5.51 G"
   url: "https://wanderinginn.com/2019/01/08/5-51-g/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_5.51_G"
   published: "2019-01-08"
   partOf:
     webVolume: 5
@@ -3528,9 +3822,10 @@
     webVolume: 294
     eBook: null
     audioBook: null
-- id: "ch-0295"
+- id: "ch-02950"
   title: "5.52"
   url: "https://wanderinginn.com/2019/01/12/5-52/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_5.52"
   published: "2019-01-12"
   partOf:
     webVolume: 5
@@ -3540,9 +3835,10 @@
     webVolume: 295
     eBook: null
     audioBook: null
-- id: "ch-0296"
+- id: "ch-02960"
   title: "5.53"
   url: "https://wanderinginn.com/2019/01/15/5-53/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_5.53"
   published: "2019-01-15"
   partOf:
     webVolume: 5
@@ -3552,9 +3848,10 @@
     webVolume: 296
     eBook: null
     audioBook: null
-- id: "ch-0297"
+- id: "ch-02970"
   title: "5.54 (Non-Canon)"
   url: "https://wanderinginn.com/2019/01/19/5-54/"
+  wikiUrl: null
   published: "2019-01-19"
   partOf:
     webVolume: 5
@@ -3564,9 +3861,10 @@
     webVolume: 297
     eBook: null
     audioBook: null
-- id: "ch-0298"
+- id: "ch-02980"
   title: "5.54"
   url: "https://wanderinginn.com/2019/01/22/5-54-2/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_5.54_(Rewrite)"
   published: "2019-01-22"
   partOf:
     webVolume: 5
@@ -3576,9 +3874,10 @@
     webVolume: 298
     eBook: null
     audioBook: null
-- id: "ch-0299"
+- id: "ch-02990"
   title: "Interlude – Krshia"
   url: "https://wanderinginn.com/2019/01/26/interlude-krshia/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_Krshia"
   published: "2019-01-26"
   partOf:
     webVolume: 5
@@ -3588,9 +3887,10 @@
     webVolume: 299
     eBook: null
     audioBook: null
-- id: "ch-0300"
+- id: "ch-03000"
   title: "5.55 G"
   url: "https://wanderinginn.com/2019/01/29/5-55-g/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_5.55_G"
   published: "2019-01-29"
   partOf:
     webVolume: 5
@@ -3600,9 +3900,10 @@
     webVolume: 300
     eBook: null
     audioBook: null
-- id: "ch-0301"
+- id: "ch-03010"
   title: "5.56 G"
   url: "https://wanderinginn.com/2019/02/02/5-56-g/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_5.56_G"
   published: "2019-02-02"
   partOf:
     webVolume: 5
@@ -3612,9 +3913,10 @@
     webVolume: 301
     eBook: null
     audioBook: null
-- id: "ch-0302"
+- id: "ch-03020"
   title: "5.57"
   url: "https://wanderinginn.com/2019/02/05/5-57/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_5.57"
   published: "2019-02-05"
   partOf:
     webVolume: 5
@@ -3624,9 +3926,10 @@
     webVolume: 302
     eBook: null
     audioBook: null
-- id: "ch-0303"
+- id: "ch-03030"
   title: "5.58"
   url: "https://wanderinginn.com/2019/02/09/5-58/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_5.58"
   published: "2019-02-09"
   partOf:
     webVolume: 5
@@ -3636,9 +3939,10 @@
     webVolume: 303
     eBook: null
     audioBook: null
-- id: "ch-0304"
+- id: "ch-03040"
   title: "5.59"
   url: "https://wanderinginn.com/2019/02/12/5-59/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_5.59"
   published: "2019-02-12"
   partOf:
     webVolume: 5
@@ -3648,9 +3952,10 @@
     webVolume: 304
     eBook: null
     audioBook: null
-- id: "ch-0305"
+- id: "ch-03050"
   title: "Interlude – Pebblesnatch and Garry"
   url: "https://wanderinginn.com/2019/02/16/interlude-pebblesnatch-and-garry/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Interlude_-_Pebblesnatch_and_Garry"
   published: "2019-02-16"
   partOf:
     webVolume: 5
@@ -3660,9 +3965,10 @@
     webVolume: 305
     eBook: null
     audioBook: null
-- id: "ch-0306"
+- id: "ch-03060"
   title: "5.60"
   url: "https://wanderinginn.com/2019/02/16/5-60/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_5.60"
   published: "2019-02-16"
   partOf:
     webVolume: 5
@@ -3672,9 +3978,10 @@
     webVolume: 306
     eBook: null
     audioBook: null
-- id: "ch-0307"
+- id: "ch-03070"
   title: "5.61"
   url: "https://wanderinginn.com/2019/02/19/5-61/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_5.61"
   published: "2019-02-19"
   partOf:
     webVolume: 5
@@ -3684,9 +3991,10 @@
     webVolume: 307
     eBook: null
     audioBook: null
-- id: "ch-0308"
+- id: "ch-03080"
   title: "5.62"
   url: "https://wanderinginn.com/2019/02/26/5-62/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_5.62"
   published: "2019-02-26"
   partOf:
     webVolume: 5
@@ -3696,9 +4004,10 @@
     webVolume: 308
     eBook: null
     audioBook: null
-- id: "ch-0309"
+- id: "ch-03090"
   title: "Interlude"
   url: "https://wanderinginn.com/2019/03/02/interlude-5/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Interlude_-_5"
   published: "2019-03-02"
   partOf:
     webVolume: 5
@@ -3708,9 +4017,10 @@
     webVolume: 309
     eBook: null
     audioBook: null
-- id: "ch-0310"
+- id: "ch-03100"
   title: "6.00"
   url: "https://wanderinginn.com/2019/03/19/6-00/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_6.00"
   published: "2019-03-19"
   partOf:
     webVolume: 6
@@ -3720,9 +4030,10 @@
     webVolume: 310
     eBook: null
     audioBook: null
-- id: "ch-0311"
+- id: "ch-03110"
   title: "6.01"
   url: "https://wanderinginn.com/2019/03/23/6-01/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_6.01"
   published: "2019-03-23"
   partOf:
     webVolume: 6
@@ -3732,9 +4043,10 @@
     webVolume: 311
     eBook: null
     audioBook: null
-- id: "ch-0312"
+- id: "ch-03120"
   title: "6.02"
   url: "https://wanderinginn.com/2019/03/26/6-02/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_6.02"
   published: "2019-03-26"
   partOf:
     webVolume: 6
@@ -3744,9 +4056,10 @@
     webVolume: 312
     eBook: null
     audioBook: null
-- id: "ch-0313"
+- id: "ch-03130"
   title: "6.03"
   url: "https://wanderinginn.com/2019/03/30/6-03/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_6.03"
   published: "2019-03-30"
   partOf:
     webVolume: 6
@@ -3756,9 +4069,10 @@
     webVolume: 313
     eBook: null
     audioBook: null
-- id: "ch-0314"
+- id: "ch-03140"
   title: "6.04 D"
   url: "https://wanderinginn.com/2019/04/02/6-04-d/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_6.04_D"
   published: "2019-04-02"
   partOf:
     webVolume: 6
@@ -3768,9 +4082,10 @@
     webVolume: 314
     eBook: null
     audioBook: null
-- id: "ch-0315"
+- id: "ch-03150"
   title: "6.05 D"
   url: "https://wanderinginn.com/2019/04/06/6-05-d/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_6.05_D"
   published: "2019-04-06"
   partOf:
     webVolume: 6
@@ -3780,9 +4095,10 @@
     webVolume: 315
     eBook: null
     audioBook: null
-- id: "ch-0316"
+- id: "ch-03160"
   title: "6.06 D"
   url: "https://wanderinginn.com/2019/04/09/6-06-d/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_6.06_D"
   published: "2019-04-09"
   partOf:
     webVolume: 6
@@ -3792,9 +4108,10 @@
     webVolume: 316
     eBook: null
     audioBook: null
-- id: "ch-0317"
+- id: "ch-03170"
   title: "6.07 D"
   url: "https://wanderinginn.com/2019/04/13/6-07-d/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_6.07_D"
   published: "2019-04-13"
   partOf:
     webVolume: 6
@@ -3804,9 +4121,10 @@
     webVolume: 317
     eBook: null
     audioBook: null
-- id: "ch-0318"
+- id: "ch-03180"
   title: "6.08"
   url: "https://wanderinginn.com/2019/04/16/6-08/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_6.08"
   published: "2019-04-16"
   partOf:
     webVolume: 6
@@ -3816,9 +4134,10 @@
     webVolume: 318
     eBook: null
     audioBook: null
-- id: "ch-0319"
+- id: "ch-03190"
   title: "6.09"
   url: "https://wanderinginn.com/2019/04/20/6-09/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_6.09"
   published: "2019-04-20"
   partOf:
     webVolume: 6
@@ -3828,9 +4147,10 @@
     webVolume: 319
     eBook: null
     audioBook: null
-- id: "ch-0320"
+- id: "ch-03200"
   title: "6.10"
   url: "https://wanderinginn.com/2019/04/23/6-10/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_6.10"
   published: "2019-04-23"
   partOf:
     webVolume: 6
@@ -3840,9 +4160,10 @@
     webVolume: 320
     eBook: null
     audioBook: null
-- id: "ch-0321"
+- id: "ch-03210"
   title: "6.11"
   url: "https://wanderinginn.com/2019/04/27/6-11/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_6.11"
   published: "2019-04-27"
   partOf:
     webVolume: 6
@@ -3852,9 +4173,10 @@
     webVolume: 321
     eBook: null
     audioBook: null
-- id: "ch-0322"
+- id: "ch-03220"
   title: "6.12 K"
   url: "https://wanderinginn.com/2019/04/30/6-12-k/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_6.12_K"
   published: "2019-04-30"
   partOf:
     webVolume: 6
@@ -3864,9 +4186,10 @@
     webVolume: 322
     eBook: null
     audioBook: null
-- id: "ch-0323"
+- id: "ch-03230"
   title: "6.13 K"
   url: "https://wanderinginn.com/2019/05/04/6-13-k/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_6.13_K"
   published: "2019-05-04"
   partOf:
     webVolume: 6
@@ -3876,9 +4199,10 @@
     webVolume: 323
     eBook: null
     audioBook: null
-- id: "ch-0324"
+- id: "ch-03240"
   title: "6.14 K"
   url: "https://wanderinginn.com/2019/05/07/6-14-k/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_6.14_K"
   published: "2019-05-07"
   partOf:
     webVolume: 6
@@ -3888,9 +4212,10 @@
     webVolume: 324
     eBook: null
     audioBook: null
-- id: "ch-0325"
+- id: "ch-03250"
   title: "6.15 K"
   url: "https://wanderinginn.com/2019/05/11/6-15-k/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_6.15_K"
   published: "2019-05-11"
   partOf:
     webVolume: 6
@@ -3900,9 +4225,10 @@
     webVolume: 325
     eBook: null
     audioBook: null
-- id: "ch-0326"
+- id: "ch-03260"
   title: "6.16"
   url: "https://wanderinginn.com/2019/05/14/6-16/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_6.16"
   published: "2019-05-14"
   partOf:
     webVolume: 6
@@ -3912,9 +4238,10 @@
     webVolume: 326
     eBook: null
     audioBook: null
-- id: "ch-0327"
+- id: "ch-03270"
   title: "6.17 S"
   url: "https://wanderinginn.com/2019/05/18/6-17-s/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_6.17_S"
   published: "2019-05-18"
   partOf:
     webVolume: 6
@@ -3924,9 +4251,10 @@
     webVolume: 327
     eBook: null
     audioBook: null
-- id: "ch-0328"
+- id: "ch-03280"
   title: "6.18 H"
   url: "https://wanderinginn.com/2019/05/21/6-18-h/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_6.18_H"
   published: "2019-05-21"
   partOf:
     webVolume: 6
@@ -3936,9 +4264,10 @@
     webVolume: 328
     eBook: null
     audioBook: null
-- id: "ch-0329"
+- id: "ch-03290"
   title: "6.19 H"
   url: "https://wanderinginn.com/2019/05/25/6-19-h/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_6.19_H"
   published: "2019-05-25"
   partOf:
     webVolume: 6
@@ -3948,9 +4277,10 @@
     webVolume: 329
     eBook: null
     audioBook: null
-- id: "ch-0330"
+- id: "ch-03300"
   title: "6.20 D"
   url: "https://wanderinginn.com/2019/05/28/6-20-d/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_6.20_D"
   published: "2019-05-28"
   partOf:
     webVolume: 6
@@ -3960,9 +4290,10 @@
     webVolume: 330
     eBook: null
     audioBook: null
-- id: "ch-0331"
+- id: "ch-03310"
   title: "6.21 D"
   url: "https://wanderinginn.com/2019/06/01/5-21-d/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_6.21_D"
   published: "2019-06-01"
   partOf:
     webVolume: 6
@@ -3972,9 +4303,10 @@
     webVolume: 331
     eBook: null
     audioBook: null
-- id: "ch-0332"
+- id: "ch-03320"
   title: "6.22 D"
   url: "https://wanderinginn.com/2019/06/04/6-22-d/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_6.22_D"
   published: "2019-06-04"
   partOf:
     webVolume: 6
@@ -3984,9 +4316,10 @@
     webVolume: 332
     eBook: null
     audioBook: null
-- id: "ch-0333"
+- id: "ch-03330"
   title: "6.23 D"
   url: "https://wanderinginn.com/2019/06/08/6-23-d/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_6.23_D"
   published: "2019-06-08"
   partOf:
     webVolume: 6
@@ -3996,9 +4329,10 @@
     webVolume: 333
     eBook: null
     audioBook: null
-- id: "ch-0334"
+- id: "ch-03340"
   title: "6.24 D"
   url: "https://wanderinginn.com/2019/06/11/6-24-d/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_6.24_D"
   published: "2019-06-11"
   partOf:
     webVolume: 6
@@ -4008,9 +4342,10 @@
     webVolume: 334
     eBook: null
     audioBook: null
-- id: "ch-0335"
+- id: "ch-03350"
   title: "6.25"
   url: "https://wanderinginn.com/2019/06/15/6-25/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_6.25"
   published: "2019-06-15"
   partOf:
     webVolume: 6
@@ -4020,9 +4355,10 @@
     webVolume: 335
     eBook: null
     audioBook: null
-- id: "ch-0336"
+- id: "ch-03360"
   title: "6.26"
   url: "https://wanderinginn.com/2019/06/18/6-26/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_6.26"
   published: "2019-06-18"
   partOf:
     webVolume: 6
@@ -4032,9 +4368,10 @@
     webVolume: 336
     eBook: null
     audioBook: null
-- id: "ch-0337"
+- id: "ch-03370"
   title: "6.27 M"
   url: "https://wanderinginn.com/2019/06/22/6-27-m/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_6.27_M"
   published: "2019-06-22"
   partOf:
     webVolume: 6
@@ -4044,9 +4381,10 @@
     webVolume: 337
     eBook: null
     audioBook: null
-- id: "ch-0338"
+- id: "ch-03380"
   title: "6.28"
   url: "https://wanderinginn.com/2019/06/25/6-28/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_6.28"
   published: "2019-06-25"
   partOf:
     webVolume: 6
@@ -4056,9 +4394,10 @@
     webVolume: 338
     eBook: null
     audioBook: null
-- id: "ch-0339"
+- id: "ch-03390"
   title: "6.29"
   url: "https://wanderinginn.com/2019/06/29/6-29/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_6.29"
   published: "2019-06-29"
   partOf:
     webVolume: 6
@@ -4068,9 +4407,10 @@
     webVolume: 339
     eBook: null
     audioBook: null
-- id: "ch-0340"
+- id: "ch-03400"
   title: "Interlude – Embria"
   url: "https://wanderinginn.com/2019/07/02/interlude-embria/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Interlude_-_Embria"
   published: "2019-07-02"
   partOf:
     webVolume: 6
@@ -4080,9 +4420,10 @@
     webVolume: 340
     eBook: null
     audioBook: null
-- id: "ch-0341"
+- id: "ch-03410"
   title: "6.30"
   url: "https://wanderinginn.com/2019/07/13/6-30/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_6.30"
   published: "2019-07-13"
   partOf:
     webVolume: 6
@@ -4092,9 +4433,10 @@
     webVolume: 341
     eBook: null
     audioBook: null
-- id: "ch-0342"
+- id: "ch-03420"
   title: "6.31"
   url: "https://wanderinginn.com/2019/07/16/6-31/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_6.31"
   published: "2019-07-16"
   partOf:
     webVolume: 6
@@ -4104,9 +4446,10 @@
     webVolume: 342
     eBook: null
     audioBook: null
-- id: "ch-0343"
+- id: "ch-03430"
   title: "6.32"
   url: "https://wanderinginn.com/2019/07/20/6-32/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_6.32"
   published: "2019-07-20"
   partOf:
     webVolume: 6
@@ -4116,9 +4459,10 @@
     webVolume: 343
     eBook: null
     audioBook: null
-- id: "ch-0344"
+- id: "ch-03440"
   title: "6.33 E"
   url: "https://wanderinginn.com/2019/07/23/6-33-e/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_6.33_E"
   published: "2019-07-23"
   partOf:
     webVolume: 6
@@ -4128,9 +4472,10 @@
     webVolume: 344
     eBook: null
     audioBook: null
-- id: "ch-0345"
+- id: "ch-03450"
   title: "6.34 E"
   url: "https://wanderinginn.com/2019/07/27/6-34-e/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_6.34_E"
   published: "2019-07-27"
   partOf:
     webVolume: 6
@@ -4140,9 +4485,10 @@
     webVolume: 345
     eBook: null
     audioBook: null
-- id: "ch-0346"
+- id: "ch-03460"
   title: "Interlude – Numbtongue (Pt.1)"
   url: "https://wanderinginn.com/2019/07/30/interlude-numbtongue-pt-1/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_Numbtongue_(Pt.1)"
   published: "2019-07-30"
   partOf:
     webVolume: 6
@@ -4152,9 +4498,10 @@
     webVolume: 346
     eBook: null
     audioBook: null
-- id: "ch-0347"
+- id: "ch-03470"
   title: "Interlude – Numbtongue (Pt.2)"
   url: "https://wanderinginn.com/2019/08/03/interlude-numbtongue-pt-2/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_Numbtongue_(Pt.2)"
   published: "2019-08-03"
   partOf:
     webVolume: 6
@@ -4164,9 +4511,10 @@
     webVolume: 347
     eBook: null
     audioBook: null
-- id: "ch-0348"
+- id: "ch-03480"
   title: "6.35"
   url: "https://wanderinginn.com/2019/08/06/6-35/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_6.35"
   published: "2019-08-06"
   partOf:
     webVolume: 6
@@ -4176,9 +4524,10 @@
     webVolume: 348
     eBook: null
     audioBook: null
-- id: "ch-0349"
+- id: "ch-03490"
   title: "6.36 E"
   url: "https://wanderinginn.com/2019/08/10/6-36-e/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_6.36_E"
   published: "2019-08-10"
   partOf:
     webVolume: 6
@@ -4188,9 +4537,10 @@
     webVolume: 349
     eBook: null
     audioBook: null
-- id: "ch-0350"
+- id: "ch-03500"
   title: "6.37 E"
   url: "https://wanderinginn.com/2019/08/13/6-37-e/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_6.37_E"
   published: "2019-08-13"
   partOf:
     webVolume: 6
@@ -4200,9 +4550,10 @@
     webVolume: 350
     eBook: null
     audioBook: null
-- id: "ch-0351"
+- id: "ch-03510"
   title: "6.38"
   url: "https://wanderinginn.com/2019/08/17/6-38/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_6.38"
   published: "2019-08-17"
   partOf:
     webVolume: 6
@@ -4212,9 +4563,10 @@
     webVolume: 351
     eBook: null
     audioBook: null
-- id: "ch-0352"
+- id: "ch-03520"
   title: "6.39"
   url: "https://wanderinginn.com/2019/08/20/6-39/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_6.39"
   published: "2019-08-20"
   partOf:
     webVolume: 6
@@ -4224,9 +4576,10 @@
     webVolume: 352
     eBook: null
     audioBook: null
-- id: "ch-0353"
+- id: "ch-03530"
   title: "6.40 E"
   url: "https://wanderinginn.com/2019/08/24/6-40-e/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_6.40_E"
   published: "2019-08-24"
   partOf:
     webVolume: 6
@@ -4236,9 +4589,10 @@
     webVolume: 353
     eBook: null
     audioBook: null
-- id: "ch-0354"
+- id: "ch-03540"
   title: "6.41 E"
   url: "https://wanderinginn.com/2019/08/27/6-41-e/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_6.41_E"
   published: "2019-08-27"
   partOf:
     webVolume: 6
@@ -4248,9 +4602,10 @@
     webVolume: 354
     eBook: null
     audioBook: null
-- id: "ch-0355"
+- id: "ch-03550"
   title: "Interlude – Two Rats"
   url: "https://wanderinginn.com/2019/08/31/interlude-two-rats/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_Two_Rats"
   published: "2019-08-31"
   partOf:
     webVolume: 6
@@ -4260,9 +4615,10 @@
     webVolume: 355
     eBook: null
     audioBook: null
-- id: "ch-0356"
+- id: "ch-03560"
   title: "Interlude – Rufelt"
   url: "https://wanderinginn.com/2019/09/03/interlude-rufelt/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_Rufelt"
   published: "2019-09-03"
   partOf:
     webVolume: 6
@@ -4272,9 +4628,10 @@
     webVolume: 356
     eBook: null
     audioBook: null
-- id: "ch-0357"
+- id: "ch-03570"
   title: "6.42 E"
   url: "https://wanderinginn.com/2019/09/07/6-42-e/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_6.42_E"
   published: "2019-09-07"
   partOf:
     webVolume: 6
@@ -4284,9 +4641,10 @@
     webVolume: 357
     eBook: null
     audioBook: null
-- id: "ch-0358"
+- id: "ch-03580"
   title: "6.43 E"
   url: "https://wanderinginn.com/2019/09/10/6-43-e/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_6.43_E"
   published: "2019-09-10"
   partOf:
     webVolume: 6
@@ -4296,9 +4654,10 @@
     webVolume: 358
     eBook: null
     audioBook: null
-- id: "ch-0359"
+- id: "ch-03590"
   title: "6.44 E"
   url: "https://wanderinginn.com/2019/09/14/6-44-e/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_6.44_E"
   published: "2019-09-14"
   partOf:
     webVolume: 6
@@ -4308,9 +4667,10 @@
     webVolume: 359
     eBook: null
     audioBook: null
-- id: "ch-0360"
+- id: "ch-03600"
   title: "6.45 E"
   url: "https://wanderinginn.com/2019/09/17/6-45-e/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_6.45_E"
   published: "2019-09-17"
   partOf:
     webVolume: 6
@@ -4320,9 +4680,10 @@
     webVolume: 360
     eBook: null
     audioBook: null
-- id: "ch-0361"
+- id: "ch-03610"
   title: "6.46 E"
   url: "https://wanderinginn.com/2019/09/21/6-46-e/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_6.46_E"
   published: "2019-09-21"
   partOf:
     webVolume: 6
@@ -4332,9 +4693,10 @@
     webVolume: 361
     eBook: null
     audioBook: null
-- id: "ch-0362"
+- id: "ch-03620"
   title: "6.47 E"
   url: "https://wanderinginn.com/2019/09/24/6-47-e/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_6.47_E"
   published: "2019-09-24"
   partOf:
     webVolume: 6
@@ -4344,9 +4706,10 @@
     webVolume: 362
     eBook: null
     audioBook: null
-- id: "ch-0363"
+- id: "ch-03630"
   title: "6.48 T"
   url: "https://wanderinginn.com/2019/10/12/6-48-t/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_6.48_T"
   published: "2019-10-12"
   partOf:
     webVolume: 6
@@ -4356,9 +4719,10 @@
     webVolume: 363
     eBook: null
     audioBook: null
-- id: "ch-0364"
+- id: "ch-03640"
   title: "6.49"
   url: "https://wanderinginn.com/2019/10/15/6-49/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_6.49"
   published: "2019-10-15"
   partOf:
     webVolume: 6
@@ -4368,9 +4732,10 @@
     webVolume: 364
     eBook: null
     audioBook: null
-- id: "ch-0365"
+- id: "ch-03650"
   title: "6.50 I"
   url: "https://wanderinginn.com/2019/10/19/6-50-i/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_6.50_I"
   published: "2019-10-19"
   partOf:
     webVolume: 6
@@ -4380,9 +4745,10 @@
     webVolume: 365
     eBook: null
     audioBook: null
-- id: "ch-0366"
+- id: "ch-03660"
   title: "6.51 A"
   url: "https://wanderinginn.com/2019/10/22/6-51-a/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_6.51_A"
   published: "2019-10-22"
   partOf:
     webVolume: 6
@@ -4392,9 +4758,10 @@
     webVolume: 366
     eBook: null
     audioBook: null
-- id: "ch-0367"
+- id: "ch-03670"
   title: "6.52 K"
   url: "https://wanderinginn.com/2019/10/26/6-52-k/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_6.52_K"
   published: "2019-10-26"
   partOf:
     webVolume: 6
@@ -4404,9 +4771,10 @@
     webVolume: 367
     eBook: null
     audioBook: null
-- id: "ch-0368"
+- id: "ch-03680"
   title: "6.53 K"
   url: "https://wanderinginn.com/2019/10/29/6-53-k/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_6.53_K"
   published: "2019-10-29"
   partOf:
     webVolume: 6
@@ -4416,9 +4784,10 @@
     webVolume: 368
     eBook: null
     audioBook: null
-- id: "ch-0369"
+- id: "ch-03690"
   title: "6.54 K"
   url: "https://wanderinginn.com/2019/11/02/6-54-k/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_6.54_K"
   published: "2019-11-02"
   partOf:
     webVolume: 6
@@ -4428,9 +4797,10 @@
     webVolume: 369
     eBook: null
     audioBook: null
-- id: "ch-0370"
+- id: "ch-03700"
   title: "6.55 K"
   url: "https://wanderinginn.com/2019/11/05/6-55-k/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_6.55_K"
   published: "2019-11-05"
   partOf:
     webVolume: 6
@@ -4440,9 +4810,10 @@
     webVolume: 370
     eBook: null
     audioBook: null
-- id: "ch-0371"
+- id: "ch-03710"
   title: "Interlude – The Titan’s Question"
   url: "https://wanderinginn.com/2019/11/09/interlude-the-titans-question/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_The_Titan%E2%80%99s_Question"
   published: "2019-11-09"
   partOf:
     webVolume: 6
@@ -4452,9 +4823,10 @@
     webVolume: 371
     eBook: null
     audioBook: null
-- id: "ch-0372"
+- id: "ch-03720"
   title: "6.56"
   url: "https://wanderinginn.com/2019/11/12/6-56/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_6.56"
   published: "2019-11-12"
   partOf:
     webVolume: 6
@@ -4464,9 +4836,10 @@
     webVolume: 372
     eBook: null
     audioBook: null
-- id: "ch-0373"
+- id: "ch-03730"
   title: "6.57"
   url: "https://wanderinginn.com/2019/11/16/6-57/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_6.57"
   published: "2019-11-16"
   partOf:
     webVolume: 6
@@ -4476,9 +4849,10 @@
     webVolume: 373
     eBook: null
     audioBook: null
-- id: "ch-0374"
+- id: "ch-03740"
   title: "6.58"
   url: "https://wanderinginn.com/2019/11/19/6-58/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_6.58"
   published: "2019-11-19"
   partOf:
     webVolume: 6
@@ -4488,9 +4862,10 @@
     webVolume: 374
     eBook: null
     audioBook: null
-- id: "ch-0375"
+- id: "ch-03750"
   title: "6.59"
   url: "https://wanderinginn.com/2019/11/23/6-59/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_6.59"
   published: "2019-11-23"
   partOf:
     webVolume: 6
@@ -4500,9 +4875,10 @@
     webVolume: 375
     eBook: null
     audioBook: null
-- id: "ch-0376"
+- id: "ch-03760"
   title: "6.60"
   url: "https://wanderinginn.com/2019/11/26/6-60/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_6.60"
   published: "2019-11-26"
   partOf:
     webVolume: 6
@@ -4512,9 +4888,10 @@
     webVolume: 376
     eBook: null
     audioBook: null
-- id: "ch-0377"
+- id: "ch-03770"
   title: "Interlude – Talia"
   url: "https://wanderinginn.com/2019/11/30/interlude-talia/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_Talia"
   published: "2019-11-30"
   partOf:
     webVolume: 6
@@ -4524,9 +4901,10 @@
     webVolume: 377
     eBook: null
     audioBook: null
-- id: "ch-0378"
+- id: "ch-03780"
   title: "6.61 L"
   url: "https://wanderinginn.com/2019/12/03/6-61-l/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_6.61_L"
   published: "2019-12-03"
   partOf:
     webVolume: 6
@@ -4536,9 +4914,10 @@
     webVolume: 378
     eBook: null
     audioBook: null
-- id: "ch-0379"
+- id: "ch-03790"
   title: "6.62 L"
   url: "https://wanderinginn.com/2019/12/07/6-62-l/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_6.62_L"
   published: "2019-12-07"
   partOf:
     webVolume: 6
@@ -4548,9 +4927,10 @@
     webVolume: 379
     eBook: null
     audioBook: null
-- id: "ch-0380"
+- id: "ch-03800"
   title: "Interlude – Foliana"
   url: "https://wanderinginn.com/2019/12/11/interlude-foliana/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_Foliana"
   published: "2019-12-11"
   partOf:
     webVolume: 6
@@ -4560,9 +4940,10 @@
     webVolume: 380
     eBook: null
     audioBook: null
-- id: "ch-0381"
+- id: "ch-03810"
   title: "6.63 P"
   url: "https://wanderinginn.com/2019/12/14/6-63-p/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_6.63_P"
   published: "2019-12-14"
   partOf:
     webVolume: 6
@@ -4572,9 +4953,10 @@
     webVolume: 381
     eBook: null
     audioBook: null
-- id: "ch-0382"
+- id: "ch-03820"
   title: "6.64"
   url: "https://wanderinginn.com/2019/12/18/6-64/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_6.64"
   published: "2019-12-18"
   partOf:
     webVolume: 6
@@ -4584,9 +4966,10 @@
     webVolume: 382
     eBook: null
     audioBook: null
-- id: "ch-0383"
+- id: "ch-03830"
   title: "6.65"
   url: "https://wanderinginn.com/2019/12/22/6-65/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_6.65"
   published: "2019-12-22"
   partOf:
     webVolume: 6
@@ -4596,9 +4979,10 @@
     webVolume: 383
     eBook: null
     audioBook: null
-- id: "ch-0384"
+- id: "ch-03840"
   title: "6.66 H"
   url: "https://wanderinginn.com/2019/12/25/6-66-h/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_6.66_H"
   published: "2019-12-25"
   partOf:
     webVolume: 6
@@ -4608,9 +4992,10 @@
     webVolume: 384
     eBook: null
     audioBook: null
-- id: "ch-0385"
+- id: "ch-03850"
   title: "6.67"
   url: "https://wanderinginn.com/2019/12/29/6-67/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_6.67"
   published: "2019-12-29"
   partOf:
     webVolume: 6
@@ -4620,9 +5005,10 @@
     webVolume: 385
     eBook: null
     audioBook: null
-- id: "ch-0386"
+- id: "ch-03860"
   title: "6.68"
   url: "https://wanderinginn.com/2020/01/01/6-68/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_6.68"
   published: "2020-01-01"
   partOf:
     webVolume: 6
@@ -4632,9 +5018,10 @@
     webVolume: 386
     eBook: null
     audioBook: null
-- id: "ch-0387"
+- id: "ch-03870"
   title: "7.00"
   url: "https://wanderinginn.com/2020/01/19/7-00/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_7.00"
   published: "2020-01-19"
   partOf:
     webVolume: 7
@@ -4644,9 +5031,10 @@
     webVolume: 387
     eBook: null
     audioBook: null
-- id: "ch-0388"
+- id: "ch-03880"
   title: "7.01"
   url: "https://wanderinginn.com/2020/01/22/7-01/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_7.01"
   published: "2020-01-22"
   partOf:
     webVolume: 7
@@ -4656,9 +5044,10 @@
     webVolume: 388
     eBook: null
     audioBook: null
-- id: "ch-0389"
+- id: "ch-03890"
   title: "7.02"
   url: "https://wanderinginn.com/2020/01/26/7-02/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_7.02"
   published: "2020-01-26"
   partOf:
     webVolume: 7
@@ -4668,9 +5057,10 @@
     webVolume: 389
     eBook: null
     audioBook: null
-- id: "ch-0390"
+- id: "ch-03900"
   title: "7.03"
   url: "https://wanderinginn.com/2020/01/29/7-03/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_7.03"
   published: "2020-01-29"
   partOf:
     webVolume: 7
@@ -4680,9 +5070,10 @@
     webVolume: 390
     eBook: null
     audioBook: null
-- id: "ch-0391"
+- id: "ch-03910"
   title: "Mini Chapter #1"
   url: "https://wanderinginn.com/2020/01/30/mini-stories-crabs-and-drinks/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Mini_Stories_%E2%80%93_Crabs_and_Drinks"
   published: "2020-01-30"
   partOf:
     webVolume: 7
@@ -4692,9 +5083,10 @@
     webVolume: 391
     eBook: null
     audioBook: null
-- id: "ch-0392"
+- id: "ch-03920"
   title: "7.04"
   url: "https://wanderinginn.com/2020/02/01/7-04/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_7.04"
   published: "2020-02-01"
   partOf:
     webVolume: 7
@@ -4704,9 +5096,10 @@
     webVolume: 392
     eBook: null
     audioBook: null
-- id: "ch-0393"
+- id: "ch-03930"
   title: "Interlude – Queens and Dragons"
   url: "https://wanderinginn.com/2020/02/04/interlude-queens-and-dragons/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_Queens_and_Dragons"
   published: "2020-02-04"
   partOf:
     webVolume: 7
@@ -4716,9 +5109,10 @@
     webVolume: 393
     eBook: null
     audioBook: null
-- id: "ch-0394"
+- id: "ch-03940"
   title: "7.05 P"
   url: "https://wanderinginn.com/2020/02/09/7-05-p/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_7.05_P"
   published: "2020-02-09"
   partOf:
     webVolume: 7
@@ -4728,9 +5122,10 @@
     webVolume: 394
     eBook: null
     audioBook: null
-- id: "ch-0395"
+- id: "ch-03950"
   title: "7.06"
   url: "https://wanderinginn.com/2020/02/12/7-06/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_7.06"
   published: "2020-02-12"
   partOf:
     webVolume: 7
@@ -4740,9 +5135,10 @@
     webVolume: 395
     eBook: null
     audioBook: null
-- id: "ch-0396"
+- id: "ch-03960"
   title: "7.07"
   url: "https://wanderinginn.com/2020/02/16/7-07"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_7.07"
   published: "2020-02-16"
   partOf:
     webVolume: 7
@@ -4752,9 +5148,10 @@
     webVolume: 396
     eBook: null
     audioBook: null
-- id: "ch-0397"
+- id: "ch-03970"
   title: "7.08 K"
   url: "https://wanderinginn.com/2020/02/19/7-08-k/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_7.08_K"
   published: "2020-02-19"
   partOf:
     webVolume: 7
@@ -4764,9 +5161,10 @@
     webVolume: 397
     eBook: null
     audioBook: null
-- id: "ch-0398"
+- id: "ch-03980"
   title: "7.09 K"
   url: "https://wanderinginn.com/2020/02/23/7-09-k/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_7.09_K"
   published: "2020-02-23"
   partOf:
     webVolume: 7
@@ -4776,9 +5174,10 @@
     webVolume: 398
     eBook: null
     audioBook: null
-- id: "ch-0399"
+- id: "ch-03990"
   title: "7.10 K"
   url: "https://wanderinginn.com/2020/02/26/7-10-k/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_7.10_K"
   published: "2020-02-26"
   partOf:
     webVolume: 7
@@ -4788,9 +5187,10 @@
     webVolume: 399
     eBook: null
     audioBook: null
-- id: "ch-0400"
+- id: "ch-04000"
   title: "7.11"
   url: "https://wanderinginn.com/2020/03/01/7-11/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_7.11"
   published: "2020-03-01"
   partOf:
     webVolume: 7
@@ -4800,9 +5200,10 @@
     webVolume: 400
     eBook: null
     audioBook: null
-- id: "ch-0401"
+- id: "ch-04010"
   title: "Interlude – Dancing and Brawling"
   url: "https://wanderinginn.com/2020/03/03/interlude-dancing-and-brawling/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_Dancing_and_Brawling"
   published: "2020-03-03"
   partOf:
     webVolume: 7
@@ -4812,9 +5213,10 @@
     webVolume: 401
     eBook: null
     audioBook: null
-- id: "ch-0402"
+- id: "ch-04020"
   title: "Interlude – Chocolate Gold"
   url: "https://wanderinginn.com/2020/03/04/interlude-chocolate-gold/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_Chocolate_Gold"
   published: "2020-03-04"
   partOf:
     webVolume: 7
@@ -4824,9 +5226,10 @@
     webVolume: 402
     eBook: null
     audioBook: null
-- id: "ch-0403"
+- id: "ch-04030"
   title: "Interlude – Chess and Ships"
   url: "https://wanderinginn.com/2020/03/05/interlude-chess-and-ships/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_Chess_and_Ships"
   published: "2020-03-05"
   partOf:
     webVolume: 7
@@ -4836,9 +5239,10 @@
     webVolume: 403
     eBook: null
     audioBook: null
-- id: "ch-0404"
+- id: "ch-04040"
   title: "Interlude – Chocolate Alchemy"
   url: "https://wanderinginn.com/2020/03/06/interlude-chocolate-alchemy"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_Chocolate_Alchemy"
   published: "2020-03-06"
   partOf:
     webVolume: 7
@@ -4848,9 +5252,10 @@
     webVolume: 404
     eBook: null
     audioBook: null
-- id: "ch-0405"
+- id: "ch-04050"
   title: "Interlude – Lifting Ants"
   url: "https://wanderinginn.com/2020/03/07/interlude-lifting-ants"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_Lifting_Ants"
   published: "2020-03-07"
   partOf:
     webVolume: 7
@@ -4860,9 +5265,10 @@
     webVolume: 405
     eBook: null
     audioBook: null
-- id: "ch-0406"
+- id: "ch-04060"
   title: "Interlude – Burning Alcohol"
   url: "https://wanderinginn.com/2020/03/08/interlude-burning-alcohol/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_Burning_Alcohol"
   published: "2020-03-08"
   partOf:
     webVolume: 7
@@ -4872,9 +5278,10 @@
     webVolume: 406
     eBook: null
     audioBook: null
-- id: "ch-0407"
+- id: "ch-04070"
   title: "Interlude – The Hangover After"
   url: "https://wanderinginn.com/2020/03/09/interlude-the-hangover-after"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_The_Hangover_After"
   published: "2020-03-09"
   partOf:
     webVolume: 7
@@ -4884,9 +5291,10 @@
     webVolume: 407
     eBook: null
     audioBook: null
-- id: "ch-0408"
+- id: "ch-04080"
   title: "7.12 G"
   url: "https://wanderinginn.com/2020/03/15/7-12-g/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_7.12_G"
   published: "2020-03-15"
   partOf:
     webVolume: 7
@@ -4896,9 +5304,10 @@
     webVolume: 408
     eBook: null
     audioBook: null
-- id: "ch-0409"
+- id: "ch-04090"
   title: "7.13 K"
   url: "https://wanderinginn.com/2020/03/18/7-13-k/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_7.13_K"
   published: "2020-03-18"
   partOf:
     webVolume: 7
@@ -4908,9 +5317,10 @@
     webVolume: 409
     eBook: null
     audioBook: null
-- id: "ch-0410"
+- id: "ch-04100"
   title: "Mating Rituals Pt.2"
   url: "https://wanderinginn.com/2020/03/21/mating-rituals-pt-2"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Mating_Rituals_Pt.2"
   published: "2020-03-21"
   partOf:
     webVolume: 7
@@ -4920,9 +5330,10 @@
     webVolume: 410
     eBook: null
     audioBook: null
-- id: "ch-0411"
+- id: "ch-04110"
   title: "7.14 T"
   url: "https://wanderinginn.com/2020/03/24/7-14-t/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_7.14_T"
   published: "2020-03-24"
   partOf:
     webVolume: 7
@@ -4932,9 +5343,10 @@
     webVolume: 411
     eBook: null
     audioBook: null
-- id: "ch-0412"
+- id: "ch-04120"
   title: "7.15 R"
   url: "https://wanderinginn.com/2020/03/29/7-15-r/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_7.15_R"
   published: "2020-03-29"
   partOf:
     webVolume: 7
@@ -4944,9 +5356,10 @@
     webVolume: 412
     eBook: null
     audioBook: null
-- id: "ch-0413"
+- id: "ch-04130"
   title: "7.16 L"
   url: "https://wanderinginn.com/2020/03/31/7-16-l"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_7.16_L"
   published: "2020-03-31"
   partOf:
     webVolume: 7
@@ -4956,9 +5369,10 @@
     webVolume: 413
     eBook: null
     audioBook: null
-- id: "ch-0414"
+- id: "ch-04140"
   title: "7.17 S"
   url: "https://wanderinginn.com/2020/04/12/7-17-s/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_7.17_S"
   published: "2020-04-12"
   partOf:
     webVolume: 7
@@ -4968,9 +5382,10 @@
     webVolume: 414
     eBook: null
     audioBook: null
-- id: "ch-0415"
+- id: "ch-04150"
   title: "7.18 M"
   url: "https://wanderinginn.com/2020/04/15/7-18-m/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_7.18_M"
   published: "2020-04-15"
   partOf:
     webVolume: 7
@@ -4980,9 +5395,10 @@
     webVolume: 415
     eBook: null
     audioBook: null
-- id: "ch-0416"
+- id: "ch-04160"
   title: "Interlude – Strategists at Sea (Pt. 1)"
   url: "https://wanderinginn.com/2020/04/19/interlude-strategists-at-sea-pt-1/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_Strategists_at_Sea_(Pt._1)"
   published: "2020-04-19"
   partOf:
     webVolume: 7
@@ -4992,9 +5408,10 @@
     webVolume: 416
     eBook: null
     audioBook: null
-- id: "ch-0417"
+- id: "ch-04170"
   title: "Interlude – Strategists at Sea (Pt. 2)"
   url: "https://wanderinginn.com/2020/04/22/interlude-strategists-at-sea-pt-2/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_Strategists_at_Sea_(Pt._2)"
   published: "2020-04-22"
   partOf:
     webVolume: 7
@@ -5004,9 +5421,10 @@
     webVolume: 417
     eBook: null
     audioBook: null
-- id: "ch-0418"
+- id: "ch-04180"
   title: "7.19"
   url: "https://wanderinginn.com/2020/04/26/7-19/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_7.19"
   published: "2020-04-26"
   partOf:
     webVolume: 7
@@ -5016,9 +5434,10 @@
     webVolume: 418
     eBook: null
     audioBook: null
-- id: "ch-0419"
+- id: "ch-04190"
   title: "7.20"
   url: "https://wanderinginn.com/2020/04/29/7-20/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_7.20"
   published: "2020-04-29"
   partOf:
     webVolume: 7
@@ -5028,9 +5447,10 @@
     webVolume: 419
     eBook: null
     audioBook: null
-- id: "ch-0420"
+- id: "ch-04200"
   title: "Interlude – A Night in the Inn"
   url: "https://wanderinginn.com/2020/05/03/interlude-a-night-in-the-inn/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_A_Night_in_the_Inn"
   published: "2020-05-03"
   partOf:
     webVolume: 7
@@ -5040,9 +5460,10 @@
     webVolume: 420
     eBook: null
     audioBook: null
-- id: "ch-0421"
+- id: "ch-04210"
   title: "7.21 KQ"
   url: "https://wanderinginn.com/2020/05/06/7-21-kq/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_7.21_KQ"
   published: "2020-05-06"
   partOf:
     webVolume: 7
@@ -5052,9 +5473,10 @@
     webVolume: 421
     eBook: null
     audioBook: null
-- id: "ch-0422"
+- id: "ch-04220"
   title: "7.22 D"
   url: "https://wanderinginn.com/2020/05/10/7-22-d"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_7.22_D"
   published: "2020-05-10"
   partOf:
     webVolume: 7
@@ -5064,9 +5486,10 @@
     webVolume: 422
     eBook: null
     audioBook: null
-- id: "ch-0423"
+- id: "ch-04230"
   title: "7.23 LM"
   url: "https://wanderinginn.com/2020/05/13/7-23-lm/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_7.23_LM"
   published: "2020-05-13"
   partOf:
     webVolume: 7
@@ -5076,9 +5499,10 @@
     webVolume: 423
     eBook: null
     audioBook: null
-- id: "ch-0424"
+- id: "ch-04240"
   title: "7.24"
   url: "https://wanderinginn.com/2020/05/24/7-24/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_7.24"
   published: "2020-05-24"
   partOf:
     webVolume: 7
@@ -5088,9 +5512,10 @@
     webVolume: 424
     eBook: null
     audioBook: null
-- id: "ch-0425"
+- id: "ch-04250"
   title: "7.25"
   url: "https://wanderinginn.com/2020/05/27/7-25/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_7.25"
   published: "2020-05-27"
   partOf:
     webVolume: 7
@@ -5100,9 +5525,10 @@
     webVolume: 425
     eBook: null
     audioBook: null
-- id: "ch-0426"
+- id: "ch-04260"
   title: "7.26"
   url: "https://wanderinginn.com/2020/05/31/7-26/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_7.26"
   published: "2020-05-31"
   partOf:
     webVolume: 7
@@ -5112,9 +5538,10 @@
     webVolume: 426
     eBook: null
     audioBook: null
-- id: "ch-0427"
+- id: "ch-04270"
   title: "7.27"
   url: "https://wanderinginn.com/2020/06/03/7-27/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_7.27"
   published: "2020-06-03"
   partOf:
     webVolume: 7
@@ -5124,9 +5551,10 @@
     webVolume: 427
     eBook: null
     audioBook: null
-- id: "ch-0428"
+- id: "ch-04280"
   title: "Interlude – The Gecko of Illusions"
   url: "https://wanderinginn.com/2020/06/07/interlude-the-gecko-of-illusions/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_The_Gecko_of_Illusions"
   published: "2020-06-07"
   partOf:
     webVolume: 7
@@ -5136,9 +5564,10 @@
     webVolume: 428
     eBook: null
     audioBook: null
-- id: "ch-0429"
+- id: "ch-04290"
   title: "7.28"
   url: "https://wanderinginn.com/2020/06/10/7-28/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_7.28"
   published: "2020-06-10"
   partOf:
     webVolume: 7
@@ -5148,9 +5577,10 @@
     webVolume: 429
     eBook: null
     audioBook: null
-- id: "ch-0430"
+- id: "ch-04300"
   title: "7.29 B"
   url: "https://wanderinginn.com/2020/06/14/7-29-b/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_7.29_B"
   published: "2020-06-14"
   partOf:
     webVolume: 7
@@ -5160,9 +5590,10 @@
     webVolume: 430
     eBook: null
     audioBook: null
-- id: "ch-0431"
+- id: "ch-04310"
   title: "7.30"
   url: "https://wanderinginn.com/2020/06/24/7-30/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_7.30"
   published: "2020-06-24"
   partOf:
     webVolume: 7
@@ -5172,9 +5603,10 @@
     webVolume: 431
     eBook: null
     audioBook: null
-- id: "ch-0432"
+- id: "ch-04320"
   title: "7.31"
   url: "https://wanderinginn.com/2020/06/28/7-31/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_7.31"
   published: "2020-06-28"
   partOf:
     webVolume: 7
@@ -5184,9 +5616,10 @@
     webVolume: 432
     eBook: null
     audioBook: null
-- id: "ch-0433"
+- id: "ch-04330"
   title: "Interlude – A Meeting of [Druids]"
   url: "https://wanderinginn.com/2020/07/01/interlude-a-meeting-of-druids/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_A_Meeting_of_Druids"
   published: "2020-07-01"
   partOf:
     webVolume: 7
@@ -5196,9 +5629,10 @@
     webVolume: 433
     eBook: null
     audioBook: null
-- id: "ch-0434"
+- id: "ch-04340"
   title: "7.32 D"
   url: "https://wanderinginn.com/2020/07/05/7-32-d/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_7.32_D"
   published: "2020-07-05"
   partOf:
     webVolume: 7
@@ -5208,9 +5642,10 @@
     webVolume: 434
     eBook: null
     audioBook: null
-- id: "ch-0435"
+- id: "ch-04350"
   title: "7.33 I"
   url: "https://wanderinginn.com/2020/07/08/7-33-i/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_7.33_I"
   published: "2020-07-08"
   partOf:
     webVolume: 7
@@ -5220,9 +5655,10 @@
     webVolume: 435
     eBook: null
     audioBook: null
-- id: "ch-0436"
+- id: "ch-04360"
   title: "7.34 C"
   url: "https://wanderinginn.com/2020/07/12/7-34-c/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_7.34_C"
   published: "2020-07-12"
   partOf:
     webVolume: 7
@@ -5232,9 +5668,10 @@
     webVolume: 436
     eBook: null
     audioBook: null
-- id: "ch-0437"
+- id: "ch-04370"
   title: "7.35 C"
   url: "https://wanderinginn.com/2020/07/15/7-35-c/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_7.35_C"
   published: "2020-07-15"
   partOf:
     webVolume: 7
@@ -5244,9 +5681,10 @@
     webVolume: 437
     eBook: null
     audioBook: null
-- id: "ch-0438"
+- id: "ch-04380"
   title: "7.36 C"
   url: "https://wanderinginn.com/2020/07/19/7-36-c/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_7.36_C"
   published: "2020-07-19"
   partOf:
     webVolume: 7
@@ -5256,9 +5694,10 @@
     webVolume: 438
     eBook: null
     audioBook: null
-- id: "ch-0439"
+- id: "ch-04390"
   title: "7.37"
   url: "https://wanderinginn.com/2020/07/29/7-37/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_7.37"
   published: "2020-07-29"
   partOf:
     webVolume: 7
@@ -5268,9 +5707,10 @@
     webVolume: 439
     eBook: null
     audioBook: null
-- id: "ch-0440"
+- id: "ch-04400"
   title: "7.38"
   url: "https://wanderinginn.com/2020/08/02/7-38/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_7.38"
   published: "2020-08-02"
   partOf:
     webVolume: 7
@@ -5280,9 +5720,10 @@
     webVolume: 440
     eBook: null
     audioBook: null
-- id: "ch-0441"
+- id: "ch-04410"
   title: "7.39 A"
   url: "https://wanderinginn.com/2020/08/05/7-39-a/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_7.39_A"
   published: "2020-08-05"
   partOf:
     webVolume: 7
@@ -5292,9 +5733,10 @@
     webVolume: 441
     eBook: null
     audioBook: null
-- id: "ch-0442"
+- id: "ch-04420"
   title: "Interlude – Carriages and Conversations"
   url: "https://wanderinginn.com/2020/08/08/interlude-carriages-and-conversations/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_Carriages_and_Conversations"
   published: "2020-08-08"
   partOf:
     webVolume: 7
@@ -5304,9 +5746,10 @@
     webVolume: 442
     eBook: null
     audioBook: null
-- id: "ch-0443"
+- id: "ch-04430"
   title: "Interlude – Meetings and Friendships"
   url: "https://wanderinginn.com/2020/08/09/interlude-meetings-and-friendships/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_Meetings_and_Friendships"
   published: "2020-08-09"
   partOf:
     webVolume: 7
@@ -5316,9 +5759,10 @@
     webVolume: 443
     eBook: null
     audioBook: null
-- id: "ch-0444"
+- id: "ch-04440"
   title: "Interlude – Sand and Notes"
   url: "https://wanderinginn.com/2020/08/10/interlude-sand-and-notes/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Interlude_-_Sand_and_Notes"
   published: "2020-08-10"
   partOf:
     webVolume: 7
@@ -5328,9 +5772,10 @@
     webVolume: 444
     eBook: null
     audioBook: null
-- id: "ch-0445"
+- id: "ch-04450"
   title: "7.40 ER"
   url: "https://wanderinginn.com/2020/08/11/7-40-er/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_7.40_ER"
   published: "2020-08-11"
   partOf:
     webVolume: 7
@@ -5340,9 +5785,10 @@
     webVolume: 445
     eBook: null
     audioBook: null
-- id: "ch-0446"
+- id: "ch-04460"
   title: "Interlude – Food and Growth"
   url: "https://wanderinginn.com/2020/08/12/interlude-food-and-growth/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Interlude_-_Food_and_Growth"
   published: "2020-08-12"
   partOf:
     webVolume: 7
@@ -5352,9 +5798,10 @@
     webVolume: 446
     eBook: null
     audioBook: null
-- id: "ch-0447"
+- id: "ch-04470"
   title: "7.41"
   url: "https://wanderinginn.com/2020/08/13/7-41/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_7.41"
   published: "2020-08-13"
   partOf:
     webVolume: 7
@@ -5364,9 +5811,10 @@
     webVolume: 447
     eBook: null
     audioBook: null
-- id: "ch-0448"
+- id: "ch-04480"
   title: "7.42 M"
   url: "https://wanderinginn.com/2020/08/14/7-42-m/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_7.42_M"
   published: "2020-08-14"
   partOf:
     webVolume: 7
@@ -5376,9 +5824,10 @@
     webVolume: 448
     eBook: null
     audioBook: null
-- id: "ch-0449"
+- id: "ch-04490"
   title: "7.43 G"
   url: "https://wanderinginn.com/2020/09/02/7-43-g/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_7.43_G"
   published: "2020-09-02"
   partOf:
     webVolume: 7
@@ -5388,9 +5837,10 @@
     webVolume: 449
     eBook: null
     audioBook: null
-- id: "ch-0450"
+- id: "ch-04500"
   title: "7.44"
   url: "https://wanderinginn.com/2020/09/06/7-44/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_7.44"
   published: "2020-09-06"
   partOf:
     webVolume: 7
@@ -5400,9 +5850,10 @@
     webVolume: 450
     eBook: null
     audioBook: null
-- id: "ch-0451"
+- id: "ch-04510"
   title: "7.45"
   url: "https://wanderinginn.com/2020/09/09/7-45/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_7.45"
   published: "2020-09-09"
   partOf:
     webVolume: 7
@@ -5412,9 +5863,10 @@
     webVolume: 451
     eBook: null
     audioBook: null
-- id: "ch-0452"
+- id: "ch-04520"
   title: "7.46 K"
   url: "https://wanderinginn.com/2020/09/13/7-46-k/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_7.46_K"
   published: "2020-09-13"
   partOf:
     webVolume: 7
@@ -5424,9 +5876,10 @@
     webVolume: 452
     eBook: null
     audioBook: null
-- id: "ch-0453"
+- id: "ch-04530"
   title: "7.47 K"
   url: "https://wanderinginn.com/2020/09/16/7-47-k/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_7.47_K"
   published: "2020-09-16"
   partOf:
     webVolume: 7
@@ -5436,9 +5889,10 @@
     webVolume: 453
     eBook: null
     audioBook: null
-- id: "ch-0454"
+- id: "ch-04540"
   title: "7.48 K"
   url: "https://wanderinginn.com/2020/09/20/7-48-k/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_7.48_K"
   published: "2020-09-20"
   partOf:
     webVolume: 7
@@ -5448,9 +5902,10 @@
     webVolume: 454
     eBook: null
     audioBook: null
-- id: "ch-0455"
+- id: "ch-04550"
   title: "7.49"
   url: "https://wanderinginn.com/2020/09/23/7-49/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_7.49"
   published: "2020-09-23"
   partOf:
     webVolume: 7
@@ -5460,9 +5915,10 @@
     webVolume: 455
     eBook: null
     audioBook: null
-- id: "ch-0456"
+- id: "ch-04560"
   title: "Interlude – Experiments in Golems"
   url: "https://wanderinginn.com/2020/10/04/interlude-experiments-in-golems/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_Experiments_in_Golems"
   published: "2020-10-04"
   partOf:
     webVolume: 7
@@ -5472,9 +5928,10 @@
     webVolume: 456
     eBook: null
     audioBook: null
-- id: "ch-0457"
+- id: "ch-04570"
   title: "7.50"
   url: "https://wanderinginn.com/2020/10/07/7-50/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_7.50"
   published: "2020-10-07"
   partOf:
     webVolume: 7
@@ -5484,9 +5941,10 @@
     webVolume: 457
     eBook: null
     audioBook: null
-- id: "ch-0458"
+- id: "ch-04580"
   title: "7.51"
   url: "https://wanderinginn.com/2020/10/11/7-51/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_7.51"
   published: "2020-10-11"
   partOf:
     webVolume: 7
@@ -5496,9 +5954,10 @@
     webVolume: 458
     eBook: null
     audioBook: null
-- id: "ch-0459"
+- id: "ch-04590"
   title: "7.52"
   url: "https://wanderinginn.com/2020/10/14/7-52/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_7.52"
   published: "2020-10-14"
   partOf:
     webVolume: 7
@@ -5508,9 +5967,10 @@
     webVolume: 459
     eBook: null
     audioBook: null
-- id: "ch-0460"
+- id: "ch-04600"
   title: "7.53"
   url: "https://wanderinginn.com/2020/10/18/7-53/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_7.53"
   published: "2020-10-18"
   partOf:
     webVolume: 7
@@ -5520,9 +5980,10 @@
     webVolume: 460
     eBook: null
     audioBook: null
-- id: "ch-0461"
+- id: "ch-04610"
   title: "7.54"
   url: "https://wanderinginn.com/2020/10/20/7-54/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_7.54"
   published: "2020-10-20"
   partOf:
     webVolume: 7
@@ -5532,9 +5993,10 @@
     webVolume: 461
     eBook: null
     audioBook: null
-- id: "ch-0462"
+- id: "ch-04620"
   title: "7.55 E"
   url: "https://wanderinginn.com/2020/10/25/7-55-e/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_7.55_E"
   published: "2020-10-25"
   partOf:
     webVolume: 7
@@ -5544,9 +6006,10 @@
     webVolume: 462
     eBook: null
     audioBook: null
-- id: "ch-0463"
+- id: "ch-04630"
   title: "Interlude – Saliss the Adventurer"
   url: "https://wanderinginn.com/2020/11/04/interlude-saliss-the-adventurer/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_Saliss_the_Adventurer"
   published: "2020-11-04"
   partOf:
     webVolume: 7
@@ -5556,9 +6019,10 @@
     webVolume: 463
     eBook: null
     audioBook: null
-- id: "ch-0464"
+- id: "ch-04640"
   title: "7.56"
   url: "https://wanderinginn.com/2020/11/08/7-56/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_7.56"
   published: "2020-11-08"
   partOf:
     webVolume: 7
@@ -5568,9 +6032,10 @@
     webVolume: 464
     eBook: null
     audioBook: null
-- id: "ch-0465"
+- id: "ch-04650"
   title: "7.57"
   url: "https://wanderinginn.com/2020/11/11/7-57/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_7.57"
   published: "2020-11-11"
   partOf:
     webVolume: 7
@@ -5580,9 +6045,10 @@
     webVolume: 465
     eBook: null
     audioBook: null
-- id: "ch-0466"
+- id: "ch-04660"
   title: "7.58"
   url: "https://wanderinginn.com/2020/11/15/7-58/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_7.58"
   published: "2020-11-15"
   partOf:
     webVolume: 7
@@ -5592,9 +6058,10 @@
     webVolume: 466
     eBook: null
     audioBook: null
-- id: "ch-0467"
+- id: "ch-04670"
   title: "7.59"
   url: "https://wanderinginn.com/2020/11/18/7-59/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_7.59"
   published: "2020-11-18"
   partOf:
     webVolume: 7
@@ -5604,9 +6071,10 @@
     webVolume: 467
     eBook: null
     audioBook: null
-- id: "ch-0468"
+- id: "ch-04680"
   title: "7.60"
   url: "https://wanderinginn.com/2020/11/22/7-60/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_7.60"
   published: "2020-11-22"
   partOf:
     webVolume: 7
@@ -5616,9 +6084,10 @@
     webVolume: 468
     eBook: null
     audioBook: null
-- id: "ch-0469"
+- id: "ch-04690"
   title: "Interlude – The Tribes of Izril"
   url: "https://wanderinginn.com/2020/11/25/interlude-the-tribes-of-izril/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_The_Tribes_of_Izril"
   published: "2020-11-25"
   partOf:
     webVolume: 7
@@ -5628,9 +6097,10 @@
     webVolume: 469
     eBook: null
     audioBook: null
-- id: "ch-0470"
+- id: "ch-04700"
   title: "Interlude – The Innkeeper’s [Knight]"
   url: "https://wanderinginn.com/2020/12/06/interlude-the-innkeepers-knight/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_The_Innkeeper%E2%80%99s_Knight"
   published: "2020-12-06"
   partOf:
     webVolume: 7
@@ -5640,9 +6110,10 @@
     webVolume: 470
     eBook: null
     audioBook: null
-- id: "ch-0471"
+- id: "ch-04710"
   title: "7.61"
   url: "https://wanderinginn.com/2020/12/09/7-61/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_7.61"
   published: "2020-12-09"
   partOf:
     webVolume: 7
@@ -5652,9 +6123,10 @@
     webVolume: 471
     eBook: null
     audioBook: null
-- id: "ch-0472"
+- id: "ch-04720"
   title: "7.62"
   url: "https://wanderinginn.com/2020/12/13/7-62/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_7.62"
   published: "2020-12-13"
   partOf:
     webVolume: 7
@@ -5664,9 +6136,10 @@
     webVolume: 472
     eBook: null
     audioBook: null
-- id: "ch-0473"
+- id: "ch-04730"
   title: "Solstice (Pt. 1)"
   url: "https://wanderinginn.com/2020/12/16/solstice-pt-1/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Solstice_(Pt._1)"
   published: "2020-12-16"
   partOf:
     webVolume: 7
@@ -5676,9 +6149,10 @@
     webVolume: 473
     eBook: null
     audioBook: null
-- id: "ch-0474"
+- id: "ch-04740"
   title: "Solstice (Pt. 2)"
   url: "https://wanderinginn.com/2020/12/20/solstice-pt-2/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Solstice_(Pt._2)"
   published: "2020-12-20"
   partOf:
     webVolume: 7
@@ -5688,9 +6162,10 @@
     webVolume: 474
     eBook: null
     audioBook: null
-- id: "ch-0475"
+- id: "ch-04750"
   title: "Solstice (Pt. 3)"
   url: "https://wanderinginn.com/2020/12/23/solstice-pt-3/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Solstice_(Pt._3)"
   published: "2020-12-23"
   partOf:
     webVolume: 7
@@ -5700,9 +6175,10 @@
     webVolume: 475
     eBook: null
     audioBook: null
-- id: "ch-0476"
+- id: "ch-04760"
   title: "Solstice (Pt. 4)"
   url: "https://wanderinginn.com/2020/12/23/solstice-pt-4/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Solstice_(Pt._3)"
   published: "2020-12-23"
   partOf:
     webVolume: 7
@@ -5712,9 +6188,10 @@
     webVolume: 476
     eBook: null
     audioBook: null
-- id: "ch-0477"
+- id: "ch-04770"
   title: "Solstice (Pt. 5)"
   url: "https://wanderinginn.com/2020/12/23/solstice-pt-5/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Solstice_(Pt._3)"
   published: "2020-12-23"
   partOf:
     webVolume: 7
@@ -5724,9 +6201,10 @@
     webVolume: 477
     eBook: null
     audioBook: null
-- id: "ch-0478"
+- id: "ch-04780"
   title: "Solstice (Pt. 6)"
   url: "https://wanderinginn.com/2020/12/23/solstice-pt-6/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Solstice_(Pt._3)"
   published: "2020-12-23"
   partOf:
     webVolume: 7
@@ -5736,9 +6214,10 @@
     webVolume: 478
     eBook: null
     audioBook: null
-- id: "ch-0479"
+- id: "ch-04790"
   title: "Solstice (Pt. 7)"
   url: "https://wanderinginn.com/2020/12/23/solstice-pt-7/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Solstice_(Pt._3)"
   published: "2020-12-23"
   partOf:
     webVolume: 7
@@ -5748,9 +6227,10 @@
     webVolume: 479
     eBook: null
     audioBook: null
-- id: "ch-0480"
+- id: "ch-04800"
   title: "Solstice (Pt. 8)"
   url: "https://wanderinginn.com/2020/12/23/solstice-pt-8/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Solstice_(Pt._3)"
   published: "2020-12-23"
   partOf:
     webVolume: 7
@@ -5760,9 +6240,10 @@
     webVolume: 480
     eBook: null
     audioBook: null
-- id: "ch-0481"
+- id: "ch-04810"
   title: "Solstice (Pt. 9)"
   url: "https://wanderinginn.com/2020/12/23/solstice-pt-9/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Solstice_(Pt._3)"
   published: "2020-12-23"
   partOf:
     webVolume: 7
@@ -5772,9 +6253,10 @@
     webVolume: 481
     eBook: null
     audioBook: null
-- id: "ch-0482"
+- id: "ch-04820"
   title: "8.00"
   url: "https://wanderinginn.com/2021/01/10/8-00/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_8.00"
   published: "2021-01-10"
   partOf:
     webVolume: 8
@@ -5784,9 +6266,10 @@
     webVolume: 482
     eBook: null
     audioBook: null
-- id: "ch-0483"
+- id: "ch-04830"
   title: "8.01"
   url: "https://wanderinginn.com/2021/01/13/8-01/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_8.01"
   published: "2021-01-13"
   partOf:
     webVolume: 8
@@ -5796,9 +6279,10 @@
     webVolume: 483
     eBook: null
     audioBook: null
-- id: "ch-0484"
+- id: "ch-04840"
   title: "8.02"
   url: "https://wanderinginn.com/2021/01/17/8-02/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_8.02"
   published: "2021-01-17"
   partOf:
     webVolume: 8
@@ -5808,9 +6292,10 @@
     webVolume: 484
     eBook: null
     audioBook: null
-- id: "ch-0485"
+- id: "ch-04850"
   title: "8.03"
   url: "https://wanderinginn.com/2021/01/20/8-03/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_8.03"
   published: "2021-01-20"
   partOf:
     webVolume: 8
@@ -5820,9 +6305,10 @@
     webVolume: 485
     eBook: null
     audioBook: null
-- id: "ch-0486"
+- id: "ch-04860"
   title: "Interlude – The Revenant and the Naga"
   url: "https://wanderinginn.com/2021/01/24/interlude-the-revenant-and-the-naga/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_The_Revenant_and_the_Naga"
   published: "2021-01-24"
   partOf:
     webVolume: 8
@@ -5832,9 +6318,10 @@
     webVolume: 486
     eBook: null
     audioBook: null
-- id: "ch-0487"
+- id: "ch-04870"
   title: "8.04 T"
   url: "https://wanderinginn.com/2021/01/27/8-04-t/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_8.04_T"
   published: "2021-01-27"
   partOf:
     webVolume: 8
@@ -5844,9 +6331,10 @@
     webVolume: 487
     eBook: null
     audioBook: null
-- id: "ch-0488"
+- id: "ch-04880"
   title: "8.05 I"
   url: "https://wanderinginn.com/2021/02/07/8-05-i/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_8.05_I"
   published: "2021-02-07"
   partOf:
     webVolume: 8
@@ -5856,9 +6344,10 @@
     webVolume: 488
     eBook: null
     audioBook: null
-- id: "ch-0489"
+- id: "ch-04890"
   title: "8.06 RT"
   url: "https://wanderinginn.com/2021/02/10/8-06-rt/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_8.06_RT"
   published: "2021-02-10"
   partOf:
     webVolume: 8
@@ -5868,9 +6357,10 @@
     webVolume: 489
     eBook: null
     audioBook: null
-- id: "ch-0490"
+- id: "ch-04900"
   title: "8.07 L"
   url: "https://wanderinginn.com/2021/02/14/8-07-l/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_8.07_L"
   published: "2021-02-14"
   partOf:
     webVolume: 8
@@ -5880,9 +6370,10 @@
     webVolume: 490
     eBook: null
     audioBook: null
-- id: "ch-0491"
+- id: "ch-04910"
   title: "8.08 J"
   url: "https://wanderinginn.com/2021/02/17/8-08-j/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_8.08_J"
   published: "2021-02-17"
   partOf:
     webVolume: 8
@@ -5892,9 +6383,10 @@
     webVolume: 491
     eBook: null
     audioBook: null
-- id: "ch-0492"
+- id: "ch-04920"
   title: "8.09"
   url: "https://wanderinginn.com/2021/02/21/8-09/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_8.09"
   published: "2021-02-21"
   partOf:
     webVolume: 8
@@ -5904,9 +6396,10 @@
     webVolume: 492
     eBook: null
     audioBook: null
-- id: "ch-0493"
+- id: "ch-04930"
   title: "8.10"
   url: "https://wanderinginn.com/2021/02/24/8-10/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_8.10"
   published: "2021-02-24"
   partOf:
     webVolume: 8
@@ -5916,9 +6409,10 @@
     webVolume: 493
     eBook: null
     audioBook: null
-- id: "ch-0494"
+- id: "ch-04940"
   title: "8.11 E"
   url: "https://wanderinginn.com/2021/03/16/8-11-e-revised/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_8.11_E"
   published: "2021-03-16"
   partOf:
     webVolume: 8
@@ -5928,9 +6422,10 @@
     webVolume: 494
     eBook: null
     audioBook: null
-- id: "ch-0495"
+- id: "ch-04950"
   title: "8.12 T"
   url: "https://wanderinginn.com/2021/03/10/8-12-t/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_8.12_T"
   published: "2021-03-10"
   partOf:
     webVolume: 8
@@ -5940,9 +6435,10 @@
     webVolume: 495
     eBook: null
     audioBook: null
-- id: "ch-0496"
+- id: "ch-04960"
   title: "Interlude – The [Rower] and the [Bartender]"
   url: "https://wanderinginn.com/2021/03/14/interlude-the-rower-and-the-bartender/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_The_Rower_and_the_Bartender"
   published: "2021-03-14"
   partOf:
     webVolume: 8
@@ -5952,9 +6448,10 @@
     webVolume: 496
     eBook: null
     audioBook: null
-- id: "ch-0497"
+- id: "ch-04970"
   title: "8.13 F"
   url: "https://wanderinginn.com/2021/03/17/8-13-f/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_8.13_F"
   published: "2021-03-17"
   partOf:
     webVolume: 8
@@ -5964,9 +6461,10 @@
     webVolume: 497
     eBook: null
     audioBook: null
-- id: "ch-0498"
+- id: "ch-04980"
   title: "8.14 N"
   url: "https://wanderinginn.com/2021/03/21/8-14-n/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_8.14_N"
   published: "2021-03-21"
   partOf:
     webVolume: 8
@@ -5976,9 +6474,10 @@
     webVolume: 498
     eBook: null
     audioBook: null
-- id: "ch-0499"
+- id: "ch-04990"
   title: "8.15"
   url: "https://wanderinginn.com/2021/03/30/8-15/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_8.15"
   published: "2021-03-30"
   partOf:
     webVolume: 8
@@ -5988,9 +6487,10 @@
     webVolume: 499
     eBook: null
     audioBook: null
-- id: "ch-0500"
+- id: "ch-05000"
   title: "Interlude – Paradigm Shift (Pt. 1)"
   url: "https://wanderinginn.com/2021/04/04/interlude-paradigm-shift-pt-1/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_Paradigm_Shift_(Pt._1)"
   published: "2021-04-04"
   partOf:
     webVolume: 8
@@ -6000,9 +6500,10 @@
     webVolume: 500
     eBook: null
     audioBook: null
-- id: "ch-0501"
+- id: "ch-05010"
   title: "Interlude – Paradigm Shift (Pt. 2)"
   url: "https://wanderinginn.com/2021/04/04/interlude-paradigm-shift-pt-2/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_Paradigm_Shift_(Pt._2)"
   published: "2021-04-04"
   partOf:
     webVolume: 8
@@ -6012,9 +6513,10 @@
     webVolume: 501
     eBook: null
     audioBook: null
-- id: "ch-0502"
+- id: "ch-05020"
   title: "8.16"
   url: "https://wanderinginn.com/2021/04/10/8-16/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_8.16"
   published: "2021-04-10"
   partOf:
     webVolume: 8
@@ -6024,9 +6526,10 @@
     webVolume: 502
     eBook: null
     audioBook: null
-- id: "ch-0503"
+- id: "ch-05030"
   title: "8.17 H"
   url: "https://wanderinginn.com/2021/04/13/8-17-h/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_8.17_H"
   published: "2021-04-13"
   partOf:
     webVolume: 8
@@ -6036,9 +6539,10 @@
     webVolume: 503
     eBook: null
     audioBook: null
-- id: "ch-0504"
+- id: "ch-05040"
   title: "8.18 H"
   url: "https://wanderinginn.com/2021/04/25/8-18-h/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_8.18_H"
   published: "2021-04-25"
   partOf:
     webVolume: 8
@@ -6048,9 +6552,10 @@
     webVolume: 504
     eBook: null
     audioBook: null
-- id: "ch-0505"
+- id: "ch-05050"
   title: "8.19 H"
   url: "https://wanderinginn.com/2021/04/28/8-19-h/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_8.19_H"
   published: "2021-04-28"
   partOf:
     webVolume: 8
@@ -6060,9 +6565,10 @@
     webVolume: 505
     eBook: null
     audioBook: null
-- id: "ch-0506"
+- id: "ch-05060"
   title: "8.20"
   url: "https://wanderinginn.com/2021/05/02/8-20/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_8.20"
   published: "2021-05-02"
   partOf:
     webVolume: 8
@@ -6072,9 +6578,10 @@
     webVolume: 506
     eBook: null
     audioBook: null
-- id: "ch-0507"
+- id: "ch-05070"
   title: "8.21 L"
   url: "https://wanderinginn.com/2021/05/04/8-21-l/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_8.21_L"
   published: "2021-05-04"
   partOf:
     webVolume: 8
@@ -6084,9 +6591,10 @@
     webVolume: 507
     eBook: null
     audioBook: null
-- id: "ch-0508"
+- id: "ch-05080"
   title: "8.22 HE"
   url: "https://wanderinginn.com/2021/05/11/8-22-he/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_8.22_HE"
   published: "2021-05-11"
   partOf:
     webVolume: 8
@@ -6096,9 +6604,10 @@
     webVolume: 508
     eBook: null
     audioBook: null
-- id: "ch-0509"
+- id: "ch-05090"
   title: "Interlude – Senior Guardsman Relc"
   url: "https://wanderinginn.com/2021/05/16/interlude-senior-guardsman-relc/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_Senior_Guardsman_Relc"
   published: "2021-05-16"
   partOf:
     webVolume: 8
@@ -6108,9 +6617,10 @@
     webVolume: 509
     eBook: null
     audioBook: null
-- id: "ch-0510"
+- id: "ch-05100"
   title: "8.23"
   url: "https://wanderinginn.com/2021/05/19/8-23/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_8.23"
   published: "2021-05-19"
   partOf:
     webVolume: 8
@@ -6120,9 +6630,10 @@
     webVolume: 510
     eBook: null
     audioBook: null
-- id: "ch-0511"
+- id: "ch-05110"
   title: "8.24"
   url: "https://wanderinginn.com/2021/05/30/8-24/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_8.24"
   published: "2021-05-30"
   partOf:
     webVolume: 8
@@ -6132,9 +6643,10 @@
     webVolume: 511
     eBook: null
     audioBook: null
-- id: "ch-0512"
+- id: "ch-05120"
   title: "8.25 KH"
   url: "https://wanderinginn.com/2021/06/02/8-25-kh/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_8.25_KH"
   published: "2021-06-02"
   partOf:
     webVolume: 8
@@ -6144,9 +6656,10 @@
     webVolume: 512
     eBook: null
     audioBook: null
-- id: "ch-0513"
+- id: "ch-05130"
   title: "8.26 FK"
   url: "https://wanderinginn.com/2021/06/06/8-26-fk/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_8.26_FK"
   published: "2021-06-06"
   partOf:
     webVolume: 8
@@ -6156,9 +6669,10 @@
     webVolume: 513
     eBook: null
     audioBook: null
-- id: "ch-0514"
+- id: "ch-05140"
   title: "Interlude – Luan the Giant"
   url: "https://wanderinginn.com/2021/06/08/interlude-luan-the-giant/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_Luan_the_Giant"
   published: "2021-06-08"
   partOf:
     webVolume: 8
@@ -6168,9 +6682,10 @@
     webVolume: 514
     eBook: null
     audioBook: null
-- id: "ch-0515"
+- id: "ch-05150"
   title: "8.27"
   url: "https://wanderinginn.com/2021/06/12/8-27/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_8.27"
   published: "2021-06-12"
   partOf:
     webVolume: 8
@@ -6180,9 +6695,10 @@
     webVolume: 515
     eBook: null
     audioBook: null
-- id: "ch-0516"
+- id: "ch-05160"
   title: "8.28"
   url: "https://wanderinginn.com/2021/06/19/8-28/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_8.28"
   published: "2021-06-19"
   partOf:
     webVolume: 8
@@ -6192,9 +6708,10 @@
     webVolume: 516
     eBook: null
     audioBook: null
-- id: "ch-0517"
+- id: "ch-05170"
   title: "8.29"
   url: "https://wanderinginn.com/2021/06/22/8-29/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_8.29"
   published: "2021-06-22"
   partOf:
     webVolume: 8
@@ -6204,9 +6721,10 @@
     webVolume: 517
     eBook: null
     audioBook: null
-- id: "ch-0518"
+- id: "ch-05180"
   title: "Interlude – The Pets of Innworld"
   url: "https://wanderinginn.com/2021/06/26/interlude-the-pets-of-innworld/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_The_Pets_of_Innworld"
   published: "2021-06-26"
   partOf:
     webVolume: 8
@@ -6216,9 +6734,10 @@
     webVolume: 518
     eBook: null
     audioBook: null
-- id: "ch-0519"
+- id: "ch-05190"
   title: "8.30"
   url: "https://wanderinginn.com/2021/07/13/8-30/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_8.30"
   published: "2021-07-13"
   partOf:
     webVolume: 8
@@ -6228,9 +6747,10 @@
     webVolume: 519
     eBook: null
     audioBook: null
-- id: "ch-0520"
+- id: "ch-05200"
   title: "8.31"
   url: "https://wanderinginn.com/2021/07/18/8-31/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_8.31"
   published: "2021-07-18"
   partOf:
     webVolume: 8
@@ -6240,9 +6760,10 @@
     webVolume: 520
     eBook: null
     audioBook: null
-- id: "ch-0521"
+- id: "ch-05210"
   title: "Interlude – Pisces (Revised)"
   url: "https://wanderinginn.com/2021/07/20/interlude-pisces-revised/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_Pisces"
   published: "2021-07-20"
   partOf:
     webVolume: 8
@@ -6252,9 +6773,10 @@
     webVolume: 521
     eBook: null
     audioBook: null
-- id: "ch-0522"
+- id: "ch-05220"
   title: "8.32"
   url: "https://wanderinginn.com/2021/07/25/8-32/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_8.32"
   published: "2021-07-25"
   partOf:
     webVolume: 8
@@ -6264,9 +6786,10 @@
     webVolume: 522
     eBook: null
     audioBook: null
-- id: "ch-0523"
+- id: "ch-05230"
   title: "8.33 R"
   url: "https://wanderinginn.com/2021/07/28/8-33-r/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_8.33_R"
   published: "2021-07-28"
   partOf:
     webVolume: 8
@@ -6276,9 +6799,10 @@
     webVolume: 523
     eBook: null
     audioBook: null
-- id: "ch-0524"
+- id: "ch-05240"
   title: "8.34 R"
   url: "https://wanderinginn.com/2021/08/01/8-34-r/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_8.34_R"
   published: "2021-08-01"
   partOf:
     webVolume: 8
@@ -6288,9 +6812,10 @@
     webVolume: 524
     eBook: null
     audioBook: null
-- id: "ch-0525"
+- id: "ch-05250"
   title: "8.35"
   url: "https://wanderinginn.com/2021/08/04/8-35/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_8.35"
   published: "2021-08-04"
   partOf:
     webVolume: 8
@@ -6300,9 +6825,10 @@
     webVolume: 525
     eBook: null
     audioBook: null
-- id: "ch-0526"
+- id: "ch-05260"
   title: "8.36 H"
   url: "https://wanderinginn.com/2021/08/15/8-36-h/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_8.36_H"
   published: "2021-08-15"
   partOf:
     webVolume: 8
@@ -6312,9 +6838,10 @@
     webVolume: 526
     eBook: null
     audioBook: null
-- id: "ch-0527"
+- id: "ch-05270"
   title: "8.37 H"
   url: "https://wanderinginn.com/2021/08/17/8-37-h/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_8.37_H"
   published: "2021-08-17"
   partOf:
     webVolume: 8
@@ -6324,9 +6851,10 @@
     webVolume: 527
     eBook: null
     audioBook: null
-- id: "ch-0528"
+- id: "ch-05280"
   title: "8.38 H"
   url: "https://wanderinginn.com/2021/08/22/8-38-h/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_8.38_H"
   published: "2021-08-22"
   partOf:
     webVolume: 8
@@ -6336,9 +6864,10 @@
     webVolume: 528
     eBook: null
     audioBook: null
-- id: "ch-0529"
+- id: "ch-05290"
   title: "8.39"
   url: "https://wanderinginn.com/2021/08/24/8-39/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_8.39"
   published: "2021-08-24"
   partOf:
     webVolume: 8
@@ -6348,9 +6877,10 @@
     webVolume: 529
     eBook: null
     audioBook: null
-- id: "ch-0530"
+- id: "ch-05300"
   title: "8.40 CTV"
   url: "https://wanderinginn.com/2021/08/29/8-40-ctv/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_8.40_CTV"
   published: "2021-08-29"
   partOf:
     webVolume: 8
@@ -6360,9 +6890,10 @@
     webVolume: 530
     eBook: null
     audioBook: null
-- id: "ch-0531"
+- id: "ch-05310"
   title: "Interlude – Of Vampires and Fraerlings"
   url: "https://wanderinginn.com/2021/08/31/interlude-of-vampires-and-fraerlings/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_Of_Vampires_and_Fraerlings"
   published: "2021-08-31"
   partOf:
     webVolume: 8
@@ -6372,9 +6903,10 @@
     webVolume: 531
     eBook: null
     audioBook: null
-- id: "ch-0532"
+- id: "ch-05320"
   title: "8.41"
   url: "https://wanderinginn.com/2021/09/04/8-41/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_8.41"
   published: "2021-09-04"
   partOf:
     webVolume: 8
@@ -6384,9 +6916,10 @@
     webVolume: 532
     eBook: null
     audioBook: null
-- id: "ch-0533"
+- id: "ch-05330"
   title: "Interlude – Songs and Stories"
   url: "https://wanderinginn.com/2021/09/15/interlude-songs-and-stories/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_Songs_and_Stories"
   published: "2021-09-15"
   partOf:
     webVolume: 8
@@ -6396,9 +6929,10 @@
     webVolume: 533
     eBook: null
     audioBook: null
-- id: "ch-0534"
+- id: "ch-05340"
   title: "8.42"
   url: "https://wanderinginn.com/2021/09/19/8-42/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_8.42"
   published: "2021-09-19"
   partOf:
     webVolume: 8
@@ -6408,9 +6942,10 @@
     webVolume: 534
     eBook: null
     audioBook: null
-- id: "ch-0535"
+- id: "ch-05350"
   title: "8.43"
   url: "https://wanderinginn.com/2021/09/22/8-43/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_8.43"
   published: "2021-09-22"
   partOf:
     webVolume: 8
@@ -6420,9 +6955,10 @@
     webVolume: 535
     eBook: null
     audioBook: null
-- id: "ch-0536"
+- id: "ch-05360"
   title: "8.44 O"
   url: "https://wanderinginn.com/2021/09/26/8-44-o/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_8.44_O"
   published: "2021-09-26"
   partOf:
     webVolume: 8
@@ -6432,9 +6968,10 @@
     webVolume: 536
     eBook: null
     audioBook: null
-- id: "ch-0537"
+- id: "ch-05370"
   title: "8.45 O"
   url: "https://wanderinginn.com/2021/09/26/8-45-o/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_8.45_O"
   published: "2021-09-26"
   partOf:
     webVolume: 8
@@ -6444,9 +6981,10 @@
     webVolume: 537
     eBook: null
     audioBook: null
-- id: "ch-0538"
+- id: "ch-05380"
   title: "8.46 G"
   url: "https://wanderinginn.com/2021/10/03/8-46-g/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_8.46_G"
   published: "2021-10-03"
   partOf:
     webVolume: 8
@@ -6456,9 +6994,10 @@
     webVolume: 538
     eBook: null
     audioBook: null
-- id: "ch-0539"
+- id: "ch-05390"
   title: "Interlude – Perspective and Past"
   url: "https://wanderinginn.com/2021/10/06/interlude-perspective-and-past/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_Perspective_and_Past"
   published: "2021-10-06"
   partOf:
     webVolume: 8
@@ -6468,9 +7007,10 @@
     webVolume: 539
     eBook: null
     audioBook: null
-- id: "ch-0540"
+- id: "ch-05400"
   title: "8.47 H"
   url: "https://wanderinginn.com/2021/10/19/8-47-h/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_8.47_H"
   published: "2021-10-19"
   partOf:
     webVolume: 8
@@ -6480,9 +7020,10 @@
     webVolume: 540
     eBook: null
     audioBook: null
-- id: "ch-0541"
+- id: "ch-05410"
   title: "8.48 H"
   url: "https://wanderinginn.com/2021/10/24/8-48-h/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_8.48_H"
   published: "2021-10-24"
   partOf:
     webVolume: 8
@@ -6492,9 +7033,10 @@
     webVolume: 541
     eBook: null
     audioBook: null
-- id: "ch-0542"
+- id: "ch-05420"
   title: "8.49 M – Revised"
   url: "https://wanderinginn.com/2021/10/27/8-49-m-revised/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_8.49_M"
   published: "2021-10-27"
   partOf:
     webVolume: 8
@@ -6504,9 +7046,10 @@
     webVolume: 542
     eBook: null
     audioBook: null
-- id: "ch-0543"
+- id: "ch-05430"
   title: "8.50"
   url: "https://wanderinginn.com/2021/10/31/8-50/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_8.50"
   published: "2021-10-31"
   partOf:
     webVolume: 8
@@ -6516,9 +7059,10 @@
     webVolume: 543
     eBook: null
     audioBook: null
-- id: "ch-0544"
+- id: "ch-05440"
   title: "Interlude – Conversations"
   url: "https://wanderinginn.com/2021/11/03/interlude-conversations/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_Conversations"
   published: "2021-11-03"
   partOf:
     webVolume: 8
@@ -6528,9 +7072,10 @@
     webVolume: 544
     eBook: null
     audioBook: null
-- id: "ch-0545"
+- id: "ch-05450"
   title: "8.51 D"
   url: "https://wanderinginn.com/2021/11/14/8-51-d/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_8.51_D"
   published: "2021-11-14"
   partOf:
     webVolume: 8
@@ -6540,9 +7085,10 @@
     webVolume: 545
     eBook: null
     audioBook: null
-- id: "ch-0546"
+- id: "ch-05460"
   title: "8.52 MN"
   url: "https://wanderinginn.com/2021/11/17/8-52-mn/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_8.52_MN"
   published: "2021-11-17"
   partOf:
     webVolume: 8
@@ -6552,9 +7098,10 @@
     webVolume: 546
     eBook: null
     audioBook: null
-- id: "ch-0547"
+- id: "ch-05470"
   title: "8.53 FH"
   url: "https://wanderinginn.com/2021/11/21/8-53-fh/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_8.53_FH"
   published: "2021-11-21"
   partOf:
     webVolume: 8
@@ -6564,9 +7111,10 @@
     webVolume: 547
     eBook: null
     audioBook: null
-- id: "ch-0548"
+- id: "ch-05480"
   title: "8.54 H"
   url: "https://wanderinginn.com/2021/12/01/8-54-h/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_8.54_H"
   published: "2021-12-01"
   partOf:
     webVolume: 8
@@ -6576,9 +7124,10 @@
     webVolume: 548
     eBook: null
     audioBook: null
-- id: "ch-0549"
+- id: "ch-05490"
   title: "8.55 L"
   url: "https://wanderinginn.com/2021/12/05/8-55-l/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_8.55_L"
   published: "2021-12-05"
   partOf:
     webVolume: 8
@@ -6588,9 +7137,10 @@
     webVolume: 549
     eBook: null
     audioBook: null
-- id: "ch-0550"
+- id: "ch-05500"
   title: "8.56"
   url: "https://wanderinginn.com/2021/12/08/8-56/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_8.56"
   published: "2021-12-08"
   partOf:
     webVolume: 8
@@ -6600,9 +7150,10 @@
     webVolume: 550
     eBook: null
     audioBook: null
-- id: "ch-0551"
+- id: "ch-05510"
   title: "8.57 H"
   url: "https://wanderinginn.com/2021/12/12/8-57-h/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_8.57_H"
   published: "2021-12-12"
   partOf:
     webVolume: 8
@@ -6612,9 +7163,10 @@
     webVolume: 551
     eBook: null
     audioBook: null
-- id: "ch-0552"
+- id: "ch-05520"
   title: "8.58 PFH"
   url: "https://wanderinginn.com/2021/12/15/8-58-pfh/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_8.58_PFH"
   published: "2021-12-15"
   partOf:
     webVolume: 8
@@ -6624,9 +7176,10 @@
     webVolume: 552
     eBook: null
     audioBook: null
-- id: "ch-0553"
+- id: "ch-05530"
   title: "8.59 H"
   url: "https://wanderinginn.com/2021/12/22/8-59-h/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_8.59_H"
   published: "2021-12-22"
   partOf:
     webVolume: 8
@@ -6636,9 +7189,10 @@
     webVolume: 553
     eBook: null
     audioBook: null
-- id: "ch-0554"
+- id: "ch-05540"
   title: "8.60"
   url: "https://wanderinginn.com/2021/12/26/8-60/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_8.60"
   published: "2021-12-26"
   partOf:
     webVolume: 8
@@ -6648,9 +7202,10 @@
     webVolume: 554
     eBook: null
     audioBook: null
-- id: "ch-0555"
+- id: "ch-05550"
   title: "8.61"
   url: "https://wanderinginn.com/2021/12/29/8-61/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_8.61"
   published: "2021-12-29"
   partOf:
     webVolume: 8
@@ -6660,9 +7215,10 @@
     webVolume: 555
     eBook: null
     audioBook: null
-- id: "ch-0556"
+- id: "ch-05560"
   title: "8.62 K"
   url: "https://wanderinginn.com/2022/01/16/8-62-k/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_8.62_K"
   published: "2022-01-16"
   partOf:
     webVolume: 8
@@ -6672,9 +7228,10 @@
     webVolume: 556
     eBook: null
     audioBook: null
-- id: "ch-0557"
+- id: "ch-05570"
   title: "8.63 K"
   url: "https://wanderinginn.com/2022/01/19/8-63-k/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_8.63_K"
   published: "2022-01-19"
   partOf:
     webVolume: 8
@@ -6684,9 +7241,10 @@
     webVolume: 557
     eBook: null
     audioBook: null
-- id: "ch-0558"
+- id: "ch-05580"
   title: "8.64 K"
   url: "https://wanderinginn.com/2022/01/23/8-64-k/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_8.64_K"
   published: "2022-01-23"
   partOf:
     webVolume: 8
@@ -6696,9 +7254,10 @@
     webVolume: 558
     eBook: null
     audioBook: null
-- id: "ch-0559"
+- id: "ch-05590"
   title: "8.65"
   url: "https://wanderinginn.com/2022/01/30/8-65/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_8.65"
   published: "2022-01-30"
   partOf:
     webVolume: 8
@@ -6708,9 +7267,10 @@
     webVolume: 559
     eBook: null
     audioBook: null
-- id: "ch-0560"
+- id: "ch-05600"
   title: "Interlude – Hectval (Pt. 1)"
   url: "https://wanderinginn.com/2022/02/09/interlude-hectval-pt-1/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_Hectval_(Pt._1)"
   published: "2022-02-09"
   partOf:
     webVolume: 8
@@ -6720,9 +7280,10 @@
     webVolume: 560
     eBook: null
     audioBook: null
-- id: "ch-0561"
+- id: "ch-05610"
   title: "Interlude – Hectval (Pt. 2)"
   url: "https://wanderinginn.com/2022/02/13/interlude-hectval-pt-2/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_Hectval_(Pt._2)"
   published: "2022-02-13"
   partOf:
     webVolume: 8
@@ -6732,9 +7293,10 @@
     webVolume: 561
     eBook: null
     audioBook: null
-- id: "ch-0562"
+- id: "ch-05620"
   title: "Interlude – Hectval (Pt. 3)"
   url: "https://wanderinginn.com/2022/02/16/interlude-hectval-pt-3/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_Hectval_(Pt._3)"
   published: "2022-02-16"
   partOf:
     webVolume: 8
@@ -6744,9 +7306,10 @@
     webVolume: 562
     eBook: null
     audioBook: null
-- id: "ch-0563"
+- id: "ch-05630"
   title: "Interlude – Satar (Revised)"
   url: "https://wanderinginn.com/interlude-satar-revised/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_Satar"
   published: "2022-02-20"
   partOf:
     webVolume: 8
@@ -6756,9 +7319,10 @@
     webVolume: 563
     eBook: null
     audioBook: null
-- id: "ch-0564"
+- id: "ch-05640"
   title: "8.66"
   url: "https://wanderinginn.com/2022/02/23/8-66/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_8.66"
   published: "2022-02-23"
   partOf:
     webVolume: 8
@@ -6768,9 +7332,10 @@
     webVolume: 564
     eBook: null
     audioBook: null
-- id: "ch-0565"
+- id: "ch-05650"
   title: "8.67"
   url: "https://wanderinginn.com/2022/02/27/8-67/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_8.67"
   published: "2022-02-27"
   partOf:
     webVolume: 8
@@ -6780,9 +7345,10 @@
     webVolume: 565
     eBook: null
     audioBook: null
-- id: "ch-0566"
+- id: "ch-05660"
   title: "8.68"
   url: "https://wanderinginn.com/2022/03/09/8-68/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_8.68"
   published: "2022-03-09"
   partOf:
     webVolume: 8
@@ -6792,9 +7358,10 @@
     webVolume: 566
     eBook: null
     audioBook: null
-- id: "ch-0567"
+- id: "ch-05670"
   title: "8.69 T"
   url: "https://wanderinginn.com/2022/03/12/8-69-te/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_8.69_T"
   published: "2022-03-12"
   partOf:
     webVolume: 8
@@ -6804,9 +7371,10 @@
     webVolume: 567
     eBook: null
     audioBook: null
-- id: "ch-0568"
+- id: "ch-05680"
   title: "8.70 E"
   url: "https://wanderinginn.com/2022/03/13/8-70-e/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_8.70_E"
   published: "2022-03-13"
   partOf:
     webVolume: 8
@@ -6816,9 +7384,10 @@
     webVolume: 568
     eBook: null
     audioBook: null
-- id: "ch-0569"
+- id: "ch-05690"
   title: "8.71"
   url: "https://wanderinginn.com/2022/03/14/8-71/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_8.71"
   published: "2022-03-14"
   partOf:
     webVolume: 8
@@ -6828,9 +7397,10 @@
     webVolume: 569
     eBook: null
     audioBook: null
-- id: "ch-0570"
+- id: "ch-05700"
   title: "8.72"
   url: "https://wanderinginn.com/2022/03/15/8-72/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_8.72"
   published: "2022-03-15"
   partOf:
     webVolume: 8
@@ -6840,9 +7410,10 @@
     webVolume: 570
     eBook: null
     audioBook: null
-- id: "ch-0571"
+- id: "ch-05710"
   title: "8.73 R"
   url: "https://wanderinginn.com/2022/03/16/8-73-r/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_8.73_R"
   published: "2022-03-16"
   partOf:
     webVolume: 8
@@ -6852,9 +7423,10 @@
     webVolume: 571
     eBook: null
     audioBook: null
-- id: "ch-0572"
+- id: "ch-05720"
   title: "8.74 DR"
   url: "https://wanderinginn.com/2022/03/17/8-74-dr/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_8.74_DR"
   published: "2022-03-17"
   partOf:
     webVolume: 8
@@ -6864,9 +7436,10 @@
     webVolume: 572
     eBook: null
     audioBook: null
-- id: "ch-0573"
+- id: "ch-05730"
   title: "8.75"
   url: "https://wanderinginn.com/2022/03/18/8-75/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_8.75"
   published: "2022-03-18"
   partOf:
     webVolume: 8
@@ -6876,9 +7449,10 @@
     webVolume: 573
     eBook: null
     audioBook: null
-- id: "ch-0574"
+- id: "ch-05740"
   title: "8.76 B"
   url: "https://wanderinginn.com/2022/03/27/8-76-b/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_8.76_B"
   published: "2022-03-27"
   partOf:
     webVolume: 8
@@ -6888,9 +7462,10 @@
     webVolume: 574
     eBook: null
     audioBook: null
-- id: "ch-0575"
+- id: "ch-05750"
   title: "8.77 B"
   url: "https://wanderinginn.com/2022/03/30/8-77-b/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_8.77_B"
   published: "2022-03-30"
   partOf:
     webVolume: 8
@@ -6900,9 +7475,10 @@
     webVolume: 575
     eBook: null
     audioBook: null
-- id: "ch-0576"
+- id: "ch-05760"
   title: "8.78 F"
   url: "https://wanderinginn.com/2022/04/10/8-78-f/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_8.78_F"
   published: "2022-04-10"
   partOf:
     webVolume: 8
@@ -6912,9 +7488,10 @@
     webVolume: 576
     eBook: null
     audioBook: null
-- id: "ch-0577"
+- id: "ch-05770"
   title: "8.79"
   url: "https://wanderinginn.com/2022/04/13/8-79/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_8.79"
   published: "2022-04-13"
   partOf:
     webVolume: 8
@@ -6924,9 +7501,10 @@
     webVolume: 577
     eBook: null
     audioBook: null
-- id: "ch-0578"
+- id: "ch-05780"
   title: "8.80"
   url: "https://wanderinginn.com/2022/04/17/8-80/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_8.80"
   published: "2022-04-17"
   partOf:
     webVolume: 8
@@ -6936,9 +7514,10 @@
     webVolume: 578
     eBook: null
     audioBook: null
-- id: "ch-0579"
+- id: "ch-05790"
   title: "8.81"
   url: "https://wanderinginn.com/2022/04/20/8-81/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_8.81"
   published: "2022-04-20"
   partOf:
     webVolume: 8
@@ -6948,9 +7527,10 @@
     webVolume: 579
     eBook: null
     audioBook: null
-- id: "ch-0580"
+- id: "ch-05800"
   title: "8.82 (Pt. 1)"
   url: "https://wanderinginn.com/2022/04/26/8-82-pt-1/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_8.82_(Pt._1)"
   published: "2022-04-26"
   partOf:
     webVolume: 8
@@ -6960,9 +7540,10 @@
     webVolume: 580
     eBook: null
     audioBook: null
-- id: "ch-0581"
+- id: "ch-05810"
   title: "8.82 (Pt. 2)"
   url: "https://wanderinginn.com/2022/04/26/8-82-pt-2/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_8.82_(Pt._2)"
   published: "2022-04-26"
   partOf:
     webVolume: 8
@@ -6972,9 +7553,10 @@
     webVolume: 581
     eBook: null
     audioBook: null
-- id: "ch-0582"
+- id: "ch-05820"
   title: "8.82 (Pt. 3)"
   url: "https://wanderinginn.com/2022/04/26/8-82-pt-3/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_8.82_(Pt._3)"
   published: "2022-04-26"
   partOf:
     webVolume: 8
@@ -6984,9 +7566,10 @@
     webVolume: 582
     eBook: null
     audioBook: null
-- id: "ch-0583"
+- id: "ch-05830"
   title: "8.83"
   url: "https://wanderinginn.com/2022/05/03/8-83/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_8.83"
   published: "2022-05-03"
   partOf:
     webVolume: 8
@@ -6996,9 +7579,10 @@
     webVolume: 583
     eBook: null
     audioBook: null
-- id: "ch-0584"
+- id: "ch-05840"
   title: "8.84"
   url: "https://wanderinginn.com/2022/05/03/8-84/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_8.84"
   published: "2022-05-03"
   partOf:
     webVolume: 8
@@ -7008,9 +7592,10 @@
     webVolume: 584
     eBook: null
     audioBook: null
-- id: "ch-0585"
+- id: "ch-05850"
   title: "8.85"
   url: "https://wanderinginn.com/2022/05/03/8-85/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_8.85"
   published: "2022-05-03"
   partOf:
     webVolume: 8
@@ -7020,9 +7605,10 @@
     webVolume: 585
     eBook: null
     audioBook: null
-- id: "ch-0586"
+- id: "ch-05860"
   title: "Epilogue"
   url: "https://wanderinginn.com/2022/05/03/epilogue/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Epilogue"
   published: "2022-05-03"
   partOf:
     webVolume: 8
@@ -7032,9 +7618,10 @@
     webVolume: 586
     eBook: null
     audioBook: null
-- id: "ch-0587"
+- id: "ch-05870"
   title: "9.00"
   url: "https://wanderinginn.com/2022/06/03/9-00/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_9.00"
   published: "2022-06-03"
   partOf:
     webVolume: 9
@@ -7044,9 +7631,10 @@
     webVolume: 587
     eBook: null
     audioBook: null
-- id: "ch-0588"
+- id: "ch-05880"
   title: "9.01"
   url: "https://wanderinginn.com/2022/06/07/9-01/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_9.01"
   published: "2022-06-07"
   partOf:
     webVolume: 9
@@ -7056,9 +7644,10 @@
     webVolume: 588
     eBook: null
     audioBook: null
-- id: "ch-0589"
+- id: "ch-05890"
   title: "9.02"
   url: "https://wanderinginn.com/2022/06/11/9-02/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_9.02"
   published: "2022-06-11"
   partOf:
     webVolume: 9
@@ -7068,9 +7657,10 @@
     webVolume: 589
     eBook: null
     audioBook: null
-- id: "ch-0590"
+- id: "ch-05900"
   title: "Interlude – Singing Ships"
   url: "https://wanderinginn.com/2022/06/18/interlude-singing-ships/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_Singing_Ships"
   published: "2022-06-18"
   partOf:
     webVolume: 9
@@ -7080,9 +7670,10 @@
     webVolume: 590
     eBook: null
     audioBook: null
-- id: "ch-0591"
+- id: "ch-05910"
   title: "9.03"
   url: "https://wanderinginn.com/2022/06/28/9-03/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_9.03"
   published: "2022-06-28"
   partOf:
     webVolume: 9
@@ -7092,9 +7683,10 @@
     webVolume: 591
     eBook: null
     audioBook: null
-- id: "ch-0592"
+- id: "ch-05920"
   title: "9.04"
   url: "https://wanderinginn.com/2022/07/02/9-04/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_9.04"
   published: "2022-07-02"
   partOf:
     webVolume: 9
@@ -7104,9 +7696,10 @@
     webVolume: 592
     eBook: null
     audioBook: null
-- id: "ch-0593"
+- id: "ch-05930"
   title: "Interlude – The Isles of Goblin and Minos"
   url: "https://wanderinginn.com/2022/07/05/interlude-the-isles-of-goblin-and-minos/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Interlude_-_The_Isles_of_Goblin_and_Minos"
   published: "2022-07-05"
   partOf:
     webVolume: 9
@@ -7116,9 +7709,10 @@
     webVolume: 593
     eBook: null
     audioBook: null
-- id: "ch-0594"
+- id: "ch-05940"
   title: "9.05 NPR"
   url: "https://wanderinginn.com/2022/07/10/9-05-npr/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_9.05_NPR"
   published: "2022-07-10"
   partOf:
     webVolume: 9
@@ -7128,9 +7722,10 @@
     webVolume: 594
     eBook: null
     audioBook: null
-- id: "ch-0595"
+- id: "ch-05950"
   title: "9.06"
   url: "https://wanderinginn.com/2022/07/12/9-06/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_9.06"
   published: "2022-07-12"
   partOf:
     webVolume: 9
@@ -7140,9 +7735,10 @@
     webVolume: 595
     eBook: null
     audioBook: null
-- id: "ch-0596"
+- id: "ch-05960"
   title: "9.07"
   url: "https://wanderinginn.com/2022/07/17/9-07/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_9.07"
   published: "2022-07-17"
   partOf:
     webVolume: 9
@@ -7152,9 +7748,10 @@
     webVolume: 596
     eBook: null
     audioBook: null
-- id: "ch-0597"
+- id: "ch-05970"
   title: "9.08"
   url: "https://wanderinginn.com/2022/07/19/9-08/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_9.08"
   published: "2022-07-19"
   partOf:
     webVolume: 9
@@ -7164,9 +7761,10 @@
     webVolume: 597
     eBook: null
     audioBook: null
-- id: "ch-0598"
+- id: "ch-05980"
   title: "Interlude – Mundanity and Memorials"
   url: "https://wanderinginn.com/2022/07/30/interlude-mundanity-and-memorials/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_Mundanity_and_Memorials"
   published: "2022-07-30"
   partOf:
     webVolume: 9
@@ -7176,9 +7774,10 @@
     webVolume: 598
     eBook: null
     audioBook: null
-- id: "ch-0599"
+- id: "ch-05990"
   title: "Interlude – The Competition"
   url: "https://wanderinginn.com/2022/08/06/interlude-the-competition/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_The_Competition"
   published: "2022-08-06"
   partOf:
     webVolume: 9
@@ -7188,9 +7787,10 @@
     webVolume: 599
     eBook: null
     audioBook: null
-- id: "ch-0600"
+- id: "ch-06000"
   title: "9.09 P"
   url: "https://wanderinginn.com/2022/08/20/9-09-p/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_9.09_P"
   published: "2022-08-20"
   partOf:
     webVolume: 9
@@ -7200,9 +7800,10 @@
     webVolume: 600
     eBook: null
     audioBook: null
-- id: "ch-0601"
+- id: "ch-06010"
   title: "9.10 W"
   url: "https://wanderinginn.com/2022/08/23/9-10-w/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_9.10_W"
   published: "2022-08-23"
   partOf:
     webVolume: 9
@@ -7212,9 +7813,10 @@
     webVolume: 601
     eBook: null
     audioBook: null
-- id: "ch-0602"
+- id: "ch-06020"
   title: "9.11 W"
   url: "https://wanderinginn.com/2022/08/27/9-11-w/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_9.11_W"
   published: "2022-08-27"
   partOf:
     webVolume: 9
@@ -7224,9 +7826,10 @@
     webVolume: 602
     eBook: null
     audioBook: null
-- id: "ch-0603"
+- id: "ch-06030"
   title: "9.12"
   url: "https://wanderinginn.com/2022/08/30/9-12/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_9.12"
   published: "2022-08-30"
   partOf:
     webVolume: 9
@@ -7236,9 +7839,10 @@
     webVolume: 603
     eBook: null
     audioBook: null
-- id: "ch-0604"
+- id: "ch-06040"
   title: "9.13"
   url: "https://wanderinginn.com/2022/09/04/9-13/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_9.13"
   published: "2022-09-04"
   partOf:
     webVolume: 9
@@ -7248,9 +7852,10 @@
     webVolume: 604
     eBook: null
     audioBook: null
-- id: "ch-0605"
+- id: "ch-06050"
   title: "9.14 VM"
   url: "https://wanderinginn.com/2022/09/06/9-14-vm/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_9.14_VM"
   published: "2022-09-06"
   partOf:
     webVolume: 9
@@ -7260,9 +7865,10 @@
     webVolume: 605
     eBook: null
     audioBook: null
-- id: "ch-0606"
+- id: "ch-06060"
   title: "9.15 VM"
   url: "https://wanderinginn.com/2022/09/10/9-15-vm/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_9.15_VM"
   published: "2022-09-10"
   partOf:
     webVolume: 9
@@ -7272,9 +7878,10 @@
     webVolume: 606
     eBook: null
     audioBook: null
-- id: "ch-0607"
+- id: "ch-06070"
   title: "9.16 R"
   url: "https://wanderinginn.com/2022/09/21/9-16-r/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_9.16_R"
   published: "2022-09-21"
   partOf:
     webVolume: 9
@@ -7284,9 +7891,10 @@
     webVolume: 607
     eBook: null
     audioBook: null
-- id: "ch-0608"
+- id: "ch-06080"
   title: "9.17 R"
   url: "https://wanderinginn.com/2022/09/25/9-17-r/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_9.17_R"
   published: "2022-09-25"
   partOf:
     webVolume: 9
@@ -7296,9 +7904,10 @@
     webVolume: 608
     eBook: null
     audioBook: null
-- id: "ch-0609"
+- id: "ch-06090"
   title: "Interlude – The Great Race"
   url: "https://wanderinginn.com/2022/09/28/interlude-the-great-race/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_The_Great_Race"
   published: "2022-09-28"
   partOf:
     webVolume: 9
@@ -7308,9 +7917,10 @@
     webVolume: 609
     eBook: null
     audioBook: null
-- id: "ch-0610"
+- id: "ch-06100"
   title: "9.18 E"
   url: "https://wanderinginn.com/2022/10/02/9-19-e/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_9.18_E"
   published: "2022-10-02"
   partOf:
     webVolume: 9
@@ -7320,9 +7930,10 @@
     webVolume: 610
     eBook: null
     audioBook: null
-- id: "ch-0611"
+- id: "ch-06110"
   title: "Interlude – Relationships"
   url: "https://wanderinginn.com/2022/10/05/interlude-relationships/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_Relationships"
   published: "2022-10-05"
   partOf:
     webVolume: 9
@@ -7332,9 +7943,10 @@
     webVolume: 611
     eBook: null
     audioBook: null
-- id: "ch-0612"
+- id: "ch-06120"
   title: "9.19"
   url: "https://wanderinginn.com/2022/10/09/9-19/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_9.19"
   published: "2022-10-09"
   partOf:
     webVolume: 9
@@ -7344,9 +7956,10 @@
     webVolume: 612
     eBook: null
     audioBook: null
-- id: "ch-0613"
+- id: "ch-06130"
   title: "9.20"
   url: "https://wanderinginn.com/2022/10/12/9-20/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_9.20"
   published: "2022-10-12"
   partOf:
     webVolume: 9
@@ -7356,9 +7969,10 @@
     webVolume: 613
     eBook: null
     audioBook: null
-- id: "ch-0614"
+- id: "ch-06140"
   title: "Interlude – Death and Stitches"
   url: "https://wanderinginn.com/2022/10/16/interlude-death-and-stitches/"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_Death_and_Stitches"
   published: "2022-10-16"
   partOf:
     webVolume: 9
