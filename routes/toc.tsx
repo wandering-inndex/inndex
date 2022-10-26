@@ -1,14 +1,21 @@
 import { Handlers, PageProps } from "$fresh/server.ts";
+import { Head } from "$fresh/runtime.ts";
 
-import { handler as allMediaHandler } from "./api/media/index.ts";
-
+import {
+  DEFAULT_SITE_DESCRIPTION,
+  DEFAULT_SITE_NAME,
+} from "@constants/config/site.ts";
+import DocumentHeader from "@components/document/DocumentHeader.tsx";
 import DocumentHead from "@components/document/DocumentHead.tsx";
+import DocumentFooter from "@components/document/DocumentFooter.tsx";
 import {
   AllMedia,
   AudioBook,
   DEFAULT_ALL_MEDIA,
   ElectronicBook,
 } from "@models/seed/media.ts";
+
+import { handler as allMediaHandler } from "./api/media/index.ts";
 
 export const handler: Handlers<AllMedia | null> = {
   async GET(req, ctx) {
@@ -82,64 +89,70 @@ export default function Page({ data }: PageProps<AllMedia | null>) {
   return (
     <>
       <DocumentHead />
+      <Head>
+        <title>{DEFAULT_SITE_NAME} | Table of Contents</title>
+
+        <meta
+          property="description"
+          content={DEFAULT_SITE_DESCRIPTION}
+        />
+      </Head>
 
       <div class="p-4 mx-auto text-sm text-gray-900">
-        <nav class="w-full mb-3">
-          <span class="font-medium">The Wandering Inndex</span>
-        </nav>
+        <DocumentHeader />
 
-        <div class="overflow-auto max-h-[90vh]">
+        <div class="overflow-auto max-h-[80vh] rounded-md border">
           <table class="table min-w-max w-full relative">
             <thead class="font-medium sticky top-0">
               <tr class="min-h-[1.25rem]">
-                <th colSpan={5} class="bg-gray-200">Web</th>
-                <th colSpan={5} class="bg-purple-200">Audiobooks</th>
-                <th colSpan={4} class="bg-blue-200">E-books</th>
+                <th colSpan={5} class="py-2 bg-gray-200">Web Novel</th>
+                <th colSpan={5} class="py-2 bg-purple-200">Audiobook</th>
+                <th colSpan={4} class="py-2 bg-blue-200">E-book</th>
               </tr>
               <tr>
                 {/* START: Web */}
-                <th scope="col" class="bg-gray-100">
+                <th scope="col" class="px-2 bg-gray-100">#</th>
+                <th scope="col" class="px-2 bg-gray-100">
                   Volume
                 </th>
-                <th scope="col" class="bg-gray-100 px-4">#</th>
-                <th scope="col" class="bg-gray-100 text-left">
+                <th scope="col" class="px-2 bg-gray-100 text-left">
                   Chapter
                 </th>
-                <th scope="col" class="bg-gray-100">
+                <th scope="col" class="px-2 bg-gray-100">
                   Published
                 </th>
-                <th scope="col" class="bg-gray-100">
+                <th scope="col" class="px-2 bg-gray-100">
                   Word Count
                 </th>
                 {/* END: Web */}
 
                 {/* START: Audiobooks */}
+                <th scope="col" class="px-2 bg-purple-100 border-l">#</th>
                 <th
                   scope="col"
-                  class="bg-purple-100 border-l"
+                  class="px-2 bg-purple-100"
                   colSpan={2}
                 >
                   Book
                 </th>
-                <th scope="col" class="bg-purple-100 px-4">#</th>
-                <th scope="col" class="bg-purple-100 text-left">
+                <th scope="col" class="px-2 bg-purple-100 text-left">
                   Chapter
                 </th>
-                <th scope="col" class="bg-purple-100">
+                <th scope="col" class="px-2 bg-purple-100">
                   Length
                 </th>
                 {/* END: Audiobooks */}
 
                 {/* START: E-books */}
+                <th scope="col" class="px-2 bg-blue-100 border-l">#</th>
                 <th
                   scope="col"
-                  class="bg-blue-100 border-l"
+                  class="px-2 bg-blue-100"
                   colSpan={2}
                 >
                   Book
                 </th>
-                <th scope="col" class="bg-blue-100 px-4">#</th>
-                <th scope="col" class="bg-blue-100 text-left">
+                <th scope="col" class="px-2 bg-blue-100 text-left">
                   Chapter
                 </th>
                 {/* END: E-books */}
@@ -159,54 +172,60 @@ export default function Page({ data }: PageProps<AllMedia | null>) {
                     : null;
 
                 return (
-                  <tr class="border-b">
+                  <tr class="border-t h-10">
                     {/* START: Web */}
-                    <td class="text-center">
-                      {chapter.partOf.webVolume.ref}
-                    </td>
-                    <td class="text-center">
+                    <td class="px-2 text-center">
                       {chapter.partOf.webVolume.order}
                     </td>
-                    <td>
-                      {chapter.partOf.webVolume.title}
+                    <td class="px-2 text-center">
+                      {chapter.partOf.webVolume.ref}
                     </td>
-                    <td>
+                    <td class="px-2">
+                      <a
+                        href={chapter.url}
+                        title={chapter.partOf.webVolume.title || ""}
+                        class="font-semibold text-[#1583af] hover:underline"
+                      >
+                        {chapter.partOf.webVolume.title}
+                      </a>
+                    </td>
+                    <td class="px-2 ">
                       {chapter.published}
                     </td>
-                    <td class="text-center">
+                    <td class="px-2 text-center">
                       {chapter.partOf.webVolume.totalWords}
                     </td>
                     {/* END: Web */}
 
                     {/* START: Audiobooks */}
-                    <td class="text-center px-1 border-l">
-                      {audioBook ? getRowImage(audioBook) : null}
-                    </td>
-                    <td class="py-1">
-                      {audioBook ? getRowTitle(audioBook) : null}
-                    </td>
-                    <td class="text-center">
+                    <td class="px-2 text-center border-l">
                       {chapter.partOf.audioBook.order}
                     </td>
-                    <td>
+                    <td class="pl-2 text-center">
+                      {audioBook ? getRowImage(audioBook) : null}
+                    </td>
+                    <td class="px-2 py-1">
+                      {audioBook ? getRowTitle(audioBook) : null}
+                    </td>
+                    <td class="px-2">
                       {chapter.partOf.audioBook.title}
                     </td>
-                    <td class="text-center">
+                    <td class="px-2 text-center">
                       {formatSeconds(chapter.partOf.audioBook.totalSeconds)}
                     </td>
                     {/* END: Audiobooks */}
 
                     {/* START: E-books */}
-                    <td class="text-center px-1 border-l">
-                      {eBook ? getRowImage(eBook) : null}
-                    </td>
-                    <td class="py-1">
-                      {eBook ? getRowTitle(eBook) : null}
-                    </td>
-                    <td class="text-center">
+                    <td class="px-2 text-center border-l">
                       {chapter.partOf.eBook.order}
                     </td>
-                    <td>
+                    <td class="pl-2 text-center">
+                      {eBook ? getRowImage(eBook) : null}
+                    </td>
+                    <td class="px-2 py-1">
+                      {eBook ? getRowTitle(eBook) : null}
+                    </td>
+                    <td class="px-2">
                       {chapter.partOf.eBook.title}
                     </td>
                     {/* END: E-books */}
@@ -216,6 +235,8 @@ export default function Page({ data }: PageProps<AllMedia | null>) {
             </tbody>
           </table>
         </div>
+
+        <DocumentFooter />
       </div>
     </>
   );

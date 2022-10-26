@@ -5,13 +5,6 @@ export default function DocumentHead() {
     <>
       <Head>
         <meta charSet="UTF-8" />
-
-        <title>The Wandering Inndex</title>
-
-        <meta
-          property="description"
-          content="A fan-made index for The Wandering Inn by pirateaba."
-        />
         <meta
           property="keywords"
           content="the wandering inn, encyclopedia, timeline, graph"
