@@ -25,6 +25,7 @@ export interface Chapter {
       ref: number | null;
       title: string | null;
       order: number | null;
+      totalSeconds: number | null;
     };
   };
 }

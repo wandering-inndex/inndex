@@ -17,6 +17,7 @@
       ref: 1
       title: "Chapter 1"
       order: 1
+      totalSeconds: 313
 - id: "ch-00020"
   url: "https://wanderinginn.com/2016/07/27/1-01/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_1.01"
@@ -34,6 +35,7 @@
       ref: 1
       title: "Chapter 2"
       order: 2
+      totalSeconds: 1143
 - id: "ch-00030"
   url: "https://wanderinginn.com/2016/07/30/1-02/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_1.02"
@@ -51,6 +53,7 @@
       ref: 1
       title: "Chapter 3"
       order: 3
+      totalSeconds: 1840
 - id: "ch-00040"
   url: "https://wanderinginn.com/2016/08/07/1-03/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_1.03"
@@ -68,6 +71,7 @@
       ref: 1
       title: "Chapter 4"
       order: 4
+      totalSeconds: 754
 - id: "ch-00050"
   url: "https://wanderinginn.com/2016/08/10/1-04/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_1.04"
@@ -85,6 +89,7 @@
       ref: 1
       title: "Chapter 5"
       order: 5
+      totalSeconds: 1696
 - id: "ch-00060"
   url: "https://wanderinginn.com/2016/08/13/1-05/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_1.05"
@@ -102,6 +107,7 @@
       ref: 1
       title: "Chapter 6"
       order: 6
+      totalSeconds: 1176
 - id: "ch-00070"
   url: "https://wanderinginn.com/2016/08/17/1-06/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_1.06"
@@ -119,6 +125,7 @@
       ref: 1
       title: "Chapter 7"
       order: 7
+      totalSeconds: 1469
 - id: "ch-00080"
   url: "https://wanderinginn.com/2016/08/20/1-07/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_1.07"
@@ -136,6 +143,7 @@
       ref: 1
       title: "Chapter 8"
       order: 8
+      totalSeconds: 2608
 - id: "ch-00090"
   url: "https://wanderinginn.com/2016/08/24/1-08/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_1.08"
@@ -153,6 +161,7 @@
       ref: 1
       title: "Chapter 9"
       order: 9
+      totalSeconds: 1173
 - id: "ch-00100"
   url: "https://wanderinginn.com/2016/08/28/1-09/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_1.09"
@@ -170,6 +179,7 @@
       ref: 1
       title: "Chapter 10"
       order: 10
+      totalSeconds: 1346
 - id: "ch-00110"
   url: "https://wanderinginn.com/2016/08/31/1-10/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_1.10"
@@ -187,6 +197,7 @@
       ref: 1
       title: "Chapter 11"
       order: 11
+      totalSeconds: 2610
 - id: "ch-00120"
   url: "https://wanderinginn.com/2016/09/04/1-11/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_1.11"
@@ -204,6 +215,7 @@
       ref: 1
       title: "Chapter 12"
       order: 12
+      totalSeconds: 1412
 - id: "ch-00130"
   url: "https://wanderinginn.com/2016/09/04/interlude/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Interlude_-_1"
@@ -221,6 +233,7 @@
       ref: 1
       title: "Interlude"
       order: 13
+      totalSeconds: 586
 - id: "ch-00140"
   url: "https://wanderinginn.com/2016/09/07/1-12/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_1.12"
@@ -238,6 +251,7 @@
       ref: 1
       title: "Chapter 13"
       order: 14
+      totalSeconds: 1037
 - id: "ch-00150"
   url: "https://wanderinginn.com/2016/09/11/1-13/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_1.13"
@@ -255,6 +269,7 @@
       ref: 1
       title: "Chapter 14"
       order: 15
+      totalSeconds: 1675
 - id: "ch-00160"
   url: "https://wanderinginn.com/2016/09/14/1-14/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_1.14"
@@ -272,6 +287,7 @@
       ref: 1
       title: "Chapter 15"
       order: 16
+      totalSeconds: 1554
 - id: "ch-00170"
   url: "https://wanderinginn.com/2016/09/18/1-15/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_1.15"
@@ -289,6 +305,7 @@
       ref: 1
       title: "Chapter 16"
       order: 17
+      totalSeconds: 1814
 - id: "ch-00180"
   url: "https://wanderinginn.com/2016/09/21/1-16/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_1.16"
@@ -306,6 +323,7 @@
       ref: 1
       title: "Chapter 17"
       order: 18
+      totalSeconds: 565
 - id: "ch-00190"
   url: "https://wanderinginn.com/2016/09/25/1-17/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_1.17"
@@ -323,6 +341,7 @@
       ref: 1
       title: "Chapter 18"
       order: 19
+      totalSeconds: 1915
 - id: "ch-00200"
   url: "https://wanderinginn.com/2016/09/28/1-18/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_1.18"
@@ -340,6 +359,7 @@
       ref: 1
       title: "Chapter 19"
       order: 20
+      totalSeconds: 1162
 - id: "ch-00210"
   url: "https://wanderinginn.com/2016/10/02/1-19/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_1.19"
@@ -357,6 +377,7 @@
       ref: 1
       title: "Chapter 20"
       order: 21
+      totalSeconds: 1528
 - id: "ch-00220"
   url: "https://wanderinginn.com/2016/10/05/1-20/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_1.20"
@@ -374,6 +395,7 @@
       ref: 1
       title: "Chapter 21"
       order: 22
+      totalSeconds: 1915
 - id: "ch-00230"
   url: "https://wanderinginn.com/2016/10/06/interlude-1-00-r/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_1.00_R"
@@ -391,6 +413,7 @@
       ref: 1
       title: "Chapter 22"
       order: 23
+      totalSeconds: 1084
 - id: "ch-00240"
   url: "https://wanderinginn.com/2016/10/12/1-01-r/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_1.01_R"
@@ -408,6 +431,7 @@
       ref: 1
       title: "Chapter 23"
       order: 24
+      totalSeconds: 1692
 - id: "ch-00250"
   url: "https://wanderinginn.com/2016/10/16/1-21/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_1.21"
@@ -425,6 +449,7 @@
       ref: 1
       title: "Chapter 24"
       order: 25
+      totalSeconds: 2364
 - id: "ch-00260"
   url: "https://wanderinginn.com/2016/10/19/1-22/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_1.22"
@@ -442,6 +467,7 @@
       ref: 1
       title: "Chapter 25"
       order: 26
+      totalSeconds: 2350
 - id: "ch-00270"
   url: "https://wanderinginn.com/2016/10/23/1-23/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_1.23"
@@ -459,6 +485,7 @@
       ref: 1
       title: "Chapter 26"
       order: 27
+      totalSeconds: 2394
 - id: "ch-00280"
   url: "https://wanderinginn.com/2016/10/26/interlude-king-edition/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Interlude:_King_Edition"
@@ -476,6 +503,7 @@
       ref: 1
       title: "Interlude: The King of Destruction"
       order: 28
+      totalSeconds: 1590
 - id: "ch-00290"
   url: "https://wanderinginn.com/2016/10/30/1-24/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_1.24"
@@ -493,6 +521,7 @@
       ref: 1
       title: "Chapter 27"
       order: 29
+      totalSeconds: 3450
 - id: "ch-00300"
   url: "https://wanderinginn.com/2016/11/02/1-02-r/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_1.02_R"
@@ -510,6 +539,7 @@
       ref: 1
       title: "Chapter 28"
       order: 30
+      totalSeconds: 2752
 - id: "ch-00310"
   url: "https://wanderinginn.com/2016/11/06/1-03-r/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_1.03_R"
@@ -527,6 +557,7 @@
       ref: 1
       title: "Chapter 29"
       order: 31
+      totalSeconds: 1781
 - id: "ch-00320"
   url: "https://wanderinginn.com/2016/11/09/1-25/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_1.25"
@@ -544,6 +575,7 @@
       ref: 1
       title: "Chapter 30"
       order: 32
+      totalSeconds: 2095
 - id: "ch-00330"
   url: "https://wanderinginn.com/2016/11/13/1-26/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_1.26"
@@ -561,6 +593,7 @@
       ref: 1
       title: "Chapter 31"
       order: 33
+      totalSeconds: 2494
 - id: "ch-00340"
   url: "https://wanderinginn.com/2016/11/16/1-27/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_1.27"
@@ -578,6 +611,7 @@
       ref: 1
       title: "Chapter 32"
       order: 34
+      totalSeconds: 2287
 - id: "ch-00350"
   url: "https://wanderinginn.com/2016/11/20/1-04-r/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_1.04_R"
@@ -595,6 +629,7 @@
       ref: 1
       title: "Chapter 33"
       order: 35
+      totalSeconds: 2311
 - id: "ch-00360"
   url: "https://wanderinginn.com/2016/11/23/1-05-r/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_1.05_R"
@@ -612,6 +647,7 @@
       ref: 1
       title: "Chapter 34"
       order: 36
+      totalSeconds: 3389
 - id: "ch-00370"
   url: "https://wanderinginn.com/2016/11/27/1-28/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_1.28"
@@ -629,6 +665,7 @@
       ref: 1
       title: "Chapter 35"
       order: 37
+      totalSeconds: 2764
 - id: "ch-00380"
   url: "https://wanderinginn.com/2016/11/30/1-06-r/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_1.06_R"
@@ -646,6 +683,7 @@
       ref: 1
       title: "Chapter 36"
       order: 38
+      totalSeconds: 2617
 - id: "ch-00390"
   url: "https://wanderinginn.com/2016/12/04/1-29/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_1.29"
@@ -663,6 +701,7 @@
       ref: 1
       title: "Chapter 37"
       order: 39
+      totalSeconds: 3359
 - id: "ch-00400"
   url: "https://wanderinginn.com/2016/12/07/1-30/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_1.30"
@@ -680,6 +719,7 @@
       ref: 1
       title: "Chapter 38"
       order: 40
+      totalSeconds: 2530
 - id: "ch-00410"
   url: "https://wanderinginn.com/2016/12/11/1-31/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_1.31"
@@ -697,6 +737,7 @@
       ref: 1
       title: "Chapter 39"
       order: 41
+      totalSeconds: 3625
 - id: "ch-00420"
   url: "https://wanderinginn.com/2016/12/14/1-07-r/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_1.07_R"
@@ -714,6 +755,7 @@
       ref: 1
       title: "Chapter 40"
       order: 42
+      totalSeconds: 3585
 - id: "ch-00430"
   url: "https://wanderinginn.com/2016/12/18/1-08-r/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_1.08_R"
@@ -731,6 +773,7 @@
       ref: 1
       title: "Chapter 41"
       order: 43
+      totalSeconds: 2807
 - id: "ch-00440"
   url: "https://wanderinginn.com/2016/12/21/1-32/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_1.32"
@@ -748,6 +791,7 @@
       ref: 1
       title: "Chapter 42"
       order: 44
+      totalSeconds: 2846
 - id: "ch-00450"
   url: "https://wanderinginn.com/2016/12/25/1-33/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_1.33"
@@ -765,6 +809,7 @@
       ref: 1
       title: "Chapter 43"
       order: 45
+      totalSeconds: 3698
 - id: "ch-00460"
   url: "https://wanderinginn.com/2016/12/28/1-09-r/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_1.09_R"
@@ -782,6 +827,7 @@
       ref: 1
       title: "Chapter 44"
       order: 46
+      totalSeconds: 2373
 - id: "ch-00470"
   url: "https://wanderinginn.com/2017/01/01/1-10-r/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_1.10_R"
@@ -799,6 +845,7 @@
       ref: 1
       title: "Chapter 45"
       order: 47
+      totalSeconds: 3221
 - id: "ch-00480"
   url: "https://wanderinginn.com/2017/01/04/1-34/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_1.34"
@@ -816,6 +863,7 @@
       ref: 1
       title: "Chapter 46"
       order: 48
+      totalSeconds: 3682
 - id: "ch-00490"
   url: "https://wanderinginn.com/2017/01/08/1-35/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_1.35"
@@ -833,6 +881,7 @@
       ref: 1
       title: "Chapter 47"
       order: 49
+      totalSeconds: 3141
 - id: "ch-00500"
   url: "https://wanderinginn.com/2017/01/11/1-11-r/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_1.11_R"
@@ -850,6 +899,7 @@
       ref: 1
       title: "Chapter 48"
       order: 50
+      totalSeconds: 2627
 - id: "ch-00510"
   url: "https://wanderinginn.com/2017/01/15/1-12-r/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_1.12_R"
@@ -867,6 +917,7 @@
       ref: 1
       title: "Chapter 49"
       order: 51
+      totalSeconds: 3997
 - id: "ch-00520"
   url: "https://wanderinginn.com/2017/01/18/1-36/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_1.36"
@@ -884,6 +935,7 @@
       ref: 1
       title: "Chapter 50"
       order: 52
+      totalSeconds: 3548
 - id: "ch-00530"
   url: "https://wanderinginn.com/2017/01/22/1-37/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_1.37"
@@ -901,6 +953,7 @@
       ref: 1
       title: "Chapter 51"
       order: 53
+      totalSeconds: 3312
 - id: "ch-00540"
   url: "https://wanderinginn.com/2017/01/25/1-38/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_1.38"
@@ -918,6 +971,7 @@
       ref: 1
       title: "Chapter 52"
       order: 54
+      totalSeconds: 2991
 - id: "ch-00550"
   url: "https://wanderinginn.com/2017/01/29/1-39/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_1.39"
@@ -935,6 +989,7 @@
       ref: 1
       title: "Chapter 53"
       order: 55
+      totalSeconds: 2462
 - id: "ch-00560"
   url: "https://wanderinginn.com/2017/01/31/1-40/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_1.40"
@@ -952,6 +1007,7 @@
       ref: 1
       title: "Chapter 54"
       order: 56
+      totalSeconds: 3596
 - id: "ch-00570"
   url: "https://wanderinginn.com/2017/02/05/1-13-r/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_1.13_R"
@@ -969,6 +1025,7 @@
       ref: 1
       title: "Chapter 55"
       order: 57
+      totalSeconds: 3050
 - id: "ch-00580"
   url: "https://wanderinginn.com/2017/02/07/1-41/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_1.41"
@@ -986,6 +1043,7 @@
       ref: 1
       title: "Chapter 56"
       order: 58
+      totalSeconds: 3778
 - id: "ch-00590"
   url: "https://wanderinginn.com/2017/02/12/1-00-h/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_1.00_H"
@@ -1003,6 +1061,7 @@
       ref: 1
       title: "Chapter 57"
       order: 59
+      totalSeconds: 3531
 - id: "ch-00600"
   url: "https://wanderinginn.com/2017/02/15/1-01-h/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_1.01_H"
@@ -1020,6 +1079,7 @@
       ref: 1
       title: "Chapter 58"
       order: 60
+      totalSeconds: 2698
 - id: "ch-00610"
   url: "https://wanderinginn.com/2017/02/19/1-02-h/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_1.02_H"
@@ -1037,6 +1097,7 @@
       ref: 1
       title: "Chapter 59"
       order: 61
+      totalSeconds: 3903
 - id: "ch-00620"
   url: "https://wanderinginn.com/2017/02/22/1-42/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_1.42"
@@ -1054,6 +1115,7 @@
       ref: 1
       title: "Chapter 60"
       order: 62
+      totalSeconds: 3487
 - id: "ch-00630"
   url: "https://wanderinginn.com/2017/02/25/1-43/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_1.43"
@@ -1071,6 +1133,7 @@
       ref: 1
       title: "Chapter 61"
       order: 63
+      totalSeconds: 3162
 - id: "ch-00640"
   url: "https://wanderinginn.com/2017/03/01/1-44/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_1.44"
@@ -1088,6 +1151,7 @@
       ref: 1
       title: "Chapter 62"
       order: 64
+      totalSeconds: 3544
 - id: "ch-00650"
   url: "https://wanderinginn.com/2017/03/04/1-45/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_1.45"
@@ -1105,6 +1169,7 @@
       ref: 1
       title: "Chapter 63"
       order: 65
+      totalSeconds: 2087
 - id: "ch-00660"
   url: "https://wanderinginn.com/2017/03/07/interlude-2/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Interlude_-_2"
@@ -1122,6 +1187,7 @@
       ref: 2
       title: "Interlude"
       order: 66
+      totalSeconds: 1733
 - id: "ch-00670"
   url: "https://wanderinginn.com/2017/03/12/2-01/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_2.00"
@@ -1139,6 +1205,7 @@
       ref: 2
       title: "Chapter 1"
       order: 67
+      totalSeconds: 2447
 - id: "ch-00680"
   url: "https://wanderinginn.com/2017/03/15/2-02/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_2.01"
@@ -1156,6 +1223,7 @@
       ref: 2
       title: "Chapter 2"
       order: 68
+      totalSeconds: 2800
 - id: "ch-00690"
   url: "https://wanderinginn.com/2017/03/18/2-03/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_2.02"
@@ -1173,6 +1241,7 @@
       ref: 2
       title: "Chapter 3"
       order: 69
+      totalSeconds: 2630
 - id: "ch-00700"
   url: "https://wanderinginn.com/2017/03/22/2-04/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_2.03"
@@ -1190,6 +1259,7 @@
       ref: 2
       title: "Chapter 4"
       order: 70
+      totalSeconds: 4013
 - id: "ch-00710"
   url: "https://wanderinginn.com/2017/03/25/2-05/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_2.04"
@@ -1207,6 +1277,7 @@
       ref: 2
       title: "Chapter 5"
       order: 71
+      totalSeconds: 4212
 - id: "ch-00720"
   url: "https://wanderinginn.com/2017/03/28/2-06/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_2.05"
@@ -1224,6 +1295,7 @@
       ref: 2
       title: "Chapter 6"
       order: 72
+      totalSeconds: 2834
 - id: "ch-00730"
   url: "https://wanderinginn.com/2017/04/02/2-07/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_2.06"
@@ -1241,6 +1313,7 @@
       ref: 2
       title: "Chapter 7"
       order: 73
+      totalSeconds: 3265
 - id: "ch-00740"
   url: "https://wanderinginn.com/2017/04/04/2-08/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_2.07"
@@ -1258,6 +1331,7 @@
       ref: 2
       title: "Chapter 8"
       order: 74
+      totalSeconds: 3246
 - id: "ch-00750"
   url: "https://wanderinginn.com/2017/04/09/2-09/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_2.08"
@@ -1275,6 +1349,7 @@
       ref: 2
       title: "Chapter 9"
       order: 75
+      totalSeconds: 3534
 - id: "ch-00760"
   url: "https://wanderinginn.com/2017/04/12/2-10/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_2.09"
@@ -1292,6 +1367,7 @@
       ref: 2
       title: "Chapter 10"
       order: 76
+      totalSeconds: 3501
 - id: "ch-00770"
   url: "https://wanderinginn.com/2017/04/12/2-00-t/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_2.10_T"
@@ -1309,6 +1385,7 @@
       ref: 2
       title: "Chapter 11: Toren"
       order: 77
+      totalSeconds: 2780
 - id: "ch-00780"
   url: "https://wanderinginn.com/2017/04/13/2-11/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_2.11"
@@ -1326,6 +1403,7 @@
       ref: 2
       title: "Chapter 12"
       order: 78
+      totalSeconds: 3481
 - id: "ch-00790"
   url: "https://wanderinginn.com/2017/04/14/2-12/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_2.12"
@@ -1343,6 +1421,7 @@
       ref: 2
       title: "Chapter 13"
       order: 79
+      totalSeconds: 4032
 - id: "ch-00800"
   url: "https://wanderinginn.com/2017/04/15/2-13/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_2.13"
@@ -1360,6 +1439,7 @@
       ref: 2
       title: "Chapter 14"
       order: 80
+      totalSeconds: 3249
 - id: "ch-00810"
   url: "https://wanderinginn.com/2017/04/16/2-00-g/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_2.14_G"
@@ -1377,6 +1457,7 @@
       ref: 2
       title: "Chapter 15: Goblins"
       order: 81
+      totalSeconds: 3937
 - id: "ch-00820"
   url: "https://wanderinginn.com/2017/04/17/side-story-mating-rituals/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/S01_-_Mating_Rituals"
@@ -1394,6 +1475,7 @@
       ref: 2
       title: "Side Story: Mating Rituals"
       order: 82
+      totalSeconds: 3962
 - id: "ch-00830"
   url: "https://wanderinginn.com/2017/04/18/2-14/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_2.15"
@@ -1411,6 +1493,7 @@
       ref: 2
       title: "Chapter 16"
       order: 83
+      totalSeconds: 3696
 - id: "ch-00840"
   url: "https://wanderinginn.com/2017/04/22/2-15/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_2.16"
@@ -1428,6 +1511,7 @@
       ref: 2
       title: "Chapter 17"
       order: 84
+      totalSeconds: 3856
 - id: "ch-00850"
   url: "https://wanderinginn.com/2017/04/22/2-16/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_2.17"
@@ -1445,6 +1529,7 @@
       ref: 2
       title: "Chapter 18"
       order: 85
+      totalSeconds: 4156
 - id: "ch-00860"
   url: "https://wanderinginn.com/2017/04/25/2-17/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_2.18"
@@ -1462,6 +1547,7 @@
       ref: 2
       title: "Chapter 19"
       order: 86
+      totalSeconds: 3304
 - id: "ch-00870"
   url: "https://wanderinginn.com/2017/04/27/2-01-g/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_2.19_G"
@@ -1479,6 +1565,7 @@
       ref: 2
       title: "Chapter 20"
       order: 87
+      totalSeconds: 3698
 - id: "ch-00880"
   url: "https://wanderinginn.com/2017/04/29/2-18/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_2.20"
@@ -1496,6 +1583,7 @@
       ref: 2
       title: "Chapter 21"
       order: 88
+      totalSeconds: 4267
 - id: "ch-00890"
   url: "https://wanderinginn.com/2017/05/03/2-19/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_2.21"
@@ -1513,6 +1601,7 @@
       ref: 2
       title: "Chapter 22"
       order: 89
+      totalSeconds: 4415
 - id: "ch-00900"
   url: "https://wanderinginn.com/2017/05/05/2-00-k/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_2.22_K"
@@ -1530,6 +1619,7 @@
       ref: 2
       title: "Chapter 23: King of Destruction"
       order: 90
+      totalSeconds: 4750
 - id: "ch-00910"
   url: "https://wanderinginn.com/2017/05/07/2-20/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_2.23"
@@ -1547,6 +1637,7 @@
       ref: 2
       title: "Chapter 24"
       order: 91
+      totalSeconds: 4913
 - id: "ch-00920"
   url: "https://wanderinginn.com/2017/05/10/2-01-t/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_2.24_T"
@@ -1564,6 +1655,7 @@
       ref: 2
       title: "Chapter 25: Toren"
       order: 92
+      totalSeconds: 3741
 - id: "ch-00930"
   url: "https://wanderinginn.com/2017/05/14/2-21/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_2.25"
@@ -1581,6 +1673,7 @@
       ref: 2
       title: "Chapter 26"
       order: 93
+      totalSeconds: 4408
 - id: "ch-00940"
   url: "https://wanderinginn.com/2017/05/17/2-22/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_2.26"
@@ -1598,6 +1691,7 @@
       ref: 2
       title: "Chapter 27"
       order: 94
+      totalSeconds: 4403
 - id: "ch-00950"
   url: "https://wanderinginn.com/2017/04/25/1-00-c/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_1.00_C"
@@ -1615,6 +1709,7 @@
       ref: 2
       title: "Side Story: Clown, Part 1"
       order: 95
+      totalSeconds: 3996
 - id: "ch-00960"
   url: "https://wanderinginn.com/2017/04/26/1-01-c/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_1.01_C"
@@ -1632,6 +1727,7 @@
       ref: 2
       title: "Side Story: Clown, Part 2"
       order: 96
+      totalSeconds: 1932
 - id: "ch-00970"
   url: "https://wanderinginn.com/2017/05/21/2-02-g/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_2.27_G"
@@ -1649,6 +1745,7 @@
       ref: 2
       title: "Chapter 28: Goblins"
       order: 97
+      totalSeconds: 4253
 - id: "ch-00980"
   url: "https://wanderinginn.com/2017/05/24/2-23/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_2.28"
@@ -1666,6 +1763,7 @@
       ref: 2
       title: "Chapter 29"
       order: 98
+      totalSeconds: 4176
 - id: "ch-00990"
   url: "https://wanderinginn.com/2017/05/26/2-24/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_2.29"
@@ -1683,6 +1781,7 @@
       ref: 2
       title: "Chapter 30"
       order: 99
+      totalSeconds: 4441
 - id: "ch-01000"
   url: "https://wanderinginn.com/2017/05/28/2-25/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_2.30"
@@ -1700,6 +1799,7 @@
       ref: 2
       title: "Chapter 31"
       order: 100
+      totalSeconds: 4079
 - id: "ch-01010"
   url: "https://wanderinginn.com/2017/05/31/2-26/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_2.31"
@@ -1717,6 +1817,7 @@
       ref: 2
       title: "Chapter 32"
       order: 101
+      totalSeconds: 4718
 - id: "ch-01020"
   url: "https://wanderinginn.com/2017/06/04/2-00-h/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_2.32_H"
@@ -1734,6 +1835,7 @@
       ref: 2
       title: "Chapter 33: Horns of Hammerad"
       order: 102
+      totalSeconds: 4523
 - id: "ch-01030"
   url: "https://wanderinginn.com/2017/06/07/2-27/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_2.33"
@@ -1751,6 +1853,7 @@
       ref: 2
       title: "Chapter 34"
       order: 103
+      totalSeconds: 4606
 - id: "ch-01040"
   url: "https://wanderinginn.com/2017/06/09/2-28/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_2.34"
@@ -1768,6 +1871,7 @@
       ref: 2
       title: "Chapter 35"
       order: 104
+      totalSeconds: 3743
 - id: "ch-01050"
   url: "https://wanderinginn.com/2017/06/11/2-29/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_2.35"
@@ -1785,6 +1889,7 @@
       ref: 2
       title: "Chapter 36"
       order: 105
+      totalSeconds: 4511
 - id: "ch-01060"
   url: "https://wanderinginn.com/2017/06/14/2-03-g/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_2.36_G"
@@ -1802,6 +1907,7 @@
       ref: 2
       title: "Chapter 37: Goblins"
       order: 106
+      totalSeconds: 3354
 - id: "ch-01070"
   url: "https://wanderinginn.com/2017/06/18/2-30/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_2.37"
@@ -1819,6 +1925,7 @@
       ref: 2
       title: "Chapter 38"
       order: 107
+      totalSeconds: 4012
 - id: "ch-01080"
   url: "https://wanderinginn.com/2017/06/21/2-31/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_2.38"
@@ -1836,6 +1943,7 @@
       ref: 2
       title: "Chapter 39"
       order: 108
+      totalSeconds: 5362
 - id: "ch-01090"
   url: "https://wanderinginn.com/2017/06/24/interlude-3/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Interlude_-_3"
@@ -1853,6 +1961,7 @@
       ref: 2
       title: "Interlude"
       order: 109
+      totalSeconds: 3994
 - id: "ch-01100"
   url: "https://wanderinginn.com/2017/05/28/s02-the-antinium-wars-pt-1/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/S02_%E2%80%93_The_Antinium_Wars_(Pt.1)"
@@ -1870,6 +1979,7 @@
       ref: 2
       title: "Side Story: The Antinium Wars, Part 1"
       order: 110
+      totalSeconds: 2375
 - id: "ch-01110"
   url: "https://wanderinginn.com/2017/05/31/s02-the-antinium-wars-pt-2/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/S02_%E2%80%93_The_Antinium_Wars_(Pt.2)"
@@ -1887,6 +1997,7 @@
       ref: 2
       title: "Side Story: The Antinium Wars, Part 2"
       order: 111
+      totalSeconds: 3119
 - id: "ch-01120"
   url: "https://wanderinginn.com/2017/06/27/2-32/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_2.39"
@@ -1904,6 +2015,7 @@
       ref: 2
       title: "Chapter 40"
       order: 112
+      totalSeconds: 4864
 - id: "ch-01130"
   url: "https://wanderinginn.com/2017/07/01/2-33/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_2.40"
@@ -1921,6 +2033,7 @@
       ref: 2
       title: "Chapter 41"
       order: 113
+      totalSeconds: 4919
 - id: "ch-01140"
   url: "https://wanderinginn.com/2017/07/04/2-34/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_2.41"
@@ -1938,6 +2051,7 @@
       ref: 2
       title: "Chapter 42"
       order: 114
+      totalSeconds: 5908
 - id: "ch-01150"
   url: "https://wanderinginn.com/2017/07/08/2-35/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_2.42"
@@ -1955,6 +2069,7 @@
       ref: 2
       title: "Chapter 43"
       order: 115
+      totalSeconds: 4410
 - id: "ch-01160"
   url: "https://wanderinginn.com/2017/07/11/2-36/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_2.43"
@@ -1972,6 +2087,7 @@
       ref: 2
       title: "Chapter 44"
       order: 116
+      totalSeconds: 3873
 - id: "ch-01170"
   url: "https://wanderinginn.com/2017/07/15/2-37/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_2.44"
@@ -1989,6 +2105,7 @@
       ref: 2
       title: "Chapter 45"
       order: 117
+      totalSeconds: 3587
 - id: "ch-01180"
   url: "https://wanderinginn.com/2017/07/18/2-38/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_2.45"
@@ -2006,6 +2123,7 @@
       ref: 2
       title: "Chapter 46"
       order: 118
+      totalSeconds: 4999
 - id: "ch-01190"
   url: "https://wanderinginn.com/2017/06/30/s03-wistram-days-pt-1/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/S03_%E2%80%93_Wistram_Days_(Pt.1)"
@@ -2023,6 +2141,7 @@
       ref: 4
       title: "Chapter 7: Wistram Days, Part 1"
       order: 156
+      totalSeconds: 4633
 - id: "ch-01200"
   url: "https://wanderinginn.com/2017/07/22/2-39/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_2.46"
@@ -2040,6 +2159,7 @@
       ref: 2
       title: "Chapter 47"
       order: 119
+      totalSeconds: 4684
 - id: "ch-01210"
   url: "https://wanderinginn.com/2017/07/25/2-40/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_2.47"
@@ -2057,6 +2177,7 @@
       ref: 2
       title: "Chapter 48"
       order: 120
+      totalSeconds: 4683
 - id: "ch-01220"
   url: "https://wanderinginn.com/2017/07/29/2-41/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_2.48"
@@ -2074,6 +2195,7 @@
       ref: 2
       title: "Chapter 49"
       order: 121
+      totalSeconds: 5393
 - id: "ch-01230"
   url: "https://wanderinginn.com/2017/08/01/3-00-e/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_3.00_E"
@@ -2091,6 +2213,7 @@
       ref: 3
       title: "Chapter 1: Emperor"
       order: 122
+      totalSeconds: 4708
 - id: "ch-01240"
   url: "https://wanderinginn.com/2017/08/05/3-01-e/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_3.01_E"
@@ -2108,6 +2231,7 @@
       ref: 3
       title: "Chapter 2: Emperor"
       order: 123
+      totalSeconds: 4576
 - id: "ch-01250"
   url: "https://wanderinginn.com/2017/08/08/3-02-h/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_3.02_H"
@@ -2125,6 +2249,7 @@
       ref: 3
       title: "Chapter 3: Horns of Hammerad"
       order: 124
+      totalSeconds: 5628
 - id: "ch-01260"
   url: "https://wanderinginn.com/2017/08/12/3-03/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_3.03"
@@ -2142,6 +2267,7 @@
       ref: 3
       title: "Chapter 4"
       order: 125
+      totalSeconds: 5282
 - id: "ch-01270"
   url: "https://wanderinginn.com/2017/08/15/3-04/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_3.04"
@@ -2159,6 +2285,7 @@
       ref: 3
       title: "Chapter 5"
       order: 126
+      totalSeconds: 4485
 - id: "ch-01280"
   url: "https://wanderinginn.com/2017/08/19/3-05-l/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_3.05_L"
@@ -2176,6 +2303,7 @@
       ref: 3
       title: "Chapter 6: Lyonette"
       order: 127
+      totalSeconds: 4727
 - id: "ch-01290"
   url: "https://wanderinginn.com/2017/07/14/1-00-d/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_1.00_D"
@@ -2193,6 +2321,7 @@
       ref: 3
       title: "Chapter 7: Doctor"
       order: 128
+      totalSeconds: 4956
 - id: "ch-01300"
   url: "https://wanderinginn.com/2017/07/14/1-01-d/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_1.01_D"
@@ -2210,6 +2339,7 @@
       ref: 3
       title: "Chapter 8: Doctor"
       order: 129
+      totalSeconds: 4863
 - id: "ch-01310"
   url: "https://wanderinginn.com/2017/08/22/3-06-l/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_3.06_L"
@@ -2227,6 +2357,7 @@
       ref: 3
       title: "Chapter 9: Liscor"
       order: 130
+      totalSeconds: 6212
 - id: "ch-01320"
   url: "https://wanderinginn.com/2017/08/26/3-07-h/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_3.07_H"
@@ -2244,6 +2375,7 @@
       ref: 3
       title: "Chapter 10: Horns of Hammerad"
       order: 131
+      totalSeconds: 5758
 - id: "ch-01330"
   url: "https://wanderinginn.com/2017/08/29/3-08-h/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_3.08_H"
@@ -2261,6 +2393,7 @@
       ref: 3
       title: "Chapter 11: Horns of Hammerad"
       order: 132
+      totalSeconds: 4151
 - id: "ch-01340"
   url: "https://wanderinginn.com/2017/09/02/3-09/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_3.09"
@@ -2278,6 +2411,7 @@
       ref: 3
       title: "Chapter 12"
       order: 133
+      totalSeconds: 4448
 - id: "ch-01350"
   url: "https://wanderinginn.com/2017/09/05/3-10/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_3.10"
@@ -2295,6 +2429,7 @@
       ref: 3
       title: "Chapter 13"
       order: 134
+      totalSeconds: 4388
 - id: "ch-01360"
   url: "https://wanderinginn.com/2017/09/09/3-11-e/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_3.11_E"
@@ -2312,6 +2447,7 @@
       ref: 3
       title: "Chapter 14: Emperor"
       order: 135
+      totalSeconds: 4756
 - id: "ch-01370"
   url: "https://wanderinginn.com/2017/09/12/3-12-e/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_3.12_E"
@@ -2329,6 +2465,7 @@
       ref: 3
       title: "Chapter 15: Emperor"
       order: 136
+      totalSeconds: 3740
 - id: "ch-01380"
   url: "https://wanderinginn.com/2017/09/16/3-13/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_3.13"
@@ -2346,6 +2483,7 @@
       ref: 3
       title: "Chapter 16"
       order: 137
+      totalSeconds: 5695
 - id: "ch-01390"
   url: "https://wanderinginn.com/2017/09/19/3-14/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_3.14"
@@ -2363,6 +2501,7 @@
       ref: 3
       title: "Chapter 17: Emperor"
       order: 138
+      totalSeconds: 4582
 - id: "ch-01400"
   url: "https://wanderinginn.com/2017/09/23/3-15/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_3.15"
@@ -2380,6 +2519,7 @@
       ref: 3
       title: "Chapter 18"
       order: 139
+      totalSeconds: 4469
 - id: "ch-01410"
   url: "https://wanderinginn.com/2017/09/26/3-16"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_3.16"
@@ -2397,6 +2537,7 @@
       ref: 3
       title: "Chapter 19"
       order: 140
+      totalSeconds: 5568
 - id: "ch-01420"
   url: "https://wanderinginn.com/2017/08/31/s03-wistram-days-pt-2"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/S03_%E2%80%93_Wistram_Days_(Pt.2)"
@@ -2414,6 +2555,7 @@
       ref: 4
       title: "Chapter 8: Wistram Days, Part 2"
       order: 157
+      totalSeconds: 5573
 - id: "ch-01430"
   url: "https://wanderinginn.com/2017/09/27/3-17-t/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_3.17_T"
@@ -2431,6 +2573,7 @@
       ref: 3
       title: "Chapter 20: Toren"
       order: 141
+      totalSeconds: 4563
 - id: "ch-01440"
   url: "https://wanderinginn.com/2017/09/28/3-18-t/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_3.18_T"
@@ -2448,6 +2591,7 @@
       ref: 3
       title: "Chapter 21"
       order: 142
+      totalSeconds: 4574
 - id: "ch-01450"
   url: "https://wanderinginn.com/2017/09/30/3-19-t/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_3.19_T"
@@ -2465,6 +2609,7 @@
       ref: 3
       title: "Chapter 22: Toren"
       order: 143
+      totalSeconds: 4010
 - id: "ch-01460"
   url: "https://wanderinginn.com/2017/10/03/3-20-t/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_3.20_T"
@@ -2482,6 +2627,7 @@
       ref: 3
       title: "Chapter 23: Toren"
       order: 144
+      totalSeconds: 4674
 - id: "ch-01470"
   url: "https://wanderinginn.com/2017/10/07/3-21-l/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_3.21_L"
@@ -2499,6 +2645,7 @@
       ref: 3
       title: "Chapter 24: Liscor"
       order: 145
+      totalSeconds: 4357
 - id: "ch-01480"
   url: "https://wanderinginn.com/2017/10/10/3-22-l/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_3.22_L"
@@ -2516,6 +2663,7 @@
       ref: 3
       title: "Chapter 25: Liscor"
       order: 146
+      totalSeconds: 4671
 - id: "ch-01490"
   url: "https://wanderinginn.com/2017/10/14/3-23-l/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_3.23_L"
@@ -2533,6 +2681,7 @@
       ref: 3
       title: "Chapter 26: Liscor"
       order: 147
+      totalSeconds: 6186
 - id: "ch-01500"
   url: "https://wanderinginn.com/2017/10/17/3-24/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_3.24"
@@ -2550,6 +2699,7 @@
       ref: 3
       title: "Chapter 27"
       order: 148
+      totalSeconds: 4391
 - id: "ch-01510"
   url: "https://wanderinginn.com/2017/10/21/3-25/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_3.25"
@@ -2567,6 +2717,7 @@
       ref: 3
       title: "Chapter 28"
       order: 149
+      totalSeconds: 4949
 - id: "ch-01520"
   url: "https://wanderinginn.com/2017/10/24/3-26-g/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_3.26_G"
@@ -2584,6 +2735,7 @@
       ref: 4
       title: "Chapter 1"
       order: 150
+      totalSeconds: 4329
 - id: "ch-01530"
   url: "https://wanderinginn.com/2017/10/26/3-27-m/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_3.27_M"
@@ -2601,6 +2753,7 @@
       ref: 4
       title: "Chapter 2"
       order: 151
+      totalSeconds: 5204
 - id: "ch-01540"
   url: "https://wanderinginn.com/2017/10/28/3-28-g/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_3.28_G"
@@ -2618,6 +2771,7 @@
       ref: 4
       title: "Chapter 3"
       order: 152
+      totalSeconds: 5808
 - id: "ch-01550"
   url: "https://wanderinginn.com/2017/10/31/3-29-g/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_3.29_G"
@@ -2635,6 +2789,7 @@
       ref: 4
       title: "Chapter 4"
       order: 153
+      totalSeconds: 4713
 - id: "ch-01560"
   url: "https://wanderinginn.com/2017/11/04/3-30/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_3.30"
@@ -2652,6 +2807,7 @@
       ref: 4
       title: "Chapter 5"
       order: 154
+      totalSeconds: 5165
 - id: "ch-01570"
   url: "https://wanderinginn.com/2017/11/07/3-31-g/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_3.31_G"
@@ -2669,6 +2825,7 @@
       ref: 4
       title: "Chapter 6"
       order: 155
+      totalSeconds: 4307
 - id: "ch-01580"
   url: "https://wanderinginn.com/2017/11/11/wistram-days-pt-3/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/S03_%E2%80%93_Wistram_Days_(Pt.3)"
@@ -2686,6 +2843,7 @@
       ref: 4
       title: "Chapter 9: Wistram Days, Part 3"
       order: 158
+      totalSeconds: 4282
 - id: "ch-01590"
   url: "https://wanderinginn.com/2017/11/12/wistram-days-pt-4/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/S03_%E2%80%93_Wistram_Days_(Pt.4)"
@@ -2703,6 +2861,7 @@
       ref: 4
       title: "Chapter 10: Wistram Days, Part 4"
       order: 159
+      totalSeconds: 5126
 - id: "ch-01600"
   url: "https://wanderinginn.com/2017/11/14/wistram-days-pt-5/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/S03_%E2%80%93_Wistram_Days_(Pt.5)"
@@ -2720,6 +2879,7 @@
       ref: 4
       title: "Chapter 11: Wistram Days, Part 5"
       order: 160
+      totalSeconds: 5060
 - id: "ch-01610"
   url: "https://wanderinginn.com/2017/11/18/wistram-days-pt-6/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/S03_%E2%80%93_Wistram_Days_(Pt.6)"
@@ -2737,6 +2897,7 @@
       ref: 4
       title: "Chapter 12: Wistram Days, Part 6"
       order: 161
+      totalSeconds: 4794
 - id: "ch-01620"
   url: "https://wanderinginn.com/2017/11/21/wistram-days-pt-7/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/S03_%E2%80%93_Wistram_Days_(Pt.7)"
@@ -2754,6 +2915,7 @@
       ref: 4
       title: "Chapter 13: Wistram Days, Part 7"
       order: 162
+      totalSeconds: 5240
 - id: "ch-01630"
   url: "https://wanderinginn.com/2017/11/25/3-32/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_3.32"
@@ -2771,6 +2933,7 @@
       ref: 4
       title: "Chapter 14"
       order: 163
+      totalSeconds: 4715
 - id: "ch-01640"
   url: "https://wanderinginn.com/2017/11/28/3-33/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_3.33"
@@ -2788,6 +2951,7 @@
       ref: 4
       title: "Chapter 15"
       order: 164
+      totalSeconds: 4503
 - id: "ch-01650"
   url: "https://wanderinginn.com/2017/12/02/3-34/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_3.34"
@@ -2805,6 +2969,7 @@
       ref: 4
       title: "Chapter 16"
       order: 165
+      totalSeconds: 5991
 - id: "ch-01660"
   url: "https://wanderinginn.com/2017/12/05/3-35/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_3.35"
@@ -2822,6 +2987,7 @@
       ref: 4
       title: "Chapter 17"
       order: 166
+      totalSeconds: 4254
 - id: "ch-01670"
   url: "https://wanderinginn.com/2017/12/09/3-36/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_3.36"
@@ -2839,6 +3005,7 @@
       ref: 4
       title: "Chapter 18"
       order: 167
+      totalSeconds: 4904
 - id: "ch-01680"
   url: "https://wanderinginn.com/2017/12/12/3-37/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_3.37"
@@ -2856,6 +3023,7 @@
       ref: 4
       title: "Chapter 19"
       order: 168
+      totalSeconds: 4709
 - id: "ch-01690"
   url: "https://wanderinginn.com/2017/12/16/3-38/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_3.38"
@@ -2873,6 +3041,7 @@
       ref: 4
       title: "Chapter 20"
       order: 169
+      totalSeconds: 5167
 - id: "ch-01700"
   url: "https://wanderinginn.com/2017/12/19/3-39/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_3.39"
@@ -2890,6 +3059,7 @@
       ref: 4
       title: "Chapter 21"
       order: 170
+      totalSeconds: 4296
 - id: "ch-01710"
   url: "https://wanderinginn.com/2017/12/23/3-40/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_3.40"
@@ -2907,6 +3077,7 @@
       ref: 4
       title: "Chapter 22"
       order: 171
+      totalSeconds: 5104
 - id: "ch-01720"
   url: "https://wanderinginn.com/2017/12/25/3-41"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_3.41"
@@ -2924,6 +3095,7 @@
       ref: 4
       title: "Chapter 23"
       order: 172
+      totalSeconds: 5795
 - id: "ch-01730"
   url: "https://wanderinginn.com/2017/12/26/3-42/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_3.42"
@@ -2941,6 +3113,7 @@
       ref: 4
       title: "Chapter 24"
       order: 173
+      totalSeconds: 4354
 - id: "ch-01740"
   url: "https://wanderinginn.com/2017/12/30/interlude-4/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Interlude_-_4"
@@ -2958,6 +3131,7 @@
       ref: 4
       title: "Chapter 25"
       order: 174
+      totalSeconds: 5141
 - id: "ch-01750"
   url: "https://wanderinginn.com/2018/01/06/4-00-k/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_4.00_K"
@@ -2975,6 +3149,7 @@
       ref: 5
       title: "Chapter 1: King"
       order: 175
+      totalSeconds: 5436
 - id: "ch-01760"
   url: "https://wanderinginn.com/2018/01/09/4-01-k/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_4.01_K"
@@ -2992,6 +3167,7 @@
       ref: 5
       title: "Chapter 2: King"
       order: 176
+      totalSeconds: 6159
 - id: "ch-01770"
   url: "https://wanderinginn.com/2018/01/13/4-02-k/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_4.02_K"
@@ -3009,6 +3185,7 @@
       ref: 5
       title: "Chapter 3: King"
       order: 177
+      totalSeconds: 5652
 - id: "ch-01780"
   url: "https://wanderinginn.com/2018/01/16/4-03-k/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_4.03_K"
@@ -3026,6 +3203,7 @@
       ref: 5
       title: "Chapter 4: King"
       order: 178
+      totalSeconds: 6310
 - id: "ch-01790"
   url: "https://wanderinginn.com/2018/01/20/4-04-k/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_4.04_K"
@@ -3043,6 +3221,7 @@
       ref: 5
       title: "Chapter 5: King"
       order: 179
+      totalSeconds: 5162
 - id: "ch-01800"
   url: "https://wanderinginn.com/2018/01/23/4-05-k/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_4.05_K"
@@ -3060,6 +3239,7 @@
       ref: 5
       title: "Chapter 6: King"
       order: 180
+      totalSeconds: 6232
 - id: "ch-01810"
   url: "https://wanderinginn.com/2018/01/27/4-06-km/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_4.06_KM"
@@ -3077,6 +3257,7 @@
       ref: 5
       title: "Chapter 7: King and Magnolia"
       order: 181
+      totalSeconds: 5535
 - id: "ch-01820"
   url: "https://wanderinginn.com/2018/01/30/4-07/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_4.07"
@@ -3094,6 +3275,7 @@
       ref: 5
       title: "Chapter 8"
       order: 182
+      totalSeconds: 4865
 - id: "ch-01830"
   url: "https://wanderinginn.com/2018/02/01/4-08-t/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_4.08_T"
@@ -3111,6 +3293,7 @@
       ref: 5
       title: "Chapter 9: Toren"
       order: 183
+      totalSeconds: 5901
 - id: "ch-01840"
   url: "https://wanderinginn.com/2018/02/03/4-09/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_4.09"
@@ -3128,6 +3311,7 @@
       ref: 5
       title: "Chapter 10"
       order: 184
+      totalSeconds: 3589
 - id: "ch-01850"
   url: "https://wanderinginn.com/2018/02/06/4-10/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_4.10"
@@ -3145,6 +3329,7 @@
       ref: 5
       title: "Chapter 11"
       order: 185
+      totalSeconds: 4694
 - id: "ch-01860"
   url: "https://wanderinginn.com/2018/02/10/4-11/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_4.11"
@@ -3162,6 +3347,7 @@
       ref: 5
       title: "Chapter 12"
       order: 186
+      totalSeconds: 4668
 - id: "ch-01870"
   url: "https://wanderinginn.com/2018/02/13/4-12/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_4.12"
@@ -3179,6 +3365,7 @@
       ref: 5
       title: "Chapter 13"
       order: 187
+      totalSeconds: 4930
 - id: "ch-01880"
   url: "https://wanderinginn.com/2018/02/17/4-13-l/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_4.13_L"
@@ -3196,6 +3383,7 @@
       ref: 5
       title: "Chapter 14: Liscor"
       order: 188
+      totalSeconds: 5768
 - id: "ch-01890"
   url: "https://wanderinginn.com/2018/02/20/4-14-l/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_4.14_L"
@@ -3213,6 +3401,7 @@
       ref: 5
       title: "Chapter 15"
       order: 189
+      totalSeconds: 4339
 - id: "ch-01900"
   url: "https://wanderinginn.com/2018/02/20/4-15-l/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_4.15_L"
@@ -3230,6 +3419,7 @@
       ref: 5
       title: "Chapter 16"
       order: 190
+      totalSeconds: 5659
 - id: "ch-01910"
   url: "https://wanderinginn.com/2018/02/24/4-16/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_4.16"
@@ -3247,6 +3437,7 @@
       ref: 5
       title: "Chapter 17"
       order: 191
+      totalSeconds: 4595
 - id: "ch-01920"
   url: "https://wanderinginn.com/2018/02/27/4-17/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_4.17"
@@ -3264,6 +3455,7 @@
       ref: 5
       title: "Chapter 18"
       order: 192
+      totalSeconds: 4218
 - id: "ch-01930"
   url: "https://wanderinginn.com/2018/03/01/1-02-d/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_1.02_D"
@@ -3281,6 +3473,7 @@
       ref: 5
       title: "Chapter 19: Doctor"
       order: 193
+      totalSeconds: 4665
 - id: "ch-01940"
   url: "https://wanderinginn.com/2018/03/03/1-03-d/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_1.03_D"
@@ -3298,6 +3491,7 @@
       ref: 5
       title: "Chapter 20: Doctor"
       order: 194
+      totalSeconds: 4718
 - id: "ch-01950"
   url: "https://wanderinginn.com/2018/03/06/1-04-d/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_1.04_D"
@@ -3315,6 +3509,7 @@
       ref: 5
       title: "Chapter 21: Doctor"
       order: 195
+      totalSeconds: 3978
 - id: "ch-01960"
   url: "https://wanderinginn.com/2018/03/06/1-05-d/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_1.05_D"
@@ -3332,6 +3527,7 @@
       ref: 5
       title: "Chapter 22: Doctor"
       order: 196
+      totalSeconds: 4928
 - id: "ch-01970"
   url: "https://wanderinginn.com/2018/03/10/1-06-d/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_1.06_D"
@@ -3349,6 +3545,7 @@
       ref: 5
       title: "Chapter 23: Doctor"
       order: 197
+      totalSeconds: 5259
 - id: "ch-01980"
   url: "https://wanderinginn.com/2018/03/13/4-18/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_4.18"
@@ -3366,6 +3563,7 @@
       ref: 5
       title: "Chapter 24"
       order: 198
+      totalSeconds: 4519
 - id: "ch-01990"
   url: "https://wanderinginn.com/2018/03/17/4-19/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_4.19"
@@ -3383,6 +3581,7 @@
       ref: 5
       title: "Chapter 25"
       order: 199
+      totalSeconds: 5009
 - id: "ch-02000"
   url: "https://wanderinginn.com/2018/03/20/4-20-e/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_4.20_E"
@@ -3400,6 +3599,7 @@
       ref: 5
       title: "Chapter 26: Emperor"
       order: 200
+      totalSeconds: 5022
 - id: "ch-02010"
   url: "https://wanderinginn.com/2018/03/24/4-21-e/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_4.21_E"
@@ -3417,6 +3617,7 @@
       ref: 5
       title: "Chapter 27: Emperor"
       order: 201
+      totalSeconds: 4521
 - id: "ch-02020"
   url: "https://wanderinginn.com/2018/03/27/4-22-e/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_4.22_E"
@@ -3434,6 +3635,7 @@
       ref: 5
       title: "Chapter 28: Emperor"
       order: 202
+      totalSeconds: 3660
 - id: "ch-02030"
   url: "https://wanderinginn.com/2018/03/27/4-23-e/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_4.23_E"
@@ -3451,6 +3653,7 @@
       ref: 5
       title: "Chapter 29: Emperor"
       order: 203
+      totalSeconds: 4228
 - id: "ch-02040"
   url: "https://wanderinginn.com/2018/03/31/4-24/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_4.24"
@@ -3468,6 +3671,7 @@
       ref: 5
       title: "Chapter 30"
       order: 204
+      totalSeconds: 5611
 - id: "ch-02050"
   url: "https://wanderinginn.com/2018/04/03/4-25-n/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_4.25_N"
@@ -3485,6 +3689,7 @@
       ref: 5
       title: "Chapter 31: Niers"
       order: 205
+      totalSeconds: 5288
 - id: "ch-02060"
   url: "https://wanderinginn.com/2018/04/07/4-26-m/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_4.26_M"
@@ -3502,6 +3707,7 @@
       ref: 5
       title: "Chapter 32: Magnolia"
       order: 206
+      totalSeconds: 4907
 - id: "ch-02070"
   url: "https://wanderinginn.com/2018/04/10/4-27-h/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_4.27_H"
@@ -3519,6 +3725,7 @@
       ref: 5
       title: "Chapter 33: Horns of Hammerad"
       order: 207
+      totalSeconds: 5459
 - id: "ch-02080"
   url: "https://wanderinginn.com/2018/04/14/4-28/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_4.28"
@@ -3536,6 +3743,7 @@
       ref: 5
       title: "Chapter 34"
       order: 208
+      totalSeconds: 6062
 - id: "ch-02090"
   url: "https://wanderinginn.com/2018/04/17/4-29/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_4.29"
@@ -3553,6 +3761,7 @@
       ref: 5
       title: "Chapter 35"
       order: 209
+      totalSeconds: 5536
 - id: "ch-02100"
   url: "https://wanderinginn.com/2018/04/21/4-30/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_4.30"
@@ -3570,6 +3779,7 @@
       ref: 5
       title: "Chapter 36"
       order: 210
+      totalSeconds: 5376
 - id: "ch-02110"
   url: "https://wanderinginn.com/2018/04/24/4-31/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_4.31"
@@ -3587,6 +3797,7 @@
       ref: 5
       title: "Chapter 37"
       order: 211
+      totalSeconds: 5684
 - id: "ch-02120"
   url: "https://wanderinginn.com/2018/04/28/4-32-g/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_4.32_G"
@@ -3604,6 +3815,7 @@
       ref: 6
       title: "Chapter 1: Goblins"
       order: 212
+      totalSeconds: 4223
 - id: "ch-02130"
   url: "https://wanderinginn.com/2018/05/01/1-02-d-2/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_1.02_C"
@@ -3621,6 +3833,7 @@
       ref: 6
       title: "Chapter 2: Clown"
       order: 213
+      totalSeconds: 4670
 - id: "ch-02140"
   url: "https://wanderinginn.com/2018/05/01/1-03-d-2/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_1.03_C"
@@ -3638,6 +3851,7 @@
       ref: 6
       title: "Chapter 3: Clown"
       order: 214
+      totalSeconds: 5605
 - id: "ch-02150"
   url: "https://wanderinginn.com/2018/05/05/1-04-c/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_1.04_C"
@@ -3655,6 +3869,7 @@
       ref: 6
       title: "Chapter 4: Clown"
       order: 215
+      totalSeconds: 2667
 - id: "ch-02160"
   url: "https://wanderinginn.com/2018/05/05/1-05-c/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_1.05_C"
@@ -3672,6 +3887,7 @@
       ref: 6
       title: "Chapter 5: Clown"
       order: 216
+      totalSeconds: 4705
 - id: "ch-02170"
   url: "https://wanderinginn.com/2018/05/08/4-33/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_4.33"
@@ -3689,6 +3905,7 @@
       ref: 6
       title: "Chapter 6"
       order: 217
+      totalSeconds: 4884
 - id: "ch-02180"
   url: "https://wanderinginn.com/2018/05/12/4-34/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_4.34"
@@ -3706,6 +3923,7 @@
       ref: 6
       title: "Chapter 7"
       order: 218
+      totalSeconds: 5739
 - id: "ch-02190"
   url: "https://wanderinginn.com/2018/05/15/4-35-e/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_4.35_E"
@@ -3723,6 +3941,7 @@
       ref: 6
       title: "Chapter 8: Emperor"
       order: 219
+      totalSeconds: 4785
 - id: "ch-02200"
   url: "https://wanderinginn.com/2018/05/17/4-36-o/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_4.36_O"
@@ -3740,6 +3959,7 @@
       ref: 6
       title: "Chapter 9: Olesm"
       order: 220
+      totalSeconds: 4759
 - id: "ch-02210"
   url: "https://wanderinginn.com/2018/05/19/4-37-o/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_4.37_O"
@@ -3757,6 +3977,7 @@
       ref: 6
       title: "Chapter 10: Olesm"
       order: 221
+      totalSeconds: 5884
 - id: "ch-02220"
   url: "https://wanderinginn.com/2018/05/22/4-38-n/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_4.38"
@@ -3774,6 +3995,7 @@
       ref: 6
       title: "Chapter 11: Butler"
       order: 222
+      totalSeconds: 5433
 - id: "ch-02230"
   url: "https://wanderinginn.com/2018/05/26/4-39-g/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_4.39_G"
@@ -3791,6 +4013,7 @@
       ref: 6
       title: "Chapter 12: Goblins"
       order: 223
+      totalSeconds: 5659
 - id: "ch-02240"
   url: "https://wanderinginn.com/2018/05/29/4-40-l/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_4.40_L"
@@ -3808,6 +4031,7 @@
       ref: 6
       title: "Chapter 13: Liscor"
       order: 224
+      totalSeconds: 4836
 - id: "ch-02250"
   url: "https://wanderinginn.com/2018/06/02/4-41-l/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_4.41_L"
@@ -3825,6 +4049,7 @@
       ref: 6
       title: "Chapter 14: Liscor"
       order: 225
+      totalSeconds: 3396
 - id: "ch-02260"
   url: "https://wanderinginn.com/2018/06/02/4-42-l/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_4.42_L"
@@ -3842,6 +4067,7 @@
       ref: 6
       title: "Chapter 15: Liscor"
       order: 226
+      totalSeconds: 3408
 - id: "ch-02270"
   url: "https://wanderinginn.com/2018/06/05/4-43/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_4.43"
@@ -3859,6 +4085,7 @@
       ref: 6
       title: "Chapter 16"
       order: 227
+      totalSeconds: 5668
 - id: "ch-02280"
   url: "https://wanderinginn.com/2018/06/09/4-44-m/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_4.44_M"
@@ -3876,6 +4103,7 @@
       ref: 6
       title: "Chapter 17: Magnolia"
       order: 228
+      totalSeconds: 5279
 - id: "ch-02290"
   url: "https://wanderinginn.com/2018/06/12/4-45/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_4.45"
@@ -3893,6 +4121,7 @@
       ref: 6
       title: "Chapter 18"
       order: 229
+      totalSeconds: 5595
 - id: "ch-02300"
   url: "https://wanderinginn.com/2018/06/16/4-46/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_4.46"
@@ -3910,6 +4139,7 @@
       ref: 6
       title: "Chapter 19"
       order: 230
+      totalSeconds: 5767
 - id: "ch-02310"
   url: "https://wanderinginn.com/2018/06/19/4-47/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_4.47"
@@ -3927,6 +4157,7 @@
       ref: 6
       title: "Chapter 20"
       order: 231
+      totalSeconds: 5243
 - id: "ch-02320"
   url: "https://wanderinginn.com/2018/06/23/s02-the-antinium-wars-pt-3/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/S02_%E2%80%93_The_Antinium_Wars_(Pt.3)"
@@ -3944,6 +4175,7 @@
       ref: 6
       title: "Chapter 21: The Antinium Wars, Part 3"
       order: 232
+      totalSeconds: 5626
 - id: "ch-02330"
   url: "https://wanderinginn.com/2018/06/26/s02-the-antinium-wars-pt-4/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/S02_%E2%80%93_The_Antinium_Wars_(Pt.4)"
@@ -3961,6 +4193,7 @@
       ref: 6
       title: "Chapter 22: The Antinium Wars, Part 4"
       order: 233
+      totalSeconds: 3743
 - id: "ch-02340"
   url: "https://wanderinginn.com/2018/06/26/s02-the-antinium-wars-pt-5/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/S02_%E2%80%93_The_Antinium_Wars_(Pt.5)"
@@ -3978,6 +4211,7 @@
       ref: 6
       title: "Chapter 23: The Antinium Wars, Part 5"
       order: 234
+      totalSeconds: 3687
 - id: "ch-02350"
   url: "https://wanderinginn.com/2018/06/29/4-48/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_4.48"
@@ -3995,6 +4229,7 @@
       ref: 6
       title: "Chapter 24"
       order: 235
+      totalSeconds: 5247
 - id: "ch-02360"
   url: "https://wanderinginn.com/2018/07/07/4-49/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_4.49"
@@ -4012,6 +4247,7 @@
       ref: 6
       title: "Chapter 25"
       order: 236
+      totalSeconds: 5928
 - id: "ch-02370"
   url: "https://wanderinginn.com/2018/07/09/the-depthless-doctor/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/The_Depthless_Doctor"
@@ -4029,6 +4265,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: 0
 - id: "ch-02380"
   url: "https://wanderinginn.com/2018/10/19/glossary"
   wikiUrl: null
@@ -4046,6 +4283,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: 0
 - id: "ch-02390"
   url: "https://wanderinginn.com/2018/07/10/5-00/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_5.00"
@@ -4063,6 +4301,7 @@
       ref: 7
       title: "Chapter 1"
       order: 237
+      totalSeconds: 3900
 - id: "ch-02400"
   url: "https://wanderinginn.com/2018/07/14/5-01/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_5.01"
@@ -4080,6 +4319,7 @@
       ref: 7
       title: "Chapter 2"
       order: 238
+      totalSeconds: 6438
 - id: "ch-02410"
   url: "https://wanderinginn.com/2018/07/17/5-02/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_5.02"
@@ -4097,6 +4337,7 @@
       ref: 7
       title: "Chapter 3"
       order: 239
+      totalSeconds: 5622
 - id: "ch-02420"
   url: "https://wanderinginn.com/2018/07/21/5-03/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_5.03"
@@ -4114,6 +4355,7 @@
       ref: 7
       title: "Chapter 4"
       order: 240
+      totalSeconds: 4387
 - id: "ch-02430"
   url: "https://wanderinginn.com/2018/07/21/5-04/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_5.04"
@@ -4131,6 +4373,7 @@
       ref: 7
       title: "Chapter 5"
       order: 241
+      totalSeconds: 3657
 - id: "ch-02440"
   url: "https://wanderinginn.com/2018/07/24/5-05/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_5.05"
@@ -4148,6 +4391,7 @@
       ref: 7
       title: "Chapter 6"
       order: 242
+      totalSeconds: 5414
 - id: "ch-02450"
   url: "https://wanderinginn.com/2018/07/27/5-06-m/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_5.06_M"
@@ -4165,6 +4409,7 @@
       ref: 7
       title: "Chapter 7: Mrsha"
       order: 243
+      totalSeconds: 5803
 - id: "ch-02460"
   url: "https://wanderinginn.com/2018/07/28/5-07/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_5.07"
@@ -4182,6 +4427,7 @@
       ref: 7
       title: "Chapter 8"
       order: 244
+      totalSeconds: 5065
 - id: "ch-02470"
   url: "https://wanderinginn.com/2018/07/31/5-08/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_5.08"
@@ -4199,6 +4445,7 @@
       ref: 7
       title: "Chapter 9"
       order: 245
+      totalSeconds: 6652
 - id: "ch-02480"
   url: "https://wanderinginn.com/2018/08/04/interlude-flos/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Interlude_-_Flos"
@@ -4216,6 +4463,7 @@
       ref: 7
       title: "Interlude: Flos"
       order: 246
+      totalSeconds: 5865
 - id: "ch-02490"
   url: "https://wanderinginn.com/2018/08/07/5-09-e/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_5.09_E"
@@ -4233,6 +4481,7 @@
       ref: 7
       title: "Chapter 10: Emperor"
       order: 247
+      totalSeconds: 4191
 - id: "ch-02500"
   url: "https://wanderinginn.com/2018/08/11/5-10-e/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_5.10_E"
@@ -4250,6 +4499,7 @@
       ref: 7
       title: "Chapter 11: Emperor"
       order: 248
+      totalSeconds: 5523
 - id: "ch-02510"
   url: "https://wanderinginn.com/2018/08/14/5-11-e/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_5.11_E"
@@ -4267,6 +4517,7 @@
       ref: 7
       title: "Chapter 12"
       order: 249
+      totalSeconds: 6866
 - id: "ch-02520"
   url: "https://wanderinginn.com/2018/08/18/5-12/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_5.12"
@@ -4284,6 +4535,7 @@
       ref: 7
       title: "Chapter 13"
       order: 250
+      totalSeconds: 9405
 - id: "ch-02530"
   url: "https://wanderinginn.com/2018/08/21/5-13/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_5.13"
@@ -4301,6 +4553,7 @@
       ref: 7
       title: "Chapter 14"
       order: 251
+      totalSeconds: 4070
 - id: "ch-02540"
   url: "https://wanderinginn.com/2018/08/25/5-14/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_5.14"
@@ -4318,6 +4571,7 @@
       ref: 7
       title: "Chapter 15"
       order: 252
+      totalSeconds: 5540
 - id: "ch-02550"
   url: "https://wanderinginn.com/2018/08/28/5-15/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_5.15"
@@ -4335,6 +4589,7 @@
       ref: 7
       title: "Chapter 16"
       order: 253
+      totalSeconds: 4622
 - id: "ch-02560"
   url: "https://wanderinginn.com/2018/09/01/5-16-s/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_5.16_S"
@@ -4352,6 +4607,7 @@
       ref: 7
       title: "Chapter 17: Selys"
       order: 254
+      totalSeconds: 5563
 - id: "ch-02570"
   url: "https://wanderinginn.com/2018/09/01/5-17-s/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_5.17_S"
@@ -4369,6 +4625,7 @@
       ref: 7
       title: "Chapter 18: Selys"
       order: 255
+      totalSeconds: 8970
 - id: "ch-02580"
   url: "https://wanderinginn.com/2018/09/04/5-18-s//"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_5.18_S"
@@ -4386,6 +4643,7 @@
       ref: 7
       title: "Chapter 19: Selys"
       order: 256
+      totalSeconds: 3894
 - id: "ch-02590"
   url: "https://wanderinginn.com/2018/09/08/5-19-g/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_5.19_G"
@@ -4403,6 +4661,7 @@
       ref: 7
       title: "Chapter 20: Goblins"
       order: 257
+      totalSeconds: 4032
 - id: "ch-02600"
   url: "https://wanderinginn.com/2018/09/11/5-20-g/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_5.20_G"
@@ -4420,6 +4679,7 @@
       ref: 7
       title: "Chapter 21: Goblins"
       order: 258
+      totalSeconds: 6406
 - id: "ch-02610"
   url: "https://wanderinginn.com/2018/09/15/5-21-e/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_5.21_E"
@@ -4437,6 +4697,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-02620"
   url: "https://wanderinginn.com/2018/09/18/5-22-g/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_5.22_G"
@@ -4454,6 +4715,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-02630"
   url: "https://wanderinginn.com/2018/09/22/5-23-g/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_5.23_G"
@@ -4471,6 +4733,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-02640"
   url: "https://wanderinginn.com/2018/09/29/5-24-l/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_5.24_L"
@@ -4488,6 +4751,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-02650"
   url: "https://wanderinginn.com/2018/10/02/5-25-l/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_5.25_L"
@@ -4505,6 +4769,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-02660"
   url: "https://wanderinginn.com/2018/10/06/5-26-l/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_5.26_L"
@@ -4522,6 +4787,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-02670"
   url: "https://wanderinginn.com/2018/10/09/5-27/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_5.27"
@@ -4539,6 +4805,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-02680"
   url: "https://wanderinginn.com/2018/10/13/5-28/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_5.28"
@@ -4556,6 +4823,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-02690"
   url: "https://wanderinginn.com/2018/10/16/5-29/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_5.29"
@@ -4573,6 +4841,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-02700"
   url: "https://wanderinginn.com/2018/10/20/5-30-g/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_5.30_G"
@@ -4590,6 +4859,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-02710"
   url: "https://wanderinginn.com/2018/10/23/5-31-g/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_5.31_G"
@@ -4607,6 +4877,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-02720"
   url: "https://wanderinginn.com/2018/10/27/5-32-g/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_5.32_G"
@@ -4624,6 +4895,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-02730"
   url: "https://wanderinginn.com/2018/10/30/5-33-b/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_5.33_B"
@@ -4641,6 +4913,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-02740"
   url: "https://wanderinginn.com/2018/11/01/interlude-blackmage/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_Blackmage"
@@ -4658,6 +4931,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-02750"
   url: "https://wanderinginn.com/2018/11/03/5-34/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_5.34"
@@ -4675,6 +4949,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-02760"
   url: "https://wanderinginn.com/2018/11/06/5-35-h/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_5.35_H"
@@ -4692,6 +4967,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-02770"
   url: "https://wanderinginn.com/2018/11/10/5-36/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_5.36"
@@ -4709,6 +4985,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-02780"
   url: "https://wanderinginn.com/2018/11/13/5-37-g/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_5.37_G"
@@ -4726,6 +5003,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-02790"
   url: "https://wanderinginn.com/2018/11/17/5-38/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_5.38"
@@ -4743,6 +5021,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-02800"
   url: "https://wanderinginn.com/2018/11/20/5-39//"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_5.39"
@@ -4760,6 +5039,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-02810"
   url: "https://wanderinginn.com/2018/11/24/5-40"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_5.40"
@@ -4777,6 +5057,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-02820"
   url: "https://wanderinginn.com/2018/11/27/5-41/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_5.41"
@@ -4794,6 +5075,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-02830"
   url: "https://wanderinginn.com/2018/12/01/5-42/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_5.42"
@@ -4811,6 +5093,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-02840"
   url: "https://wanderinginn.com/2018/12/04/5-43/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_5.43"
@@ -4828,6 +5111,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-02850"
   url: "https://wanderinginn.com/2018/12/06/interlude-niers/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_Niers"
@@ -4845,6 +5129,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-02860"
   url: "https://wanderinginn.com/2018/12/08/5-44/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_5.44"
@@ -4862,6 +5147,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-02870"
   url: "https://wanderinginn.com/2018/12/11/5-45/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_5.45"
@@ -4879,6 +5165,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-02880"
   url: "https://wanderinginn.com/2018/12/15/5-46/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_5.46"
@@ -4896,6 +5183,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-02890"
   url: "https://wanderinginn.com/2018/12/18/5-47-g/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_5.47_G"
@@ -4913,6 +5201,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-02900"
   url: "https://wanderinginn.com/2018/12/22/5-48-g/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_5.48_G"
@@ -4930,6 +5219,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-02910"
   url: "https://wanderinginn.com/2018/12/25/5-49/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_5.49"
@@ -4947,6 +5237,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-02920"
   url: "https://wanderinginn.com/2018/12/29/5-50-g/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_5.50_G"
@@ -4964,6 +5255,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-02930"
   url: "https://wanderinginn.com/2018/12/30/interlude-bird/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_Bird"
@@ -4981,6 +5273,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-02940"
   url: "https://wanderinginn.com/2019/01/08/5-51-g/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_5.51_G"
@@ -4998,6 +5291,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-02950"
   url: "https://wanderinginn.com/2019/01/12/5-52/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_5.52"
@@ -5015,6 +5309,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-02960"
   url: "https://wanderinginn.com/2019/01/15/5-53/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_5.53"
@@ -5032,6 +5327,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-02970"
   url: "https://wanderinginn.com/2019/01/19/5-54/"
   wikiUrl: null
@@ -5049,6 +5345,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-02980"
   url: "https://wanderinginn.com/2019/01/22/5-54-2/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_5.54_(Rewrite)"
@@ -5066,6 +5363,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-02990"
   url: "https://wanderinginn.com/2019/01/26/interlude-krshia/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_Krshia"
@@ -5083,6 +5381,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-03000"
   url: "https://wanderinginn.com/2019/01/29/5-55-g/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_5.55_G"
@@ -5100,6 +5399,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-03010"
   url: "https://wanderinginn.com/2019/02/02/5-56-g/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_5.56_G"
@@ -5117,6 +5417,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-03020"
   url: "https://wanderinginn.com/2019/02/05/5-57/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_5.57"
@@ -5134,6 +5435,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-03030"
   url: "https://wanderinginn.com/2019/02/09/5-58/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_5.58"
@@ -5151,6 +5453,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-03040"
   url: "https://wanderinginn.com/2019/02/12/5-59/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_5.59"
@@ -5168,6 +5471,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-03050"
   url: "https://wanderinginn.com/2019/02/16/interlude-pebblesnatch-and-garry/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Interlude_-_Pebblesnatch_and_Garry"
@@ -5185,6 +5489,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-03060"
   url: "https://wanderinginn.com/2019/02/16/5-60/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_5.60"
@@ -5202,6 +5507,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-03070"
   url: "https://wanderinginn.com/2019/02/19/5-61/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_5.61"
@@ -5219,6 +5525,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-03080"
   url: "https://wanderinginn.com/2019/02/26/5-62/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_5.62"
@@ -5236,6 +5543,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-03090"
   url: "https://wanderinginn.com/2019/03/02/interlude-5/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Interlude_-_5"
@@ -5253,6 +5561,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-03100"
   url: "https://wanderinginn.com/2019/03/19/6-00/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_6.00"
@@ -5270,6 +5579,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-03110"
   url: "https://wanderinginn.com/2019/03/23/6-01/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_6.01"
@@ -5287,6 +5597,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-03120"
   url: "https://wanderinginn.com/2019/03/26/6-02/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_6.02"
@@ -5304,6 +5615,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-03130"
   url: "https://wanderinginn.com/2019/03/30/6-03/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_6.03"
@@ -5321,6 +5633,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-03140"
   url: "https://wanderinginn.com/2019/04/02/6-04-d/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_6.04_D"
@@ -5338,6 +5651,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-03150"
   url: "https://wanderinginn.com/2019/04/06/6-05-d/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_6.05_D"
@@ -5355,6 +5669,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-03160"
   url: "https://wanderinginn.com/2019/04/09/6-06-d/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_6.06_D"
@@ -5372,6 +5687,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-03170"
   url: "https://wanderinginn.com/2019/04/13/6-07-d/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_6.07_D"
@@ -5389,6 +5705,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-03180"
   url: "https://wanderinginn.com/2019/04/16/6-08/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_6.08"
@@ -5406,6 +5723,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-03190"
   url: "https://wanderinginn.com/2019/04/20/6-09/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_6.09"
@@ -5423,6 +5741,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-03200"
   url: "https://wanderinginn.com/2019/04/23/6-10/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_6.10"
@@ -5440,6 +5759,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-03210"
   url: "https://wanderinginn.com/2019/04/27/6-11/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_6.11"
@@ -5457,6 +5777,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-03220"
   url: "https://wanderinginn.com/2019/04/30/6-12-k/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_6.12_K"
@@ -5474,6 +5795,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-03230"
   url: "https://wanderinginn.com/2019/05/04/6-13-k/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_6.13_K"
@@ -5491,6 +5813,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-03240"
   url: "https://wanderinginn.com/2019/05/07/6-14-k/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_6.14_K"
@@ -5508,6 +5831,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-03250"
   url: "https://wanderinginn.com/2019/05/11/6-15-k/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_6.15_K"
@@ -5525,6 +5849,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-03260"
   url: "https://wanderinginn.com/2019/05/14/6-16/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_6.16"
@@ -5542,6 +5867,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-03270"
   url: "https://wanderinginn.com/2019/05/18/6-17-s/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_6.17_S"
@@ -5559,6 +5885,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-03280"
   url: "https://wanderinginn.com/2019/05/21/6-18-h/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_6.18_H"
@@ -5576,6 +5903,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-03290"
   url: "https://wanderinginn.com/2019/05/25/6-19-h/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_6.19_H"
@@ -5593,6 +5921,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-03300"
   url: "https://wanderinginn.com/2019/05/28/6-20-d/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_6.20_D"
@@ -5610,6 +5939,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-03310"
   url: "https://wanderinginn.com/2019/06/01/5-21-d/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_6.21_D"
@@ -5627,6 +5957,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-03320"
   url: "https://wanderinginn.com/2019/06/04/6-22-d/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_6.22_D"
@@ -5644,6 +5975,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-03330"
   url: "https://wanderinginn.com/2019/06/08/6-23-d/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_6.23_D"
@@ -5661,6 +5993,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-03340"
   url: "https://wanderinginn.com/2019/06/11/6-24-d/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_6.24_D"
@@ -5678,6 +6011,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-03350"
   url: "https://wanderinginn.com/2019/06/15/6-25/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_6.25"
@@ -5695,6 +6029,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-03360"
   url: "https://wanderinginn.com/2019/06/18/6-26/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_6.26"
@@ -5712,6 +6047,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-03370"
   url: "https://wanderinginn.com/2019/06/22/6-27-m/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_6.27_M"
@@ -5729,6 +6065,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-03380"
   url: "https://wanderinginn.com/2019/06/25/6-28/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_6.28"
@@ -5746,6 +6083,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-03390"
   url: "https://wanderinginn.com/2019/06/29/6-29/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_6.29"
@@ -5763,6 +6101,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-03400"
   url: "https://wanderinginn.com/2019/07/02/interlude-embria/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Interlude_-_Embria"
@@ -5780,6 +6119,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-03410"
   url: "https://wanderinginn.com/2019/07/13/6-30/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_6.30"
@@ -5797,6 +6137,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-03420"
   url: "https://wanderinginn.com/2019/07/16/6-31/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_6.31"
@@ -5814,6 +6155,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-03430"
   url: "https://wanderinginn.com/2019/07/20/6-32/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_6.32"
@@ -5831,6 +6173,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-03440"
   url: "https://wanderinginn.com/2019/07/23/6-33-e/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_6.33_E"
@@ -5848,6 +6191,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-03450"
   url: "https://wanderinginn.com/2019/07/27/6-34-e/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_6.34_E"
@@ -5865,6 +6209,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-03460"
   url: "https://wanderinginn.com/2019/07/30/interlude-numbtongue-pt-1/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_Numbtongue_(Pt.1)"
@@ -5882,6 +6227,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-03470"
   url: "https://wanderinginn.com/2019/08/03/interlude-numbtongue-pt-2/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_Numbtongue_(Pt.2)"
@@ -5899,6 +6245,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-03480"
   url: "https://wanderinginn.com/2019/08/06/6-35/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_6.35"
@@ -5916,6 +6263,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-03490"
   url: "https://wanderinginn.com/2019/08/10/6-36-e/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_6.36_E"
@@ -5933,6 +6281,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-03500"
   url: "https://wanderinginn.com/2019/08/13/6-37-e/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_6.37_E"
@@ -5950,6 +6299,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-03510"
   url: "https://wanderinginn.com/2019/08/17/6-38/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_6.38"
@@ -5967,6 +6317,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-03520"
   url: "https://wanderinginn.com/2019/08/20/6-39/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_6.39"
@@ -5984,6 +6335,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-03530"
   url: "https://wanderinginn.com/2019/08/24/6-40-e/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_6.40_E"
@@ -6001,6 +6353,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-03540"
   url: "https://wanderinginn.com/2019/08/27/6-41-e/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_6.41_E"
@@ -6018,6 +6371,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-03550"
   url: "https://wanderinginn.com/2019/08/31/interlude-two-rats/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_Two_Rats"
@@ -6035,6 +6389,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-03560"
   url: "https://wanderinginn.com/2019/09/03/interlude-rufelt/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_Rufelt"
@@ -6052,6 +6407,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-03570"
   url: "https://wanderinginn.com/2019/09/07/6-42-e/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_6.42_E"
@@ -6069,6 +6425,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-03580"
   url: "https://wanderinginn.com/2019/09/10/6-43-e/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_6.43_E"
@@ -6086,6 +6443,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-03590"
   url: "https://wanderinginn.com/2019/09/14/6-44-e/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_6.44_E"
@@ -6103,6 +6461,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-03600"
   url: "https://wanderinginn.com/2019/09/17/6-45-e/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_6.45_E"
@@ -6120,6 +6479,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-03610"
   url: "https://wanderinginn.com/2019/09/21/6-46-e/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_6.46_E"
@@ -6137,6 +6497,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-03620"
   url: "https://wanderinginn.com/2019/09/24/6-47-e/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_6.47_E"
@@ -6154,6 +6515,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-03630"
   url: "https://wanderinginn.com/2019/10/12/6-48-t/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_6.48_T"
@@ -6171,6 +6533,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-03640"
   url: "https://wanderinginn.com/2019/10/15/6-49/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_6.49"
@@ -6188,6 +6551,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-03650"
   url: "https://wanderinginn.com/2019/10/19/6-50-i/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_6.50_I"
@@ -6205,6 +6569,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-03660"
   url: "https://wanderinginn.com/2019/10/22/6-51-a/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_6.51_A"
@@ -6222,6 +6587,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-03670"
   url: "https://wanderinginn.com/2019/10/26/6-52-k/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_6.52_K"
@@ -6239,6 +6605,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-03680"
   url: "https://wanderinginn.com/2019/10/29/6-53-k/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_6.53_K"
@@ -6256,6 +6623,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-03690"
   url: "https://wanderinginn.com/2019/11/02/6-54-k/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_6.54_K"
@@ -6273,6 +6641,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-03700"
   url: "https://wanderinginn.com/2019/11/05/6-55-k/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_6.55_K"
@@ -6290,6 +6659,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-03710"
   url: "https://wanderinginn.com/2019/11/09/interlude-the-titans-question/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_The_Titan%E2%80%99s_Question"
@@ -6307,6 +6677,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-03720"
   url: "https://wanderinginn.com/2019/11/12/6-56/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_6.56"
@@ -6324,6 +6695,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-03730"
   url: "https://wanderinginn.com/2019/11/16/6-57/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_6.57"
@@ -6341,6 +6713,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-03740"
   url: "https://wanderinginn.com/2019/11/19/6-58/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_6.58"
@@ -6358,6 +6731,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-03750"
   url: "https://wanderinginn.com/2019/11/23/6-59/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_6.59"
@@ -6375,6 +6749,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-03760"
   url: "https://wanderinginn.com/2019/11/26/6-60/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_6.60"
@@ -6392,6 +6767,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-03770"
   url: "https://wanderinginn.com/2019/11/30/interlude-talia/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_Talia"
@@ -6409,6 +6785,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-03780"
   url: "https://wanderinginn.com/2019/12/03/6-61-l/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_6.61_L"
@@ -6426,6 +6803,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-03790"
   url: "https://wanderinginn.com/2019/12/07/6-62-l/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_6.62_L"
@@ -6443,6 +6821,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-03800"
   url: "https://wanderinginn.com/2019/12/11/interlude-foliana/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_Foliana"
@@ -6460,6 +6839,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-03810"
   url: "https://wanderinginn.com/2019/12/14/6-63-p/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_6.63_P"
@@ -6477,6 +6857,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-03820"
   url: "https://wanderinginn.com/2019/12/18/6-64/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_6.64"
@@ -6494,6 +6875,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-03830"
   url: "https://wanderinginn.com/2019/12/22/6-65/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_6.65"
@@ -6511,6 +6893,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-03840"
   url: "https://wanderinginn.com/2019/12/25/6-66-h/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_6.66_H"
@@ -6528,6 +6911,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-03850"
   url: "https://wanderinginn.com/2019/12/29/6-67/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_6.67"
@@ -6545,6 +6929,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-03860"
   url: "https://wanderinginn.com/2020/01/01/6-68/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_6.68"
@@ -6562,6 +6947,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-03870"
   url: "https://wanderinginn.com/2020/01/19/7-00/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_7.00"
@@ -6579,6 +6965,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-03880"
   url: "https://wanderinginn.com/2020/01/22/7-01/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_7.01"
@@ -6596,6 +6983,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-03890"
   url: "https://wanderinginn.com/2020/01/26/7-02/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_7.02"
@@ -6613,6 +7001,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-03900"
   url: "https://wanderinginn.com/2020/01/29/7-03/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_7.03"
@@ -6630,6 +7019,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-03910"
   url: "https://wanderinginn.com/2020/01/30/mini-stories-crabs-and-drinks/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Mini_Stories_%E2%80%93_Crabs_and_Drinks"
@@ -6647,6 +7037,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-03920"
   url: "https://wanderinginn.com/2020/02/01/7-04/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_7.04"
@@ -6664,6 +7055,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-03930"
   url: "https://wanderinginn.com/2020/02/04/interlude-queens-and-dragons/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_Queens_and_Dragons"
@@ -6681,6 +7073,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-03940"
   url: "https://wanderinginn.com/2020/02/09/7-05-p/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_7.05_P"
@@ -6698,6 +7091,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-03950"
   url: "https://wanderinginn.com/2020/02/12/7-06/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_7.06"
@@ -6715,6 +7109,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-03960"
   url: "https://wanderinginn.com/2020/02/16/7-07"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_7.07"
@@ -6732,6 +7127,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-03970"
   url: "https://wanderinginn.com/2020/02/19/7-08-k/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_7.08_K"
@@ -6749,6 +7145,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-03980"
   url: "https://wanderinginn.com/2020/02/23/7-09-k/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_7.09_K"
@@ -6766,6 +7163,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-03990"
   url: "https://wanderinginn.com/2020/02/26/7-10-k/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_7.10_K"
@@ -6783,6 +7181,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-04000"
   url: "https://wanderinginn.com/2020/03/01/7-11/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_7.11"
@@ -6800,6 +7199,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-04010"
   url: "https://wanderinginn.com/2020/03/03/interlude-dancing-and-brawling/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_Dancing_and_Brawling"
@@ -6817,6 +7217,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-04020"
   url: "https://wanderinginn.com/2020/03/04/interlude-chocolate-gold/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_Chocolate_Gold"
@@ -6834,6 +7235,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-04030"
   url: "https://wanderinginn.com/2020/03/05/interlude-chess-and-ships/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_Chess_and_Ships"
@@ -6851,6 +7253,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-04040"
   url: "https://wanderinginn.com/2020/03/06/interlude-chocolate-alchemy"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_Chocolate_Alchemy"
@@ -6868,6 +7271,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-04050"
   url: "https://wanderinginn.com/2020/03/07/interlude-lifting-ants"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_Lifting_Ants"
@@ -6885,6 +7289,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-04060"
   url: "https://wanderinginn.com/2020/03/08/interlude-burning-alcohol/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_Burning_Alcohol"
@@ -6902,6 +7307,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-04070"
   url: "https://wanderinginn.com/2020/03/09/interlude-the-hangover-after"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_The_Hangover_After"
@@ -6919,6 +7325,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-04080"
   url: "https://wanderinginn.com/2020/03/15/7-12-g/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_7.12_G"
@@ -6936,6 +7343,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-04090"
   url: "https://wanderinginn.com/2020/03/18/7-13-k/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_7.13_K"
@@ -6953,6 +7361,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-04100"
   url: "https://wanderinginn.com/2020/03/21/mating-rituals-pt-2"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Mating_Rituals_Pt.2"
@@ -6970,6 +7379,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-04110"
   url: "https://wanderinginn.com/2020/03/24/7-14-t/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_7.14_T"
@@ -6987,6 +7397,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-04120"
   url: "https://wanderinginn.com/2020/03/29/7-15-r/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_7.15_R"
@@ -7004,6 +7415,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-04130"
   url: "https://wanderinginn.com/2020/03/31/7-16-l"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_7.16_L"
@@ -7021,6 +7433,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-04140"
   url: "https://wanderinginn.com/2020/04/12/7-17-s/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_7.17_S"
@@ -7038,6 +7451,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-04150"
   url: "https://wanderinginn.com/2020/04/15/7-18-m/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_7.18_M"
@@ -7055,6 +7469,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-04160"
   url: "https://wanderinginn.com/2020/04/19/interlude-strategists-at-sea-pt-1/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_Strategists_at_Sea_(Pt._1)"
@@ -7072,6 +7487,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-04170"
   url: "https://wanderinginn.com/2020/04/22/interlude-strategists-at-sea-pt-2/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_Strategists_at_Sea_(Pt._2)"
@@ -7089,6 +7505,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-04180"
   url: "https://wanderinginn.com/2020/04/26/7-19/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_7.19"
@@ -7106,6 +7523,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-04190"
   url: "https://wanderinginn.com/2020/04/29/7-20/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_7.20"
@@ -7123,6 +7541,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-04200"
   url: "https://wanderinginn.com/2020/05/03/interlude-a-night-in-the-inn/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_A_Night_in_the_Inn"
@@ -7140,6 +7559,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-04210"
   url: "https://wanderinginn.com/2020/05/06/7-21-kq/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_7.21_KQ"
@@ -7157,6 +7577,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-04220"
   url: "https://wanderinginn.com/2020/05/10/7-22-d"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_7.22_D"
@@ -7174,6 +7595,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-04230"
   url: "https://wanderinginn.com/2020/05/13/7-23-lm/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_7.23_LM"
@@ -7191,6 +7613,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-04240"
   url: "https://wanderinginn.com/2020/05/24/7-24/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_7.24"
@@ -7208,6 +7631,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-04250"
   url: "https://wanderinginn.com/2020/05/27/7-25/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_7.25"
@@ -7225,6 +7649,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-04260"
   url: "https://wanderinginn.com/2020/05/31/7-26/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_7.26"
@@ -7242,6 +7667,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-04270"
   url: "https://wanderinginn.com/2020/06/03/7-27/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_7.27"
@@ -7259,6 +7685,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-04280"
   url: "https://wanderinginn.com/2020/06/07/interlude-the-gecko-of-illusions/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_The_Gecko_of_Illusions"
@@ -7276,6 +7703,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-04290"
   url: "https://wanderinginn.com/2020/06/10/7-28/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_7.28"
@@ -7293,6 +7721,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-04300"
   url: "https://wanderinginn.com/2020/06/14/7-29-b/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_7.29_B"
@@ -7310,6 +7739,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-04310"
   url: "https://wanderinginn.com/2020/06/24/7-30/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_7.30"
@@ -7327,6 +7757,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-04320"
   url: "https://wanderinginn.com/2020/06/28/7-31/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_7.31"
@@ -7344,6 +7775,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-04330"
   url: "https://wanderinginn.com/2020/07/01/interlude-a-meeting-of-druids/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_A_Meeting_of_Druids"
@@ -7361,6 +7793,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-04340"
   url: "https://wanderinginn.com/2020/07/05/7-32-d/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_7.32_D"
@@ -7378,6 +7811,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-04350"
   url: "https://wanderinginn.com/2020/07/08/7-33-i/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_7.33_I"
@@ -7395,6 +7829,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-04360"
   url: "https://wanderinginn.com/2020/07/12/7-34-c/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_7.34_C"
@@ -7412,6 +7847,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-04370"
   url: "https://wanderinginn.com/2020/07/15/7-35-c/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_7.35_C"
@@ -7429,6 +7865,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-04380"
   url: "https://wanderinginn.com/2020/07/19/7-36-c/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_7.36_C"
@@ -7446,6 +7883,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-04390"
   url: "https://wanderinginn.com/2020/07/29/7-37/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_7.37"
@@ -7463,6 +7901,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-04400"
   url: "https://wanderinginn.com/2020/08/02/7-38/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_7.38"
@@ -7480,6 +7919,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-04410"
   url: "https://wanderinginn.com/2020/08/05/7-39-a/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_7.39_A"
@@ -7497,6 +7937,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-04420"
   url: "https://wanderinginn.com/2020/08/08/interlude-carriages-and-conversations/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_Carriages_and_Conversations"
@@ -7514,6 +7955,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-04430"
   url: "https://wanderinginn.com/2020/08/09/interlude-meetings-and-friendships/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_Meetings_and_Friendships"
@@ -7531,6 +7973,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-04440"
   url: "https://wanderinginn.com/2020/08/10/interlude-sand-and-notes/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Interlude_-_Sand_and_Notes"
@@ -7548,6 +7991,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-04450"
   url: "https://wanderinginn.com/2020/08/11/7-40-er/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_7.40_ER"
@@ -7565,6 +8009,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-04460"
   url: "https://wanderinginn.com/2020/08/12/interlude-food-and-growth/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Interlude_-_Food_and_Growth"
@@ -7582,6 +8027,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-04470"
   url: "https://wanderinginn.com/2020/08/13/7-41/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_7.41"
@@ -7599,6 +8045,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-04480"
   url: "https://wanderinginn.com/2020/08/14/7-42-m/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_7.42_M"
@@ -7616,6 +8063,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-04490"
   url: "https://wanderinginn.com/2020/09/02/7-43-g/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_7.43_G"
@@ -7633,6 +8081,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-04500"
   url: "https://wanderinginn.com/2020/09/06/7-44/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_7.44"
@@ -7650,6 +8099,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-04510"
   url: "https://wanderinginn.com/2020/09/09/7-45/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_7.45"
@@ -7667,6 +8117,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-04520"
   url: "https://wanderinginn.com/2020/09/13/7-46-k/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_7.46_K"
@@ -7684,6 +8135,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-04530"
   url: "https://wanderinginn.com/2020/09/16/7-47-k/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_7.47_K"
@@ -7701,6 +8153,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-04540"
   url: "https://wanderinginn.com/2020/09/20/7-48-k/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_7.48_K"
@@ -7718,6 +8171,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-04550"
   url: "https://wanderinginn.com/2020/09/23/7-49/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_7.49"
@@ -7735,6 +8189,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-04560"
   url: "https://wanderinginn.com/2020/10/04/interlude-experiments-in-golems/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_Experiments_in_Golems"
@@ -7752,6 +8207,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-04570"
   url: "https://wanderinginn.com/2020/10/07/7-50/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_7.50"
@@ -7769,6 +8225,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-04580"
   url: "https://wanderinginn.com/2020/10/11/7-51/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_7.51"
@@ -7786,6 +8243,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-04590"
   url: "https://wanderinginn.com/2020/10/14/7-52/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_7.52"
@@ -7803,6 +8261,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-04600"
   url: "https://wanderinginn.com/2020/10/18/7-53/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_7.53"
@@ -7820,6 +8279,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-04610"
   url: "https://wanderinginn.com/2020/10/20/7-54/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_7.54"
@@ -7837,6 +8297,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-04620"
   url: "https://wanderinginn.com/2020/10/25/7-55-e/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_7.55_E"
@@ -7854,6 +8315,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-04630"
   url: "https://wanderinginn.com/2020/11/04/interlude-saliss-the-adventurer/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_Saliss_the_Adventurer"
@@ -7871,6 +8333,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-04640"
   url: "https://wanderinginn.com/2020/11/08/7-56/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_7.56"
@@ -7888,6 +8351,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-04650"
   url: "https://wanderinginn.com/2020/11/11/7-57/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_7.57"
@@ -7905,6 +8369,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-04660"
   url: "https://wanderinginn.com/2020/11/15/7-58/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_7.58"
@@ -7922,6 +8387,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-04670"
   url: "https://wanderinginn.com/2020/11/18/7-59/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_7.59"
@@ -7939,6 +8405,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-04680"
   url: "https://wanderinginn.com/2020/11/22/7-60/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_7.60"
@@ -7956,6 +8423,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-04690"
   url: "https://wanderinginn.com/2020/11/25/interlude-the-tribes-of-izril/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_The_Tribes_of_Izril"
@@ -7973,6 +8441,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-04700"
   url: "https://wanderinginn.com/2020/12/06/interlude-the-innkeepers-knight/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_The_Innkeeper%E2%80%99s_Knight"
@@ -7990,6 +8459,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-04710"
   url: "https://wanderinginn.com/2020/12/09/7-61/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_7.61"
@@ -8007,6 +8477,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-04720"
   url: "https://wanderinginn.com/2020/12/13/7-62/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_7.62"
@@ -8024,6 +8495,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-04730"
   url: "https://wanderinginn.com/2020/12/16/solstice-pt-1/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Solstice_(Pt._1)"
@@ -8041,6 +8513,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-04740"
   url: "https://wanderinginn.com/2020/12/20/solstice-pt-2/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Solstice_(Pt._2)"
@@ -8058,6 +8531,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-04750"
   url: "https://wanderinginn.com/2020/12/23/solstice-pt-3/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Solstice_(Pt._3)"
@@ -8075,6 +8549,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-04760"
   url: "https://wanderinginn.com/2020/12/23/solstice-pt-4/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Solstice_(Pt._3)"
@@ -8092,6 +8567,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-04770"
   url: "https://wanderinginn.com/2020/12/23/solstice-pt-5/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Solstice_(Pt._3)"
@@ -8109,6 +8585,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-04780"
   url: "https://wanderinginn.com/2020/12/23/solstice-pt-6/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Solstice_(Pt._3)"
@@ -8126,6 +8603,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-04790"
   url: "https://wanderinginn.com/2020/12/23/solstice-pt-7/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Solstice_(Pt._3)"
@@ -8143,6 +8621,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-04800"
   url: "https://wanderinginn.com/2020/12/23/solstice-pt-8/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Solstice_(Pt._3)"
@@ -8160,6 +8639,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-04810"
   url: "https://wanderinginn.com/2020/12/23/solstice-pt-9/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Solstice_(Pt._3)"
@@ -8177,6 +8657,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-04820"
   url: "https://wanderinginn.com/2021/01/10/8-00/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_8.00"
@@ -8194,6 +8675,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-04830"
   url: "https://wanderinginn.com/2021/01/13/8-01/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_8.01"
@@ -8211,6 +8693,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-04840"
   url: "https://wanderinginn.com/2021/01/17/8-02/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_8.02"
@@ -8228,6 +8711,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-04850"
   url: "https://wanderinginn.com/2021/01/20/8-03/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_8.03"
@@ -8245,6 +8729,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-04860"
   url: "https://wanderinginn.com/2021/01/24/interlude-the-revenant-and-the-naga/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_The_Revenant_and_the_Naga"
@@ -8262,6 +8747,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-04870"
   url: "https://wanderinginn.com/2021/01/27/8-04-t/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_8.04_T"
@@ -8279,6 +8765,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-04880"
   url: "https://wanderinginn.com/2021/02/07/8-05-i/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_8.05_I"
@@ -8296,6 +8783,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-04890"
   url: "https://wanderinginn.com/2021/02/10/8-06-rt/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_8.06_RT"
@@ -8313,6 +8801,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-04900"
   url: "https://wanderinginn.com/2021/02/14/8-07-l/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_8.07_L"
@@ -8330,6 +8819,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-04910"
   url: "https://wanderinginn.com/2021/02/17/8-08-j/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_8.08_J"
@@ -8347,6 +8837,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-04920"
   url: "https://wanderinginn.com/2021/02/21/8-09/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_8.09"
@@ -8364,6 +8855,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-04930"
   url: "https://wanderinginn.com/2021/02/24/8-10/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_8.10"
@@ -8381,6 +8873,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-04940"
   url: "https://wanderinginn.com/2021/03/16/8-11-e-revised/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_8.11_E"
@@ -8398,6 +8891,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-04950"
   url: "https://wanderinginn.com/2021/03/10/8-12-t/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_8.12_T"
@@ -8415,6 +8909,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-04960"
   url: "https://wanderinginn.com/2021/03/14/interlude-the-rower-and-the-bartender/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_The_Rower_and_the_Bartender"
@@ -8432,6 +8927,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-04970"
   url: "https://wanderinginn.com/2021/03/17/8-13-f/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_8.13_F"
@@ -8449,6 +8945,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-04980"
   url: "https://wanderinginn.com/2021/03/21/8-14-n/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_8.14_N"
@@ -8466,6 +8963,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-04990"
   url: "https://wanderinginn.com/2021/03/30/8-15/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_8.15"
@@ -8483,6 +8981,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-05000"
   url: "https://wanderinginn.com/2021/04/04/interlude-paradigm-shift-pt-1/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_Paradigm_Shift_(Pt._1)"
@@ -8500,6 +8999,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-05010"
   url: "https://wanderinginn.com/2021/04/04/interlude-paradigm-shift-pt-2/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_Paradigm_Shift_(Pt._2)"
@@ -8517,6 +9017,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-05020"
   url: "https://wanderinginn.com/2021/04/10/8-16/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_8.16"
@@ -8534,6 +9035,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-05030"
   url: "https://wanderinginn.com/2021/04/13/8-17-h/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_8.17_H"
@@ -8551,6 +9053,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-05040"
   url: "https://wanderinginn.com/2021/04/25/8-18-h/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_8.18_H"
@@ -8568,6 +9071,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-05050"
   url: "https://wanderinginn.com/2021/04/28/8-19-h/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_8.19_H"
@@ -8585,6 +9089,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-05060"
   url: "https://wanderinginn.com/2021/05/02/8-20/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_8.20"
@@ -8602,6 +9107,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-05070"
   url: "https://wanderinginn.com/2021/05/04/8-21-l/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_8.21_L"
@@ -8619,6 +9125,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-05080"
   url: "https://wanderinginn.com/2021/05/11/8-22-he/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_8.22_HE"
@@ -8636,6 +9143,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-05090"
   url: "https://wanderinginn.com/2021/05/16/interlude-senior-guardsman-relc/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_Senior_Guardsman_Relc"
@@ -8653,6 +9161,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-05100"
   url: "https://wanderinginn.com/2021/05/19/8-23/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_8.23"
@@ -8670,6 +9179,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-05110"
   url: "https://wanderinginn.com/2021/05/30/8-24/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_8.24"
@@ -8687,6 +9197,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-05120"
   url: "https://wanderinginn.com/2021/06/02/8-25-kh/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_8.25_KH"
@@ -8704,6 +9215,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-05130"
   url: "https://wanderinginn.com/2021/06/06/8-26-fk/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_8.26_FK"
@@ -8721,6 +9233,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-05140"
   url: "https://wanderinginn.com/2021/06/08/interlude-luan-the-giant/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_Luan_the_Giant"
@@ -8738,6 +9251,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-05150"
   url: "https://wanderinginn.com/2021/06/12/8-27/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_8.27"
@@ -8755,6 +9269,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-05160"
   url: "https://wanderinginn.com/2021/06/19/8-28/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_8.28"
@@ -8772,6 +9287,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-05170"
   url: "https://wanderinginn.com/2021/06/22/8-29/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_8.29"
@@ -8789,6 +9305,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-05180"
   url: "https://wanderinginn.com/2021/06/26/interlude-the-pets-of-innworld/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_The_Pets_of_Innworld"
@@ -8806,6 +9323,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-05190"
   url: "https://wanderinginn.com/2021/07/13/8-30/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_8.30"
@@ -8823,6 +9341,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-05200"
   url: "https://wanderinginn.com/2021/07/18/8-31/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_8.31"
@@ -8840,6 +9359,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-05210"
   url: "https://wanderinginn.com/2021/07/20/interlude-pisces-revised/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_Pisces"
@@ -8857,6 +9377,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-05220"
   url: "https://wanderinginn.com/2021/07/25/8-32/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_8.32"
@@ -8874,6 +9395,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-05230"
   url: "https://wanderinginn.com/2021/07/28/8-33-r/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_8.33_R"
@@ -8891,6 +9413,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-05240"
   url: "https://wanderinginn.com/2021/08/01/8-34-r/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_8.34_R"
@@ -8908,6 +9431,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-05250"
   url: "https://wanderinginn.com/2021/08/04/8-35/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_8.35"
@@ -8925,6 +9449,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-05260"
   url: "https://wanderinginn.com/2021/08/15/8-36-h/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_8.36_H"
@@ -8942,6 +9467,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-05270"
   url: "https://wanderinginn.com/2021/08/17/8-37-h/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_8.37_H"
@@ -8959,6 +9485,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-05280"
   url: "https://wanderinginn.com/2021/08/22/8-38-h/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_8.38_H"
@@ -8976,6 +9503,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-05290"
   url: "https://wanderinginn.com/2021/08/24/8-39/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_8.39"
@@ -8993,6 +9521,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-05300"
   url: "https://wanderinginn.com/2021/08/29/8-40-ctv/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_8.40_CTV"
@@ -9010,6 +9539,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-05310"
   url: "https://wanderinginn.com/2021/08/31/interlude-of-vampires-and-fraerlings/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_Of_Vampires_and_Fraerlings"
@@ -9027,6 +9557,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-05320"
   url: "https://wanderinginn.com/2021/09/04/8-41/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_8.41"
@@ -9044,6 +9575,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-05330"
   url: "https://wanderinginn.com/2021/09/15/interlude-songs-and-stories/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_Songs_and_Stories"
@@ -9061,6 +9593,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-05340"
   url: "https://wanderinginn.com/2021/09/19/8-42/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_8.42"
@@ -9078,6 +9611,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-05350"
   url: "https://wanderinginn.com/2021/09/22/8-43/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_8.43"
@@ -9095,6 +9629,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-05360"
   url: "https://wanderinginn.com/2021/09/26/8-44-o/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_8.44_O"
@@ -9112,6 +9647,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-05370"
   url: "https://wanderinginn.com/2021/09/26/8-45-o/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_8.45_O"
@@ -9129,6 +9665,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-05380"
   url: "https://wanderinginn.com/2021/10/03/8-46-g/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_8.46_G"
@@ -9146,6 +9683,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-05390"
   url: "https://wanderinginn.com/2021/10/06/interlude-perspective-and-past/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_Perspective_and_Past"
@@ -9163,6 +9701,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-05400"
   url: "https://wanderinginn.com/2021/10/19/8-47-h/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_8.47_H"
@@ -9180,6 +9719,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-05410"
   url: "https://wanderinginn.com/2021/10/24/8-48-h/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_8.48_H"
@@ -9197,6 +9737,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-05420"
   url: "https://wanderinginn.com/2021/10/27/8-49-m-revised/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_8.49_M"
@@ -9214,6 +9755,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-05430"
   url: "https://wanderinginn.com/2021/10/31/8-50/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_8.50"
@@ -9231,6 +9773,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-05440"
   url: "https://wanderinginn.com/2021/11/03/interlude-conversations/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_Conversations"
@@ -9248,6 +9791,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-05450"
   url: "https://wanderinginn.com/2021/11/14/8-51-d/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_8.51_D"
@@ -9265,6 +9809,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-05460"
   url: "https://wanderinginn.com/2021/11/17/8-52-mn/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_8.52_MN"
@@ -9282,6 +9827,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-05470"
   url: "https://wanderinginn.com/2021/11/21/8-53-fh/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_8.53_FH"
@@ -9299,6 +9845,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-05480"
   url: "https://wanderinginn.com/2021/12/01/8-54-h/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_8.54_H"
@@ -9316,6 +9863,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-05490"
   url: "https://wanderinginn.com/2021/12/05/8-55-l/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_8.55_L"
@@ -9333,6 +9881,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-05500"
   url: "https://wanderinginn.com/2021/12/08/8-56/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_8.56"
@@ -9350,6 +9899,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-05510"
   url: "https://wanderinginn.com/2021/12/12/8-57-h/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_8.57_H"
@@ -9367,6 +9917,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-05520"
   url: "https://wanderinginn.com/2021/12/15/8-58-pfh/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_8.58_PFH"
@@ -9384,6 +9935,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-05530"
   url: "https://wanderinginn.com/2021/12/22/8-59-h/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_8.59_H"
@@ -9401,6 +9953,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-05540"
   url: "https://wanderinginn.com/2021/12/26/8-60/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_8.60"
@@ -9418,6 +9971,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-05550"
   url: "https://wanderinginn.com/2021/12/29/8-61/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_8.61"
@@ -9435,6 +9989,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-05560"
   url: "https://wanderinginn.com/2022/01/16/8-62-k/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_8.62_K"
@@ -9452,6 +10007,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-05570"
   url: "https://wanderinginn.com/2022/01/19/8-63-k/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_8.63_K"
@@ -9469,6 +10025,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-05580"
   url: "https://wanderinginn.com/2022/01/23/8-64-k/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_8.64_K"
@@ -9486,6 +10043,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-05590"
   url: "https://wanderinginn.com/2022/01/30/8-65/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_8.65"
@@ -9503,6 +10061,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-05600"
   url: "https://wanderinginn.com/2022/02/09/interlude-hectval-pt-1/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_Hectval_(Pt._1)"
@@ -9520,6 +10079,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-05610"
   url: "https://wanderinginn.com/2022/02/13/interlude-hectval-pt-2/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_Hectval_(Pt._2)"
@@ -9537,6 +10097,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-05620"
   url: "https://wanderinginn.com/2022/02/16/interlude-hectval-pt-3/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_Hectval_(Pt._3)"
@@ -9554,6 +10115,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-05630"
   url: "https://wanderinginn.com/interlude-satar-revised/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_Satar"
@@ -9571,6 +10133,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-05640"
   url: "https://wanderinginn.com/2022/02/23/8-66/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_8.66"
@@ -9588,6 +10151,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-05650"
   url: "https://wanderinginn.com/2022/02/27/8-67/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_8.67"
@@ -9605,6 +10169,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-05660"
   url: "https://wanderinginn.com/2022/03/09/8-68/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_8.68"
@@ -9622,6 +10187,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-05670"
   url: "https://wanderinginn.com/2022/03/12/8-69-te/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_8.69_T"
@@ -9639,6 +10205,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-05680"
   url: "https://wanderinginn.com/2022/03/13/8-70-e/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_8.70_E"
@@ -9656,6 +10223,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-05690"
   url: "https://wanderinginn.com/2022/03/14/8-71/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_8.71"
@@ -9673,6 +10241,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-05700"
   url: "https://wanderinginn.com/2022/03/15/8-72/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_8.72"
@@ -9690,6 +10259,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-05710"
   url: "https://wanderinginn.com/2022/03/16/8-73-r/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_8.73_R"
@@ -9707,6 +10277,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-05720"
   url: "https://wanderinginn.com/2022/03/17/8-74-dr/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_8.74_DR"
@@ -9724,6 +10295,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-05730"
   url: "https://wanderinginn.com/2022/03/18/8-75/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_8.75"
@@ -9741,6 +10313,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-05740"
   url: "https://wanderinginn.com/2022/03/27/8-76-b/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_8.76_B"
@@ -9758,6 +10331,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-05750"
   url: "https://wanderinginn.com/2022/03/30/8-77-b/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_8.77_B"
@@ -9775,6 +10349,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-05760"
   url: "https://wanderinginn.com/2022/04/10/8-78-f/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_8.78_F"
@@ -9792,6 +10367,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-05770"
   url: "https://wanderinginn.com/2022/04/13/8-79/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_8.79"
@@ -9809,6 +10385,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-05780"
   url: "https://wanderinginn.com/2022/04/17/8-80/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_8.80"
@@ -9826,6 +10403,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-05790"
   url: "https://wanderinginn.com/2022/04/20/8-81/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_8.81"
@@ -9843,6 +10421,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-05800"
   url: "https://wanderinginn.com/2022/04/26/8-82-pt-1/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_8.82_(Pt._1)"
@@ -9860,6 +10439,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-05810"
   url: "https://wanderinginn.com/2022/04/26/8-82-pt-2/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_8.82_(Pt._2)"
@@ -9877,6 +10457,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-05820"
   url: "https://wanderinginn.com/2022/04/26/8-82-pt-3/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_8.82_(Pt._3)"
@@ -9894,6 +10475,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-05830"
   url: "https://wanderinginn.com/2022/05/03/8-83/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_8.83"
@@ -9911,6 +10493,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-05840"
   url: "https://wanderinginn.com/2022/05/03/8-84/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_8.84"
@@ -9928,6 +10511,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-05850"
   url: "https://wanderinginn.com/2022/05/03/8-85/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_8.85"
@@ -9945,6 +10529,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-05860"
   url: "https://wanderinginn.com/2022/05/03/epilogue/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Epilogue"
@@ -9962,6 +10547,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-05870"
   url: "https://wanderinginn.com/2022/06/03/9-00/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_9.00"
@@ -9979,6 +10565,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-05880"
   url: "https://wanderinginn.com/2022/06/07/9-01/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_9.01"
@@ -9996,6 +10583,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-05890"
   url: "https://wanderinginn.com/2022/06/11/9-02/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_9.02"
@@ -10013,6 +10601,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-05900"
   url: "https://wanderinginn.com/2022/06/18/interlude-singing-ships/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_Singing_Ships"
@@ -10030,6 +10619,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-05910"
   url: "https://wanderinginn.com/2022/06/28/9-03/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_9.03"
@@ -10047,6 +10637,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-05920"
   url: "https://wanderinginn.com/2022/07/02/9-04/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_9.04"
@@ -10064,6 +10655,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-05930"
   url: "https://wanderinginn.com/2022/07/05/interlude-the-isles-of-goblin-and-minos/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Interlude_-_The_Isles_of_Goblin_and_Minos"
@@ -10081,6 +10673,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-05940"
   url: "https://wanderinginn.com/2022/07/10/9-05-npr/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_9.05_NPR"
@@ -10098,6 +10691,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-05950"
   url: "https://wanderinginn.com/2022/07/12/9-06/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_9.06"
@@ -10115,6 +10709,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-05960"
   url: "https://wanderinginn.com/2022/07/17/9-07/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_9.07"
@@ -10132,6 +10727,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-05970"
   url: "https://wanderinginn.com/2022/07/19/9-08/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_9.08"
@@ -10149,6 +10745,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-05980"
   url: "https://wanderinginn.com/2022/07/30/interlude-mundanity-and-memorials/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_Mundanity_and_Memorials"
@@ -10166,6 +10763,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-05990"
   url: "https://wanderinginn.com/2022/08/06/interlude-the-competition/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_The_Competition"
@@ -10183,6 +10781,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-06000"
   url: "https://wanderinginn.com/2022/08/20/9-09-p/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_9.09_P"
@@ -10200,6 +10799,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-06010"
   url: "https://wanderinginn.com/2022/08/23/9-10-w/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_9.10_W"
@@ -10217,6 +10817,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-06020"
   url: "https://wanderinginn.com/2022/08/27/9-11-w/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_9.11_W"
@@ -10234,6 +10835,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-06030"
   url: "https://wanderinginn.com/2022/08/30/9-12/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_9.12"
@@ -10251,6 +10853,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-06040"
   url: "https://wanderinginn.com/2022/09/04/9-13/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_9.13"
@@ -10268,6 +10871,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-06050"
   url: "https://wanderinginn.com/2022/09/06/9-14-vm/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_9.14_VM"
@@ -10285,6 +10889,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-06060"
   url: "https://wanderinginn.com/2022/09/10/9-15-vm/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_9.15_VM"
@@ -10302,6 +10907,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-06070"
   url: "https://wanderinginn.com/2022/09/21/9-16-r/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_9.16_R"
@@ -10319,6 +10925,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-06080"
   url: "https://wanderinginn.com/2022/09/25/9-17-r/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_9.17_R"
@@ -10336,6 +10943,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-06090"
   url: "https://wanderinginn.com/2022/09/28/interlude-the-great-race/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_The_Great_Race"
@@ -10353,6 +10961,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-06100"
   url: "https://wanderinginn.com/2022/10/02/9-19-e/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_9.18_E"
@@ -10370,6 +10979,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-06110"
   url: "https://wanderinginn.com/2022/10/05/interlude-relationships/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_Relationships"
@@ -10387,6 +10997,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-06120"
   url: "https://wanderinginn.com/2022/10/09/9-19/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_9.19"
@@ -10404,6 +11015,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-06130"
   url: "https://wanderinginn.com/2022/10/12/9-20/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_9.20"
@@ -10421,6 +11033,7 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
 - id: "ch-06140"
   url: "https://wanderinginn.com/2022/10/16/interlude-death-and-stitches/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_Death_and_Stitches"
@@ -10438,3 +11051,4 @@
       ref: null
       title: null
       order: null
+      totalSeconds: null
