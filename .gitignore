@@ -649,3 +649,7 @@ FodyWeavers.xsd
 
 # turbo
 .turbo
+
+
+# project-specific
+dump/
