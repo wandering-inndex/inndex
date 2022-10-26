@@ -92,7 +92,7 @@ export default function Page({ data }: PageProps<AllMedia | null>) {
                   Volume
                 </th>
                 <th scope="col" class="bg-gray-100 text-left">
-                  Title
+                  Chapter
                 </th>
                 <th scope="col" class="bg-gray-100">#</th>
                 {/* END: Web */}
@@ -106,7 +106,7 @@ export default function Page({ data }: PageProps<AllMedia | null>) {
                   Book
                 </th>
                 <th scope="col" class="bg-blue-100 text-left">
-                  Title
+                  Chapter
                 </th>
                 <th scope="col" class="bg-blue-100">#</th>
                 {/* END: E-books */}
@@ -120,7 +120,7 @@ export default function Page({ data }: PageProps<AllMedia | null>) {
                   Book
                 </th>
                 <th scope="col" class="bg-purple-100 text-left">
-                  Title
+                  Chapter
                 </th>
                 <th scope="col" class="bg-purple-100">#</th>
                 {/* EBD: Audiobooks */}
