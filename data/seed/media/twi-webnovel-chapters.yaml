@@ -1,5 +1,10 @@
 # https://wanderinginn.com/table-of-contents/
 
+# Most of the word count here was taken from their respective wiki pages.
+# According to Ocean23, they are using https://wordcounter.net/ for the count.
+# For the chapters without wiki word counts, I used the website above (removing
+# the title, announcements, author's notes, and featured artworks).
+
 - id: "ch-00010"
   url: "https://wanderinginn.com/2016/07/27/1-00/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_1.00"
@@ -9,6 +14,7 @@
       ref: 1
       title: "1.00"
       order: 1
+      totalWords: 737
     eBook:
       ref: 1
       title: "1.00"
@@ -27,6 +33,7 @@
       ref: 1
       title: "1.01"
       order: 2
+      totalWords: 2748
     eBook:
       ref: 1
       title: "1.01"
@@ -45,6 +52,7 @@
       ref: 1
       title: "1.02"
       order: 3
+      totalWords: 4331
     eBook:
       ref: 1
       title: "1.02"
@@ -63,6 +71,7 @@
       ref: 1
       title: "1.03"
       order: 4
+      totalWords: 1930
     eBook:
       ref: 1
       title: "1.03"
@@ -81,6 +90,7 @@
       ref: 1
       title: "1.04"
       order: 5
+      totalWords: 3721
     eBook:
       ref: 1
       title: "1.04"
@@ -99,6 +109,7 @@
       ref: 1
       title: "1.05"
       order: 6
+      totalWords: 2623
     eBook:
       ref: 1
       title: "1.05"
@@ -117,6 +128,7 @@
       ref: 1
       title: "1.06"
       order: 7
+      totalWords: 3354
     eBook:
       ref: 1
       title: "1.06"
@@ -135,6 +147,7 @@
       ref: 1
       title: "1.07"
       order: 8
+      totalWords: 5008
     eBook:
       ref: 1
       title: "1.07"
@@ -153,6 +166,7 @@
       ref: 1
       title: "1.08"
       order: 9
+      totalWords: 2613
     eBook:
       ref: 1
       title: "1.08"
@@ -171,6 +185,7 @@
       ref: 1
       title: "1.09"
       order: 10
+      totalWords: 2804
     eBook:
       ref: 1
       title: "1.09"
@@ -189,6 +204,7 @@
       ref: 1
       title: "1.10"
       order: 11
+      totalWords: 5366
     eBook:
       ref: 1
       title: "1.10"
@@ -207,6 +223,7 @@
       ref: 1
       title: "1.11"
       order: 12
+      totalWords: 3071
     eBook:
       ref: 1
       title: "1.11"
@@ -225,6 +242,7 @@
       ref: 1
       title: "Interlude"
       order: 13
+      totalWords: 1164
     eBook:
       ref: 1
       title: "Interlude"
@@ -243,6 +261,7 @@
       ref: 1
       title: "1.12"
       order: 14
+      totalWords: 2278
     eBook:
       ref: 1
       title: "1.12"
@@ -261,6 +280,7 @@
       ref: 1
       title: "1.13"
       order: 15
+      totalWords: 3694
     eBook:
       ref: 1
       title: "1.13"
@@ -279,6 +299,7 @@
       ref: 1
       title: "1.14"
       order: 16
+      totalWords: 3384
     eBook:
       ref: 1
       title: "1.14"
@@ -297,6 +318,7 @@
       ref: 1
       title: "1.15"
       order: 17
+      totalWords: 4316
     eBook:
       ref: 1
       title: "1.15"
@@ -315,6 +337,7 @@
       ref: 1
       title: "1.16"
       order: 18
+      totalWords: 1415
     eBook:
       ref: 1
       title: "1.16"
@@ -333,6 +356,7 @@
       ref: 1
       title: "1.17"
       order: 19
+      totalWords: 3992
     eBook:
       ref: 1
       title: "1.17"
@@ -351,6 +375,7 @@
       ref: 1
       title: "1.18"
       order: 20
+      totalWords: 2586
     eBook:
       ref: 1
       title: "1.18"
@@ -369,6 +394,7 @@
       ref: 1
       title: "1.19"
       order: 21
+      totalWords: 3620
     eBook:
       ref: 1
       title: "1.19"
@@ -387,6 +413,7 @@
       ref: 1
       title: "1.20"
       order: 22
+      totalWords: 4597
     eBook:
       ref: 1
       title: "1.20"
@@ -405,6 +432,7 @@
       ref: 1
       title: "Interlude – 1.00 R"
       order: 23
+      totalWords: 2669
     eBook:
       ref: 1
       title: "1.00 R"
@@ -423,6 +451,7 @@
       ref: 1
       title: "1.01 R"
       order: 24
+      totalWords: 4124
     eBook:
       ref: 1
       title: "1.01 R"
@@ -441,6 +470,7 @@
       ref: 1
       title: "1.21"
       order: 25
+      totalWords: 5141
     eBook:
       ref: 1
       title: "1.21"
@@ -459,6 +489,7 @@
       ref: 1
       title: "1.22"
       order: 26
+      totalWords: 5386
     eBook:
       ref: 1
       title: "1.22"
@@ -477,6 +508,7 @@
       ref: 1
       title: "1.23"
       order: 27
+      totalWords: 5002
     eBook:
       ref: 1
       title: "1.23"
@@ -495,6 +527,7 @@
       ref: 1
       title: "Interlude: King Edition"
       order: 28
+      totalWords: 3415
     eBook:
       ref: 1
       title: "Interlude – King Edition"
@@ -513,6 +546,7 @@
       ref: 1
       title: "1.24"
       order: 29
+      totalWords: 7411
     eBook:
       ref: 1
       title: "1.24"
@@ -531,6 +565,7 @@
       ref: 1
       title: "1.02 R"
       order: 30
+      totalWords: 6441
     eBook:
       ref: 1
       title: "1.02 R"
@@ -549,6 +584,7 @@
       ref: 1
       title: "1.03 R"
       order: 31
+      totalWords: 4215
     eBook:
       ref: 1
       title: "1.03 R"
@@ -567,6 +603,7 @@
       ref: 1
       title: "1.25"
       order: 32
+      totalWords: 4798
     eBook:
       ref: 1
       title: "1.25"
@@ -585,6 +622,7 @@
       ref: 1
       title: "1.26"
       order: 33
+      totalWords: 4714
     eBook:
       ref: 1
       title: "1.26"
@@ -603,6 +641,7 @@
       ref: 1
       title: "1.27"
       order: 34
+      totalWords: 4627
     eBook:
       ref: 1
       title: "1.27"
@@ -621,6 +660,7 @@
       ref: 1
       title: "1.04 R"
       order: 35
+      totalWords: 5088
     eBook:
       ref: 1
       title: "1.04 R"
@@ -639,6 +679,7 @@
       ref: 1
       title: "1.05 R"
       order: 36
+      totalWords: 7560
     eBook:
       ref: 1
       title: "1.05 R"
@@ -657,6 +698,7 @@
       ref: 1
       title: "1.28"
       order: 37
+      totalWords: 5909
     eBook:
       ref: 1
       title: "1.28"
@@ -675,6 +717,7 @@
       ref: 1
       title: "1.06 R"
       order: 38
+      totalWords: 5871
     eBook:
       ref: 1
       title: "1.06 R"
@@ -693,6 +736,7 @@
       ref: 1
       title: "1.29"
       order: 39
+      totalWords: 7408
     eBook:
       ref: 1
       title: "1.29"
@@ -711,6 +755,7 @@
       ref: 1
       title: "1.30"
       order: 40
+      totalWords: 5104
     eBook:
       ref: 1
       title: "1.30"
@@ -729,6 +774,7 @@
       ref: 1
       title: "1.31"
       order: 41
+      totalWords: 7517
     eBook:
       ref: 1
       title: "1.31"
@@ -747,6 +793,7 @@
       ref: 1
       title: "1.07 R"
       order: 42
+      totalWords: 8221
     eBook:
       ref: 1
       title: "1.07 R"
@@ -765,6 +812,7 @@
       ref: 1
       title: "1.08 R"
       order: 43
+      totalWords: 6985
     eBook:
       ref: 1
       title: "1.08 R"
@@ -783,6 +831,7 @@
       ref: 1
       title: "1.32"
       order: 44
+      totalWords: 6306
     eBook:
       ref: 1
       title: "1.32"
@@ -801,6 +850,7 @@
       ref: 1
       title: "1.33"
       order: 45
+      totalWords: 8315
     eBook:
       ref: 1
       title: "1.33"
@@ -819,6 +869,7 @@
       ref: 1
       title: "1.09 R"
       order: 46
+      totalWords: 5148
     eBook:
       ref: 1
       title: "1.09 R"
@@ -837,6 +888,7 @@
       ref: 1
       title: "1.10 R"
       order: 47
+      totalWords: 7747
     eBook:
       ref: 1
       title: "1.10 R"
@@ -855,6 +907,7 @@
       ref: 1
       title: "1.34"
       order: 48
+      totalWords: 7731
     eBook:
       ref: 1
       title: "1.34"
@@ -873,6 +926,7 @@
       ref: 1
       title: "1.35"
       order: 49
+      totalWords: 7086
     eBook:
       ref: 1
       title: "1.35"
@@ -891,6 +945,7 @@
       ref: 1
       title: "1.11 R"
       order: 50
+      totalWords: 6110
     eBook:
       ref: 1
       title: "1.11 R"
@@ -909,6 +964,7 @@
       ref: 1
       title: "1.12 R"
       order: 51
+      totalWords: 9353
     eBook:
       ref: 1
       title: "1.12 R"
@@ -927,6 +983,7 @@
       ref: 1
       title: "1.36"
       order: 52
+      totalWords: 7806
     eBook:
       ref: 1
       title: "1.36"
@@ -945,6 +1002,7 @@
       ref: 1
       title: "1.37"
       order: 53
+      totalWords: 7479
     eBook:
       ref: 1
       title: "1.37"
@@ -963,6 +1021,7 @@
       ref: 1
       title: "1.38"
       order: 54
+      totalWords: 6181
     eBook:
       ref: 1
       title: "1.38"
@@ -981,6 +1040,7 @@
       ref: 1
       title: "1.39"
       order: 55
+      totalWords: 5293
     eBook:
       ref: 1
       title: "1.39"
@@ -999,6 +1059,7 @@
       ref: 1
       title: "1.40"
       order: 56
+      totalWords: 7827
     eBook:
       ref: 1
       title: "1.40"
@@ -1017,6 +1078,7 @@
       ref: 1
       title: "1.13 R"
       order: 57
+      totalWords: 6603
     eBook:
       ref: 1
       title: "1.13 R"
@@ -1035,6 +1097,7 @@
       ref: 1
       title: "1.41"
       order: 58
+      totalWords: 8365
     eBook:
       ref: 1
       title: "1.41"
@@ -1053,6 +1116,7 @@
       ref: 1
       title: "1.00 H"
       order: 59
+      totalWords: 8070
     eBook:
       ref: 1
       title: "1.00 H"
@@ -1071,6 +1135,7 @@
       ref: 1
       title: "1.01 H"
       order: 60
+      totalWords: 6521
     eBook:
       ref: 1
       title: "1.01 H"
@@ -1089,6 +1154,7 @@
       ref: 1
       title: "1.02 H"
       order: 61
+      totalWords: 8518
     eBook:
       ref: 1
       title: "1.02 H"
@@ -1107,6 +1173,7 @@
       ref: 1
       title: "1.42"
       order: 62
+      totalWords: 7858
     eBook:
       ref: 1
       title: "1.42"
@@ -1125,6 +1192,7 @@
       ref: 1
       title: "1.43"
       order: 63
+      totalWords: 6979
     eBook:
       ref: 1
       title: "1.43"
@@ -1143,6 +1211,7 @@
       ref: 1
       title: "1.44"
       order: 64
+      totalWords: 8110
     eBook:
       ref: 1
       title: "1.44"
@@ -1161,6 +1230,7 @@
       ref: 1
       title: "1.45"
       order: 65
+      totalWords: 4404
     eBook:
       ref: 1
       title: "1.45"
@@ -1179,6 +1249,7 @@
       ref: 2
       title: "Interlude"
       order: 66
+      totalWords: 3422
     eBook:
       ref: 2
       title: "Interlude"
@@ -1197,6 +1268,7 @@
       ref: 2
       title: "2.00"
       order: 67
+      totalWords: 5537
     eBook:
       ref: 2
       title: "2.00"
@@ -1215,6 +1287,7 @@
       ref: 2
       title: "2.01"
       order: 68
+      totalWords: 5733
     eBook:
       ref: 2
       title: "2.01"
@@ -1233,6 +1306,7 @@
       ref: 2
       title: "2.02"
       order: 69
+      totalWords: 5791
     eBook:
       ref: 2
       title: "2.02"
@@ -1251,6 +1325,7 @@
       ref: 2
       title: "2.03"
       order: 70
+      totalWords: 8994
     eBook:
       ref: 2
       title: "2.03"
@@ -1269,6 +1344,7 @@
       ref: 2
       title: "2.04"
       order: 71
+      totalWords: 8687
     eBook:
       ref: 2
       title: "2.04"
@@ -1287,6 +1363,7 @@
       ref: 2
       title: "2.05"
       order: 72
+      totalWords: 6126
     eBook:
       ref: 2
       title: "2.05"
@@ -1305,6 +1382,7 @@
       ref: 2
       title: "2.06"
       order: 73
+      totalWords: 7129
     eBook:
       ref: 2
       title: "2.06"
@@ -1323,6 +1401,7 @@
       ref: 2
       title: "2.07"
       order: 74
+      totalWords: 7580
     eBook:
       ref: 2
       title: "2.07"
@@ -1341,6 +1420,7 @@
       ref: 2
       title: "2.08"
       order: 75
+      totalWords: 8748
     eBook:
       ref: 2
       title: "2.08"
@@ -1359,6 +1439,7 @@
       ref: 2
       title: "2.09"
       order: 76
+      totalWords: 8007
     eBook:
       ref: 2
       title: "2.09"
@@ -1377,6 +1458,7 @@
       ref: 2
       title: "2.10 T"
       order: 77
+      totalWords: 6518
     eBook:
       ref: 2
       title: "2.10 T"
@@ -1395,6 +1477,7 @@
       ref: 2
       title: "2.11"
       order: 78
+      totalWords: 7615
     eBook:
       ref: 2
       title: "2.11"
@@ -1413,6 +1496,7 @@
       ref: 2
       title: "2.12"
       order: 79
+      totalWords: 9211
     eBook:
       ref: 2
       title: "2.12"
@@ -1431,6 +1515,7 @@
       ref: 2
       title: "2.13"
       order: 80
+      totalWords: 7923
     eBook:
       ref: 2
       title: "2.13"
@@ -1449,6 +1534,7 @@
       ref: 2
       title: "2.14 G"
       order: 81
+      totalWords: 9884
     eBook:
       ref: 2
       title: "2.14 G"
@@ -1467,6 +1553,7 @@
       ref: 2
       title: "S01 – Mating Rituals"
       order: 82
+      totalWords: 8414
     eBook:
       ref: 2
       title: "Side Story – Mating Rituals"
@@ -1485,6 +1572,7 @@
       ref: 2
       title: "2.15"
       order: 83
+      totalWords: 9407
     eBook:
       ref: 2
       title: "2.15"
@@ -1503,6 +1591,7 @@
       ref: 2
       title: "2.16"
       order: 84
+      totalWords: 8675
     eBook:
       ref: 2
       title: "2.16"
@@ -1521,6 +1610,7 @@
       ref: 2
       title: "2.17"
       order: 85
+      totalWords: 9545
     eBook:
       ref: 2
       title: "2.17"
@@ -1539,6 +1629,7 @@
       ref: 2
       title: "2.18"
       order: 86
+      totalWords: 8199
     eBook:
       ref: 2
       title: "2.18"
@@ -1557,6 +1648,7 @@
       ref: 2
       title: "2.19 G"
       order: 87
+      totalWords: 9016
     eBook:
       ref: 2
       title: "2.19 G"
@@ -1575,6 +1667,7 @@
       ref: 2
       title: "2.20"
       order: 88
+      totalWords: 9587
     eBook:
       ref: 2
       title: "2.20"
@@ -1593,6 +1686,7 @@
       ref: 2
       title: "2.21"
       order: 89
+      totalWords: 10408
     eBook:
       ref: 2
       title: "2.21"
@@ -1611,6 +1705,7 @@
       ref: 2
       title: "2.22 K"
       order: 90
+      totalWords: 10824
     eBook:
       ref: 2
       title: "2.22 K"
@@ -1629,6 +1724,7 @@
       ref: 2
       title: "2.23"
       order: 91
+      totalWords: 11126
     eBook:
       ref: 2
       title: "2.23"
@@ -1647,6 +1743,7 @@
       ref: 2
       title: "2.24 T"
       order: 92
+      totalWords: 9371
     eBook:
       ref: 2
       title: "2.24 T"
@@ -1665,6 +1762,7 @@
       ref: 2
       title: "2.25"
       order: 93
+      totalWords: 9623
     eBook:
       ref: 2
       title: "2.25"
@@ -1683,6 +1781,7 @@
       ref: 2
       title: "2.26"
       order: 94
+      totalWords: 10276
     eBook:
       ref: 2
       title: "2.26"
@@ -1701,6 +1800,7 @@
       ref: 2
       title: "1.00 C"
       order: 95
+      totalWords: 9694
     eBook:
       ref: 2
       title: "Side Story – [Clown] (Pt. 1)"
@@ -1719,6 +1819,7 @@
       ref: 2
       title: "1.01 C"
       order: 96
+      totalWords: 4014
     eBook:
       ref: 2
       title: "Side Story – [Clown] (Pt. 2)"
@@ -1737,6 +1838,7 @@
       ref: 2
       title: "2.27 G"
       order: 97
+      totalWords: 10449
     eBook:
       ref: 2
       title: "2.27 G"
@@ -1755,6 +1857,7 @@
       ref: 2
       title: "2.28"
       order: 98
+      totalWords: 9208
     eBook:
       ref: 2
       title: "2.28"
@@ -1773,6 +1876,7 @@
       ref: 2
       title: "2.29"
       order: 99
+      totalWords: 10604
     eBook:
       ref: 2
       title: "2.29"
@@ -1791,6 +1895,7 @@
       ref: 2
       title: "2.30"
       order: 100
+      totalWords: 9376
     eBook:
       ref: 2
       title: "2.30"
@@ -1809,6 +1914,7 @@
       ref: 2
       title: "2.31"
       order: 101
+      totalWords: 10634
     eBook:
       ref: 2
       title: "2.31"
@@ -1827,6 +1933,7 @@
       ref: 2
       title: "2.32 H"
       order: 102
+      totalWords: 10287
     eBook:
       ref: 2
       title: "2.32 H"
@@ -1845,6 +1952,7 @@
       ref: 2
       title: "2.33"
       order: 103
+      totalWords: 10193
     eBook:
       ref: 2
       title: "2.33"
@@ -1863,6 +1971,7 @@
       ref: 2
       title: "2.34"
       order: 104
+      totalWords: 8954
     eBook:
       ref: 2
       title: "2.34"
@@ -1881,6 +1990,7 @@
       ref: 2
       title: "2.35"
       order: 105
+      totalWords: 10884
     eBook:
       ref: 2
       title: "2.35"
@@ -1899,6 +2009,7 @@
       ref: 2
       title: "2.36 G"
       order: 106
+      totalWords: 8285
     eBook:
       ref: 2
       title: "2.36 G"
@@ -1917,6 +2028,7 @@
       ref: 2
       title: "2.37"
       order: 107
+      totalWords: 9202
     eBook:
       ref: 2
       title: "2.37"
@@ -1935,6 +2047,7 @@
       ref: 2
       title: "2.38"
       order: 108
+      totalWords: 11602
     eBook:
       ref: 2
       title: "2.38"
@@ -1953,6 +2066,7 @@
       ref: 2
       title: "Interlude"
       order: 109
+      totalWords: 9654
     eBook:
       ref: 2
       title: "Interlude"
@@ -1971,6 +2085,7 @@
       ref: 2
       title: "S02 – The Antinium Wars (Pt.1)"
       order: 110
+      totalWords: 5513
     eBook:
       ref: 2
       title: "Side Story – The Antinium Wars (Pt.1)"
@@ -1989,6 +2104,7 @@
       ref: 2
       title: "S02 – The Antinium Wars (Pt.2)"
       order: 111
+      totalWords: 6896
     eBook:
       ref: 2
       title: "Side Story – The Antinium Wars (Pt.2)"
@@ -2007,6 +2123,7 @@
       ref: 2
       title: "2.39"
       order: 112
+      totalWords: 10425
     eBook:
       ref: 2
       title: "2.39"
@@ -2025,6 +2142,7 @@
       ref: 2
       title: "2.40"
       order: 113
+      totalWords: 10760
     eBook:
       ref: 2
       title: "2.40"
@@ -2043,6 +2161,7 @@
       ref: 2
       title: "2.41"
       order: 114
+      totalWords: 12052
     eBook:
       ref: 2
       title: "2.41"
@@ -2061,6 +2180,7 @@
       ref: 2
       title: "2.42"
       order: 115
+      totalWords: 9977
     eBook:
       ref: 2
       title: "2.42"
@@ -2079,6 +2199,7 @@
       ref: 2
       title: "2.43"
       order: 116
+      totalWords: 8827
     eBook:
       ref: 2
       title: "2.43"
@@ -2097,6 +2218,7 @@
       ref: 2
       title: "2.44"
       order: 117
+      totalWords: 8668
     eBook:
       ref: 2
       title: "2.44"
@@ -2115,6 +2237,7 @@
       ref: 2
       title: "2.45"
       order: 118
+      totalWords: 10412
     eBook:
       ref: 2
       title: "2.45"
@@ -2133,6 +2256,7 @@
       ref: 2
       title: "S03 – Wistram Days (Pt. 1)"
       order: 119
+      totalWords: 10854
     eBook:
       ref: 4
       title: "Wistram Days (Pt.1)"
@@ -2151,6 +2275,7 @@
       ref: 2
       title: "2.46"
       order: 120
+      totalWords: 9283
     eBook:
       ref: 2
       title: "2.46"
@@ -2169,6 +2294,7 @@
       ref: 2
       title: "2.47"
       order: 121
+      totalWords: 11219
     eBook:
       ref: 2
       title: "2.47"
@@ -2187,6 +2313,7 @@
       ref: 2
       title: "2.48"
       order: 122
+      totalWords: 12057
     eBook:
       ref: 2
       title: "2.48"
@@ -2205,6 +2332,7 @@
       ref: 3
       title: "3.00 E"
       order: 123
+      totalWords: 9920
     eBook:
       ref: 3
       title: "3.00 E"
@@ -2223,6 +2351,7 @@
       ref: 3
       title: "3.01 E"
       order: 124
+      totalWords: 10103
     eBook:
       ref: 3
       title: "3.01 E"
@@ -2241,6 +2370,7 @@
       ref: 3
       title: "3.02 H"
       order: 125
+      totalWords: 12496
     eBook:
       ref: 3
       title: "3.02 H"
@@ -2259,6 +2389,7 @@
       ref: 3
       title: "3.03"
       order: 126
+      totalWords: 13303
     eBook:
       ref: 3
       title: "3.03"
@@ -2277,6 +2408,7 @@
       ref: 3
       title: "3.04"
       order: 127
+      totalWords: 10508
     eBook:
       ref: 3
       title: "3.04"
@@ -2295,6 +2427,7 @@
       ref: 3
       title: "3.05 L"
       order: 128
+      totalWords: 10516
     eBook:
       ref: 3
       title: "3.05 L"
@@ -2313,6 +2446,7 @@
       ref: 3
       title: "1.00 D"
       order: 129
+      totalWords: 11514
     eBook:
       ref: 3
       title: "1.00 D"
@@ -2331,6 +2465,7 @@
       ref: 3
       title: "1.01 D"
       order: 130
+      totalWords: 11277
     eBook:
       ref: 3
       title: "1.01 D"
@@ -2349,6 +2484,7 @@
       ref: 3
       title: "3.06 L"
       order: 131
+      totalWords: 12944
     eBook:
       ref: 3
       title: "3.06 L"
@@ -2367,6 +2503,7 @@
       ref: 3
       title: "3.07 H"
       order: 132
+      totalWords: 12209
     eBook:
       ref: 3
       title: "3.07 H"
@@ -2385,6 +2522,7 @@
       ref: 3
       title: "3.08 H"
       order: 133
+      totalWords: 8829
     eBook:
       ref: 3
       title: "3.08 H"
@@ -2403,6 +2541,7 @@
       ref: 3
       title: "3.09"
       order: 134
+      totalWords: 10197
     eBook:
       ref: 3
       title: "3.09"
@@ -2421,6 +2560,7 @@
       ref: 3
       title: "3.10"
       order: 135
+      totalWords: 10342
     eBook:
       ref: 3
       title: "3.10"
@@ -2439,6 +2579,7 @@
       ref: 3
       title: "3.11 E"
       order: 136
+      totalWords: 11020
     eBook:
       ref: 3
       title: "3.11 E"
@@ -2457,6 +2598,7 @@
       ref: 3
       title: "3.12 E"
       order: 137
+      totalWords: 9303
     eBook:
       ref: 3
       title: "3.12 E"
@@ -2475,6 +2617,7 @@
       ref: 3
       title: "3.13"
       order: 138
+      totalWords: 12595
     eBook:
       ref: 3
       title: "3.13 E"
@@ -2493,6 +2636,7 @@
       ref: 3
       title: "3.14"
       order: 139
+      totalWords: 10533
     eBook:
       ref: 3
       title: "3.14"
@@ -2511,6 +2655,7 @@
       ref: 3
       title: "3.15"
       order: 140
+      totalWords: 10412
     eBook:
       ref: 3
       title: "3.15"
@@ -2529,6 +2674,7 @@
       ref: 3
       title: "3.16"
       order: 141
+      totalWords: 12501
     eBook:
       ref: 3
       title: "3.16"
@@ -2547,6 +2693,7 @@
       ref: 3
       title: "S03 – Wistram Days (Pt. 2)"
       order: 142
+      totalWords: 12697
     eBook:
       ref: 4
       title: "Wistram Days (Pt.2)"
@@ -2565,6 +2712,7 @@
       ref: 3
       title: "3.17 T"
       order: 143
+      totalWords: 11089
     eBook:
       ref: 3
       title: "3.17 T"
@@ -2583,6 +2731,7 @@
       ref: 3
       title: "3.18 T"
       order: 144
+      totalWords: 10695
     eBook:
       ref: 3
       title: "3.18 T"
@@ -2601,6 +2750,7 @@
       ref: 3
       title: "3.19 T"
       order: 145
+      totalWords: 9122
     eBook:
       ref: 3
       title: "3.19 T"
@@ -2619,6 +2769,7 @@
       ref: 3
       title: "3.20 T"
       order: 146
+      totalWords: 10546
     eBook:
       ref: 3
       title: "3.20 T"
@@ -2637,6 +2788,7 @@
       ref: 3
       title: "3.21 L"
       order: 147
+      totalWords: 9451
     eBook:
       ref: 3
       title: "3.21 L"
@@ -2655,6 +2807,7 @@
       ref: 3
       title: "3.22 L"
       order: 148
+      totalWords: 10399
     eBook:
       ref: 3
       title: "3.22 L"
@@ -2673,6 +2826,7 @@
       ref: 3
       title: "3.23 L"
       order: 149
+      totalWords: 13536
     eBook:
       ref: 3
       title: "3.23 L"
@@ -2691,6 +2845,7 @@
       ref: 3
       title: "3.24"
       order: 150
+      totalWords: 9800
     eBook:
       ref: 3
       title: "3.24"
@@ -2709,6 +2864,7 @@
       ref: 3
       title: "3.25"
       order: 151
+      totalWords: 10502
     eBook:
       ref: 3
       title: "3.25"
@@ -2727,6 +2883,7 @@
       ref: 3
       title: "3.26 G"
       order: 152
+      totalWords: 9676
     eBook:
       ref: 4
       title: "3.26 G"
@@ -2745,6 +2902,7 @@
       ref: 3
       title: "3.27 M"
       order: 153
+      totalWords: 11343
     eBook:
       ref: 4
       title: "3.27 M"
@@ -2763,6 +2921,7 @@
       ref: 3
       title: "3.28 G"
       order: 154
+      totalWords: 12261
     eBook:
       ref: 4
       title: "3.28 G"
@@ -2781,6 +2940,7 @@
       ref: 3
       title: "3.29 G"
       order: 155
+      totalWords: 10943
     eBook:
       ref: 4
       title: "3.29 G"
@@ -2799,6 +2959,7 @@
       ref: 3
       title: "3.30"
       order: 156
+      totalWords: 11325
     eBook:
       ref: 4
       title: "3.30"
@@ -2817,6 +2978,7 @@
       ref: 3
       title: "3.31 G"
       order: 157
+      totalWords: 9983
     eBook:
       ref: 4
       title: "3.31 G"
@@ -2835,6 +2997,7 @@
       ref: 3
       title: "S03 – Wistram Days (Pt. 3)"
       order: 158
+      totalWords: 10162
     eBook:
       ref: 4
       title: "Wistram Days (Pt.3)"
@@ -2853,6 +3016,7 @@
       ref: 3
       title: "S03 – Wistram Days (Pt. 4)"
       order: 159
+      totalWords: 11919
     eBook:
       ref: 4
       title: "Wistram Days (Pt.4)"
@@ -2871,6 +3035,7 @@
       ref: 3
       title: "S03 – Wistram Days (Pt. 5)"
       order: 160
+      totalWords: 12054
     eBook:
       ref: 4
       title: "Wistram Days (Pt.5)"
@@ -2889,6 +3054,7 @@
       ref: 3
       title: "S03 – Wistram Days (Pt. 6)"
       order: 161
+      totalWords: 11080
     eBook:
       ref: 4
       title: "Wistram Days (Pt.6)"
@@ -2907,6 +3073,7 @@
       ref: 3
       title: "S03 – Wistram Days (Pt. 7)"
       order: 162
+      totalWords: 11477
     eBook:
       ref: 4
       title: "Wistram Days (Pt.7)"
@@ -2925,6 +3092,7 @@
       ref: 3
       title: "3.32"
       order: 163
+      totalWords: 10761
     eBook:
       ref: 4
       title: "3.32"
@@ -2943,6 +3111,7 @@
       ref: 3
       title: "3.33"
       order: 164
+      totalWords: 10034
     eBook:
       ref: 4
       title: "3.33"
@@ -2961,6 +3130,7 @@
       ref: 3
       title: "3.34"
       order: 165
+      totalWords: 12961
     eBook:
       ref: 4
       title: "3.34"
@@ -2979,6 +3149,7 @@
       ref: 3
       title: "3.35"
       order: 166
+      totalWords: 10024
     eBook:
       ref: 4
       title: "3.35"
@@ -2997,6 +3168,7 @@
       ref: 3
       title: "3.36"
       order: 167
+      totalWords: 11698
     eBook:
       ref: 4
       title: "3.36"
@@ -3015,6 +3187,7 @@
       ref: 3
       title: "3.37"
       order: 168
+      totalWords: 10867
     eBook:
       ref: 4
       title: "3.37"
@@ -3033,6 +3206,7 @@
       ref: 3
       title: "3.38"
       order: 169
+      totalWords: 12056
     eBook:
       ref: 4
       title: "3.38"
@@ -3051,6 +3225,7 @@
       ref: 3
       title: "3.39"
       order: 170
+      totalWords: 10093
     eBook:
       ref: 4
       title: "3.39"
@@ -3069,6 +3244,7 @@
       ref: 3
       title: "3.40"
       order: 171
+      totalWords: 11910
     eBook:
       ref: 4
       title: "3.40"
@@ -3087,6 +3263,7 @@
       ref: 3
       title: "3.41"
       order: 172
+      totalWords: 13259
     eBook:
       ref: 4
       title: "3.41"
@@ -3105,6 +3282,7 @@
       ref: 3
       title: "3.42"
       order: 173
+      totalWords: 9661
     eBook:
       ref: 4
       title: "3.42"
@@ -3123,6 +3301,7 @@
       ref: 3
       title: "Interlude"
       order: 174
+      totalWords: 12323
     eBook:
       ref: 4
       title: "Interlude"
@@ -3141,6 +3320,7 @@
       ref: 4
       title: "4.00 K"
       order: 175
+      totalWords: 12225
     eBook:
       ref: 5
       title: "4.00 K"
@@ -3159,6 +3339,7 @@
       ref: 4
       title: "4.01 K"
       order: 176
+      totalWords: 13778
     eBook:
       ref: 5
       title: "4.01 K"
@@ -3177,6 +3358,7 @@
       ref: 4
       title: "4.02 K"
       order: 177
+      totalWords: 12538
     eBook:
       ref: 5
       title: "4.02 K"
@@ -3195,6 +3377,7 @@
       ref: 4
       title: "4.03 K"
       order: 178
+      totalWords: 14257
     eBook:
       ref: 5
       title: "4.03 K"
@@ -3213,6 +3396,7 @@
       ref: 4
       title: "4.04 K"
       order: 179
+      totalWords: 11515
     eBook:
       ref: 5
       title: "4.04 K"
@@ -3231,6 +3415,7 @@
       ref: 4
       title: "4.05 K"
       order: 180
+      totalWords: 14334
     eBook:
       ref: 5
       title: "4.05 K"
@@ -3249,6 +3434,7 @@
       ref: 4
       title: "4.06 KM"
       order: 181
+      totalWords: 12568
     eBook:
       ref: 5
       title: "4.06 KM"
@@ -3267,6 +3453,7 @@
       ref: 4
       title: "4.07"
       order: 182
+      totalWords: 10196
     eBook:
       ref: 5
       title: "4.07"
@@ -3285,6 +3472,7 @@
       ref: 4
       title: "4.08 T"
       order: 183
+      totalWords: 14258
     eBook:
       ref: 5
       title: "4.08 T"
@@ -3303,6 +3491,7 @@
       ref: 4
       title: "4.09"
       order: 184
+      totalWords: 8107
     eBook:
       ref: 5
       title: "4.09"
@@ -3321,6 +3510,7 @@
       ref: 4
       title: "4.10"
       order: 185
+      totalWords: 10754
     eBook:
       ref: 5
       title: "4.10"
@@ -3339,6 +3529,7 @@
       ref: 4
       title: "4.11"
       order: 186
+      totalWords: 10885
     eBook:
       ref: 5
       title: "4.11"
@@ -3357,6 +3548,7 @@
       ref: 4
       title: "4.12"
       order: 187
+      totalWords: 11321
     eBook:
       ref: 5
       title: "4.12"
@@ -3375,6 +3567,7 @@
       ref: 4
       title: "4.13 L"
       order: 188
+      totalWords: 12642
     eBook:
       ref: 5
       title: "4.13 L"
@@ -3393,6 +3586,7 @@
       ref: 4
       title: "4.14 L"
       order: 189
+      totalWords: 10356
     eBook:
       ref: 5
       title: "4.14 L"
@@ -3411,6 +3605,7 @@
       ref: 4
       title: "4.15 L"
       order: 190
+      totalWords: 12855
     eBook:
       ref: 5
       title: "4.15 L"
@@ -3429,6 +3624,7 @@
       ref: 4
       title: "4.16"
       order: 191
+      totalWords: 10691
     eBook:
       ref: 5
       title: "4.16"
@@ -3447,6 +3643,7 @@
       ref: 4
       title: "4.17"
       order: 192
+      totalWords: 10306
     eBook:
       ref: 5
       title: "4.17"
@@ -3465,6 +3662,7 @@
       ref: 4
       title: "1.02 D"
       order: 193
+      totalWords: 11571
     eBook:
       ref: 5
       title: "1.02 D"
@@ -3483,6 +3681,7 @@
       ref: 4
       title: "1.03 D"
       order: 194
+      totalWords: 12249
     eBook:
       ref: 5
       title: "1.03 D"
@@ -3501,6 +3700,7 @@
       ref: 4
       title: "1.04 D"
       order: 195
+      totalWords: 9908
     eBook:
       ref: 5
       title: "1.04 D"
@@ -3519,6 +3719,7 @@
       ref: 4
       title: "1.05 D"
       order: 196
+      totalWords: 12473
     eBook:
       ref: 5
       title: "1.05 D"
@@ -3537,6 +3738,7 @@
       ref: 4
       title: "1.06 D"
       order: 197
+      totalWords: 13529
     eBook:
       ref: 5
       title: "1.06 D"
@@ -3555,6 +3757,7 @@
       ref: 4
       title: "4.18"
       order: 198
+      totalWords: 11114
     eBook:
       ref: 5
       title: "4.18"
@@ -3573,6 +3776,7 @@
       ref: 4
       title: "4.19"
       order: 199
+      totalWords: 12352
     eBook:
       ref: 5
       title: "4.19"
@@ -3591,6 +3795,7 @@
       ref: 4
       title: "4.20 E"
       order: 200
+      totalWords: 12731
     eBook:
       ref: 5
       title: "4.20 E"
@@ -3609,6 +3814,7 @@
       ref: 4
       title: "4.21 E"
       order: 201
+      totalWords: 11076
     eBook:
       ref: 5
       title: "4.21 E"
@@ -3627,6 +3833,7 @@
       ref: 4
       title: "4.22 E"
       order: 202
+      totalWords: 9314
     eBook:
       ref: 5
       title: "4.22 E"
@@ -3645,6 +3852,7 @@
       ref: 4
       title: "4.23 E"
       order: 203
+      totalWords: 9534
     eBook:
       ref: 5
       title: "4.23 E"
@@ -3663,6 +3871,7 @@
       ref: 4
       title: "4.24"
       order: 204
+      totalWords: 13268
     eBook:
       ref: 5
       title: "4.24"
@@ -3681,6 +3890,7 @@
       ref: 4
       title: "4.25 N"
       order: 205
+      totalWords: 12494
     eBook:
       ref: 5
       title: "4.25 N"
@@ -3699,6 +3909,7 @@
       ref: 4
       title: "4.26 M"
       order: 206
+      totalWords: 10998
     eBook:
       ref: 5
       title: "4.26 M"
@@ -3717,6 +3928,7 @@
       ref: 4
       title: "4.27 H"
       order: 207
+      totalWords: 12269
     eBook:
       ref: 5
       title: "4.27 H"
@@ -3735,6 +3947,7 @@
       ref: 4
       title: "4.28"
       order: 208
+      totalWords: 13343
     eBook:
       ref: 5
       title: "4.28"
@@ -3753,6 +3966,7 @@
       ref: 4
       title: "4.29"
       order: 209
+      totalWords: 12368
     eBook:
       ref: 5
       title: "4.29"
@@ -3771,6 +3985,7 @@
       ref: 4
       title: "4.30"
       order: 210
+      totalWords: 12257
     eBook:
       ref: 5
       title: "4.30"
@@ -3789,6 +4004,7 @@
       ref: 4
       title: "4.31"
       order: 211
+      totalWords: 11884
     eBook:
       ref: 5
       title: "4.31"
@@ -3807,6 +4023,7 @@
       ref: 4
       title: "4.32 G"
       order: 212
+      totalWords: 10226
     eBook:
       ref: 6
       title: "4.32 G"
@@ -3825,6 +4042,7 @@
       ref: 4
       title: "1.02 C"
       order: 213
+      totalWords: 10699
     eBook:
       ref: 6
       title: "1.02 C"
@@ -3843,6 +4061,7 @@
       ref: 4
       title: "1.03 C"
       order: 214
+      totalWords: 13119
     eBook:
       ref: 6
       title: "1.03 C"
@@ -3861,6 +4080,7 @@
       ref: 4
       title: "1.04 C"
       order: 215
+      totalWords: 6165
     eBook:
       ref: 6
       title: "1.04 C"
@@ -3879,6 +4099,7 @@
       ref: 4
       title: "1.05 C"
       order: 216
+      totalWords: 10102
     eBook:
       ref: 6
       title: "1.05 C"
@@ -3897,6 +4118,7 @@
       ref: 4
       title: "4.33"
       order: 217
+      totalWords: 10956
     eBook:
       ref: 6
       title: "4.33"
@@ -3915,6 +4137,7 @@
       ref: 4
       title: "4.34"
       order: 218
+      totalWords: 12511
     eBook:
       ref: 6
       title: "4.34"
@@ -3933,6 +4156,7 @@
       ref: 4
       title: "4.35 E"
       order: 219
+      totalWords: 11216
     eBook:
       ref: 6
       title: "4.35 E"
@@ -3951,6 +4175,7 @@
       ref: 4
       title: "4.36 O"
       order: 220
+      totalWords: 10123
     eBook:
       ref: 6
       title: "4.36 O"
@@ -3969,6 +4194,7 @@
       ref: 4
       title: "4.37 O"
       order: 221
+      totalWords: 12255
     eBook:
       ref: 6
       title: "4.37 O"
@@ -3987,6 +4213,7 @@
       ref: 4
       title: "4.38 B"
       order: 222
+      totalWords: 12464
     eBook:
       ref: 6
       title: "4.38 B"
@@ -4005,6 +4232,7 @@
       ref: 4
       title: "4.39 G"
       order: 223
+      totalWords: 12208
     eBook:
       ref: 6
       title: "4.39 G"
@@ -4023,6 +4251,7 @@
       ref: 4
       title: "4.40 L"
       order: 224
+      totalWords: 11268
     eBook:
       ref: 6
       title: "4.40 L"
@@ -4041,6 +4270,7 @@
       ref: 4
       title: "4.41 L"
       order: 225
+      totalWords: 7818
     eBook:
       ref: 6
       title: "4.41 L"
@@ -4059,6 +4289,7 @@
       ref: 4
       title: "4.42 L"
       order: 226
+      totalWords: 7463
     eBook:
       ref: 6
       title: "4.42 L"
@@ -4077,6 +4308,7 @@
       ref: 4
       title: "4.43"
       order: 227
+      totalWords: 12072
     eBook:
       ref: 6
       title: "4.43"
@@ -4095,6 +4327,7 @@
       ref: 4
       title: "4.44 M"
       order: 228
+      totalWords: 11364
     eBook:
       ref: 6
       title: "4.44 M"
@@ -4113,6 +4346,7 @@
       ref: 4
       title: "4.45"
       order: 229
+      totalWords: 12709
     eBook:
       ref: 6
       title: "4.45"
@@ -4131,6 +4365,7 @@
       ref: 4
       title: "4.46"
       order: 230
+      totalWords: 12795
     eBook:
       ref: 6
       title: "4.46"
@@ -4149,6 +4384,7 @@
       ref: 4
       title: "4.47"
       order: 231
+      totalWords: 11539
     eBook:
       ref: 6
       title: "4.47"
@@ -4167,6 +4403,7 @@
       ref: 4
       title: "S02 – The Antinium Wars (Pt.3)"
       order: 232
+      totalWords: 12822
     eBook:
       ref: 6
       title: "S02 – The Antinium Wars (Pt.3)"
@@ -4185,6 +4422,7 @@
       ref: 4
       title: "S02 – The Antinium Wars (Pt.4)"
       order: 233
+      totalWords: 8287
     eBook:
       ref: 6
       title: "S02 – The Antinium Wars (Pt.4)"
@@ -4203,6 +4441,7 @@
       ref: 4
       title: "S02 – The Antinium Wars (Pt.5)"
       order: 234
+      totalWords: 8467
     eBook:
       ref: 6
       title: "S02 – The Antinium Wars (Pt.5)"
@@ -4221,6 +4460,7 @@
       ref: 4
       title: "4.48"
       order: 235
+      totalWords: 13070
     eBook:
       ref: 6
       title: "4.48"
@@ -4239,6 +4479,7 @@
       ref: 4
       title: "4.49"
       order: 236
+      totalWords: 13073
     eBook:
       ref: 6
       title: "4.49"
@@ -4257,6 +4498,7 @@
       ref: 4
       title: "The Depthless Doctor"
       order: 237
+      totalWords: 4744
     eBook:
       ref: null
       title: null
@@ -4265,7 +4507,7 @@
       ref: null
       title: null
       order: null
-      totalSeconds: 0
+      totalSeconds: null
 - id: "ch-02380"
   url: "https://wanderinginn.com/2018/10/19/glossary"
   wikiUrl: null
@@ -4275,6 +4517,7 @@
       ref: 5
       title: "Glossary"
       order: 238
+      totalWords: 33874
     eBook:
       ref: null
       title: null
@@ -4283,7 +4526,7 @@
       ref: null
       title: null
       order: null
-      totalSeconds: 0
+      totalSeconds: null
 - id: "ch-02390"
   url: "https://wanderinginn.com/2018/07/10/5-00/"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Chapter_5.00"
@@ -4293,6 +4536,7 @@
       ref: 5
       title: "5.00"
       order: 239
+      totalWords: 8936
     eBook:
       ref: 7
       title: "5.00"
@@ -4311,6 +4555,7 @@
       ref: 5
       title: "5.01"
       order: 240
+      totalWords: 14800
     eBook:
       ref: 7
       title: "5.01"
@@ -4329,6 +4574,7 @@
       ref: 5
       title: "5.02"
       order: 241
+      totalWords: 12624
     eBook:
       ref: 7
       title: "5.02"
@@ -4347,6 +4593,7 @@
       ref: 5
       title: "5.03"
       order: 242
+      totalWords: 10033
     eBook:
       ref: 7
       title: "5.03"
@@ -4365,6 +4612,7 @@
       ref: 5
       title: "5.04"
       order: 243
+      totalWords: 8640
     eBook:
       ref: 7
       title: "5.04"
@@ -4383,6 +4631,7 @@
       ref: 5
       title: "5.05"
       order: 244
+      totalWords: 12827
     eBook:
       ref: 7
       title: "5.05"
@@ -4401,6 +4650,7 @@
       ref: 5
       title: "5.06 M"
       order: 245
+      totalWords: 14211
     eBook:
       ref: 7
       title: "5.06 M"
@@ -4419,6 +4669,7 @@
       ref: 5
       title: "5.07"
       order: 246
+      totalWords: 11938
     eBook:
       ref: 7
       title: "5.07"
@@ -4437,6 +4688,7 @@
       ref: 5
       title: "5.08"
       order: 247
+      totalWords: 15763
     eBook:
       ref: 7
       title: "5.08"
@@ -4455,6 +4707,7 @@
       ref: 5
       title: "Interlude – Flos"
       order: 248
+      totalWords: 13897
     eBook:
       ref: 7
       title: "Interlude – Flos"
@@ -4473,6 +4726,7 @@
       ref: 5
       title: "5.09 E"
       order: 249
+      totalWords: 10428
     eBook:
       ref: 7
       title: "5.09 E"
@@ -4491,6 +4745,7 @@
       ref: 5
       title: "5.10 E"
       order: 250
+      totalWords: 13716
     eBook:
       ref: 7
       title: "5.10 E"
@@ -4509,6 +4764,7 @@
       ref: 5
       title: "5.11 E"
       order: 251
+      totalWords: 16904
     eBook:
       ref: 7
       title: "5.11 E"
@@ -4527,6 +4783,7 @@
       ref: 5
       title: "5.12"
       order: 252
+      totalWords: 13149
     eBook:
       ref: 7
       title: "5.12"
@@ -4545,6 +4802,7 @@
       ref: 5
       title: "5.13"
       order: 253
+      totalWords: 17663
     eBook:
       ref: 7
       title: "5.13"
@@ -4563,6 +4821,7 @@
       ref: 5
       title: "5.14"
       order: 254
+      totalWords: 13307
     eBook:
       ref: 7
       title: "5.14"
@@ -4581,6 +4840,7 @@
       ref: 5
       title: "5.15"
       order: 255
+      totalWords: 11472
     eBook:
       ref: 7
       title: "5.15"
@@ -4599,6 +4859,7 @@
       ref: 5
       title: "5.16 S"
       order: 256
+      totalWords: 12314
     eBook:
       ref: 7
       title: "5.16 S"
@@ -4617,6 +4878,7 @@
       ref: 5
       title: "5.17 S"
       order: 257
+      totalWords: 11424
     eBook:
       ref: 7
       title: "5.17 S"
@@ -4635,6 +4897,7 @@
       ref: 5
       title: "5.18 S"
       order: 258
+      totalWords: 17469
     eBook:
       ref: 7
       title: "5.18 S"
@@ -4653,6 +4916,7 @@
       ref: 5
       title: "5.19 G"
       order: 259
+      totalWords: 9970
     eBook:
       ref: 7
       title: "5.19 G"
@@ -4671,6 +4935,7 @@
       ref: 5
       title: "5.20 G"
       order: 260
+      totalWords: 14815
     eBook:
       ref: 7
       title: "5.20 G"
@@ -4689,6 +4954,7 @@
       ref: 5
       title: "5.21 E"
       order: 261
+      totalWords: 14515
     eBook:
       ref: null
       title: null
@@ -4707,6 +4973,7 @@
       ref: 5
       title: "5.22 G"
       order: 262
+      totalWords: 11554
     eBook:
       ref: null
       title: null
@@ -4725,6 +4992,7 @@
       ref: 5
       title: "5.23 G"
       order: 263
+      totalWords: 16053
     eBook:
       ref: null
       title: null
@@ -4743,6 +5011,7 @@
       ref: 5
       title: "5.24 L"
       order: 264
+      totalWords: 14536
     eBook:
       ref: null
       title: null
@@ -4761,6 +5030,7 @@
       ref: 5
       title: "5.25 L"
       order: 265
+      totalWords: 9817
     eBook:
       ref: null
       title: null
@@ -4779,6 +5049,7 @@
       ref: 5
       title: "5.26 L"
       order: 266
+      totalWords: 13374
     eBook:
       ref: null
       title: null
@@ -4797,6 +5068,7 @@
       ref: 5
       title: "5.27"
       order: 267
+      totalWords: 13896
     eBook:
       ref: null
       title: null
@@ -4815,6 +5087,7 @@
       ref: 5
       title: "5.28"
       order: 268
+      totalWords: 11847
     eBook:
       ref: null
       title: null
@@ -4833,6 +5106,7 @@
       ref: 5
       title: "5.29"
       order: 269
+      totalWords: 18383
     eBook:
       ref: null
       title: null
@@ -4851,6 +5125,7 @@
       ref: 5
       title: "5.30 G"
       order: 270
+      totalWords: 11969
     eBook:
       ref: null
       title: null
@@ -4869,6 +5144,7 @@
       ref: 5
       title: "5.31 G"
       order: 271
+      totalWords: 11732
     eBook:
       ref: null
       title: null
@@ -4887,6 +5163,7 @@
       ref: 5
       title: "5.32 G"
       order: 272
+      totalWords: 14306
     eBook:
       ref: null
       title: null
@@ -4905,6 +5182,7 @@
       ref: 5
       title: "5.33 B"
       order: 273
+      totalWords: 15218
     eBook:
       ref: null
       title: null
@@ -4923,6 +5201,7 @@
       ref: 5
       title: "Interlude – Blackmage"
       order: 274
+      totalWords: 12531
     eBook:
       ref: null
       title: null
@@ -4941,6 +5220,7 @@
       ref: 5
       title: "5.34"
       order: 275
+      totalWords: 14754
     eBook:
       ref: null
       title: null
@@ -4959,6 +5239,7 @@
       ref: 5
       title: "5.35 H"
       order: 276
+      totalWords: 16717
     eBook:
       ref: null
       title: null
@@ -4977,6 +5258,7 @@
       ref: 5
       title: "5.36"
       order: 277
+      totalWords: 17806
     eBook:
       ref: null
       title: null
@@ -4995,6 +5277,7 @@
       ref: 5
       title: "5.37 G"
       order: 278
+      totalWords: 11516
     eBook:
       ref: null
       title: null
@@ -5013,6 +5296,7 @@
       ref: 5
       title: "5.38"
       order: 279
+      totalWords: 17556
     eBook:
       ref: null
       title: null
@@ -5031,6 +5315,7 @@
       ref: 5
       title: "5.39"
       order: 280
+      totalWords: 17050
     eBook:
       ref: null
       title: null
@@ -5049,6 +5334,7 @@
       ref: 5
       title: "5.40"
       order: 281
+      totalWords: 13897
     eBook:
       ref: null
       title: null
@@ -5067,6 +5353,7 @@
       ref: 5
       title: "5.41"
       order: 282
+      totalWords: 18906
     eBook:
       ref: null
       title: null
@@ -5085,6 +5372,7 @@
       ref: 5
       title: "5.42"
       order: 283
+      totalWords: 18816
     eBook:
       ref: null
       title: null
@@ -5103,6 +5391,7 @@
       ref: 5
       title: "5.43"
       order: 284
+      totalWords: 19696
     eBook:
       ref: null
       title: null
@@ -5121,6 +5410,7 @@
       ref: 5
       title: "Interlude – Niers"
       order: 285
+      totalWords: 4619
     eBook:
       ref: null
       title: null
@@ -5139,6 +5429,7 @@
       ref: 5
       title: "5.44"
       order: 286
+      totalWords: 19754
     eBook:
       ref: null
       title: null
@@ -5157,6 +5448,7 @@
       ref: 5
       title: "5.45"
       order: 287
+      totalWords: 12102
     eBook:
       ref: null
       title: null
@@ -5175,6 +5467,7 @@
       ref: 5
       title: "5.46"
       order: 288
+      totalWords: 18982
     eBook:
       ref: null
       title: null
@@ -5193,6 +5486,7 @@
       ref: 5
       title: "5.47 G"
       order: 289
+      totalWords: 12642
     eBook:
       ref: null
       title: null
@@ -5211,6 +5505,7 @@
       ref: 5
       title: "5.48 G"
       order: 290
+      totalWords: 17751
     eBook:
       ref: null
       title: null
@@ -5229,6 +5524,7 @@
       ref: 5
       title: "5.49"
       order: 291
+      totalWords: 17565
     eBook:
       ref: null
       title: null
@@ -5247,6 +5543,7 @@
       ref: 5
       title: "5.50 G"
       order: 292
+      totalWords: 14245
     eBook:
       ref: null
       title: null
@@ -5265,6 +5562,7 @@
       ref: 5
       title: "Interlude – Bird"
       order: 293
+      totalWords: 5175
     eBook:
       ref: null
       title: null
@@ -5283,6 +5581,7 @@
       ref: 5
       title: "5.51 G"
       order: 294
+      totalWords: 18957
     eBook:
       ref: null
       title: null
@@ -5301,6 +5600,7 @@
       ref: 5
       title: "5.52"
       order: 295
+      totalWords: 21781
     eBook:
       ref: null
       title: null
@@ -5319,6 +5619,7 @@
       ref: 5
       title: "5.53"
       order: 296
+      totalWords: 16501
     eBook:
       ref: null
       title: null
@@ -5337,6 +5638,7 @@
       ref: 5
       title: "5.54 (Non-Canon)"
       order: 297
+      totalWords: 10700
     eBook:
       ref: null
       title: null
@@ -5355,6 +5657,7 @@
       ref: 5
       title: "5.54"
       order: 298
+      totalWords: 26856
     eBook:
       ref: null
       title: null
@@ -5373,6 +5676,7 @@
       ref: 5
       title: "Interlude – Krshia"
       order: 299
+      totalWords: 21464
     eBook:
       ref: null
       title: null
@@ -5391,6 +5695,7 @@
       ref: 5
       title: "5.55 G"
       order: 300
+      totalWords: 12141
     eBook:
       ref: null
       title: null
@@ -5409,6 +5714,7 @@
       ref: 5
       title: "5.56 G"
       order: 301
+      totalWords: 13328
     eBook:
       ref: null
       title: null
@@ -5427,6 +5733,7 @@
       ref: 5
       title: "5.57"
       order: 302
+      totalWords: 16085
     eBook:
       ref: null
       title: null
@@ -5445,6 +5752,7 @@
       ref: 5
       title: "5.58"
       order: 303
+      totalWords: 20712
     eBook:
       ref: null
       title: null
@@ -5463,6 +5771,7 @@
       ref: 5
       title: "5.59"
       order: 304
+      totalWords: 20525
     eBook:
       ref: null
       title: null
@@ -5481,6 +5790,7 @@
       ref: 5
       title: "Interlude – Pebblesnatch and Garry"
       order: 305
+      totalWords: 6842
     eBook:
       ref: null
       title: null
@@ -5499,6 +5809,7 @@
       ref: 5
       title: "5.60"
       order: 306
+      totalWords: 19102
     eBook:
       ref: null
       title: null
@@ -5517,6 +5828,7 @@
       ref: 5
       title: "5.61"
       order: 307
+      totalWords: 16043
     eBook:
       ref: null
       title: null
@@ -5535,6 +5847,7 @@
       ref: 5
       title: "5.62"
       order: 308
+      totalWords: 30492
     eBook:
       ref: null
       title: null
@@ -5553,6 +5866,7 @@
       ref: 5
       title: "Interlude"
       order: 309
+      totalWords: 17482
     eBook:
       ref: null
       title: null
@@ -5571,6 +5885,7 @@
       ref: 6
       title: "6.00"
       order: 310
+      totalWords: 18962
     eBook:
       ref: null
       title: null
@@ -5589,6 +5904,7 @@
       ref: 6
       title: "6.01"
       order: 311
+      totalWords: 17756
     eBook:
       ref: null
       title: null
@@ -5607,6 +5923,7 @@
       ref: 6
       title: "6.02"
       order: 312
+      totalWords: 16798
     eBook:
       ref: null
       title: null
@@ -5625,6 +5942,7 @@
       ref: 6
       title: "6.03"
       order: 313
+      totalWords: 12649
     eBook:
       ref: null
       title: null
@@ -5643,6 +5961,7 @@
       ref: 6
       title: "6.04 D"
       order: 314
+      totalWords: 19214
     eBook:
       ref: null
       title: null
@@ -5661,6 +5980,7 @@
       ref: 6
       title: "6.05 D"
       order: 315
+      totalWords: 16471
     eBook:
       ref: null
       title: null
@@ -5679,6 +5999,7 @@
       ref: 6
       title: "6.06 D"
       order: 316
+      totalWords: 26651
     eBook:
       ref: null
       title: null
@@ -5697,6 +6018,7 @@
       ref: 6
       title: "6.07 D"
       order: 317
+      totalWords: 20094
     eBook:
       ref: null
       title: null
@@ -5715,6 +6037,7 @@
       ref: 6
       title: "6.08"
       order: 318
+      totalWords: 23740
     eBook:
       ref: null
       title: null
@@ -5733,6 +6056,7 @@
       ref: 6
       title: "6.09"
       order: 319
+      totalWords: 22207
     eBook:
       ref: null
       title: null
@@ -5751,6 +6075,7 @@
       ref: 6
       title: "6.10"
       order: 320
+      totalWords: 14961
     eBook:
       ref: null
       title: null
@@ -5769,6 +6094,7 @@
       ref: 6
       title: "6.11"
       order: 321
+      totalWords: 15600
     eBook:
       ref: null
       title: null
@@ -5787,6 +6113,7 @@
       ref: 6
       title: "6.12 K"
       order: 322
+      totalWords: 24522
     eBook:
       ref: null
       title: null
@@ -5805,6 +6132,7 @@
       ref: 6
       title: "6.13 K"
       order: 323
+      totalWords: 30509
     eBook:
       ref: null
       title: null
@@ -5823,6 +6151,7 @@
       ref: 6
       title: "6.14 K"
       order: 324
+      totalWords: 16314
     eBook:
       ref: null
       title: null
@@ -5841,6 +6170,7 @@
       ref: 6
       title: "6.15 K"
       order: 325
+      totalWords: 19654
     eBook:
       ref: null
       title: null
@@ -5859,6 +6189,7 @@
       ref: 6
       title: "6.16"
       order: 326
+      totalWords: 22263
     eBook:
       ref: null
       title: null
@@ -5877,6 +6208,7 @@
       ref: 6
       title: "6.17 S"
       order: 327
+      totalWords: 16711
     eBook:
       ref: null
       title: null
@@ -5895,6 +6227,7 @@
       ref: 6
       title: "6.18 H"
       order: 328
+      totalWords: 20968
     eBook:
       ref: null
       title: null
@@ -5913,6 +6246,7 @@
       ref: 6
       title: "6.19 H"
       order: 329
+      totalWords: 18878
     eBook:
       ref: null
       title: null
@@ -5931,6 +6265,7 @@
       ref: 6
       title: "6.20 D"
       order: 330
+      totalWords: 18995
     eBook:
       ref: null
       title: null
@@ -5949,6 +6284,7 @@
       ref: 6
       title: "6.21 D"
       order: 331
+      totalWords: 23884
     eBook:
       ref: null
       title: null
@@ -5967,6 +6303,7 @@
       ref: 6
       title: "6.22 D"
       order: 332
+      totalWords: 27697
     eBook:
       ref: null
       title: null
@@ -5985,6 +6322,7 @@
       ref: 6
       title: "6.23 D"
       order: 333
+      totalWords: 28165
     eBook:
       ref: null
       title: null
@@ -6003,6 +6341,7 @@
       ref: 6
       title: "6.24 D"
       order: 334
+      totalWords: 15422
     eBook:
       ref: null
       title: null
@@ -6021,6 +6360,7 @@
       ref: 6
       title: "6.25"
       order: 335
+      totalWords: 16497
     eBook:
       ref: null
       title: null
@@ -6039,6 +6379,7 @@
       ref: 6
       title: "6.26"
       order: 336
+      totalWords: 17655
     eBook:
       ref: null
       title: null
@@ -6057,6 +6398,7 @@
       ref: 6
       title: "6.27 M"
       order: 337
+      totalWords: 22877
     eBook:
       ref: null
       title: null
@@ -6075,6 +6417,7 @@
       ref: 6
       title: "6.28"
       order: 338
+      totalWords: 15833
     eBook:
       ref: null
       title: null
@@ -6093,6 +6436,7 @@
       ref: 6
       title: "6.29"
       order: 339
+      totalWords: 27075
     eBook:
       ref: null
       title: null
@@ -6111,6 +6455,7 @@
       ref: 6
       title: "Interlude – Embria"
       order: 340
+      totalWords: 22314
     eBook:
       ref: null
       title: null
@@ -6129,6 +6474,7 @@
       ref: 6
       title: "6.30"
       order: 341
+      totalWords: 22233
     eBook:
       ref: null
       title: null
@@ -6147,6 +6493,7 @@
       ref: 6
       title: "6.31"
       order: 342
+      totalWords: 22876
     eBook:
       ref: null
       title: null
@@ -6165,6 +6512,7 @@
       ref: 6
       title: "6.32"
       order: 343
+      totalWords: 31129
     eBook:
       ref: null
       title: null
@@ -6183,6 +6531,7 @@
       ref: 6
       title: "6.33 E"
       order: 344
+      totalWords: 13033
     eBook:
       ref: null
       title: null
@@ -6201,6 +6550,7 @@
       ref: 6
       title: "6.34 E"
       order: 345
+      totalWords: 21578
     eBook:
       ref: null
       title: null
@@ -6219,6 +6569,7 @@
       ref: 6
       title: "Interlude – Numbtongue (Pt.1)"
       order: 346
+      totalWords: 19848
     eBook:
       ref: null
       title: null
@@ -6237,6 +6588,7 @@
       ref: 6
       title: "Interlude – Numbtongue (Pt.2)"
       order: 347
+      totalWords: 28748
     eBook:
       ref: null
       title: null
@@ -6255,6 +6607,7 @@
       ref: 6
       title: "6.35"
       order: 348
+      totalWords: 10775
     eBook:
       ref: null
       title: null
@@ -6273,6 +6626,7 @@
       ref: 6
       title: "6.36 E"
       order: 349
+      totalWords: 21907
     eBook:
       ref: null
       title: null
@@ -6291,6 +6645,7 @@
       ref: 6
       title: "6.37 E"
       order: 350
+      totalWords: 16596
     eBook:
       ref: null
       title: null
@@ -6309,6 +6664,7 @@
       ref: 6
       title: "6.38"
       order: 351
+      totalWords: 20222
     eBook:
       ref: null
       title: null
@@ -6327,6 +6683,7 @@
       ref: 6
       title: "6.39"
       order: 352
+      totalWords: 17689
     eBook:
       ref: null
       title: null
@@ -6345,6 +6702,7 @@
       ref: 6
       title: "6.40 E"
       order: 353
+      totalWords: 19908
     eBook:
       ref: null
       title: null
@@ -6363,6 +6721,7 @@
       ref: 6
       title: "6.41 E"
       order: 354
+      totalWords: 30307
     eBook:
       ref: null
       title: null
@@ -6381,6 +6740,7 @@
       ref: 6
       title: "Interlude – Two Rats"
       order: 355
+      totalWords: 24195
     eBook:
       ref: null
       title: null
@@ -6399,6 +6759,7 @@
       ref: 6
       title: "Interlude – Rufelt"
       order: 356
+      totalWords: 9925
     eBook:
       ref: null
       title: null
@@ -6417,6 +6778,7 @@
       ref: 6
       title: "6.42 E"
       order: 357
+      totalWords: 21632
     eBook:
       ref: null
       title: null
@@ -6435,6 +6797,7 @@
       ref: 6
       title: "6.43 E"
       order: 358
+      totalWords: 30008
     eBook:
       ref: null
       title: null
@@ -6453,6 +6816,7 @@
       ref: 6
       title: "6.44 E"
       order: 359
+      totalWords: 14801
     eBook:
       ref: null
       title: null
@@ -6471,6 +6835,7 @@
       ref: 6
       title: "6.45 E"
       order: 360
+      totalWords: 18625
     eBook:
       ref: null
       title: null
@@ -6489,6 +6854,7 @@
       ref: 6
       title: "6.46 E"
       order: 361
+      totalWords: 16011
     eBook:
       ref: null
       title: null
@@ -6507,6 +6873,7 @@
       ref: 6
       title: "6.47 E"
       order: 362
+      totalWords: 20080
     eBook:
       ref: null
       title: null
@@ -6525,6 +6892,7 @@
       ref: 6
       title: "6.48 T"
       order: 363
+      totalWords: 24824
     eBook:
       ref: null
       title: null
@@ -6543,6 +6911,7 @@
       ref: 6
       title: "6.49"
       order: 364
+      totalWords: 26116
     eBook:
       ref: null
       title: null
@@ -6561,6 +6930,7 @@
       ref: 6
       title: "6.50 I"
       order: 365
+      totalWords: 17906
     eBook:
       ref: null
       title: null
@@ -6579,6 +6949,7 @@
       ref: 6
       title: "6.51 A"
       order: 366
+      totalWords: 18602
     eBook:
       ref: null
       title: null
@@ -6597,6 +6968,7 @@
       ref: 6
       title: "6.52 K"
       order: 367
+      totalWords: 19458
     eBook:
       ref: null
       title: null
@@ -6615,6 +6987,7 @@
       ref: 6
       title: "6.53 K"
       order: 368
+      totalWords: 21546
     eBook:
       ref: null
       title: null
@@ -6633,6 +7006,7 @@
       ref: 6
       title: "6.54 K"
       order: 369
+      totalWords: 21630
     eBook:
       ref: null
       title: null
@@ -6651,6 +7025,7 @@
       ref: 6
       title: "6.55 K"
       order: 370
+      totalWords: 21028
     eBook:
       ref: null
       title: null
@@ -6669,6 +7044,7 @@
       ref: 6
       title: "Interlude – The Titan’s Question"
       order: 371
+      totalWords: 23300
     eBook:
       ref: null
       title: null
@@ -6687,6 +7063,7 @@
       ref: 6
       title: "6.56"
       order: 372
+      totalWords: 17382
     eBook:
       ref: null
       title: null
@@ -6705,6 +7082,7 @@
       ref: 6
       title: "6.57"
       order: 373
+      totalWords: 18813
     eBook:
       ref: null
       title: null
@@ -6723,6 +7101,7 @@
       ref: 6
       title: "6.58"
       order: 374
+      totalWords: 17273
     eBook:
       ref: null
       title: null
@@ -6741,6 +7120,7 @@
       ref: 6
       title: "6.59"
       order: 375
+      totalWords: 24475
     eBook:
       ref: null
       title: null
@@ -6759,6 +7139,7 @@
       ref: 6
       title: "6.60"
       order: 376
+      totalWords: 15270
     eBook:
       ref: null
       title: null
@@ -6777,6 +7158,7 @@
       ref: 6
       title: "Interlude – Talia"
       order: 377
+      totalWords: 27584
     eBook:
       ref: null
       title: null
@@ -6795,6 +7177,7 @@
       ref: 6
       title: "6.61 L"
       order: 378
+      totalWords: 17113
     eBook:
       ref: null
       title: null
@@ -6813,6 +7196,7 @@
       ref: 6
       title: "6.62 L"
       order: 379
+      totalWords: 26591
     eBook:
       ref: null
       title: null
@@ -6831,6 +7215,7 @@
       ref: 6
       title: "Interlude – Foliana"
       order: 380
+      totalWords: 14511
     eBook:
       ref: null
       title: null
@@ -6849,6 +7234,7 @@
       ref: 6
       title: "6.63 P"
       order: 381
+      totalWords: 23500
     eBook:
       ref: null
       title: null
@@ -6867,6 +7253,7 @@
       ref: 6
       title: "6.64"
       order: 382
+      totalWords: 23385
     eBook:
       ref: null
       title: null
@@ -6885,6 +7272,7 @@
       ref: 6
       title: "6.65"
       order: 383
+      totalWords: 28121
     eBook:
       ref: null
       title: null
@@ -6903,6 +7291,7 @@
       ref: 6
       title: "6.66 H"
       order: 384
+      totalWords: 16348
     eBook:
       ref: null
       title: null
@@ -6921,6 +7310,7 @@
       ref: 6
       title: "6.67"
       order: 385
+      totalWords: 19601
     eBook:
       ref: null
       title: null
@@ -6939,6 +7329,7 @@
       ref: 6
       title: "6.68"
       order: 386
+      totalWords: 23364
     eBook:
       ref: null
       title: null
@@ -6957,6 +7348,7 @@
       ref: 7
       title: "7.00"
       order: 387
+      totalWords: 15733
     eBook:
       ref: null
       title: null
@@ -6975,6 +7367,7 @@
       ref: 7
       title: "7.01"
       order: 388
+      totalWords: 23265
     eBook:
       ref: null
       title: null
@@ -6993,6 +7386,7 @@
       ref: 7
       title: "7.02"
       order: 389
+      totalWords: 27514
     eBook:
       ref: null
       title: null
@@ -7011,6 +7405,7 @@
       ref: 7
       title: "7.03"
       order: 390
+      totalWords: 29300
     eBook:
       ref: null
       title: null
@@ -7029,6 +7424,7 @@
       ref: 7
       title: "Mini Chapter #1"
       order: 391
+      totalWords: 5248
     eBook:
       ref: null
       title: null
@@ -7047,6 +7443,7 @@
       ref: 7
       title: "7.04"
       order: 392
+      totalWords: 21885
     eBook:
       ref: null
       title: null
@@ -7065,6 +7462,7 @@
       ref: 7
       title: "Interlude – Queens and Dragons"
       order: 393
+      totalWords: 11578
     eBook:
       ref: null
       title: null
@@ -7083,6 +7481,7 @@
       ref: 7
       title: "7.05 P"
       order: 394
+      totalWords: 33990
     eBook:
       ref: null
       title: null
@@ -7101,6 +7500,7 @@
       ref: 7
       title: "7.06"
       order: 395
+      totalWords: 17426
     eBook:
       ref: null
       title: null
@@ -7119,6 +7519,7 @@
       ref: 7
       title: "7.07"
       order: 396
+      totalWords: 24067
     eBook:
       ref: null
       title: null
@@ -7137,6 +7538,7 @@
       ref: 7
       title: "7.08 K"
       order: 397
+      totalWords: 21706
     eBook:
       ref: null
       title: null
@@ -7155,6 +7557,7 @@
       ref: 7
       title: "7.09 K"
       order: 398
+      totalWords: 31426
     eBook:
       ref: null
       title: null
@@ -7173,6 +7576,7 @@
       ref: 7
       title: "7.10 K"
       order: 399
+      totalWords: 27721
     eBook:
       ref: null
       title: null
@@ -7191,6 +7595,7 @@
       ref: 7
       title: "7.11"
       order: 400
+      totalWords: 25426
     eBook:
       ref: null
       title: null
@@ -7209,6 +7614,7 @@
       ref: 7
       title: "Interlude – Dancing and Brawling"
       order: 401
+      totalWords: 11032
     eBook:
       ref: null
       title: null
@@ -7227,6 +7633,7 @@
       ref: 7
       title: "Interlude – Chocolate Gold"
       order: 402
+      totalWords: 6212
     eBook:
       ref: null
       title: null
@@ -7245,6 +7652,7 @@
       ref: 7
       title: "Interlude – Chess and Ships"
       order: 403
+      totalWords: 7323
     eBook:
       ref: null
       title: null
@@ -7263,6 +7671,7 @@
       ref: 7
       title: "Interlude – Chocolate Alchemy"
       order: 404
+      totalWords: 14631
     eBook:
       ref: null
       title: null
@@ -7281,6 +7690,7 @@
       ref: 7
       title: "Interlude – Lifting Ants"
       order: 405
+      totalWords: 15684
     eBook:
       ref: null
       title: null
@@ -7299,6 +7709,7 @@
       ref: 7
       title: "Interlude – Burning Alcohol"
       order: 406
+      totalWords: 18521
     eBook:
       ref: null
       title: null
@@ -7317,6 +7728,7 @@
       ref: 7
       title: "Interlude – The Hangover After"
       order: 407
+      totalWords: 4423
     eBook:
       ref: null
       title: null
@@ -7335,6 +7747,7 @@
       ref: 7
       title: "7.12 G"
       order: 408
+      totalWords: 23298
     eBook:
       ref: null
       title: null
@@ -7353,6 +7766,7 @@
       ref: 7
       title: "7.13 K"
       order: 409
+      totalWords: 27555
     eBook:
       ref: null
       title: null
@@ -7371,6 +7785,7 @@
       ref: 7
       title: "Mating Rituals Pt.2"
       order: 410
+      totalWords: 28430
     eBook:
       ref: null
       title: null
@@ -7389,6 +7804,7 @@
       ref: 7
       title: "7.14 T"
       order: 411
+      totalWords: 14747
     eBook:
       ref: null
       title: null
@@ -7407,6 +7823,7 @@
       ref: 7
       title: "7.15 R"
       order: 412
+      totalWords: 32518
     eBook:
       ref: null
       title: null
@@ -7425,6 +7842,7 @@
       ref: 7
       title: "7.16 L"
       order: 413
+      totalWords: 24091
     eBook:
       ref: null
       title: null
@@ -7443,6 +7861,7 @@
       ref: 7
       title: "7.17 S"
       order: 414
+      totalWords: 22333
     eBook:
       ref: null
       title: null
@@ -7461,6 +7880,7 @@
       ref: 7
       title: "7.18 M"
       order: 415
+      totalWords: 27950
     eBook:
       ref: null
       title: null
@@ -7479,6 +7899,7 @@
       ref: 7
       title: "Interlude – Strategists at Sea (Pt. 1)"
       order: 416
+      totalWords: 33066
     eBook:
       ref: null
       title: null
@@ -7497,6 +7918,7 @@
       ref: 7
       title: "Interlude – Strategists at Sea (Pt. 2)"
       order: 417
+      totalWords: 27383
     eBook:
       ref: null
       title: null
@@ -7515,6 +7937,7 @@
       ref: 7
       title: "7.19"
       order: 418
+      totalWords: 20075
     eBook:
       ref: null
       title: null
@@ -7533,6 +7956,7 @@
       ref: 7
       title: "7.20"
       order: 419
+      totalWords: 32215
     eBook:
       ref: null
       title: null
@@ -7551,6 +7975,7 @@
       ref: 7
       title: "Interlude – A Night in the Inn"
       order: 420
+      totalWords: 24383
     eBook:
       ref: null
       title: null
@@ -7569,6 +7994,7 @@
       ref: 7
       title: "7.21 KQ"
       order: 421
+      totalWords: 22542
     eBook:
       ref: null
       title: null
@@ -7587,6 +8013,7 @@
       ref: 7
       title: "7.22 D"
       order: 422
+      totalWords: 23576
     eBook:
       ref: null
       title: null
@@ -7605,6 +8032,7 @@
       ref: 7
       title: "7.23 LM"
       order: 423
+      totalWords: 26634
     eBook:
       ref: null
       title: null
@@ -7623,6 +8051,7 @@
       ref: 7
       title: "7.24"
       order: 424
+      totalWords: 25736
     eBook:
       ref: null
       title: null
@@ -7641,6 +8070,7 @@
       ref: 7
       title: "7.25"
       order: 425
+      totalWords: 23937
     eBook:
       ref: null
       title: null
@@ -7659,6 +8089,7 @@
       ref: 7
       title: "7.26"
       order: 426
+      totalWords: 28233
     eBook:
       ref: null
       title: null
@@ -7677,6 +8108,7 @@
       ref: 7
       title: "7.27"
       order: 427
+      totalWords: 18269
     eBook:
       ref: null
       title: null
@@ -7695,6 +8127,7 @@
       ref: 7
       title: "Interlude – The Gecko of Illusions"
       order: 428
+      totalWords: 24225
     eBook:
       ref: null
       title: null
@@ -7713,6 +8146,7 @@
       ref: 7
       title: "7.28"
       order: 429
+      totalWords: 21116
     eBook:
       ref: null
       title: null
@@ -7731,6 +8165,7 @@
       ref: 7
       title: "7.29 B"
       order: 430
+      totalWords: 25164
     eBook:
       ref: null
       title: null
@@ -7749,6 +8184,7 @@
       ref: 7
       title: "7.30"
       order: 431
+      totalWords: 25617
     eBook:
       ref: null
       title: null
@@ -7767,6 +8203,7 @@
       ref: 7
       title: "7.31"
       order: 432
+      totalWords: 32182
     eBook:
       ref: null
       title: null
@@ -7785,6 +8222,7 @@
       ref: 7
       title: "Interlude – A Meeting of [Druids]"
       order: 433
+      totalWords: 26000
     eBook:
       ref: null
       title: null
@@ -7803,6 +8241,7 @@
       ref: 7
       title: "7.32 D"
       order: 434
+      totalWords: 22713
     eBook:
       ref: null
       title: null
@@ -7821,6 +8260,7 @@
       ref: 7
       title: "7.33 I"
       order: 435
+      totalWords: 18476
     eBook:
       ref: null
       title: null
@@ -7839,6 +8279,7 @@
       ref: 7
       title: "7.34 C"
       order: 436
+      totalWords: 29445
     eBook:
       ref: null
       title: null
@@ -7857,6 +8298,7 @@
       ref: 7
       title: "7.35 C"
       order: 437
+      totalWords: 20902
     eBook:
       ref: null
       title: null
@@ -7875,6 +8317,7 @@
       ref: 7
       title: "7.36 C"
       order: 438
+      totalWords: 24361
     eBook:
       ref: null
       title: null
@@ -7893,6 +8336,7 @@
       ref: 7
       title: "7.37"
       order: 439
+      totalWords: 21805
     eBook:
       ref: null
       title: null
@@ -7911,6 +8355,7 @@
       ref: 7
       title: "7.38"
       order: 440
+      totalWords: 19188
     eBook:
       ref: null
       title: null
@@ -7929,6 +8374,7 @@
       ref: 7
       title: "7.39 A"
       order: 441
+      totalWords: 29142
     eBook:
       ref: null
       title: null
@@ -7947,6 +8393,7 @@
       ref: 7
       title: "Interlude – Carriages and Conversations"
       order: 442
+      totalWords: 10499
     eBook:
       ref: null
       title: null
@@ -7965,6 +8412,7 @@
       ref: 7
       title: "Interlude – Meetings and Friendships"
       order: 443
+      totalWords: 12855
     eBook:
       ref: null
       title: null
@@ -7983,6 +8431,7 @@
       ref: 7
       title: "Interlude – Sand and Notes"
       order: 444
+      totalWords: 9062
     eBook:
       ref: null
       title: null
@@ -8001,6 +8450,7 @@
       ref: 7
       title: "7.40 ER"
       order: 445
+      totalWords: 11067
     eBook:
       ref: null
       title: null
@@ -8019,6 +8469,7 @@
       ref: 7
       title: "Interlude – Food and Growth"
       order: 446
+      totalWords: 6296
     eBook:
       ref: null
       title: null
@@ -8037,6 +8488,7 @@
       ref: 7
       title: "7.41"
       order: 447
+      totalWords: 14001
     eBook:
       ref: null
       title: null
@@ -8055,6 +8507,7 @@
       ref: 7
       title: "7.42 M"
       order: 448
+      totalWords: 8806
     eBook:
       ref: null
       title: null
@@ -8073,6 +8526,7 @@
       ref: 7
       title: "7.43 G"
       order: 449
+      totalWords: 21186
     eBook:
       ref: null
       title: null
@@ -8091,6 +8545,7 @@
       ref: 7
       title: "7.44"
       order: 450
+      totalWords: 18290
     eBook:
       ref: null
       title: null
@@ -8109,6 +8564,7 @@
       ref: 7
       title: "7.45"
       order: 451
+      totalWords: 26019
     eBook:
       ref: null
       title: null
@@ -8127,6 +8583,7 @@
       ref: 7
       title: "7.46 K"
       order: 452
+      totalWords: 28508
     eBook:
       ref: null
       title: null
@@ -8145,6 +8602,7 @@
       ref: 7
       title: "7.47 K"
       order: 453
+      totalWords: 23022
     eBook:
       ref: null
       title: null
@@ -8163,6 +8621,7 @@
       ref: 7
       title: "7.48 K"
       order: 454
+      totalWords: 18771
     eBook:
       ref: null
       title: null
@@ -8181,6 +8640,7 @@
       ref: 7
       title: "7.49"
       order: 455
+      totalWords: 18427
     eBook:
       ref: null
       title: null
@@ -8199,6 +8659,7 @@
       ref: 7
       title: "Interlude – Experiments in Golems"
       order: 456
+      totalWords: 29714
     eBook:
       ref: null
       title: null
@@ -8217,6 +8678,7 @@
       ref: 7
       title: "7.50"
       order: 457
+      totalWords: 27256
     eBook:
       ref: null
       title: null
@@ -8235,6 +8697,7 @@
       ref: 7
       title: "7.51"
       order: 458
+      totalWords: 27007
     eBook:
       ref: null
       title: null
@@ -8253,6 +8716,7 @@
       ref: 7
       title: "7.52"
       order: 459
+      totalWords: 27374
     eBook:
       ref: null
       title: null
@@ -8271,6 +8735,7 @@
       ref: 7
       title: "7.53"
       order: 460
+      totalWords: 25019
     eBook:
       ref: null
       title: null
@@ -8289,6 +8754,7 @@
       ref: 7
       title: "7.54"
       order: 461
+      totalWords: 24431
     eBook:
       ref: null
       title: null
@@ -8307,6 +8773,7 @@
       ref: 7
       title: "7.55 E"
       order: 462
+      totalWords: 24290
     eBook:
       ref: null
       title: null
@@ -8325,6 +8792,7 @@
       ref: 7
       title: "Interlude – Saliss the Adventurer"
       order: 463
+      totalWords: 31933
     eBook:
       ref: null
       title: null
@@ -8343,6 +8811,7 @@
       ref: 7
       title: "7.56"
       order: 464
+      totalWords: 27844
     eBook:
       ref: null
       title: null
@@ -8361,6 +8830,7 @@
       ref: 7
       title: "7.57"
       order: 465
+      totalWords: 25748
     eBook:
       ref: null
       title: null
@@ -8379,6 +8849,7 @@
       ref: 7
       title: "7.58"
       order: 466
+      totalWords: 27254
     eBook:
       ref: null
       title: null
@@ -8397,6 +8868,7 @@
       ref: 7
       title: "7.59"
       order: 467
+      totalWords: 24774
     eBook:
       ref: null
       title: null
@@ -8415,6 +8887,7 @@
       ref: 7
       title: "7.60"
       order: 468
+      totalWords: 21046
     eBook:
       ref: null
       title: null
@@ -8433,6 +8906,7 @@
       ref: 7
       title: "Interlude – The Tribes of Izril"
       order: 469
+      totalWords: 15364
     eBook:
       ref: null
       title: null
@@ -8451,6 +8925,7 @@
       ref: 7
       title: "Interlude – The Innkeeper’s [Knight]"
       order: 470
+      totalWords: 28703
     eBook:
       ref: null
       title: null
@@ -8469,6 +8944,7 @@
       ref: 7
       title: "7.61"
       order: 471
+      totalWords: 23411
     eBook:
       ref: null
       title: null
@@ -8487,6 +8963,7 @@
       ref: 7
       title: "7.62"
       order: 472
+      totalWords: 25856
     eBook:
       ref: null
       title: null
@@ -8505,6 +8982,7 @@
       ref: 7
       title: "Solstice (Pt. 1)"
       order: 473
+      totalWords: 23165
     eBook:
       ref: null
       title: null
@@ -8523,6 +9001,7 @@
       ref: 7
       title: "Solstice (Pt. 2)"
       order: 474
+      totalWords: 29965
     eBook:
       ref: null
       title: null
@@ -8541,6 +9020,7 @@
       ref: 7
       title: "Solstice (Pt. 3)"
       order: 475
+      totalWords: 4350
     eBook:
       ref: null
       title: null
@@ -8552,13 +9032,14 @@
       totalSeconds: null
 - id: "ch-04760"
   url: "https://wanderinginn.com/2020/12/23/solstice-pt-4/"
-  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Solstice_(Pt._3)"
+  wikiUrl: null
   published: "2020-12-23"
   partOf:
     webVolume:
       ref: 7
       title: "Solstice (Pt. 4)"
       order: 476
+      totalWords: 5891
     eBook:
       ref: null
       title: null
@@ -8570,13 +9051,14 @@
       totalSeconds: null
 - id: "ch-04770"
   url: "https://wanderinginn.com/2020/12/23/solstice-pt-5/"
-  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Solstice_(Pt._3)"
+  wikiUrl: null
   published: "2020-12-23"
   partOf:
     webVolume:
       ref: 7
       title: "Solstice (Pt. 5)"
       order: 477
+      totalWords: 2471
     eBook:
       ref: null
       title: null
@@ -8588,13 +9070,14 @@
       totalSeconds: null
 - id: "ch-04780"
   url: "https://wanderinginn.com/2020/12/23/solstice-pt-6/"
-  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Solstice_(Pt._3)"
+  wikiUrl: null
   published: "2020-12-23"
   partOf:
     webVolume:
       ref: 7
       title: "Solstice (Pt. 6)"
       order: 478
+      totalWords: 697
     eBook:
       ref: null
       title: null
@@ -8606,13 +9089,14 @@
       totalSeconds: null
 - id: "ch-04790"
   url: "https://wanderinginn.com/2020/12/23/solstice-pt-7/"
-  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Solstice_(Pt._3)"
+  wikiUrl: null
   published: "2020-12-23"
   partOf:
     webVolume:
       ref: 7
       title: "Solstice (Pt. 7)"
       order: 479
+      totalWords: 4801
     eBook:
       ref: null
       title: null
@@ -8624,13 +9108,14 @@
       totalSeconds: null
 - id: "ch-04800"
   url: "https://wanderinginn.com/2020/12/23/solstice-pt-8/"
-  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Solstice_(Pt._3)"
+  wikiUrl: null
   published: "2020-12-23"
   partOf:
     webVolume:
       ref: 7
       title: "Solstice (Pt. 8)"
       order: 480
+      totalWords: 13278
     eBook:
       ref: null
       title: null
@@ -8642,13 +9127,14 @@
       totalSeconds: null
 - id: "ch-04810"
   url: "https://wanderinginn.com/2020/12/23/solstice-pt-9/"
-  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Solstice_(Pt._3)"
+  wikiUrl: null
   published: "2020-12-23"
   partOf:
     webVolume:
       ref: 7
       title: "Solstice (Pt. 9)"
       order: 481
+      totalWords: 6724
     eBook:
       ref: null
       title: null
@@ -8667,6 +9153,7 @@
       ref: 8
       title: "8.00"
       order: 482
+      totalWords: 26585
     eBook:
       ref: null
       title: null
@@ -8685,6 +9172,7 @@
       ref: 8
       title: "8.01"
       order: 483
+      totalWords: 26293
     eBook:
       ref: null
       title: null
@@ -8703,6 +9191,7 @@
       ref: 8
       title: "8.02"
       order: 484
+      totalWords: 27882
     eBook:
       ref: null
       title: null
@@ -8721,6 +9210,7 @@
       ref: 8
       title: "8.03"
       order: 485
+      totalWords: 29353
     eBook:
       ref: null
       title: null
@@ -8739,6 +9229,7 @@
       ref: 8
       title: "Interlude – The Revenant and the Naga"
       order: 486
+      totalWords: 19128
     eBook:
       ref: null
       title: null
@@ -8757,6 +9248,7 @@
       ref: 8
       title: "8.04 T"
       order: 487
+      totalWords: 27988
     eBook:
       ref: null
       title: null
@@ -8775,6 +9267,7 @@
       ref: 8
       title: "8.05 I"
       order: 488
+      totalWords: 31632
     eBook:
       ref: null
       title: null
@@ -8793,6 +9286,7 @@
       ref: 8
       title: "8.06 RT"
       order: 489
+      totalWords: 26966
     eBook:
       ref: null
       title: null
@@ -8811,6 +9305,7 @@
       ref: 8
       title: "8.07 L"
       order: 490
+      totalWords: 32106
     eBook:
       ref: null
       title: null
@@ -8829,6 +9324,7 @@
       ref: 8
       title: "8.08 J"
       order: 491
+      totalWords: 35029
     eBook:
       ref: null
       title: null
@@ -8847,6 +9343,7 @@
       ref: 8
       title: "8.09"
       order: 492
+      totalWords: 20853
     eBook:
       ref: null
       title: null
@@ -8865,6 +9362,7 @@
       ref: 8
       title: "8.10"
       order: 493
+      totalWords: 24329
     eBook:
       ref: null
       title: null
@@ -8883,6 +9381,7 @@
       ref: 8
       title: "8.11 E"
       order: 494
+      totalWords: 31248
     eBook:
       ref: null
       title: null
@@ -8901,6 +9400,7 @@
       ref: 8
       title: "8.12 T"
       order: 495
+      totalWords: 24763
     eBook:
       ref: null
       title: null
@@ -8919,6 +9419,7 @@
       ref: 8
       title: "Interlude – The [Rower] and the [Bartender]"
       order: 496
+      totalWords: 10811
     eBook:
       ref: null
       title: null
@@ -8937,6 +9438,7 @@
       ref: 8
       title: "8.13 F"
       order: 497
+      totalWords: 19937
     eBook:
       ref: null
       title: null
@@ -8955,6 +9457,7 @@
       ref: 8
       title: "8.14 N"
       order: 498
+      totalWords: 29658
     eBook:
       ref: null
       title: null
@@ -8973,6 +9476,7 @@
       ref: 8
       title: "8.15"
       order: 499
+      totalWords: 28978
     eBook:
       ref: null
       title: null
@@ -8991,6 +9495,7 @@
       ref: 8
       title: "Interlude – Paradigm Shift (Pt. 1)"
       order: 500
+      totalWords: 20282
     eBook:
       ref: null
       title: null
@@ -9009,6 +9514,7 @@
       ref: 8
       title: "Interlude – Paradigm Shift (Pt. 2)"
       order: 501
+      totalWords: 20238
     eBook:
       ref: null
       title: null
@@ -9027,6 +9533,7 @@
       ref: 8
       title: "8.16"
       order: 502
+      totalWords: 29203
     eBook:
       ref: null
       title: null
@@ -9045,6 +9552,7 @@
       ref: 8
       title: "8.17 H"
       order: 503
+      totalWords: 23606
     eBook:
       ref: null
       title: null
@@ -9063,6 +9571,7 @@
       ref: 8
       title: "8.18 H"
       order: 504
+      totalWords: 28197
     eBook:
       ref: null
       title: null
@@ -9081,6 +9590,7 @@
       ref: 8
       title: "8.19 H"
       order: 505
+      totalWords: 33320
     eBook:
       ref: null
       title: null
@@ -9099,6 +9609,7 @@
       ref: 8
       title: "8.20"
       order: 506
+      totalWords: 24404
     eBook:
       ref: null
       title: null
@@ -9117,6 +9628,7 @@
       ref: 8
       title: "8.21 L"
       order: 507
+      totalWords: 14275
     eBook:
       ref: null
       title: null
@@ -9135,6 +9647,7 @@
       ref: 8
       title: "8.22 HE"
       order: 508
+      totalWords: 28699
     eBook:
       ref: null
       title: null
@@ -9153,6 +9666,7 @@
       ref: 8
       title: "Interlude – Senior Guardsman Relc"
       order: 509
+      totalWords: 25780
     eBook:
       ref: null
       title: null
@@ -9171,6 +9685,7 @@
       ref: 8
       title: "8.23"
       order: 510
+      totalWords: 23996
     eBook:
       ref: null
       title: null
@@ -9189,6 +9704,7 @@
       ref: 8
       title: "8.24"
       order: 511
+      totalWords: 25522
     eBook:
       ref: null
       title: null
@@ -9207,6 +9723,7 @@
       ref: 8
       title: "8.25 KH"
       order: 512
+      totalWords: 26312
     eBook:
       ref: null
       title: null
@@ -9225,6 +9742,7 @@
       ref: 8
       title: "8.26 FK"
       order: 513
+      totalWords: 30292
     eBook:
       ref: null
       title: null
@@ -9243,6 +9761,7 @@
       ref: 8
       title: "Interlude – Luan the Giant"
       order: 514
+      totalWords: 19768
     eBook:
       ref: null
       title: null
@@ -9261,6 +9780,7 @@
       ref: 8
       title: "8.27"
       order: 515
+      totalWords: 28076
     eBook:
       ref: null
       title: null
@@ -9279,6 +9799,7 @@
       ref: 8
       title: "8.28"
       order: 516
+      totalWords: 30106
     eBook:
       ref: null
       title: null
@@ -9297,6 +9818,7 @@
       ref: 8
       title: "8.29"
       order: 517
+      totalWords: 23232
     eBook:
       ref: null
       title: null
@@ -9315,6 +9837,7 @@
       ref: 8
       title: "Interlude – The Pets of Innworld"
       order: 518
+      totalWords: 16480
     eBook:
       ref: null
       title: null
@@ -9333,6 +9856,7 @@
       ref: 8
       title: "8.30"
       order: 519
+      totalWords: 30670
     eBook:
       ref: null
       title: null
@@ -9351,6 +9875,7 @@
       ref: 8
       title: "8.31"
       order: 520
+      totalWords: 21005
     eBook:
       ref: null
       title: null
@@ -9369,6 +9894,7 @@
       ref: 8
       title: "Interlude – Pisces (Revised)"
       order: 521
+      totalWords: 45183
     eBook:
       ref: null
       title: null
@@ -9387,6 +9913,7 @@
       ref: 8
       title: "8.32"
       order: 522
+      totalWords: 34431
     eBook:
       ref: null
       title: null
@@ -9405,6 +9932,7 @@
       ref: 8
       title: "8.33 R"
       order: 523
+      totalWords: 25554
     eBook:
       ref: null
       title: null
@@ -9423,6 +9951,7 @@
       ref: 8
       title: "8.34 R"
       order: 524
+      totalWords: 35834
     eBook:
       ref: null
       title: null
@@ -9441,6 +9970,7 @@
       ref: 8
       title: "8.35"
       order: 525
+      totalWords: 19909
     eBook:
       ref: null
       title: null
@@ -9459,6 +9989,7 @@
       ref: 8
       title: "8.36 H"
       order: 526
+      totalWords: 30780
     eBook:
       ref: null
       title: null
@@ -9477,6 +10008,7 @@
       ref: 8
       title: "8.37 H"
       order: 527
+      totalWords: 22465
     eBook:
       ref: null
       title: null
@@ -9495,6 +10027,7 @@
       ref: 8
       title: "8.38 H"
       order: 528
+      totalWords: 30394
     eBook:
       ref: null
       title: null
@@ -9513,6 +10046,7 @@
       ref: 8
       title: "8.39"
       order: 529
+      totalWords: 20738
     eBook:
       ref: null
       title: null
@@ -9531,6 +10065,7 @@
       ref: 8
       title: "8.40 CTV"
       order: 530
+      totalWords: 28207
     eBook:
       ref: null
       title: null
@@ -9549,6 +10084,7 @@
       ref: 8
       title: "Interlude – Of Vampires and Fraerlings"
       order: 531
+      totalWords: 19734
     eBook:
       ref: null
       title: null
@@ -9567,6 +10103,7 @@
       ref: 8
       title: "8.41"
       order: 532
+      totalWords: 25438
     eBook:
       ref: null
       title: null
@@ -9585,6 +10122,7 @@
       ref: 8
       title: "Interlude – Songs and Stories"
       order: 533
+      totalWords: 29544
     eBook:
       ref: null
       title: null
@@ -9603,6 +10141,7 @@
       ref: 8
       title: "8.42"
       order: 534
+      totalWords: 29455
     eBook:
       ref: null
       title: null
@@ -9621,6 +10160,7 @@
       ref: 8
       title: "8.43"
       order: 535
+      totalWords: 22777
     eBook:
       ref: null
       title: null
@@ -9639,6 +10179,7 @@
       ref: 8
       title: "8.44 O"
       order: 536
+      totalWords: 19085
     eBook:
       ref: null
       title: null
@@ -9657,6 +10198,7 @@
       ref: 8
       title: "8.45 O"
       order: 537
+      totalWords: 19238
     eBook:
       ref: null
       title: null
@@ -9675,6 +10217,7 @@
       ref: 8
       title: "8.46 G"
       order: 538
+      totalWords: 34927
     eBook:
       ref: null
       title: null
@@ -9693,6 +10236,7 @@
       ref: 8
       title: "Interlude – Perspective and Past"
       order: 539
+      totalWords: 21912
     eBook:
       ref: null
       title: null
@@ -9711,6 +10255,7 @@
       ref: 8
       title: "8.47 H"
       order: 540
+      totalWords: 28908
     eBook:
       ref: null
       title: null
@@ -9729,6 +10274,7 @@
       ref: 8
       title: "8.48 H"
       order: 541
+      totalWords: 32984
     eBook:
       ref: null
       title: null
@@ -9747,6 +10293,7 @@
       ref: 8
       title: "8.49 M – Revised"
       order: 542
+      totalWords: 36208
     eBook:
       ref: null
       title: null
@@ -9765,6 +10312,7 @@
       ref: 8
       title: "8.50"
       order: 543
+      totalWords: 34771
     eBook:
       ref: null
       title: null
@@ -9783,6 +10331,7 @@
       ref: 8
       title: "Interlude – Conversations"
       order: 544
+      totalWords: 21288
     eBook:
       ref: null
       title: null
@@ -9801,6 +10350,7 @@
       ref: 8
       title: "8.51 D"
       order: 545
+      totalWords: 31400
     eBook:
       ref: null
       title: null
@@ -9819,6 +10369,7 @@
       ref: 8
       title: "8.52 MN"
       order: 546
+      totalWords: 33128
     eBook:
       ref: null
       title: null
@@ -9837,6 +10388,7 @@
       ref: 8
       title: "8.53 FH"
       order: 547
+      totalWords: 33419
     eBook:
       ref: null
       title: null
@@ -9855,6 +10407,7 @@
       ref: 8
       title: "8.54 H"
       order: 548
+      totalWords: 30572
     eBook:
       ref: null
       title: null
@@ -9873,6 +10426,7 @@
       ref: 8
       title: "8.55 L"
       order: 549
+      totalWords: 32253
     eBook:
       ref: null
       title: null
@@ -9891,6 +10445,7 @@
       ref: 8
       title: "8.56"
       order: 550
+      totalWords: 26777
     eBook:
       ref: null
       title: null
@@ -9909,6 +10464,7 @@
       ref: 8
       title: "8.57 H"
       order: 551
+      totalWords: 24170
     eBook:
       ref: null
       title: null
@@ -9927,6 +10483,7 @@
       ref: 8
       title: "8.58 PFH"
       order: 552
+      totalWords: 23478
     eBook:
       ref: null
       title: null
@@ -9945,6 +10502,7 @@
       ref: 8
       title: "8.59 H"
       order: 553
+      totalWords: 21422
     eBook:
       ref: null
       title: null
@@ -9963,6 +10521,7 @@
       ref: 8
       title: "8.60"
       order: 554
+      totalWords: 34187
     eBook:
       ref: null
       title: null
@@ -9981,6 +10540,7 @@
       ref: 8
       title: "8.61"
       order: 555
+      totalWords: 19318
     eBook:
       ref: null
       title: null
@@ -9999,6 +10559,7 @@
       ref: 8
       title: "8.62 K"
       order: 556
+      totalWords: 28851
     eBook:
       ref: null
       title: null
@@ -10017,6 +10578,7 @@
       ref: 8
       title: "8.63 K"
       order: 557
+      totalWords: 30207
     eBook:
       ref: null
       title: null
@@ -10035,6 +10597,7 @@
       ref: 8
       title: "8.64 K"
       order: 558
+      totalWords: 33003
     eBook:
       ref: null
       title: null
@@ -10053,6 +10616,7 @@
       ref: 8
       title: "8.65"
       order: 559
+      totalWords: 23862
     eBook:
       ref: null
       title: null
@@ -10071,6 +10635,7 @@
       ref: 8
       title: "Interlude – Hectval (Pt. 1)"
       order: 560
+      totalWords: 35515
     eBook:
       ref: null
       title: null
@@ -10089,6 +10654,7 @@
       ref: 8
       title: "Interlude – Hectval (Pt. 2)"
       order: 561
+      totalWords: 39651
     eBook:
       ref: null
       title: null
@@ -10107,6 +10673,7 @@
       ref: 8
       title: "Interlude – Hectval (Pt. 3)"
       order: 562
+      totalWords: 29940
     eBook:
       ref: null
       title: null
@@ -10125,6 +10692,7 @@
       ref: 8
       title: "Interlude – Satar (Revised)"
       order: 563
+      totalWords: 44801
     eBook:
       ref: null
       title: null
@@ -10143,6 +10711,7 @@
       ref: 8
       title: "8.66"
       order: 564
+      totalWords: 28418
     eBook:
       ref: null
       title: null
@@ -10161,6 +10730,7 @@
       ref: 8
       title: "8.67"
       order: 565
+      totalWords: 17514
     eBook:
       ref: null
       title: null
@@ -10179,6 +10749,7 @@
       ref: 8
       title: "8.68"
       order: 566
+      totalWords: 37342
     eBook:
       ref: null
       title: null
@@ -10197,6 +10768,7 @@
       ref: 8
       title: "8.69 T"
       order: 567
+      totalWords: 13080
     eBook:
       ref: null
       title: null
@@ -10215,6 +10787,7 @@
       ref: 8
       title: "8.70 E"
       order: 568
+      totalWords: 13572
     eBook:
       ref: null
       title: null
@@ -10233,6 +10806,7 @@
       ref: 8
       title: "8.71"
       order: 569
+      totalWords: 16514
     eBook:
       ref: null
       title: null
@@ -10251,6 +10825,7 @@
       ref: 8
       title: "8.72"
       order: 570
+      totalWords: 13333
     eBook:
       ref: null
       title: null
@@ -10269,6 +10844,7 @@
       ref: 8
       title: "8.73 R"
       order: 571
+      totalWords: 20619
     eBook:
       ref: null
       title: null
@@ -10287,6 +10863,7 @@
       ref: 8
       title: "8.74 DR"
       order: 572
+      totalWords: 14772
     eBook:
       ref: null
       title: null
@@ -10305,6 +10882,7 @@
       ref: 8
       title: "8.75"
       order: 573
+      totalWords: 15724
     eBook:
       ref: null
       title: null
@@ -10323,6 +10901,7 @@
       ref: 8
       title: "8.76 B"
       order: 574
+      totalWords: 33233
     eBook:
       ref: null
       title: null
@@ -10341,6 +10920,7 @@
       ref: 8
       title: "8.77 B"
       order: 575
+      totalWords: 31767
     eBook:
       ref: null
       title: null
@@ -10359,6 +10939,7 @@
       ref: 8
       title: "8.78 F"
       order: 576
+      totalWords: 42292
     eBook:
       ref: null
       title: null
@@ -10377,6 +10958,7 @@
       ref: 8
       title: "8.79"
       order: 577
+      totalWords: 37561
     eBook:
       ref: null
       title: null
@@ -10395,6 +10977,7 @@
       ref: 8
       title: "8.80"
       order: 578
+      totalWords: 39303
     eBook:
       ref: null
       title: null
@@ -10413,6 +10996,7 @@
       ref: 8
       title: "8.81"
       order: 579
+      totalWords: 41485
     eBook:
       ref: null
       title: null
@@ -10431,6 +11015,7 @@
       ref: 8
       title: "8.82 (Pt. 1)"
       order: 580
+      totalWords: 16540
     eBook:
       ref: null
       title: null
@@ -10449,6 +11034,7 @@
       ref: 8
       title: "8.82 (Pt. 2)"
       order: 581
+      totalWords: 22704
     eBook:
       ref: null
       title: null
@@ -10467,6 +11053,7 @@
       ref: 8
       title: "8.82 (Pt. 3)"
       order: 582
+      totalWords: 19548
     eBook:
       ref: null
       title: null
@@ -10485,6 +11072,7 @@
       ref: 8
       title: "8.83"
       order: 583
+      totalWords: 18054
     eBook:
       ref: null
       title: null
@@ -10503,6 +11091,7 @@
       ref: 8
       title: "8.84"
       order: 584
+      totalWords: 17292
     eBook:
       ref: null
       title: null
@@ -10521,6 +11110,7 @@
       ref: 8
       title: "8.85"
       order: 585
+      totalWords: 26962
     eBook:
       ref: null
       title: null
@@ -10539,6 +11129,7 @@
       ref: 8
       title: "Epilogue"
       order: 586
+      totalWords: 4551
     eBook:
       ref: null
       title: null
@@ -10557,6 +11148,7 @@
       ref: 9
       title: "9.00"
       order: 587
+      totalWords: 28368
     eBook:
       ref: null
       title: null
@@ -10575,6 +11167,7 @@
       ref: 9
       title: "9.01"
       order: 588
+      totalWords: 33931
     eBook:
       ref: null
       title: null
@@ -10593,6 +11186,7 @@
       ref: 9
       title: "9.02"
       order: 589
+      totalWords: 26882
     eBook:
       ref: null
       title: null
@@ -10611,6 +11205,7 @@
       ref: 9
       title: "Interlude – Singing Ships"
       order: 590
+      totalWords: 15741
     eBook:
       ref: null
       title: null
@@ -10629,6 +11224,7 @@
       ref: 9
       title: "9.03"
       order: 591
+      totalWords: 25757
     eBook:
       ref: null
       title: null
@@ -10647,6 +11243,7 @@
       ref: 9
       title: "9.04"
       order: 592
+      totalWords: 21951
     eBook:
       ref: null
       title: null
@@ -10665,6 +11262,7 @@
       ref: 9
       title: "Interlude – The Isles of Goblin and Minos"
       order: 593
+      totalWords: 29442
     eBook:
       ref: null
       title: null
@@ -10683,6 +11281,7 @@
       ref: 9
       title: "9.05 NPR"
       order: 594
+      totalWords: 40040
     eBook:
       ref: null
       title: null
@@ -10701,6 +11300,7 @@
       ref: 9
       title: "9.06"
       order: 595
+      totalWords: 20400
     eBook:
       ref: null
       title: null
@@ -10719,6 +11319,7 @@
       ref: 9
       title: "9.07"
       order: 596
+      totalWords: 34524
     eBook:
       ref: null
       title: null
@@ -10737,6 +11338,7 @@
       ref: 9
       title: "9.08"
       order: 597
+      totalWords: 25916
     eBook:
       ref: null
       title: null
@@ -10755,6 +11357,7 @@
       ref: 9
       title: "Interlude – Mundanity and Memorials"
       order: 598
+      totalWords: 28648
     eBook:
       ref: null
       title: null
@@ -10773,6 +11376,7 @@
       ref: 9
       title: "Interlude – The Competition"
       order: 599
+      totalWords: 20739
     eBook:
       ref: null
       title: null
@@ -10791,6 +11395,7 @@
       ref: 9
       title: "9.09 P"
       order: 600
+      totalWords: 28598
     eBook:
       ref: null
       title: null
@@ -10809,6 +11414,7 @@
       ref: 9
       title: "9.10 W"
       order: 601
+      totalWords: 23611
     eBook:
       ref: null
       title: null
@@ -10827,6 +11433,7 @@
       ref: 9
       title: "9.11 W"
       order: 602
+      totalWords: 27934
     eBook:
       ref: null
       title: null
@@ -10845,6 +11452,7 @@
       ref: 9
       title: "9.12"
       order: 603
+      totalWords: 29195
     eBook:
       ref: null
       title: null
@@ -10863,6 +11471,7 @@
       ref: 9
       title: "9.13"
       order: 604
+      totalWords: 30045
     eBook:
       ref: null
       title: null
@@ -10881,6 +11490,7 @@
       ref: 9
       title: "9.14 VM"
       order: 605
+      totalWords: 23569
     eBook:
       ref: null
       title: null
@@ -10899,6 +11509,7 @@
       ref: 9
       title: "9.15 VM"
       order: 606
+      totalWords: 32938
     eBook:
       ref: null
       title: null
@@ -10917,6 +11528,7 @@
       ref: 9
       title: "9.16 R"
       order: 607
+      totalWords: 31176
     eBook:
       ref: null
       title: null
@@ -10935,6 +11547,7 @@
       ref: 9
       title: "9.17 R"
       order: 608
+      totalWords: 37897
     eBook:
       ref: null
       title: null
@@ -10953,6 +11566,7 @@
       ref: 9
       title: "Interlude – The Great Race"
       order: 609
+      totalWords: 19575
     eBook:
       ref: null
       title: null
@@ -10971,6 +11585,7 @@
       ref: 9
       title: "9.18 E"
       order: 610
+      totalWords: 38896
     eBook:
       ref: null
       title: null
@@ -10989,6 +11604,7 @@
       ref: 9
       title: "Interlude – Relationships"
       order: 611
+      totalWords: 23757
     eBook:
       ref: null
       title: null
@@ -11007,6 +11623,7 @@
       ref: 9
       title: "9.19"
       order: 612
+      totalWords: 30553
     eBook:
       ref: null
       title: null
@@ -11025,6 +11642,7 @@
       ref: 9
       title: "9.20"
       order: 613
+      totalWords: 37931
     eBook:
       ref: null
       title: null
@@ -11043,6 +11661,7 @@
       ref: 9
       title: "Interlude – Death and Stitches"
       order: 614
+      totalWords: 15687
     eBook:
       ref: null
       title: null
