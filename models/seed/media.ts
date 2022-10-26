@@ -15,6 +15,7 @@ export interface Chapter {
       ref: number | null;
       title: string | null;
       order: number | null;
+      totalWords: number | null;
     };
     eBook: {
       ref: number | null;

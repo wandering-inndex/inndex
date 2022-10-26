@@ -64,6 +64,21 @@ export default function Page({ data }: PageProps<AllMedia | null>) {
     );
   };
 
+  const formatSeconds = (seconds: number | null): string => {
+    if (seconds === null) return "";
+
+    const h = Math.floor(seconds / 3600);
+    const m = Math.floor(seconds % 3600 / 60);
+    const s = Math.floor(seconds % 3600 % 60);
+
+    const atoms: string[] = [];
+    [h, m, s].forEach((atom) => {
+      atoms.push(`${atom}`.padStart(2, "0"));
+    });
+
+    return atoms.join(":");
+  };
+
   return (
     <>
       <DocumentHead />
@@ -73,43 +88,30 @@ export default function Page({ data }: PageProps<AllMedia | null>) {
           <span class="font-medium">The Wandering Inndex</span>
         </nav>
 
-        <div class="overflow-scroll max-h-[90vh]">
+        <div class="overflow-auto max-h-[90vh]">
           <table class="table min-w-max w-full relative">
             <thead class="font-medium sticky top-0">
               <tr class="min-h-[1.25rem]">
-                <th colSpan={1} class="bg-white"></th>
-                <th colSpan={3} class="bg-gray-200">Web</th>
+                <th colSpan={5} class="bg-gray-200">Web</th>
+                <th colSpan={5} class="bg-purple-200">Audiobooks</th>
                 <th colSpan={4} class="bg-blue-200">E-books</th>
-                <th colSpan={4} class="bg-purple-200">Audiobooks</th>
               </tr>
               <tr>
-                <th scope="col" class="bg-white">
-                  Published
-                </th>
-
                 {/* START: Web */}
-                <th scope="col" class="bg-gray-100 border-l">
+                <th scope="col" class="bg-gray-100">
                   Volume
                 </th>
+                <th scope="col" class="bg-gray-100 px-4">#</th>
                 <th scope="col" class="bg-gray-100 text-left">
                   Chapter
                 </th>
-                <th scope="col" class="bg-gray-100">#</th>
+                <th scope="col" class="bg-gray-100">
+                  Published
+                </th>
+                <th scope="col" class="bg-gray-100">
+                  Word Count
+                </th>
                 {/* END: Web */}
-
-                {/* START: E-books */}
-                <th
-                  scope="col"
-                  class="bg-blue-100 border-l"
-                  colSpan={2}
-                >
-                  Book
-                </th>
-                <th scope="col" class="bg-blue-100 text-left">
-                  Chapter
-                </th>
-                <th scope="col" class="bg-blue-100">#</th>
-                {/* END: E-books */}
 
                 {/* START: Audiobooks */}
                 <th
@@ -119,11 +121,28 @@ export default function Page({ data }: PageProps<AllMedia | null>) {
                 >
                   Book
                 </th>
+                <th scope="col" class="bg-purple-100 px-4">#</th>
                 <th scope="col" class="bg-purple-100 text-left">
                   Chapter
                 </th>
-                <th scope="col" class="bg-purple-100">#</th>
-                {/* EBD: Audiobooks */}
+                <th scope="col" class="bg-purple-100">
+                  Length
+                </th>
+                {/* END: Audiobooks */}
+
+                {/* START: E-books */}
+                <th
+                  scope="col"
+                  class="bg-blue-100 border-l"
+                  colSpan={2}
+                >
+                  Book
+                </th>
+                <th scope="col" class="bg-blue-100 px-4">#</th>
+                <th scope="col" class="bg-blue-100 text-left">
+                  Chapter
+                </th>
+                {/* END: E-books */}
               </tr>
             </thead>
             <tbody>
@@ -141,42 +160,56 @@ export default function Page({ data }: PageProps<AllMedia | null>) {
 
                 return (
                   <tr class="border-b">
-                    <td>
-                      {chapter.published}
-                    </td>
-                    <td class="border-l text-center">
+                    {/* START: Web */}
+                    <td class="text-center">
                       {chapter.partOf.webVolume.ref}
-                    </td>
-                    <td>
-                      {chapter.partOf.webVolume.title}
                     </td>
                     <td class="text-center">
                       {chapter.partOf.webVolume.order}
                     </td>
-                    <td class="text-center px-1 border-l">
-                      {eBook ? getRowImage(eBook) : null}
-                    </td>
-                    <td class="py-1">
-                      {eBook ? getRowTitle(eBook) : null}
+                    <td>
+                      {chapter.partOf.webVolume.title}
                     </td>
                     <td>
-                      {chapter.partOf.eBook.title}
+                      {chapter.published}
                     </td>
                     <td class="text-center">
-                      {chapter.partOf.eBook.order}
+                      {chapter.partOf.webVolume.totalWords}
                     </td>
+                    {/* END: Web */}
+
+                    {/* START: Audiobooks */}
                     <td class="text-center px-1 border-l">
                       {audioBook ? getRowImage(audioBook) : null}
                     </td>
                     <td class="py-1">
                       {audioBook ? getRowTitle(audioBook) : null}
                     </td>
+                    <td class="text-center">
+                      {chapter.partOf.audioBook.order}
+                    </td>
                     <td>
                       {chapter.partOf.audioBook.title}
                     </td>
                     <td class="text-center">
-                      {chapter.partOf.audioBook.order}
+                      {formatSeconds(chapter.partOf.audioBook.totalSeconds)}
                     </td>
+                    {/* END: Audiobooks */}
+
+                    {/* START: E-books */}
+                    <td class="text-center px-1 border-l">
+                      {eBook ? getRowImage(eBook) : null}
+                    </td>
+                    <td class="py-1">
+                      {eBook ? getRowTitle(eBook) : null}
+                    </td>
+                    <td class="text-center">
+                      {chapter.partOf.eBook.order}
+                    </td>
+                    <td>
+                      {chapter.partOf.eBook.title}
+                    </td>
+                    {/* END: E-books */}
                   </tr>
                 );
               })}
