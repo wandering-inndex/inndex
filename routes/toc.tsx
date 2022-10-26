@@ -74,25 +74,56 @@ export default function Page({ data }: PageProps<AllMedia | null>) {
         </nav>
 
         <div class="overflow-scroll max-h-[90vh]">
-          <table class="table min-w-max w-full">
-            <thead class="font-medium border-b mb-3">
-              <tr>
-                <th colSpan={1}></th>
-                <th colSpan={3} class="bg-gray-100">Web</th>
-                <th colSpan={4} class="bg-gray-100">E-book</th>
-                <th colSpan={4} class="bg-gray-100">Audiobook</th>
+          <table class="table min-w-max w-full relative">
+            <thead class="font-medium sticky top-0">
+              <tr class="min-h-[1.25rem]">
+                <th colSpan={1} class="bg-white"></th>
+                <th colSpan={3} class="bg-gray-200">Web</th>
+                <th colSpan={4} class="bg-blue-200">E-books</th>
+                <th colSpan={4} class="bg-purple-200">Audiobooks</th>
               </tr>
               <tr>
-                <th scope="col" class="px-1">Published</th>
-                <th scope="col" class="border-l px-1">Volume</th>
-                <th scope="col" class="px-1 text-left">Title</th>
-                <th scope="col" class="px-1">#</th>
-                <th scope="col" class="border-l" colSpan={2}>Book</th>
-                <th scope="col" class="px-1 text-left">Title</th>
-                <th scope="col" class="px-1">#</th>
-                <th scope="col" class="border-l" colSpan={2}>Book</th>
-                <th scope="col" class="px-1 text-left">Title</th>
-                <th scope="col" class="px-1">#</th>
+                <th scope="col" class="bg-white">
+                  Published
+                </th>
+
+                {/* START: Web */}
+                <th scope="col" class="bg-gray-100 border-l">
+                  Volume
+                </th>
+                <th scope="col" class="bg-gray-100 text-left">
+                  Title
+                </th>
+                <th scope="col" class="bg-gray-100">#</th>
+                {/* END: Web */}
+
+                {/* START: E-books */}
+                <th
+                  scope="col"
+                  class="bg-blue-100 border-l"
+                  colSpan={2}
+                >
+                  Book
+                </th>
+                <th scope="col" class="bg-blue-100 text-left">
+                  Title
+                </th>
+                <th scope="col" class="bg-blue-100">#</th>
+                {/* END: E-books */}
+
+                {/* START: Audiobooks */}
+                <th
+                  scope="col"
+                  class="bg-purple-100 border-l"
+                  colSpan={2}
+                >
+                  Book
+                </th>
+                <th scope="col" class="bg-purple-100 text-left">
+                  Title
+                </th>
+                <th scope="col" class="bg-purple-100">#</th>
+                {/* EBD: Audiobooks */}
               </tr>
             </thead>
             <tbody>
