@@ -1,4 +1,4 @@
-export default function DocumentFooter() {
+export default function SiteFooter() {
   return (
     <>
       <nav class="w-full mt-3">

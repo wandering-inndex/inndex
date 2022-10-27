@@ -9,6 +9,7 @@ import * as $2 from "./routes/api/media/ebooks.ts";
 import * as $3 from "./routes/api/media/index.ts";
 import * as $4 from "./routes/api/media/volumes.ts";
 import * as $5 from "./routes/toc.tsx";
+import * as $$0 from "./islands/TableOfContents.tsx";
 
 const manifest = {
   routes: {
@@ -19,7 +20,9 @@ const manifest = {
     "./routes/api/media/volumes.ts": $4,
     "./routes/toc.tsx": $5,
   },
-  islands: {},
+  islands: {
+    "./islands/TableOfContents.tsx": $$0,
+  },
   baseUrl: import.meta.url,
   config,
 };

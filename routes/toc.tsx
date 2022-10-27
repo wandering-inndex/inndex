@@ -4,18 +4,14 @@ import { Head } from "$fresh/runtime.ts";
 import {
   DEFAULT_SITE_DESCRIPTION,
   DEFAULT_SITE_NAME,
-} from "@constants/config/site.ts";
-import DocumentHeader from "@components/document/DocumentHeader.tsx";
-import DocumentHead from "@components/document/DocumentHead.tsx";
-import DocumentFooter from "@components/document/DocumentFooter.tsx";
-import {
-  AllMedia,
-  AudioBook,
-  DEFAULT_ALL_MEDIA,
-  ElectronicBook,
-} from "@models/seed/media.ts";
+} from "../constants/config/site.ts";
+import DocumentHead from "../components/document/DocumentHead.tsx";
+import SiteHeader from "../components/ui/SiteHeader.tsx";
+import SiteFooter from "../components/ui/SiteFooter.tsx";
+import { AllMedia, DEFAULT_ALL_MEDIA } from "../models/seed/media.ts";
 
 import { handler as allMediaHandler } from "./api/media/index.ts";
+import TableOfContents from "../islands/TableOfContents.tsx";
 
 export const handler: Handlers<AllMedia | null> = {
   async GET(req, ctx) {
@@ -31,64 +27,11 @@ export default function Page({ data }: PageProps<AllMedia | null>) {
   }
 
   const { chapters, eBooks, audioBooks } = data;
-  const eBookMap = new Map<number, ElectronicBook>();
-  const audioBookMap = new Map<number, AudioBook>();
-
-  eBooks.forEach((item) => eBookMap.set(item.index, item));
-  audioBooks.forEach((item) => audioBookMap.set(item.index, item));
-
-  const getRowImage = (
-    config: { url: string; imageUrl: string; title: string },
-  ) => {
-    return (
-      <>
-        <a
-          href={config.url}
-          title={config.title}
-        >
-          <img
-            class="h-10"
-            src={config.imageUrl}
-            alt={config.title}
-          />
-        </a>
-      </>
-    );
-  };
-
-  const getRowTitle = (
-    config: { url: string; title: string },
-  ) => {
-    return (
-      <>
-        <a
-          href={config.url}
-          title={config.title}
-        >
-          {config.title}
-        </a>
-      </>
-    );
-  };
-
-  const formatSeconds = (seconds: number | null): string => {
-    if (seconds === null) return "";
-
-    const h = Math.floor(seconds / 3600);
-    const m = Math.floor(seconds % 3600 / 60);
-    const s = Math.floor(seconds % 3600 % 60);
-
-    const atoms: string[] = [];
-    [h, m, s].forEach((atom) => {
-      atoms.push(`${atom}`.padStart(2, "0"));
-    });
-
-    return atoms.join(":");
-  };
 
   return (
     <>
       <DocumentHead />
+
       <Head>
         <title>{DEFAULT_SITE_NAME} | Table of Contents</title>
 
@@ -99,144 +42,15 @@ export default function Page({ data }: PageProps<AllMedia | null>) {
       </Head>
 
       <div class="p-4 mx-auto text-sm text-gray-900">
-        <DocumentHeader />
+        <SiteHeader />
 
-        <div class="overflow-auto max-h-[80vh] rounded-md border">
-          <table class="table min-w-max w-full relative">
-            <thead class="font-medium sticky top-0">
-              <tr class="min-h-[1.25rem]">
-                <th colSpan={5} class="py-2 bg-gray-200">Web Novel</th>
-                <th colSpan={5} class="py-2 bg-purple-200">Audiobook</th>
-                <th colSpan={4} class="py-2 bg-blue-200">E-book</th>
-              </tr>
-              <tr>
-                {/* START: Web */}
-                <th scope="col" class="px-2 bg-gray-100">#</th>
-                <th scope="col" class="px-2 bg-gray-100">
-                  Volume
-                </th>
-                <th scope="col" class="px-2 bg-gray-100 text-left">
-                  Chapter
-                </th>
-                <th scope="col" class="px-2 bg-gray-100">
-                  Published
-                </th>
-                <th scope="col" class="px-2 bg-gray-100">
-                  Word Count
-                </th>
-                {/* END: Web */}
-
-                {/* START: Audiobooks */}
-                <th scope="col" class="px-2 bg-purple-100 border-l">#</th>
-                <th
-                  scope="col"
-                  class="px-2 bg-purple-100"
-                  colSpan={2}
-                >
-                  Book
-                </th>
-                <th scope="col" class="px-2 bg-purple-100 text-left">
-                  Chapter
-                </th>
-                <th scope="col" class="px-2 bg-purple-100">
-                  Length
-                </th>
-                {/* END: Audiobooks */}
-
-                {/* START: E-books */}
-                <th scope="col" class="px-2 bg-blue-100 border-l">#</th>
-                <th
-                  scope="col"
-                  class="px-2 bg-blue-100"
-                  colSpan={2}
-                >
-                  Book
-                </th>
-                <th scope="col" class="px-2 bg-blue-100 text-left">
-                  Chapter
-                </th>
-                {/* END: E-books */}
-              </tr>
-            </thead>
-            <tbody>
-              {chapters.map((chapter) => {
-                const eBookIndex = chapter.partOf.eBook.ref;
-                const eBook = eBookIndex && eBookMap.has(eBookIndex)
-                  ? eBookMap.get(eBookIndex)
-                  : null;
-
-                const audioBookIndex = chapter.partOf.audioBook.ref;
-                const audioBook =
-                  audioBookIndex && audioBookMap.has(audioBookIndex)
-                    ? audioBookMap.get(audioBookIndex)
-                    : null;
-
-                return (
-                  <tr class="border-t h-10">
-                    {/* START: Web */}
-                    <td class="px-2 text-center">
-                      {chapter.partOf.webVolume.order}
-                    </td>
-                    <td class="px-2 text-center">
-                      {chapter.partOf.webVolume.ref}
-                    </td>
-                    <td class="px-2">
-                      <a
-                        href={chapter.url}
-                        title={chapter.partOf.webVolume.title || ""}
-                        class="font-semibold text-[#1583af] hover:underline"
-                      >
-                        {chapter.partOf.webVolume.title}
-                      </a>
-                    </td>
-                    <td class="px-2 ">
-                      {chapter.published}
-                    </td>
-                    <td class="px-2 text-center">
-                      {chapter.partOf.webVolume.totalWords}
-                    </td>
-                    {/* END: Web */}
-
-                    {/* START: Audiobooks */}
-                    <td class="px-2 text-center border-l">
-                      {chapter.partOf.audioBook.order}
-                    </td>
-                    <td class="pl-2 text-center">
-                      {audioBook ? getRowImage(audioBook) : null}
-                    </td>
-                    <td class="px-2 py-1">
-                      {audioBook ? getRowTitle(audioBook) : null}
-                    </td>
-                    <td class="px-2">
-                      {chapter.partOf.audioBook.title}
-                    </td>
-                    <td class="px-2 text-center">
-                      {formatSeconds(chapter.partOf.audioBook.totalSeconds)}
-                    </td>
-                    {/* END: Audiobooks */}
-
-                    {/* START: E-books */}
-                    <td class="px-2 text-center border-l">
-                      {chapter.partOf.eBook.order}
-                    </td>
-                    <td class="pl-2 text-center">
-                      {eBook ? getRowImage(eBook) : null}
-                    </td>
-                    <td class="px-2 py-1">
-                      {eBook ? getRowTitle(eBook) : null}
-                    </td>
-                    <td class="px-2">
-                      {chapter.partOf.eBook.title}
-                    </td>
-                    {/* END: E-books */}
-                  </tr>
-                );
-              })}
-            </tbody>
-          </table>
+        <div>
+          <TableOfContents
+            {...{ chapters, eBooks, audioBooks }}
+          />
         </div>
 
-        <DocumentFooter />
+        <SiteFooter />
       </div>
     </>
   );

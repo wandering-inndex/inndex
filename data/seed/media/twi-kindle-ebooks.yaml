@@ -1,49 +1,56 @@
 # https://www.amazon.com/dp/B099JFQ9YR
 
 - index: 1
-  title: "The Wandering Inn: Book 1"
+  title: "The Wandering Inn"
+  storeTitle: "The Wandering Inn: Book 1"
   published: "2018-08-02"
   url: "https://www.amazon.com/gp/product/B07G4MX1Z4"
   imageUrl: "https://m.media-amazon.com/images/I/41zGUBv9XHL.jpg"
   totalLength:
     pages: 1235
 - index: 2
-  title: "The Wandering Inn: Book 2"
+  title: "Fae and Fare"
+  storeTitle: "The Wandering Inn: Book 2"
   published: "2019-09-15"
   url: "https://www.amazon.com/gp/product/B07XX888DN"
   imageUrl: "https://m.media-amazon.com/images/I/41Xj2WeF4zL.jpg"
   totalLength:
     pages: 1718
 - index: 3
-  title: "Flowers of Esthelm: Book 3 (The Wandering Inn)"
+  title: "Flowers of Esthelm"
+  storeTitle: "Flowers of Esthelm: Book 3 (The Wandering Inn)"
   published: "2020-11-05"
   url: "https://www.amazon.com/gp/product/B08MTVTY6M"
   imageUrl: "https://m.media-amazon.com/images/I/51KKtq-eZhL.jpg"
   totalLength:
     pages: 1008
 - index: 4
-  title: "Winter Solstice: Book 4 (The Wandering Inn)"
+  title: "Winter Solstice"
+  storeTitle: "Winter Solstice: Book 4 (The Wandering Inn)"
   published: "2021-07-26"
   url: "https://www.amazon.com/gp/product/B09BBP7GFZ"
   imageUrl: "https://m.media-amazon.com/images/I/41noLe0tWlL.jpg"
   totalLength:
     pages: 1109
 - index: 5
-  title: "The Last Light: Book 5 (The Wandering Inn)"
+  title: "The Last Light"
+  storeTitle: "The Last Light: Book 5 (The Wandering Inn)"
   published: "2021-11-23"
   url: "https://www.amazon.com/gp/product/B09J3JGL2P"
   imageUrl: "https://m.media-amazon.com/images/I/51lkTuvof0L.jpg"
   totalLength:
     pages: 1791
 - index: 6
-  title: "The General of Izril: Book 6 (The Wandering Inn)"
+  title: "The General of Izril"
+  storeTitle: "The General of Izril: Book 6 (The Wandering Inn)"
   published: "2022-05-25"
   url: "https://www.amazon.com/gp/product/B0B2FBR2J4"
   imageUrl: "https://m.media-amazon.com/images/I/41Osys4GntL.jpg"
   totalLength:
     pages: 1081
 - index: 7
-  title: "Rains of Liscor: Book 7 (The Wandering Inn)"
+  title: "Rains of Liscor"
+  storeTitle: "Rains of Liscor: Book 7 (The Wandering Inn)"
   published: "2022-07-26"
   url: "https://www.amazon.com/gp/product/B0B2N9F382"
   imageUrl: "https://m.media-amazon.com/images/I/41qDxbtZKgL.jpg"

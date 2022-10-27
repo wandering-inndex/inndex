@@ -8,13 +8,16 @@
 export interface Chapter {
   id: string;
   url: string;
-  wikiUrl: string;
+  /** Link to the wiki. */
+  wikiUrl: string | null;
+  /** Date string on when this chapter is published. */
   published: string;
   partOf: {
-    webVolume: {
+    webNovel: {
       ref: number | null;
       title: string | null;
       order: number | null;
+      /** Total words based on https://wordcounter.net/. */
       totalWords: number | null;
     };
     eBook: {
@@ -26,6 +29,7 @@ export interface Chapter {
       ref: number | null;
       title: string | null;
       order: number | null;
+      /** Total seconds from the Audible chapters list. */
       totalSeconds: number | null;
     };
   };
@@ -50,10 +54,14 @@ export interface Volume {
 export interface ElectronicBook {
   index: number;
   title: string;
+  /** Cleaned title to make the tables more uniformed. */
+  cleanedTitle: string;
+  /** Date string on when this e-book is published. */
   published: string;
   url: string;
   imageUrl: string;
   totalLength: {
+    /** Total pages based on the store page. */
     pages: number;
   };
 }
@@ -66,11 +74,16 @@ export interface ElectronicBook {
 export interface AudioBook {
   index: number;
   title: string;
+  /** The title in the store page. */
+  storeTitle: string;
+  /** Date string on when this audiobook is published. */
   published: string;
   url: string;
   imageUrl: string;
   totalLength: {
+    /** Total hours based on the store page. */
     hours: number;
+    /** Total minutes based on the store page. */
     minutes: number;
   };
 }
