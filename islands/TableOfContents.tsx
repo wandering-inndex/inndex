@@ -1,14 +1,14 @@
 import { useCallback, useState } from "preact/hooks";
 import { JSX } from "preact";
 
-import { AudioBook, Chapter, ElectronicBook } from "../models/seed/media.ts";
+import { AudioBook, Chapter, ElectronicBook } from "@apps/seed/models/media.ts";
 
 import { SortKeys, SortOrder } from "@apps/table-of-contents/models.ts";
 import {
   convertToTableRowData,
   sortData,
 } from "@apps/table-of-contents/utils.ts";
-import TableRows from "../apps/table-of-contents/components/TableRows.tsx";
+import TableRows from "@apps/table-of-contents/components/TableRows.tsx";
 
 function HeaderSorter({
   sortOrder,

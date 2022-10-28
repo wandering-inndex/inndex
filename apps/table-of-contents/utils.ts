@@ -1,4 +1,4 @@
-import { Chapter } from "../../models/seed/media.ts";
+import { Chapter } from "@apps/seed/models/media.ts";
 
 import { SortKeys, TableRowData } from "./models.ts";
 

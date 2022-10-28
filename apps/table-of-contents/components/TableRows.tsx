@@ -4,7 +4,7 @@ import {
   formatSeconds,
   formatWordCount,
 } from "@apps/table-of-contents/utils.ts";
-import { AudioBook, ElectronicBook } from "../../../models/seed/media.ts";
+import { AudioBook, ElectronicBook } from "@apps/seed/models/media.ts";
 
 const getRowImage = (
   { url, imageUrl, title }: { url: string; imageUrl: string; title: string },

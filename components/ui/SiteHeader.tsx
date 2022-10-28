@@ -1,4 +1,4 @@
-import { DEFAULT_SITE_NAME } from "../../constants/config/site.ts";
+import { DEFAULT_SITE_NAME } from "../../constants/site.ts";
 
 export default function SiteHeader() {
   return (

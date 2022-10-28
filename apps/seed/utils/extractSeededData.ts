@@ -1,6 +1,6 @@
 import { parse as parseYaml } from "yaml";
 
-import { SEED_DATA_DIR, SeedDataChoices } from "../constants/seed/media.ts";
+import { SEED_DATA_DIR, SeedDataChoices } from "@apps/seed/constants.ts";
 
 export const extractSeededData = async <T = unknown>(
   choice: SeedDataChoices,
