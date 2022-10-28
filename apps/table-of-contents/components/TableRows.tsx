@@ -4,10 +4,18 @@ import {
   formatSeconds,
   formatWordCount,
 } from "@apps/table-of-contents/utils.ts";
-import { AudioBook, ElectronicBook } from "@apps/seed/models/media.ts";
+import {
+  AudioBook,
+  ElectronicBook,
+  ImageUrls,
+} from "@apps/seed/models/media.ts";
 
 const getRowImage = (
-  { url, imageUrl, title }: { url: string; imageUrl: string; title: string },
+  { url, imageUrls, title }: {
+    url: string;
+    imageUrls: ImageUrls;
+    title: string;
+  },
 ) => {
   return (
     <>
@@ -17,7 +25,7 @@ const getRowImage = (
       >
         <img
           class="h-10"
-          src={imageUrl}
+          src={imageUrls.thumbnail}
           alt={title}
         />
       </a>
@@ -77,7 +85,7 @@ export default function TableRows({ rows, audioBookMap, eBookMap }: Props) {
               </td>
               <td class="px-2">
                 <a
-                  href={row.url}
+                  href={row.webNovelUrl}
                   title={row.webNovelTitle || ""}
                   class="font-semibold text-[#1583af] hover:underline"
                 >
@@ -85,7 +93,7 @@ export default function TableRows({ rows, audioBookMap, eBookMap }: Props) {
                 </a>
               </td>
               <td class="px-2 text-center">
-                {formatDate(row.published)}
+                {formatDate(row.webNovelPublished)}
               </td>
               <td class="px-2 text-center">
                 {formatWordCount(row.webNovelTotalWords ?? 0)}

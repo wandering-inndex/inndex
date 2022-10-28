@@ -2,6 +2,7 @@ import { parse as parseYaml } from "yaml";
 
 import { SEED_DATA_DIR, SeedDataChoices } from "@apps/seed/constants.ts";
 
+/** Extract specific seeded data from the yaml file. */
 export const extractSeededData = async <T = unknown>(
   choice: SeedDataChoices,
 ): Promise<T> => {

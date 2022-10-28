@@ -6,33 +6,50 @@
  * @see {@link https://wanderinginn.com/table-of-contents/}
  */
 export interface Chapter {
+  /**
+   * Unique ID for the chapter. Padded up to four zeroes to the left, and two
+   * zeroes to the right to make it easier to move later when we get revised
+   * chapters.
+   */
   id: string;
-  url: string;
-  /** Link to the wiki. */
-  wikiUrl: string | null;
-  /** Date string on when this chapter is published. */
-  published: string;
   partOf: {
     webNovel: {
+      order: number | null;
       ref: number | null;
       title: string | null;
-      order: number | null;
-      /** Total words based on https://wordcounter.net/. */
+      /** Date string of when this chapter is published. */
+      published: string;
+      url: string;
+      /**
+       * Total words based on https://wordcounter.net/. Without the title,
+       * author's notes, artworks, etc.
+       */
       totalWords: number | null;
     };
     eBook: {
+      order: number | null;
       ref: number | null;
       title: string | null;
-      order: number | null;
     };
     audioBook: {
+      order: number | null;
       ref: number | null;
       title: string | null;
-      order: number | null;
       /** Total seconds from the Audible chapters list. */
       totalSeconds: number | null;
     };
+    wiki: {
+      url: string | null;
+    };
   };
+}
+
+/** A collection of image URLs for the media type. */
+export interface ImageUrls {
+  original: string;
+  medium: string;
+  small: string;
+  thumbnail: string;
 }
 
 /**
@@ -59,11 +76,9 @@ export interface ElectronicBook {
   /** Date string on when this e-book is published. */
   published: string;
   url: string;
-  imageUrl: string;
-  totalLength: {
-    /** Total pages based on the store page. */
-    pages: number;
-  };
+  imageUrls: ImageUrls;
+  /** Total pages based on the store page. */
+  totalLength: number | null;
 }
 
 /**
@@ -79,13 +94,9 @@ export interface AudioBook {
   /** Date string on when this audiobook is published. */
   published: string;
   url: string;
-  imageUrl: string;
-  totalLength: {
-    /** Total hours based on the store page. */
-    hours: number;
-    /** Total minutes based on the store page. */
-    minutes: number;
-  };
+  imageUrls: ImageUrls;
+  /** Total minutes based on the store page. */
+  totalLength: number | null;
 }
 
 /** List of all available media. Used in the table of contents page. */

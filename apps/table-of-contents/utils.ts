@@ -6,20 +6,20 @@ import { SortKeys, TableRowData } from "./models.ts";
 export const convertToTableRowData = (chapter: Chapter): TableRowData => {
   return {
     id: chapter.id,
-    url: chapter.url,
-    wikiUrl: chapter.wikiUrl,
-    published: chapter.published,
+    webNovelOrder: chapter.partOf.webNovel.order,
     webNovelRef: chapter.partOf.webNovel.ref,
     webNovelTitle: chapter.partOf.webNovel.title,
-    webNovelOrder: chapter.partOf.webNovel.order,
+    webNovelPublished: chapter.partOf.webNovel.published,
+    webNovelUrl: chapter.partOf.webNovel.url,
     webNovelTotalWords: chapter.partOf.webNovel.totalWords,
+    eBookOrder: chapter.partOf.eBook.order,
     eBookRef: chapter.partOf.eBook.ref,
     eBookTitle: chapter.partOf.eBook.title,
-    eBookOrder: chapter.partOf.eBook.order,
+    audioBookOrder: chapter.partOf.audioBook.order,
     audioBookRef: chapter.partOf.audioBook.ref,
     audioBookTitle: chapter.partOf.audioBook.title,
-    audioBookOrder: chapter.partOf.audioBook.order,
     audioBookTotalSeconds: chapter.partOf.audioBook.totalSeconds,
+    wikiUrl: chapter.partOf.wiki.url,
   };
 };
 

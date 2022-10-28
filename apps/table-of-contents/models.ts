@@ -5,20 +5,20 @@
  */
 export interface TableRowData {
   id: string;
-  url: string;
-  wikiUrl: string | null;
-  published: string;
+  webNovelOrder: number | null;
   webNovelRef: number | null;
   webNovelTitle: string | null;
-  webNovelOrder: number | null;
+  webNovelPublished: string;
+  webNovelUrl: string;
   webNovelTotalWords: number | null;
+  eBookOrder: number | null;
   eBookRef: number | null;
   eBookTitle: string | null;
-  eBookOrder: number | null;
+  audioBookOrder: number | null;
   audioBookRef: number | null;
   audioBookTitle: string | null;
-  audioBookOrder: number | null;
   audioBookTotalSeconds: number | null;
+  wikiUrl: string | null;
 }
 
 /** The possible keys to use. */

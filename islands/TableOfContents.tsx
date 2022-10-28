@@ -95,7 +95,7 @@ export default function TableOfContents(
       classNames: "px-2 bg-green-100 text-left",
     },
     {
-      key: "published",
+      key: "webNovelPublished",
       label: "Published",
       classNames: "px-2 bg-green-100 text-center",
     },
@@ -165,7 +165,6 @@ export default function TableOfContents(
                     scope="col"
                     class={item.classNames}
                     colSpan={item.colSpan}
-                    onClick={() => console.log("help")}
                   >
                     <HeaderSorter
                       label={item.label}

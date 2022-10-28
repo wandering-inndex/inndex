@@ -5,70 +5,86 @@
   storeTitle: "The Wandering Inn"
   published: "2019-09-10"
   url: "https://www.audible.com/pd/The-Wandering-Inn-Audiobook/1774240327"
-  imageUrl: "https://m.media-amazon.com/images/I/51gevFKAUtL._SL500_.jpg"
-  totalLength:
-    hours: 43
-    minutes: 10
+  imageUrls:
+    original: "https://m.media-amazon.com/images/I/51gevFKAUtL.jpg"
+    medium: "https://m.media-amazon.com/images/I/51gevFKAUtL._SL400_.jpg"
+    small: "https://m.media-amazon.com/images/I/51gevFKAUtL._SL300_.jpg"
+    thumbnail: "https://m.media-amazon.com/images/I/51gevFKAUtL._SL100_.jpg"
+  totalLength: 2590
 - index: 2
   title: "Fae and Fare"
   storeTitle: "Fae and Fare"
   published: "2020-07-14"
   url: "https://www.audible.com/pd/The-Wandering-Inn-Volume-2-Audiobook/1774241544"
-  imageUrl: "https://m.media-amazon.com/images/I/51xoGrB4cHL._SL500_.jpg"
-  totalLength:
-    hours: 61
-    minutes: 4
+  imageUrls:
+    original: "https://m.media-amazon.com/images/I/51xoGrB4cHL.jpg"
+    medium: "https://m.media-amazon.com/images/I/51xoGrB4cHL._SL400_.jpg"
+    small: "https://m.media-amazon.com/images/I/51xoGrB4cHL._SL300_.jpg"
+    thumbnail: "https://m.media-amazon.com/images/I/51xoGrB4cHL._SL100_.jpg"
+  totalLength: 3664
 - index: 3
   title: "Flowers of Esthelm"
   storeTitle: "Flowers of Esthelm"
   published: "2021-04-27"
   url: "https://www.audible.com/pd/Flowers-of-Esthelm-Audiobook/1774248123"
-  imageUrl: "https://m.media-amazon.com/images/I/51y7vQa63XL._SL500_.jpg"
-  totalLength:
-    hours: 37
-    minutes: 37
+  imageUrls:
+    original: "https://m.media-amazon.com/images/I/51y7vQa63XL.jpg"
+    medium: "https://m.media-amazon.com/images/I/51y7vQa63XL._SL400_.jpg"
+    small: "https://m.media-amazon.com/images/I/51y7vQa63XL._SL300_.jpg"
+    thumbnail: "https://m.media-amazon.com/images/I/51y7vQa63XL._SL100_.jpg"
+  totalLength: 2257
 - index: 4
   title: "Winter Solstice"
   storeTitle: "Winter Solstice"
   published: "2021-07-27"
   url: "https://www.audible.com/pd/Winter-Solstice-Audiobook/1039403360"
-  imageUrl: "https://m.media-amazon.com/images/I/5191i36TcpL._SL500_.jpg"
-  totalLength:
-    hours: 34
-    minutes: 14
+  imageUrls:
+    original: "https://m.media-amazon.com/images/I/5191i36TcpL.jpg"
+    medium: "https://m.media-amazon.com/images/I/5191i36TcpL._SL400_.jpg"
+    small: "https://m.media-amazon.com/images/I/5191i36TcpL._SL300_.jpg"
+    thumbnail: "https://m.media-amazon.com/images/I/5191i36TcpL._SL100_.jpg"
+  totalLength: 2054
 - index: 5
   title: "The Last Light"
   storeTitle: "The Last Light"
   published: "2021-11-23"
   url: "https://www.audible.com/pd/The-Last-Light-Audiobook/B09FR6RBVY"
-  imageUrl: "https://m.media-amazon.com/images/I/51c20xuLqfL._SL500_.jpg"
-  totalLength:
-    hours: 52
-    minutes: 17
+  imageUrls:
+    original: "https://m.media-amazon.com/images/I/51c20xuLqfL.jpg"
+    medium: "https://m.media-amazon.com/images/I/51c20xuLqfL._SL400_.jpg"
+    small: "https://m.media-amazon.com/images/I/51c20xuLqfL._SL300_.jpg"
+    thumbnail: "https://m.media-amazon.com/images/I/51c20xuLqfL._SL100_.jpg"
+  totalLength: 3137
 - index: 6
   title: "The General of Izril"
   storeTitle: "The General of Izril"
   published: "2022-04-26"
   url: "https://www.audible.com/pd/The-General-of-Izril-Audiobook/B09SJ1T9KF"
-  imageUrl: "https://m.media-amazon.com/images/I/513vW+MQ3hL._SL500_.jpg"
-  totalLength:
-    hours: 34
-    minutes: 1
+  imageUrls:
+    original: "https://m.media-amazon.com/images/I/513vW+MQ3hL.jpg"
+    medium: "https://m.media-amazon.com/images/I/513vW+MQ3hL._SL400_.jpg"
+    small: "https://m.media-amazon.com/images/I/513vW+MQ3hL._SL300_.jpg"
+    thumbnail: "https://m.media-amazon.com/images/I/513vW+MQ3hL._SL100_.jpg"
+  totalLength: 2041
 - index: 7
   title: "Rains of Liscor"
   storeTitle: "Rains of Liscor"
   published: "2022-07-26"
   url: "https://www.audible.com/pd/Rains-of-Liscor-Audiobook/B09XYL9MQJ"
-  imageUrl: "https://m.media-amazon.com/images/I/51A4E1uw9RL._SL500_.jpg"
-  totalLength:
-    hours: 33
-    minutes: 52
+  imageUrls:
+    original: "https://m.media-amazon.com/images/I/51A4E1uw9RL.jpg"
+    medium: "https://m.media-amazon.com/images/I/51A4E1uw9RL._SL400_.jpg"
+    small: "https://m.media-amazon.com/images/I/51A4E1uw9RL._SL300_.jpg"
+    thumbnail: "https://m.media-amazon.com/images/I/51A4E1uw9RL._SL100_.jpg"
+  totalLength: 2032
 - index: 8
   title: "Blood of Liscor"
   storeTitle: "Blood of Liscor"
   published: "2022-11-22"
   url: "https://www.audible.com/pd/Blood-of-Liscor-Audiobook/B0BDP2WRX7"
-  imageUrl: "https://m.media-amazon.com/images/I/51V-Y4FVD9L._SL500_.jpg"
-  totalLength:
-    hours: null
-    minutes: null
+  imageUrls:
+    original: "https://m.media-amazon.com/images/I/51V-Y4FVD9L.jpg"
+    medium: "https://m.media-amazon.com/images/I/51V-Y4FVD9L._SL400_.jpg"
+    small: "https://m.media-amazon.com/images/I/51V-Y4FVD9L._SL300_.jpg"
+    thumbnail: "https://m.media-amazon.com/images/I/51V-Y4FVD9L._SL100_.jpg"
+  totalLength: null
