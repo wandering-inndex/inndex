@@ -1,5 +1,4 @@
 import { useCallback, useState } from "preact/hooks";
-import { JSX } from "preact";
 
 import { AudioBook, Chapter, ElectronicBook } from "@apps/seed/models/media.ts";
 import {
@@ -13,44 +12,7 @@ import {
 } from "@apps/table-of-contents/utils.ts";
 import TableRows from "@apps/table-of-contents/components/TableRows.tsx";
 
-function HeaderSorter({
-  sortOrder,
-  columnKey,
-  selectedColumn,
-  onClick,
-  isDark,
-  label = "",
-}: {
-  columnKey: TableColumnKey;
-  sortKey: TableColumnKey;
-  sortOrder: SortOrder;
-  selectedColumn: TableColumnKey;
-  label: string;
-  isDark: boolean;
-  onClick: JSX.MouseEventHandler<HTMLSpanElement>;
-}) {
-  const selected = selectedColumn === columnKey;
-
-  return (
-    <div
-      class="flex justify-between gap-2 group cursor-pointer"
-      onClick={onClick}
-    >
-      {label}{" "}
-      <div
-        class={`transition invisible group-hover:visible ${
-          isDark
-            ? "text-gray-50 group-hover:text-gray-100"
-            : "text-gray-500 group-hover:text-gray-900"
-        } ${selected && sortOrder === "desc" ? "rotate-180" : ""} ${
-          selected && "visible"
-        }`}
-      >
-        ▲
-      </div>
-    </div>
-  );
-}
+import TableOfContentHeaderSorter from "./TableOfContentHeaderSorter.tsx";
 
 interface Props {
   chapters: Chapter[];
@@ -201,7 +163,7 @@ export default function TableOfContents(
                     class={item.classNames}
                     colSpan={item.colSpan}
                   >
-                    <HeaderSorter
+                    <TableOfContentHeaderSorter
                       label={item.label}
                       columnKey={item.columnKey}
                       onClick={() =>
