@@ -1,3 +1,5 @@
+import { JSX } from "preact";
+
 /**
  * The flattened chapter data to be used in the Table of Contents.
  *
@@ -22,7 +24,17 @@ export interface TableRowData {
 }
 
 /** The possible keys to use. */
-export type SortKeys = keyof TableRowData;
+export type TableColumnKey = keyof TableRowData;
 
 /** The possible sort order. */
 export type SortOrder = "asc" | "desc";
+
+/** The individual header data for the table. */
+export interface TableHeaderData {
+  columnKey: TableColumnKey;
+  sortKey: TableColumnKey;
+  label: string;
+  classNames: string;
+  colSpan?: number;
+  isDark?: boolean;
+}

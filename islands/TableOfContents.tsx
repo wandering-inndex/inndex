@@ -2,8 +2,11 @@ import { useCallback, useState } from "preact/hooks";
 import { JSX } from "preact";
 
 import { AudioBook, Chapter, ElectronicBook } from "@apps/seed/models/media.ts";
-
-import { SortKeys, SortOrder } from "@apps/table-of-contents/models.ts";
+import {
+  SortOrder,
+  TableColumnKey,
+  TableHeaderData,
+} from "@apps/table-of-contents/models.ts";
 import {
   convertToTableRowData,
   sortData,
@@ -13,17 +16,20 @@ import TableRows from "@apps/table-of-contents/components/TableRows.tsx";
 function HeaderSorter({
   sortOrder,
   columnKey,
-  sortKey,
+  selectedColumn,
   onClick,
+  isDark,
   label = "",
 }: {
+  columnKey: TableColumnKey;
+  sortKey: TableColumnKey;
   sortOrder: SortOrder;
-  columnKey: SortKeys;
-  sortKey: SortKeys;
+  selectedColumn: TableColumnKey;
   label: string;
+  isDark: boolean;
   onClick: JSX.MouseEventHandler<HTMLSpanElement>;
 }) {
-  const selected = sortKey === columnKey;
+  const selected = selectedColumn === columnKey;
 
   return (
     <div
@@ -32,9 +38,13 @@ function HeaderSorter({
     >
       {label}{" "}
       <div
-        class={`transition invisible text-gray-500 group-hover:visible group-hover:text-gray-900 ${
-          selected && sortOrder === "desc" ? "rotate-180" : ""
-        } ${selected && "visible"}`}
+        class={`transition invisible group-hover:visible ${
+          isDark
+            ? "text-gray-50 group-hover:text-gray-100"
+            : "text-gray-500 group-hover:text-gray-900"
+        } ${selected && sortOrder === "desc" ? "rotate-180" : ""} ${
+          selected && "visible"
+        }`}
       >
         ▲
       </div>
@@ -57,7 +67,10 @@ export default function TableOfContents(
   eBooks.forEach((item) => eBookMap.set(item.index, item));
   audioBooks.forEach((item) => audioBookMap.set(item.index, item));
 
-  const [sortKey, setSortKey] = useState<SortKeys>("webNovelOrder");
+  const [selectedColumn, setSelectedColumn] = useState<TableColumnKey>(
+    "webNovelOrder",
+  );
+  const [sortKey, setSortKey] = useState<TableColumnKey>("webNovelOrder");
   const [sortOrder, setSortOrder] = useState<SortOrder>("asc");
 
   const data = chapters.map((chapter) => convertToTableRowData(chapter));
@@ -67,83 +80,99 @@ export default function TableOfContents(
     [data, sortKey, sortOrder],
   );
 
-  const changeSort = (key: SortKeys) => {
+  const handleClickSorter = (
+    columnKey: TableColumnKey,
+    sortKey: TableColumnKey,
+  ) => {
+    setSelectedColumn(columnKey);
     setSortOrder(sortOrder === "asc" ? "desc" : "asc");
-    setSortKey(key);
+    setSortKey(sortKey);
   };
 
-  const headers: {
-    key: SortKeys;
-    label: string;
-    classNames: string;
-    colSpan?: number;
-  }[] = [
+  const headers: TableHeaderData[] = [
     // START: Web Novel
     {
-      key: "webNovelOrder",
+      columnKey: "webNovelOrder",
+      sortKey: "webNovelOrder",
       label: "#",
-      classNames: "px-2 bg-green-100",
+      classNames: "px-2 bg-[#2b2b2b] text-[#eeeeee]",
+      isDark: true,
     },
     {
-      key: "webNovelRef",
+      columnKey: "webNovelRef",
+      sortKey: "webNovelOrder",
       label: "Volume",
-      classNames: "px-2 bg-green-100",
+      classNames: "px-2 bg-[#2b2b2b] text-[#eeeeee]",
+      isDark: true,
     },
     {
-      key: "webNovelTitle",
+      columnKey: "webNovelTitle",
+      sortKey: "webNovelTitle",
       label: "Chapter",
-      classNames: "px-2 bg-green-100 text-left",
+      classNames: "px-2 bg-[#2b2b2b] text-[#eeeeee] text-left",
+      isDark: true,
     },
     {
-      key: "webNovelPublished",
+      columnKey: "webNovelPublished",
+      sortKey: "webNovelPublished",
       label: "Published",
-      classNames: "px-2 bg-green-100 text-center",
+      classNames: "px-2 bg-[#2b2b2b] text-[#eeeeee] text-center",
+      isDark: true,
     },
     {
-      key: "webNovelTotalWords",
+      columnKey: "webNovelTotalWords",
+      sortKey: "webNovelTotalWords",
       label: "Word Count",
-      classNames: "px-2 bg-green-100",
+      classNames: "px-2 bg-[#2b2b2b] text-[#eeeeee]",
+      isDark: true,
     },
     // END: Web Novel
     // START: Audiobooks
     {
-      key: "audioBookOrder",
+      columnKey: "audioBookOrder",
+      sortKey: "audioBookOrder",
       label: "#",
-      classNames: "px-2 bg-purple-100 border-l",
+      classNames: "px-2 bg-[#febd69]",
     },
     {
-      key: "audioBookRef",
+      columnKey: "audioBookRef",
+      sortKey: "audioBookOrder",
       label: "Book",
       colSpan: 2,
-      classNames: "px-2 bg-purple-100",
+      classNames: "px-2 bg-[#febd69]",
     },
     {
-      key: "audioBookTitle",
+      columnKey: "audioBookTitle",
+      sortKey: "audioBookTitle",
       label: "Chapter",
-      classNames: "px-2 bg-purple-100 text-left",
+      classNames: "px-2 bg-[#febd69] text-left",
     },
     {
-      key: "audioBookTotalSeconds",
+      columnKey: "audioBookTotalSeconds",
+      sortKey: "audioBookTotalSeconds",
       label: "Length",
-      classNames: "px-2 bg-purple-100",
+      classNames: "px-2 bg-[#febd69]",
     },
     // END: Audiobooks
     // START: E-books
     {
-      key: "eBookOrder",
+      columnKey: "eBookOrder",
+      sortKey: "eBookOrder",
       label: "#",
-      classNames: "px-2 bg-blue-100 border-l",
+      classNames: "px-2 bg-[#a7f2ff] text-black",
     },
     {
-      key: "eBookRef",
+      columnKey: "eBookRef",
+      sortKey: "eBookOrder",
       label: "Book",
-      classNames: "px-2 bg-blue-100",
+      classNames: "px-2 bg-[#a7f2ff] text-black",
       colSpan: 2,
     },
     {
-      key: "eBookTitle",
+      columnKey: "eBookTitle",
+      sortKey: "eBookTitle",
       label: "Chapter",
-      classNames: "px-2 bg-blue-100 text-left",
+      classNames: "px-2 bg-[#a7f2ff] text-black text-left",
     },
     // END: E-books
   ];
@@ -154,9 +183,15 @@ export default function TableOfContents(
         <table class="table min-w-max w-full relative">
           <thead class="font-medium sticky top-0">
             <tr>
-              <th colSpan={5} class="py-2 bg-green-200">Web Novel</th>
-              <th colSpan={5} class="py-2 bg-purple-200">Audiobook</th>
-              <th colSpan={4} class="py-2 bg-blue-200">E-book</th>
+              <th colSpan={5} class="py-2 bg-[#0a0a0a] text-[#eeeeee]">
+                Web Novel
+              </th>
+              <th colSpan={5} class="py-2 bg-[#f7991c] text-black">
+                Audiobook
+              </th>
+              <th colSpan={4} class="py-2 bg-[#3686b2] text-white">
+                E-book
+              </th>
             </tr>
             <tr>
               {headers.map((item) => {
@@ -168,11 +203,14 @@ export default function TableOfContents(
                   >
                     <HeaderSorter
                       label={item.label}
-                      columnKey={item.key}
-                      onClick={() => changeSort(item.key)}
+                      columnKey={item.columnKey}
+                      onClick={() =>
+                        handleClickSorter(item.columnKey, item.sortKey)}
+                      isDark={item.isDark ?? false}
                       {...{
                         sortOrder,
                         sortKey,
+                        selectedColumn,
                       }}
                     />
                   </th>
