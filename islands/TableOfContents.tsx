@@ -6,17 +6,15 @@ import {
   ElectronicBook,
   WebVolume,
 } from "@seed/types/media.ts";
-import {
-  SortOrder,
-  TableColumnKey,
-  TableHeaderData,
-} from "@apps/table-of-contents/models.ts";
+import { SortOrder, TableColumnKey } from "@apps/table-of-contents/models.ts";
+import { headers } from "@apps/table-of-contents/constants.ts";
 import {
   convertToTableRowData,
   sortData,
 } from "@apps/table-of-contents/utils.ts";
 import TableRows from "@apps/table-of-contents/components/TableRows.tsx";
 
+import TableOptions from "./TableOptions.tsx";
 import TableHeaderSorter from "./TableHeaderSorter.tsx";
 
 interface Props {
@@ -27,7 +25,7 @@ interface Props {
 }
 
 export default function TableOfContents(
-  { chapters, eBooks, audioBooks }: Props,
+  { chapters, eBooks, audioBooks, webVolumes }: Props,
 ) {
   const eBookMap = new Map<number, ElectronicBook>();
   const audioBookMap = new Map<number, AudioBook>();
@@ -57,98 +55,10 @@ export default function TableOfContents(
     setSortKey(sortKey);
   };
 
-  const headers: TableHeaderData[] = [
-    // START: Web Novel
-    {
-      columnKey: "webNovelOrder",
-      sortKey: "webNovelOrder",
-      label: "#",
-      classNames: "px-2 bg-[#2b2b2b] text-[#eeeeee]",
-      isDark: true,
-    },
-    {
-      columnKey: "webNovelRef",
-      sortKey: "webNovelOrder",
-      label: "Volume",
-      classNames: "px-2 bg-[#2b2b2b] text-[#eeeeee]",
-      isDark: true,
-    },
-    {
-      columnKey: "webNovelTitle",
-      sortKey: "webNovelTitle",
-      label: "Chapter",
-      classNames: "px-2 bg-[#2b2b2b] text-[#eeeeee] text-left",
-      isDark: true,
-    },
-    {
-      columnKey: "webNovelPublished",
-      sortKey: "webNovelPublished",
-      label: "Published",
-      classNames: "px-2 bg-[#2b2b2b] text-[#eeeeee] text-center",
-      isDark: true,
-    },
-    {
-      columnKey: "webNovelTotalWords",
-      sortKey: "webNovelTotalWords",
-      label: "Word Count",
-      classNames: "px-2 bg-[#2b2b2b] text-[#eeeeee]",
-      isDark: true,
-    },
-    // END: Web Novel
-    // START: Audiobooks
-    {
-      columnKey: "audioBookOrder",
-      sortKey: "audioBookOrder",
-      label: "#",
-      classNames: "px-2 bg-[#febd69]",
-    },
-    {
-      columnKey: "audioBookRef",
-      sortKey: "audioBookOrder",
-      label: "Book",
-      colSpan: 2,
-      classNames: "px-2 bg-[#febd69]",
-    },
-    {
-      columnKey: "audioBookTitle",
-      sortKey: "audioBookTitle",
-      label: "Chapter",
-      classNames: "px-2 bg-[#febd69] text-left",
-    },
-    {
-      columnKey: "audioBookTotalSeconds",
-      sortKey: "audioBookTotalSeconds",
-      label: "Length",
-      classNames: "px-2 bg-[#febd69]",
-    },
-    // END: Audiobooks
-    // START: E-books
-    {
-      columnKey: "eBookOrder",
-      sortKey: "eBookOrder",
-      label: "#",
-      classNames: "px-2 bg-[#a7f2ff] text-black",
-    },
-    {
-      columnKey: "eBookRef",
-      sortKey: "eBookOrder",
-      label: "Book",
-      classNames: "px-2 bg-[#a7f2ff] text-black",
-      colSpan: 2,
-    },
-    {
-      columnKey: "eBookTitle",
-      sortKey: "eBookTitle",
-      label: "Chapter",
-      classNames: "px-2 bg-[#a7f2ff] text-black text-left",
-    },
-    // END: E-books
-  ];
-
   return (
     <>
       <div class="mb-3">
-        {/* <TableOptions /> */}
+        <TableOptions {...{ chapters, webVolumes, eBooks, audioBooks }} />
       </div>
       <div class="overflow-auto max-h-[60vh] sm:max-h-[70vh] rounded-md border">
         <table class="table min-w-max w-full relative">

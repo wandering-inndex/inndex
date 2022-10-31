@@ -49,3 +49,43 @@ export const DEFAULT_FROM_MEDIA_TYPE: MediaTypes = MediaTypes.AUDIOBOOK;
 
 /** The default "to" media type to use. */
 export const DEFAULT_TO_MEDIA_TYPE: MediaTypes = MediaTypes.WEBNOVEL;
+
+/** The values when the specific media type is selected in the "from" field. */
+export enum FromMediaTypeValues {
+  WEBNOVEL = "reading the web novel",
+  EBOOK = "reading the e-book",
+  AUDIOBOOK = "listening to the audiobook",
+}
+
+/** The default "from" media type value to use. */
+export const DEFAULT_FROM_MEDIA_TYPE_VALUES: FromMediaTypeValues =
+  FromMediaTypeValues.AUDIOBOOK;
+
+/** The values when the specific media type is selected in the "to" field. */
+export enum ToMediaTypeValues {
+  WEBNOVEL = "on the web",
+  EBOOK = "via the e-books",
+  AUDIOBOOK = "via the audiobooks",
+}
+
+/** The default "to" media type value to use. */
+export const DEFAULT_TO_MEDIA_TYPE_VALUES: ToMediaTypeValues =
+  ToMediaTypeValues.WEBNOVEL;
+
+/** A single choice for the dropdown. */
+export interface Choice {
+  key: string;
+  text: string;
+  classNames: string[];
+  order?: number;
+  onClick: () => void;
+}
+
+/** All dropdown selections. */
+export enum DropdownSelections {
+  FROM = "from",
+  TO = "to",
+  REF = "ref",
+  INDEX = "index",
+  EMPTY = "",
+}

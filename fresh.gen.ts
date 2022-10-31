@@ -12,6 +12,7 @@ import * as $5 from "./routes/toc.tsx";
 import * as $$0 from "./islands/DropdownSelector.tsx";
 import * as $$1 from "./islands/TableHeaderSorter.tsx";
 import * as $$2 from "./islands/TableOfContents.tsx";
+import * as $$3 from "./islands/TableOptions.tsx";
 
 const manifest = {
   routes: {
@@ -26,6 +27,7 @@ const manifest = {
     "./islands/DropdownSelector.tsx": $$0,
     "./islands/TableHeaderSorter.tsx": $$1,
     "./islands/TableOfContents.tsx": $$2,
+    "./islands/TableOptions.tsx": $$3,
   },
   baseUrl: import.meta.url,
   config,
