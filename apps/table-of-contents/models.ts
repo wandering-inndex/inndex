@@ -1,5 +1,3 @@
-import { JSX } from "preact";
-
 /**
  * The flattened chapter data to be used in the Table of Contents.
  *
@@ -7,17 +5,17 @@ import { JSX } from "preact";
  */
 export interface TableRowData {
   id: string;
-  webNovelOrder: number | null;
   webNovelRef: number | null;
+  webNovelOrder: number | null;
   webNovelTitle: string | null;
   webNovelPublished: string;
   webNovelUrl: string;
   webNovelTotalWords: number | null;
-  eBookOrder: number | null;
   eBookRef: number | null;
+  eBookOrder: number | null;
   eBookTitle: string | null;
-  audioBookOrder: number | null;
   audioBookRef: number | null;
+  audioBookOrder: number | null;
   audioBookTitle: string | null;
   audioBookTotalSeconds: number | null;
   wikiUrl: string | null;
@@ -38,3 +36,16 @@ export interface TableHeaderData {
   colSpan?: number;
   isDark?: boolean;
 }
+
+/** The different media values to choose from. */
+export enum MediaTypes {
+  WEBNOVEL = "WEBNOVEL",
+  EBOOK = "EBOOK",
+  AUDIOBOOK = "AUDIOBOOK",
+}
+
+/** The default "from" media type to use. */
+export const DEFAULT_FROM_MEDIA_TYPE: MediaTypes = MediaTypes.AUDIOBOOK;
+
+/** The default "to" media type to use. */
+export const DEFAULT_TO_MEDIA_TYPE: MediaTypes = MediaTypes.WEBNOVEL;

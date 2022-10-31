@@ -1,6 +1,6 @@
-import { Chapter } from "@apps/seed/models/media.ts";
+import { Chapter } from "@seed/types/media.ts";
 
-import { SortKeys, TableRowData } from "./models.ts";
+import { TableColumnKey, TableRowData } from "./models.ts";
 
 /** Flattens the `Chapter` values to conform to `TableRowData`. */
 export const convertToTableRowData = (chapter: Chapter): TableRowData => {
@@ -30,7 +30,7 @@ export const sortData = ({
   reverse,
 }: {
   data: TableRowData[];
-  sortKey: SortKeys;
+  sortKey: TableColumnKey;
   reverse: boolean;
 }): TableRowData[] => {
   if (!sortKey) return data;

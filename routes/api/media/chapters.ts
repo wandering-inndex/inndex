@@ -1,13 +1,9 @@
 import { Handler } from "$fresh/server.ts";
+import Surreal from "surrealdb/mod.ts";
 
-import { extractSeededData } from "@apps/seed/utils/extractSeededData.ts";
-import { Chapter } from "@apps/seed/models/media.ts";
-import { SeedDataChoices } from "@apps/seed/constants.ts";
+import { Chapter } from "@seed/types/media.ts";
 
 export const handler: Handler = async (): Promise<Response> => {
-  const data = await extractSeededData<Chapter[]>(
-    SeedDataChoices.CHAPTERS,
-  );
-
+  const data = await Surreal.Instance.select<Chapter>("chapter");
   return Response.json(data);
 };

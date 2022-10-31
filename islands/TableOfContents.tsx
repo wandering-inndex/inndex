@@ -1,6 +1,11 @@
 import { useCallback, useState } from "preact/hooks";
 
-import { AudioBook, Chapter, ElectronicBook } from "@apps/seed/models/media.ts";
+import {
+  AudioBook,
+  Chapter,
+  ElectronicBook,
+  WebVolume,
+} from "@seed/types/media.ts";
 import {
   SortOrder,
   TableColumnKey,
@@ -12,10 +17,11 @@ import {
 } from "@apps/table-of-contents/utils.ts";
 import TableRows from "@apps/table-of-contents/components/TableRows.tsx";
 
-import TableOfContentHeaderSorter from "./TableOfContentHeaderSorter.tsx";
+import TableHeaderSorter from "./TableHeaderSorter.tsx";
 
 interface Props {
   chapters: Chapter[];
+  webVolumes: WebVolume[];
   eBooks: ElectronicBook[];
   audioBooks: AudioBook[];
 }
@@ -141,18 +147,39 @@ export default function TableOfContents(
 
   return (
     <>
-      <div class="overflow-auto max-h-[60vh] sm:max-h-[80vh] rounded-md border">
+      <div class="mb-3">
+        {/* <TableOptions /> */}
+      </div>
+      <div class="overflow-auto max-h-[60vh] sm:max-h-[70vh] rounded-md border">
         <table class="table min-w-max w-full relative">
           <thead class="font-medium sticky top-0">
             <tr>
               <th colSpan={5} class="py-2 bg-[#0a0a0a] text-[#eeeeee]">
-                Web Novel
+                <a
+                  href="https://wanderinginn.com/table-of-contents/"
+                  target="_blank"
+                  title="Check out all the chapters from the official website"
+                >
+                  Web Novel
+                </a>
               </th>
               <th colSpan={5} class="py-2 bg-[#f7991c] text-black">
-                Audiobook
+                <a
+                  href="https://www.audible.com/series/The-Wandering-Inn-Audiobooks/B07X3TZ2YQ"
+                  target="_blank"
+                  title="Check out all the Audiobooks from the store"
+                >
+                  Audiobook
+                </a>
               </th>
               <th colSpan={4} class="py-2 bg-[#3686b2] text-white">
-                E-book
+                <a
+                  href="https://www.amazon.com/dp/B099JFQ9YR"
+                  target="_blank"
+                  title="Check out all the E-books from the store"
+                >
+                  E-book
+                </a>
               </th>
             </tr>
             <tr>
@@ -163,7 +190,7 @@ export default function TableOfContents(
                     class={item.classNames}
                     colSpan={item.colSpan}
                   >
-                    <TableOfContentHeaderSorter
+                    <TableHeaderSorter
                       label={item.label}
                       columnKey={item.columnKey}
                       onClick={() =>

@@ -4,15 +4,13 @@ import {
   formatSeconds,
   formatWordCount,
 } from "@apps/table-of-contents/utils.ts";
-import {
-  AudioBook,
-  ElectronicBook,
-  ImageUrls,
-} from "@apps/seed/models/media.ts";
+import { AudioBook, ElectronicBook, ImageUrls } from "@seed/types/media.ts";
+import { timeAgo } from "../../../utils/dateUtils.ts";
 
 const getRowImage = (
-  { url, imageUrls, title }: {
-    url: string;
+  { storeTitle, storeUrl, imageUrls, title }: {
+    storeTitle: string;
+    storeUrl: string;
     imageUrls: ImageUrls;
     title: string;
   },
@@ -20,8 +18,9 @@ const getRowImage = (
   return (
     <>
       <a
-        href={url}
-        title={title}
+        href={storeUrl}
+        title={storeTitle}
+        target="_blank"
       >
         <img
           class="h-10"
@@ -34,9 +33,10 @@ const getRowImage = (
 };
 
 const getBookTitle = (
-  { index, url, title }: {
+  { storeTitle, index, storeUrl, title }: {
+    storeTitle: string;
     index: number;
-    url: string;
+    storeUrl: string;
     title: string;
   },
 ) => {
@@ -44,8 +44,9 @@ const getBookTitle = (
   return (
     <>
       <a
-        href={url}
-        title={formattedTitle}
+        href={storeUrl}
+        title={storeTitle}
+        target="_blank"
       >
         {formattedTitle}
       </a>
@@ -87,12 +88,16 @@ export default function TableRows({ rows, audioBookMap, eBookMap }: Props) {
                 <a
                   href={row.webNovelUrl}
                   title={row.webNovelTitle || ""}
+                  target="_blank"
                   class="font-semibold text-[#1583af] hover:underline"
                 >
                   {row.webNovelTitle}
                 </a>
               </td>
-              <td class="px-2 text-center">
+              <td
+                class="px-2 text-center"
+                title={timeAgo(row.webNovelPublished)}
+              >
                 {formatDate(row.webNovelPublished)}
               </td>
               <td class="px-2 text-center">

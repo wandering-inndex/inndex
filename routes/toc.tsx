@@ -26,7 +26,7 @@ export default function Page({ data }: PageProps<AllMedia | null>) {
     data = DEFAULT_ALL_MEDIA;
   }
 
-  const { chapters, eBooks, audioBooks } = data;
+  const { chapters, eBooks, audioBooks, webVolumes } = data;
 
   return (
     <>
@@ -46,7 +46,7 @@ export default function Page({ data }: PageProps<AllMedia | null>) {
 
         <div>
           <TableOfContents
-            {...{ chapters, eBooks, audioBooks }}
+            {...{ chapters, webVolumes, eBooks, audioBooks }}
           />
         </div>
 
