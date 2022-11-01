@@ -1,3 +1,5 @@
+import { JSX } from "preact";
+
 /**
  * The flattened chapter data to be used in the Table of Contents.
  *
@@ -78,7 +80,7 @@ export interface Choice {
   text: string;
   classNames: string[];
   order?: number;
-  onClick: () => void;
+  handleClick: () => void;
 }
 
 /** All dropdown selections. */
@@ -88,4 +90,12 @@ export enum DropdownSelections {
   REF = "ref",
   INDEX = "index",
   EMPTY = "",
+}
+
+/** A single message in the chat. */
+export interface Message {
+  alt: string;
+  image: string;
+  location: "left" | "right";
+  message: JSX.Element;
 }

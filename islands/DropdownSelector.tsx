@@ -4,17 +4,17 @@ interface Props {
   key: DropdownSelections;
   text: string;
   open: boolean;
-  onOpen: () => void;
-  onClose: () => void;
+  handleOpen: () => void;
+  handleClose: () => void;
   choices: Choice[];
 }
 
 export default function DropdownSelector(
-  { key, text, choices, open, onOpen, onClose }: Props,
+  { key, text, choices, open, handleOpen, handleClose }: Props,
 ) {
   const selectChoice = (handler: () => void): void => {
     handler();
-    onClose();
+    handleClose();
   };
 
   return (
@@ -22,15 +22,15 @@ export default function DropdownSelector(
       <div key={key} class="inline-block">
         <button
           class="outline-none focus:outline-none border p-1 bg-white rounded-sm flex items-center"
-          onClick={onOpen}
+          onClick={() => open ? handleClose() : handleOpen()}
         >
           <span class="px-1 flex-1 text-left">
             {text}
           </span>
         </button>
         <ul
-          class={`bg-white border rounded-sm transform scale-0 absolute transition duration-150 ease-in-out origin-top z-20 max-h-[50vh] overflow-y-auto ${
-            open ? "scale-100" : null
+          class={`bg-white border rounded-sm transform absolute transition duration-150 ease-in-out origin-top z-20 max-h-[300px] overflow-y-auto ${
+            open ? "scale-100" : "scale-0"
           }`}
           role="menu"
           aria-orientation="vertical"
@@ -40,7 +40,7 @@ export default function DropdownSelector(
               <li
                 key={choice.key}
                 class="rounded-sm px-3 py-1 hover:bg-gray-100 cursor-pointer"
-                onClick={() => selectChoice(choice.onClick)}
+                onClick={() => selectChoice(choice.handleClick)}
               >
                 {choice.text}
               </li>

@@ -14,7 +14,7 @@ import {
 } from "@apps/table-of-contents/utils.ts";
 import TableRows from "@apps/table-of-contents/components/TableRows.tsx";
 
-import TableOptions from "./TableOptions.tsx";
+import ChatHelper from "./ChatHelper.tsx";
 import TableHeaderSorter from "./TableHeaderSorter.tsx";
 
 interface Props {
@@ -58,7 +58,7 @@ export default function TableOfContents(
   return (
     <>
       <div class="mb-3">
-        <TableOptions {...{ chapters, webVolumes, eBooks, audioBooks }} />
+        <ChatHelper {...{ chapters, webVolumes, eBooks, audioBooks }} />
       </div>
       <div class="overflow-auto max-h-[60vh] sm:max-h-[70vh] rounded-md border">
         <table class="table min-w-max w-full relative">

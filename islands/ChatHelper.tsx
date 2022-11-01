@@ -15,10 +15,13 @@ import {
   DropdownSelections,
   FromMediaTypeValues,
   MediaTypes,
+  Message,
   ToMediaTypeValues,
 } from "@apps/table-of-contents/models.ts";
+import ChatMessageList from "@apps/table-of-contents/components/ChatMessageList.tsx";
 
 import DropdownSelector from "./DropdownSelector.tsx";
+import ChatContainer from "./ChatContainer.tsx";
 
 const sortChapterChoice = (a: Choice, b: Choice): number => {
   const val1 = a.order ?? 0;
@@ -37,7 +40,7 @@ interface Props {
   eBooks: ElectronicBook[];
 }
 
-export default function TableOptions(
+export default function ChatHelper(
   { chapters, webVolumes, audioBooks, eBooks }: Props,
 ) {
   const webVolumeChoices: Choice[] = [];
@@ -49,7 +52,7 @@ export default function TableOptions(
     order: 0,
     text: "(everything)",
     classNames: [],
-    onClick: () => {
+    handleClick: () => {
       setCollectionIndex(0);
     },
   };
@@ -65,7 +68,7 @@ export default function TableOptions(
       key: item.id,
       text: item.title,
       classNames: [],
-      onClick: () => {
+      handleClick: () => {
         setCollectionRef(item.index);
         setCollectionIndex(0);
       },
@@ -77,7 +80,7 @@ export default function TableOptions(
       key: item.id,
       text: item.title,
       classNames: [],
-      onClick: () => {
+      handleClick: () => {
         setCollectionRef(item.index);
         setCollectionIndex(0);
       },
@@ -89,7 +92,7 @@ export default function TableOptions(
       key: item.id,
       text: item.title,
       classNames: [],
-      onClick: () => {
+      handleClick: () => {
         setCollectionRef(item.index);
         setCollectionIndex(0);
       },
@@ -106,7 +109,7 @@ export default function TableOptions(
         classNames: [],
         order: chapter.partOf.webNovel.order ?? 0,
         text: chapter.partOf.webNovel.title ?? "",
-        onClick: () => {
+        handleClick: () => {
           setCollectionIndex(chapter.partOf.webNovel.order ?? 0);
         },
       };
@@ -121,7 +124,7 @@ export default function TableOptions(
         classNames: [],
         order: chapter.partOf.audioBook.order ?? 0,
         text: chapter.partOf.audioBook.title ?? "",
-        onClick: () => {
+        handleClick: () => {
           setCollectionIndex(chapter.partOf.audioBook.order ?? 0);
         },
       };
@@ -136,7 +139,7 @@ export default function TableOptions(
         classNames: [],
         order: chapter.partOf.eBook.order ?? 0,
         text: chapter.partOf.eBook.title ?? "",
-        onClick: () => {
+        handleClick: () => {
           setCollectionIndex(chapter.partOf.eBook.order ?? 0);
         },
       };
@@ -237,7 +240,7 @@ export default function TableOptions(
       key: MediaTypes.WEBNOVEL,
       text: FromMediaTypeValues.WEBNOVEL,
       classNames: [],
-      onClick: () => {
+      handleClick: () => {
         setFromMediaType(MediaTypes.WEBNOVEL);
         setFromMediaTypeValue(FromMediaTypeValues.WEBNOVEL);
         setCollectionRef(1);
@@ -248,7 +251,7 @@ export default function TableOptions(
       key: MediaTypes.EBOOK,
       text: FromMediaTypeValues.EBOOK,
       classNames: [],
-      onClick: () => {
+      handleClick: () => {
         setFromMediaType(MediaTypes.EBOOK);
         setFromMediaTypeValue(FromMediaTypeValues.EBOOK);
         setCollectionRef(1);
@@ -259,7 +262,7 @@ export default function TableOptions(
       key: MediaTypes.AUDIOBOOK,
       text: FromMediaTypeValues.AUDIOBOOK,
       classNames: [],
-      onClick: () => {
+      handleClick: () => {
         setFromMediaType(MediaTypes.AUDIOBOOK);
         setFromMediaTypeValue(FromMediaTypeValues.AUDIOBOOK);
         setCollectionRef(1);
@@ -272,7 +275,7 @@ export default function TableOptions(
       key: MediaTypes.WEBNOVEL,
       text: ToMediaTypeValues.WEBNOVEL,
       classNames: [],
-      onClick: () => {
+      handleClick: () => {
         setToMediaType(MediaTypes.WEBNOVEL);
         setToMediaTypeValue(ToMediaTypeValues.WEBNOVEL);
       },
@@ -281,7 +284,7 @@ export default function TableOptions(
       key: MediaTypes.EBOOK,
       text: ToMediaTypeValues.EBOOK,
       classNames: [],
-      onClick: () => {
+      handleClick: () => {
         setToMediaType(MediaTypes.EBOOK);
         setToMediaTypeValue(ToMediaTypeValues.EBOOK);
       },
@@ -290,7 +293,7 @@ export default function TableOptions(
       key: MediaTypes.AUDIOBOOK,
       text: ToMediaTypeValues.AUDIOBOOK,
       classNames: [],
-      onClick: () => {
+      handleClick: () => {
         setToMediaType(MediaTypes.AUDIOBOOK);
         setToMediaTypeValue(ToMediaTypeValues.AUDIOBOOK);
       },
@@ -308,8 +311,8 @@ export default function TableOptions(
       key={DropdownSelections.FROM}
       text={fromMediaTypeValue}
       choices={possibleFromMediaTypeChoices}
-      onOpen={() => setOpenMenuKey(DropdownSelections.FROM)}
-      onClose={() => setOpenMenuKey(DropdownSelections.EMPTY)}
+      handleOpen={() => setOpenMenuKey(DropdownSelections.FROM)}
+      handleClose={() => setOpenMenuKey(DropdownSelections.EMPTY)}
       open={openMenuKey === DropdownSelections.FROM}
     />
   );
@@ -318,8 +321,8 @@ export default function TableOptions(
       key={DropdownSelections.REF}
       text={collectionRefValue()}
       choices={collectionRefChoices()}
-      onOpen={() => setOpenMenuKey(DropdownSelections.REF)}
-      onClose={() => setOpenMenuKey(DropdownSelections.EMPTY)}
+      handleOpen={() => setOpenMenuKey(DropdownSelections.REF)}
+      handleClose={() => setOpenMenuKey(DropdownSelections.EMPTY)}
       open={openMenuKey === DropdownSelections.REF}
     />
   );
@@ -328,8 +331,8 @@ export default function TableOptions(
       key={DropdownSelections.INDEX}
       text={collectionIndexValue()}
       choices={collectionIndexChoices()}
-      onOpen={() => setOpenMenuKey(DropdownSelections.INDEX)}
-      onClose={() => setOpenMenuKey(DropdownSelections.EMPTY)}
+      handleOpen={() => setOpenMenuKey(DropdownSelections.INDEX)}
+      handleClose={() => setOpenMenuKey(DropdownSelections.EMPTY)}
       open={openMenuKey === DropdownSelections.INDEX}
     />
   );
@@ -338,39 +341,70 @@ export default function TableOptions(
       key={DropdownSelections.TO}
       text={toMediaTypeValue}
       choices={filteredToMediaTypeChoices}
-      onOpen={() => setOpenMenuKey(DropdownSelections.TO)}
-      onClose={() => setOpenMenuKey(DropdownSelections.EMPTY)}
+      handleOpen={() => setOpenMenuKey(DropdownSelections.TO)}
+      handleClose={() => setOpenMenuKey(DropdownSelections.EMPTY)}
       open={openMenuKey === DropdownSelections.TO}
     />
   );
 
+  const [messages, setMessages] = useState<Message[]>([]);
+  const [chatConnected, setChatConnected] = useState<boolean>(false);
+  const handleDisconnectChat = (): void => {
+    setMessages([]);
+    setChatConnected(false);
+  };
+  const handleSendMessage = (): void => {
+    setMessages([
+      ...messages,
+      {
+        image: "https://picsum.photos/100",
+        alt: "Anonymous User",
+        location: "right",
+        message: (
+          <>
+            Help! I just finished {`${fromMediaTypeValue}`}{" "}
+            <span class="font-semibold">
+              {`${collectionRefValue()}`} {`${collectionIndexValue()}`}
+            </span>, and I want to continue {`${toMediaTypeValue}`}.
+          </>
+        ),
+      },
+    ]);
+    setChatConnected(true);
+  };
+
   return (
     <>
-      <div class="p-2 md:p-3 bg-gray-600 rounded-xl flex flex-col md:flex-row gap-2 md:gap-4">
-        <div class="bg-white rounded-xl flex justify-between align-middle gap-2 flex-grow w-full">
-          <div class="p-3 overflow-hidden">
-            Help! I just finished {chooseFromMediaType} {chooseCollectionNumber}
-            {" "}
-            {chooseChapterNumber}, and I want to continue {chooseToMediaType}.
+      <div class="flex flex-col border-1">
+        <ChatContainer
+          messages={messages}
+          handleClose={handleDisconnectChat}
+        />
+        <div class="p-2 md:p-3 bg-gray-600 flex flex-col md:flex-row gap-2 md:gap-4">
+          <div class="bg-white rounded-xl flex justify-between align-middle gap-2 flex-grow w-full">
+            <div class="p-3 overflow-hidden">
+              Help! I just finished {chooseFromMediaType}{" "}
+              {chooseCollectionNumber}{" "}
+              {chooseChapterNumber}, and I want to continue {chooseToMediaType}.
+            </div>
+          </div>
+          <div class="flex my-auto">
+            <button
+              type="button"
+              class="inline-flex flex-grow items-center justify-center rounded-xl md:rounded-full px-4 py-4 transition duration-500 ease-in-out text-white bg-gray-500 hover:bg-gray-400 focus:outline-none"
+              onClick={handleSendMessage}
+            >
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                viewBox="0 0 24 24"
+                fill="currentColor"
+                className="w-4 h-4 md:w-6 md:h-6"
+              >
+                <path d="M3.478 2.405a.75.75 0 00-.926.94l2.432 7.905H13.5a.75.75 0 010 1.5H4.984l-2.432 7.905a.75.75 0 00.926.94 60.519 60.519 0 0018.445-8.986.75.75 0 000-1.218A60.517 60.517 0 003.478 2.405z" />
+              </svg>
+            </button>
           </div>
         </div>
-        <div class="flex my-auto">
-          <button
-            type="button"
-            class="inline-flex flex-grow items-center justify-center rounded-xl md:rounded-full px-4 py-4 transition duration-500 ease-in-out text-white bg-gray-500 hover:bg-gray-400 focus:outline-none"
-          >
-            <svg
-              xmlns="http://www.w3.org/2000/svg"
-              viewBox="0 0 24 24"
-              fill="currentColor"
-              className="w-4 h-4 md:w-6 md:h-6"
-            >
-              <path d="M3.478 2.405a.75.75 0 00-.926.94l2.432 7.905H13.5a.75.75 0 010 1.5H4.984l-2.432 7.905a.75.75 0 00.926.94 60.519 60.519 0 0018.445-8.986.75.75 0 000-1.218A60.517 60.517 0 003.478 2.405z" />
-            </svg>
-          </button>
-        </div>
-      </div>
-      <div>
       </div>
     </>
   );
