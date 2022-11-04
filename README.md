@@ -3,7 +3,7 @@
 ![Deno Version](https://img.shields.io/badge/deno-v1.26.2-black)
 ![License](https://img.shields.io/badge/license-MIT-blue)
 
-![The Wandering Inndex](./static/android-chrome-320x320.png)
+![The Wandering Inndex](./static/android-chrome-192x192.png)
 
 A fan-made index for [The Wandering Inn](https://wanderinginn.com/), a universe by [pirateaba](https://www.patreon.com/pirateaba).
 
