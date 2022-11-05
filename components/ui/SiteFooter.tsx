@@ -4,7 +4,7 @@ export default function SiteFooter() {
       <footer class="w-full mt-3 text-gray-600 text-center">
         <div>
           <span>
-            A fan-made index for{" "}
+            This is a fan-made index for{" "}
             <a
               href="https://wanderinginn.com"
               class="font-semibold text-[#1583af] hover:underline"
@@ -85,7 +85,14 @@ export default function SiteFooter() {
           </span>
         </div>
         <div>
-          Interact with the community by joining:{" "}
+          Want to interact with fellow{" "}
+          <a
+            href="https://www.reddit.com/r/WanderingInn/comments/hy1r3v/spoiled_readers/"
+            class="font-semibold text-[#1583af] hover:underline"
+            target="_blank"
+          >
+            ducks
+          </a>? Join the community at{"  "}
           <span>
             <a
               href="https://reddit.com/r/WanderingInn"
@@ -94,7 +101,27 @@ export default function SiteFooter() {
             >
               The Wandering Inn Subreddit
             </a>
-          </span>,{" "}
+          </span>
+          {" and "}
+          <span>
+            <a
+              href="https://discord.com/invite/abwsa3y"
+              class="font-semibold text-[#1583af] hover:underline"
+              target="_blank"
+            >
+              Discord Server
+            </a>
+          </span>.
+        </div>
+        <div>
+          You can also listen to the{" "}
+          <a
+            href="https://www.podomatic.com/podcasts/dragonus45"
+            class="font-semibold text-[#1583af] hover:underline"
+            target="_blank"
+          >
+            No Killing Goblins podcast
+          </a>,{" contribute to the "}
           <span>
             <a
               href="https://thewanderinginn.fandom.com/wiki/The_Wandering_Inn_Wiki"
@@ -103,16 +130,16 @@ export default function SiteFooter() {
             >
               Wiki
             </a>
-          </span>,{" and "}
+          </span>,{" and view the "}
           <span>
             <a
-              href="https://discord.com/invite/abwsa3y"
+              href="https://twifanart.shelter.moe/"
               class="font-semibold text-[#1583af] hover:underline"
               target="_blank"
             >
-              Discord Channel
-            </a>
-          </span>.
+              Booru
+            </a>.
+          </span>
         </div>
       </footer>
     </>
