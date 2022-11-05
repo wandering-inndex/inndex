@@ -33,7 +33,7 @@ export default function Page({ data }: PageProps<AllMedia | null>) {
       <DocumentHead />
 
       <Head>
-        <title>{DEFAULT_SITE_NAME} | Table of Contents</title>
+        <title>Table of Contents | {DEFAULT_SITE_NAME}</title>
 
         <meta
           property="description"
