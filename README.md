@@ -8,7 +8,7 @@
 > **IMPORTANT NOTICE**: Copyright for almost all the text in this repository goes to the author, **pirateaba**. Please support the author through their official channels:
 >
 > - https://wanderinginn.com
-> - https://store.wanderinginn.com/
+> - https://store.wanderinginn.com
 > - https://reddit.com/r/WanderingInn
 > - https://patreon.com/pirateaba
 > - https://twitch.tv/pirateaba
