@@ -3,9 +3,17 @@
 ![Deno Version](https://img.shields.io/badge/deno-v1.26.2-black)
 ![License](https://img.shields.io/badge/license-MIT-blue)
 
-![The Wandering Inndex](./static/android-chrome-192x192.png)
+![The Wandering Inndex Logo](./static/banner.png)
 
-A fan-made index for [The Wandering Inn](https://wanderinginn.com/), a universe by [pirateaba](https://www.patreon.com/pirateaba).
+> **IMPORTANT NOTICE**: Copyright for almost all the text in this repository goes to the author, **pirateaba**. Please support the author through their official channels:
+>
+> - https://wanderinginn.com
+> - https://store.wanderinginn.com/
+> - https://reddit.com/r/WanderingInn
+> - https://patreon.com/pirateaba
+> - https://twitch.tv/pirateaba
+> - https://youtube.com/user/pirateaba
+> - https://twitter.com/pirateaba
 
 ## Usage
 
