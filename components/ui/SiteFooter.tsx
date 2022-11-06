@@ -7,7 +7,7 @@ export default function SiteFooter() {
             This is a fan-made index for{" "}
             <a
               href="https://wanderinginn.com"
-              class="font-semibold text-[#1583af] hover:underline"
+              class="font-semibold text-gray-700 hover:underline"
               target="_blank"
             >
               The Wandering Inn
@@ -18,7 +18,7 @@ export default function SiteFooter() {
             author,{" "}
             <a
               href="https://patreon.com/pirateaba"
-              class="font-semibold text-[#1583af] hover:underline"
+              class="font-semibold text-gray-700 hover:underline"
               target="_blank"
             >
               pirateaba
@@ -31,7 +31,7 @@ export default function SiteFooter() {
             <span>
               <a
                 href="https://wanderinginn.com"
-                class="font-semibold text-[#1583af] hover:underline"
+                class="font-semibold text-gray-700 hover:underline"
                 target="_blank"
               >
                 The Wandering Inn Website
@@ -40,7 +40,7 @@ export default function SiteFooter() {
             <span>
               <a
                 href="https://store.wanderinginn.com"
-                class="font-semibold text-[#1583af] hover:underline"
+                class="font-semibold text-gray-700 hover:underline"
                 target="_blank"
               >
                 The Wandering Inn Official Store
@@ -49,7 +49,7 @@ export default function SiteFooter() {
             <span>
               <a
                 href="https://patreon.com/pirateaba"
-                class="font-semibold text-[#1583af] hover:underline"
+                class="font-semibold text-gray-700 hover:underline"
                 target="_blank"
               >
                 Patreon
@@ -61,7 +61,7 @@ export default function SiteFooter() {
           Want to interact with fellow{" "}
           <a
             href="https://www.reddit.com/r/WanderingInn/comments/hy1r3v/spoiled_readers/"
-            class="font-semibold text-[#1583af] hover:underline"
+            class="font-semibold text-gray-700 hover:underline"
             target="_blank"
           >
             ducks
@@ -69,7 +69,7 @@ export default function SiteFooter() {
           <span>
             <a
               href="https://reddit.com/r/WanderingInn"
-              class="font-semibold text-[#1583af] hover:underline"
+              class="font-semibold text-gray-700 hover:underline"
               target="_blank"
             >
               The Wandering Inn Subreddit
@@ -79,7 +79,7 @@ export default function SiteFooter() {
           <span>
             <a
               href="https://discord.com/invite/abwsa3y"
-              class="font-semibold text-[#1583af] hover:underline"
+              class="font-semibold text-gray-700 hover:underline"
               target="_blank"
             >
               Discord Server
@@ -90,7 +90,7 @@ export default function SiteFooter() {
           You can also listen to the{" "}
           <a
             href="https://www.podomatic.com/podcasts/dragonus45"
-            class="font-semibold text-[#1583af] hover:underline"
+            class="font-semibold text-gray-700 hover:underline"
             target="_blank"
           >
             No Killing Goblins podcast
@@ -98,7 +98,7 @@ export default function SiteFooter() {
           <span>
             <a
               href="https://thewanderinginn.fandom.com/wiki/The_Wandering_Inn_Wiki"
-              class="font-semibold text-[#1583af] hover:underline"
+              class="font-semibold text-gray-700 hover:underline"
               target="_blank"
             >
               Wiki
@@ -107,7 +107,7 @@ export default function SiteFooter() {
           <span>
             <a
               href="https://twifanart.shelter.moe/"
-              class="font-semibold text-[#1583af] hover:underline"
+              class="font-semibold text-gray-700 hover:underline"
               target="_blank"
             >
               Booru
