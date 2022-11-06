@@ -43,9 +43,9 @@ export default function SiteFooter() {
                 class="font-semibold text-[#1583af] hover:underline"
                 target="_blank"
               >
-                Store
+                The Wandering Inn Official Store
               </a>
-            </span>,{" "}
+            </span>,{" and the author's "}
             <span>
               <a
                 href="https://patreon.com/pirateaba"
@@ -53,33 +53,6 @@ export default function SiteFooter() {
                 target="_blank"
               >
                 Patreon
-              </a>
-            </span>,{" "}
-            <span>
-              <a
-                href="https://twitch.tv/pirateaba"
-                class="font-semibold text-[#1583af] hover:underline"
-                target="_blank"
-              >
-                Twitch
-              </a>
-            </span>,{" "}
-            <span>
-              <a
-                href="https://youtube.com/user/pirateaba"
-                class="font-semibold text-[#1583af] hover:underline"
-                target="_blank"
-              >
-                YouTube
-              </a>
-            </span>,{" and "}
-            <span>
-              <a
-                href="https://twitter.com/pirateaba"
-                class="font-semibold text-[#1583af] hover:underline"
-                target="_blank"
-              >
-                Twitter
               </a>
             </span>.
           </span>
@@ -130,7 +103,7 @@ export default function SiteFooter() {
             >
               Wiki
             </a>
-          </span>,{" and view the "}
+          </span>,{" and view fanarts at the "}
           <span>
             <a
               href="https://twifanart.shelter.moe/"
