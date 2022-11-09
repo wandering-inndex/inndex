@@ -56,7 +56,10 @@ export default function TableOfContents(
 
   return (
     <>
-      <div class="overflow-auto max-h-[60vh] sm:max-h-[70vh] rounded-md border">
+      <div
+        class="overflow-auto max-h-[60vh] sm:max-h-[70vh] rounded-md border"
+        style="scroll-behavior: smooth;"
+      >
         <table class="table min-w-max w-full relative">
           <thead class="font-medium sticky top-0">
             <tr>

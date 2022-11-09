@@ -76,7 +76,12 @@ export default function TableRows({ rows, audioBookMap, eBookMap }: Props) {
 
         return (
           <>
-            <tr key={row.id} class="border-t h-10 hover:bg-gray-100">
+            <tr
+              key={row.id}
+              class="border-t h-10 hover:bg-gray-100 target:bg-yellow-300"
+              style="scroll-margin-top: 10rem;"
+              id={row.id.replace("chapter:", "")}
+            >
               {/* START: Web */}
               <td class="px-2 text-center">
                 {row.webNovelOrder}

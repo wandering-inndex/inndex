@@ -31,7 +31,7 @@ export default function Page() {
             The Wandering Inndex is a fan-made site for the{" "}
             <a
               href="https://wanderinginn.com"
-              class="font-semibold"
+              class="font-semibold text-gray-700 hover:underline"
               target="_blank"
             >
               The Wandering Inn
@@ -41,7 +41,7 @@ export default function Page() {
               author,{" "}
               <a
                 href="https://patreon.com/pirateaba"
-                class="font-semibold"
+                class="font-semibold text-gray-700 hover:underline"
                 target="_blank"
               >
                 pirateaba
@@ -82,7 +82,7 @@ export default function Page() {
             This project was initially created as a tool for{" "}
             <a
               href="https://thewanderinginn.fandom.com/"
-              class="font-semibold"
+              class="font-semibold text-gray-700 hover:underline"
               target="_blank"
             >
               The Wandering Inn Wiki
@@ -90,7 +90,7 @@ export default function Page() {
             contributors to quickly reference{" "}
             <a
               href="https://en.wikipedia.org/wiki/Named_entity"
-              class="font-semibold"
+              class="font-semibold text-gray-700 hover:underline"
               target="_blank"
             >
               named entities
@@ -104,12 +104,15 @@ export default function Page() {
               you can file an Issue at the{"  "}
               <a
                 href="https://github.com/wandering-inndex/seed-data/issues"
-                class="font-semibold"
+                class="font-semibold text-gray-700 hover:underline"
                 target="_blank"
               >
                 Seed Data GitHub Repository
               </a>, or send an email to{" "}
-              <a href="mailto:inndex@omg.lol" class="font-semibold">
+              <a
+                href="mailto:inndex@omg.lol"
+                class="font-semibold text-gray-700 hover:underline"
+              >
                 inndex@omg.lol
               </a>.
             </span>

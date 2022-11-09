@@ -1,8 +1,8 @@
 export default function SiteFooter() {
   return (
     <>
-      <footer class="w-full mt-3 text-gray-600 text-center">
-        <div>
+      <footer class="w-full mt-3 text-gray-600 text-center max-w-screen-md mx-auto flex flex-col gap-4">
+        <p>
           <span>
             This is a fan-made index for{" "}
             <a
@@ -23,9 +23,7 @@ export default function SiteFooter() {
             >
               pirateaba
             </a>.
-          </span>
-        </div>
-        <div>
+          </span>{" "}
           <span>
             Please support them on their official channels:{" "}
             <span>
@@ -56,8 +54,8 @@ export default function SiteFooter() {
               </a>
             </span>.
           </span>
-        </div>
-        <div>
+        </p>
+        <p>
           Want to interact with fellow{" "}
           <a
             href="https://www.reddit.com/r/WanderingInn/comments/hy1r3v/spoiled_readers/"
@@ -84,10 +82,7 @@ export default function SiteFooter() {
             >
               Discord Server
             </a>
-          </span>.
-        </div>
-        <div>
-          You can also listen to the{" "}
+          </span>. You can also listen to the{" "}
           <a
             href="https://www.podomatic.com/podcasts/dragonus45"
             class="font-semibold text-gray-700 hover:underline"
@@ -103,7 +98,7 @@ export default function SiteFooter() {
             >
               Wiki
             </a>
-          </span>,{" and view fanarts at the "}
+          </span>,{" and view more fanarts at the "}
           <span>
             <a
               href="https://twifanart.shelter.moe/"
@@ -113,7 +108,7 @@ export default function SiteFooter() {
               Booru
             </a>.
           </span>
-        </div>
+        </p>
       </footer>
     </>
   );
