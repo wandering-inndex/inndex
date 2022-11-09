@@ -31,10 +31,10 @@ export default function Page() {
       </div>
 
       <div>
-        <nav class="text-center hover:underline uppercase font-bold">
+        <nav class="text-center uppercase font-bold">
           <ul>
             <li>
-              <a href="/toc">
+              <a href="/toc" class="hover:underline">
                 <span>
                   <span class="text-sm">T</span>
                   <span class="text-xs">able</span>
@@ -47,7 +47,22 @@ export default function Page() {
                   <span class="text-sm">C</span>
                   <span class="text-xs">ontents</span>
                 </span>
-                {" "}
+              </a>
+            </li>
+            <li>
+              <a href="/about" class="hover:underline">
+                <span>
+                  <span class="text-sm">A</span>
+                  <span class="text-xs">bout</span>
+                </span>{" "}
+                <span>
+                  <span class="text-sm">T</span>
+                  <span class="text-xs">his</span>
+                </span>{" "}
+                <span>
+                  <span class="text-sm">P</span>
+                  <span class="text-xs">roject</span>
+                </span>
               </a>
             </li>
           </ul>
