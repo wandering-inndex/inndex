@@ -31,10 +31,24 @@ export default function Page() {
       </div>
 
       <div>
-        <nav class="text-center font-semibold hover:underline uppercase">
+        <nav class="text-center hover:underline uppercase font-bold">
           <ul>
             <li>
-              <a href="/toc">Table of Contents</a>
+              <a href="/toc">
+                <span>
+                  <span class="text-sm">T</span>
+                  <span class="text-xs">able</span>
+                </span>{" "}
+                <span>
+                  <span class="text-sm">O</span>
+                  <span class="text-xs">f</span>
+                </span>{" "}
+                <span>
+                  <span class="text-sm">C</span>
+                  <span class="text-xs">ontents</span>
+                </span>
+                {" "}
+              </a>
             </li>
           </ul>
         </nav>
