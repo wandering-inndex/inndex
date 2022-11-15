@@ -50,6 +50,26 @@ export default function Page() {
               </a>
             </li>
             <li>
+              <a href="/brackets" class="hover:underline">
+                <span>
+                  <span class="text-sm">L</span>
+                  <span class="text-xs">ist</span>
+                </span>{" "}
+                <span>
+                  <span class="text-sm">O</span>
+                  <span class="text-xs">f</span>
+                </span>{" "}
+                <span>
+                  <span class="text-sm">B</span>
+                  <span class="text-xs">racket</span>
+                </span>{" "}
+                <span>
+                  <span class="text-sm">C</span>
+                  <span class="text-xs">ontents</span>
+                </span>
+              </a>
+            </li>
+            <li>
               <a href="/about" class="hover:underline">
                 <span>
                   <span class="text-sm">A</span>
