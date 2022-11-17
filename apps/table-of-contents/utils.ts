@@ -6,20 +6,27 @@ import { TableColumnKey, TableRowData } from "./models.ts";
 export const convertToTableRowData = (chapter: Chapter): TableRowData => {
   return {
     id: chapter.id,
-    webNovelOrder: chapter.partOf.webNovel.order,
-    webNovelRef: chapter.partOf.webNovel.ref,
-    webNovelTitle: chapter.partOf.webNovel.title,
-    webNovelPublished: chapter.partOf.webNovel.published,
-    webNovelUrl: chapter.partOf.webNovel.url,
-    webNovelTotalWords: chapter.partOf.webNovel.totalWords,
-    eBookOrder: chapter.partOf.eBook.order,
-    eBookRef: chapter.partOf.eBook.ref,
-    eBookTitle: chapter.partOf.eBook.title,
-    audioBookOrder: chapter.partOf.audioBook.order,
-    audioBookRef: chapter.partOf.audioBook.ref,
-    audioBookTitle: chapter.partOf.audioBook.title,
-    audioBookTotalSeconds: chapter.partOf.audioBook.totalSeconds,
-    wikiUrl: chapter.partOf.wiki.url,
+    isRewrite: chapter.meta.rewrite,
+    webNovelOrder: chapter.partOf.webNovel?.order ||
+      chapter.partOf.webNovelRewrite?.order || null,
+    webNovelRef: chapter.partOf.webNovel?.ref ||
+      chapter.partOf.webNovelRewrite?.ref || null,
+    webNovelTitle: chapter.partOf.webNovel?.title ||
+      chapter.partOf.webNovelRewrite?.title || null,
+    webNovelPublished: chapter.partOf.webNovel?.published ||
+      chapter.partOf.webNovelRewrite?.published || "",
+    webNovelUrl: chapter.partOf.webNovel?.url ||
+      chapter.partOf.webNovelRewrite?.url || "",
+    webNovelTotalWords: chapter.partOf.webNovel?.totalWords ||
+      chapter.partOf.webNovelRewrite?.totalWords || null,
+    eBookOrder: chapter.partOf.eBook?.order || null,
+    eBookRef: chapter.partOf.eBook?.ref || null,
+    eBookTitle: chapter.partOf.eBook?.title || null,
+    audioBookOrder: chapter.partOf.audioBook?.order || null,
+    audioBookRef: chapter.partOf.audioBook?.ref || null,
+    audioBookTitle: chapter.partOf.audioBook?.title || null,
+    audioBookTotalSeconds: chapter.partOf.audioBook?.totalSeconds || null,
+    wikiUrl: chapter.partOf.wiki?.url || null,
   };
 };
 

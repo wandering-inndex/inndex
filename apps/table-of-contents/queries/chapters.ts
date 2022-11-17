@@ -7,6 +7,7 @@ FROM
   chapter
 WHERE
   meta.show = true
+  AND meta.rewrite = $onlyRewrite
 ORDER BY
   id ASC
 ;

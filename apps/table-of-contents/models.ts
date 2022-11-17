@@ -7,6 +7,7 @@ import { JSX } from "preact";
  */
 export interface TableRowData {
   id: string;
+  isRewrite: boolean;
   webNovelRef: number | null;
   webNovelOrder: number | null;
   webNovelTitle: string | null;

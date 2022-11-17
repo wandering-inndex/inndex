@@ -101,46 +101,46 @@ export default function ChatHelper(
   chapters.forEach((chapter) => {
     mapChaptersById.set(chapter.id, chapter);
 
-    const wnRef = chapter.partOf.webNovel.ref;
+    const wnRef = chapter.partOf.webNovel?.ref || null;
     if (wnRef) {
       const items = mapWebVolumeChapterChoice.get(wnRef) ?? [];
       const choice: Choice = {
         key: `${chapter.id}`,
         classNames: [],
-        order: chapter.partOf.webNovel.order ?? 0,
-        text: chapter.partOf.webNovel.title ?? "",
+        order: chapter.partOf.webNovel?.order ?? 0,
+        text: chapter.partOf.webNovel?.title ?? "",
         handleClick: () => {
-          setCollectionIndex(chapter.partOf.webNovel.order ?? 0);
+          setCollectionIndex(chapter.partOf.webNovel?.order ?? 0);
         },
       };
       mapWebVolumeChapterChoice.set(wnRef, [...items, choice]);
     }
 
-    const abRef = chapter.partOf.audioBook.ref;
+    const abRef = chapter.partOf.audioBook?.ref || null;
     if (abRef) {
       const items = mapAudioBookChapterChoice.get(abRef) ?? [];
       const choice: Choice = {
         key: `${chapter.id}`,
         classNames: [],
-        order: chapter.partOf.audioBook.order ?? 0,
-        text: chapter.partOf.audioBook.title ?? "",
+        order: chapter.partOf.audioBook?.order ?? 0,
+        text: chapter.partOf.audioBook?.title ?? "",
         handleClick: () => {
-          setCollectionIndex(chapter.partOf.audioBook.order ?? 0);
+          setCollectionIndex(chapter.partOf.audioBook?.order ?? 0);
         },
       };
       mapAudioBookChapterChoice.set(abRef, [...items, choice]);
     }
 
-    const ebRef = chapter.partOf.audioBook.ref;
+    const ebRef = chapter.partOf.eBook?.ref || null;
     if (ebRef) {
       const items = mapElectronicBookChapterChoice.get(ebRef) ?? [];
       const choice: Choice = {
         key: `${chapter.id}`,
         classNames: [],
-        order: chapter.partOf.eBook.order ?? 0,
-        text: chapter.partOf.eBook.title ?? "",
+        order: chapter.partOf.eBook?.order ?? 0,
+        text: chapter.partOf.eBook?.title ?? "",
         handleClick: () => {
-          setCollectionIndex(chapter.partOf.eBook.order ?? 0);
+          setCollectionIndex(chapter.partOf.eBook?.order ?? 0);
         },
       };
       mapElectronicBookChapterChoice.set(ebRef, [...items, choice]);

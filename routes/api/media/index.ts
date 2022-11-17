@@ -10,9 +10,12 @@ import {
 import { AllMedia } from "@apps/seed/models/media.ts";
 import { qAllChapters } from "@apps/table-of-contents/queries/chapters.ts";
 
-export const handler: Handler = async (): Promise<Response> => {
+export const handler: Handler = async (request): Promise<Response> => {
+  const url = new URL(request.url);
+  const onlyRewrite = (url.searchParams.get("onlyRewrite") || "") === "true";
+
   const [resChapters, webVolumes, eBooks, audioBooks] = await Promise.all([
-    Surreal.Instance.query<Result<Chapter[]>[]>(qAllChapters).then(),
+    Surreal.Instance.query<Result<Chapter[]>[]>(qAllChapters, { onlyRewrite }),
     Surreal.Instance.select<WebVolume>("volume"),
     Surreal.Instance.select<ElectronicBook>("ebook"),
     Surreal.Instance.select<AudioBook>("audiobook"),
