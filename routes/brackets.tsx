@@ -15,9 +15,9 @@ import DocumentHead from "../components/document/DocumentHead.tsx";
 import SiteHeader from "../components/ui/SiteHeader.tsx";
 import SiteFooter from "../components/ui/SiteFooter.tsx";
 
-import { handler as handlerChapters } from "./api/media/chapters.ts";
 import { handler as handlerBracketContentWithChapters } from "./api/brackets/with-chapters.ts";
 import TableOfBrackets from "../islands/TableOfBrackets.tsx";
+import { getAllChapters } from "../apps/data-fetcher/media/chapters.ts";
 
 interface Props {
   chapters: BasicWebChapter[];
@@ -26,13 +26,18 @@ interface Props {
 
 export const handler: Handlers<Props> = {
   async GET(req, ctx) {
-    const resChapters = await handlerChapters(req, ctx);
-    const listChapters: Chapter[] = await resChapters.json();
+    const resChapters = await getAllChapters();
+    const listChapters: Chapter[] = resChapters[0].result ?? [];
     const chapters: BasicWebChapter[] = listChapters.map((chapter) => {
+      const title = chapter.partOf.webNovel?.title ||
+        chapter.partOf.webNovelRewrite?.title || "";
+      const url = (chapter.partOf.webNovel?.url ||
+        chapter.partOf.webNovelRewrite?.url || "").split("#:~:text")[0];
+
       return {
-        id: chapter.id.replace("chapter:", ""),
-        title: chapter.partOf.webNovel.title ?? "",
-        url: chapter.partOf.webNovel.url ?? "",
+        id: chapter.id,
+        title,
+        url,
       };
     });
 

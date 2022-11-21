@@ -4,9 +4,9 @@ import { BracketContentWithChapters } from "@apps/table-of-brackets/models.ts";
 import { getDriver } from "../../../utils/db/neo4j.ts";
 
 const query = `
-MATCH (bc:BracketContent)-[:MENTIONED_IN]->(c:Chapter)
-RETURN bc.content AS content, collect(c.id) AS chapterIds
-ORDER BY bc.content
+MATCH (bc:BracketContent)-[:MENTIONED_IN]->(c)
+WITH bc, c ORDER BY bc.content ASC, c.id ASC
+RETURN bc.content AS content, collect(DISTINCT c.id) AS chapterIds
 `;
 
 export const handler: Handler = async (): Promise<Response> => {
@@ -21,7 +21,7 @@ export const handler: Handler = async (): Promise<Response> => {
     for (let i = 0; i < records.length; i++) {
       const content: string = records[i].get("content");
       const chapterIds: string[] = records[i].get("chapterIds");
-      rows.push({ content, chapterIds: chapterIds.sort() });
+      rows.push({ content, chapterIds });
     }
   } catch {
     return Response.error();
