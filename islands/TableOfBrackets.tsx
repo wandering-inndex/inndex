@@ -158,7 +158,7 @@ function TableOfBracketsChatHelper(
     ]);
     audioBookChoices.push({
       key: collection.id,
-      text: collection.title,
+      text: `#${collection.index}: ${collection.title}`,
       classNames: [],
       handleClick: () => {
         setCollectionRef(collection.index);
@@ -178,7 +178,7 @@ function TableOfBracketsChatHelper(
     ]);
     electronicBookChoices.push({
       key: collection.id,
-      text: collection.title,
+      text: `#${collection.index}: ${collection.title}`,
       classNames: [],
       handleClick: () => {
         setCollectionRef(collection.index);
@@ -214,16 +214,22 @@ function TableOfBracketsChatHelper(
       if (collectionRef === 0) {
         return audioBookReleases[audioBookReleases.length - 1].title;
       }
-      return audioBookReleases.find((item) => item.index === collectionRef)
+      const title = audioBookReleases.find((item) =>
+        item.index === collectionRef
+      )
         ?.title ??
         "";
+      return `#${collectionRef}: ${title}`;
     }
     if (mediaType === MediaTypes.EBOOK) {
       if (collectionRef === 0) {
         return electronicBookReleases[electronicBookReleases.length - 1].title;
       }
-      return electronicBookReleases.find((item) => item.index === collectionRef)
+      const title = electronicBookReleases.find((item) =>
+        item.index === collectionRef
+      )
         ?.title ?? "";
+      return `#${collectionRef}: ${title}`;
     }
     return "";
   }, [mediaType, collectionRef]);
@@ -441,7 +447,7 @@ export default function TableOfBracketsBeta(
       />
 
       <div
-        class="overflow-auto max-h-[60vh] sm:max-h-[70vh] rounded-md border"
+        class="overflow-auto max-h-[50vh] sm:max-h-[60vh] rounded-md border"
         style="scroll-behavior: smooth;"
       >
         <table class="table relative w-full">

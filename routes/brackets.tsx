@@ -120,7 +120,7 @@ export default function Page({ data }: PageProps<Props>) {
       <div class="p-4 mx-auto text-sm text-gray-900">
         <SiteHeader />
 
-        <div>
+        <div class="mb-3">
           <TableOfBrackets
             {...{
               webVolumeReleases,
@@ -131,6 +131,33 @@ export default function Page({ data }: PageProps<Props>) {
               electronicBookChapters,
             }}
           />
+        </div>
+
+        <div class="text-xs mb-10">
+          <div>
+            <span class="font-semibold">NOTE #1:</span>{" "}
+            This list does not include the unclosed values like{" "}
+            <code class="bg-gray-100 p-1">
+              [Fire—
+            </code>
+            {". "}
+            However, as long as it has a closing bracket like{" "}
+            <code class="bg-gray-100 p-1">[Ski—]</code>, it should be listed
+            here.
+          </div>
+          <div>
+            <span class="font-semibold">NOTE #2:</span>{" "}
+            This list does not show how many times a{" "}
+            <code class="bg-gray-100 p-1">[Bracket Content]</code>{" "}
+            appears per chapter, just that it is mentioned at least once in that
+            specific chapter.
+          </div>
+          <div>
+            <span class="font-semibold">NOTE #3:</span>{" "}
+            This list does not include the
+            <code class="bg-gray-100 p-1">[Bracket Contents]</code>{"  "}
+            from the ongoing Volume 1 rewrites.
+          </div>
         </div>
 
         <SiteFooter />
