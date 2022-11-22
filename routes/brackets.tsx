@@ -1,10 +1,9 @@
 import { Handlers, PageProps } from "$fresh/server.ts";
 import { Head } from "$fresh/runtime.ts";
 
-import { Chapter } from "@seed/types/media.ts";
 import {
-  BasicWebChapter,
-  BracketContentWithChapters,
+  BasicChapterForBracketsList,
+  BasicMediaForBracketsList,
 } from "@apps/table-of-brackets/models.ts";
 
 import {
@@ -15,44 +14,95 @@ import DocumentHead from "../components/document/DocumentHead.tsx";
 import SiteHeader from "../components/ui/SiteHeader.tsx";
 import SiteFooter from "../components/ui/SiteFooter.tsx";
 
-import { handler as handlerBracketContentWithChapters } from "./api/brackets/with-chapters.ts";
 import TableOfBrackets from "../islands/TableOfBrackets.tsx";
-import { getAllChapters } from "../apps/data-fetcher/media/chapters.ts";
+
+import {
+  getBasicAudioBookChapters,
+  getBasicElectronicBookChapters,
+  getBasicWebVolumeChapters,
+} from "@apps/table-of-brackets/utils/fetcher/media/chapters.ts";
+import { getBasicAudioBookReleases } from "@apps/table-of-brackets/utils/fetcher/media/audioBooks.ts";
+import { getBasicElectronicBookReleases } from "@apps/table-of-brackets/utils/fetcher/media/electronicBooks.ts";
+import { getBasicWebVolumeReleases } from "@apps/table-of-brackets/utils/fetcher/media/webVolumes.ts";
 
 interface Props {
-  chapters: BasicWebChapter[];
-  withChapters: BracketContentWithChapters[];
+  webVolumeReleases: BasicMediaForBracketsList[];
+  webVolumeChapters: BasicChapterForBracketsList[];
+  audioBookReleases: BasicMediaForBracketsList[];
+  audioBookChapters: BasicChapterForBracketsList[];
+  electronicBookReleases: BasicMediaForBracketsList[];
+  electronicBookChapters: BasicChapterForBracketsList[];
 }
+
+const formatChapter = (
+  chapter: BasicChapterForBracketsList,
+): BasicChapterForBracketsList => {
+  const id = chapter.id ?? "";
+  const title = chapter.title ?? "";
+  const url = (chapter.url || "").split("#:~:text")[0];
+  const order = chapter.order ?? 0;
+  const ref = chapter.ref ?? 0;
+
+  return { id, title, url, order, ref };
+};
 
 export const handler: Handlers<Props> = {
   async GET(req, ctx) {
-    const resChapters = await getAllChapters();
-    const listChapters: Chapter[] = resChapters[0].result ?? [];
-    const chapters: BasicWebChapter[] = listChapters.map((chapter) => {
-      const title = chapter.partOf.webNovel?.title ||
-        chapter.partOf.webNovelRewrite?.title || "";
-      const url = (chapter.partOf.webNovel?.url ||
-        chapter.partOf.webNovelRewrite?.url || "").split("#:~:text")[0];
+    const [
+      resWebVolumeReleases,
+      resWebVolumeChapters,
+      resAudioBookReleases,
+      resAudioBookChapters,
+      resElectronicBookReleases,
+      resElectronicBookChapters,
+    ] = await Promise.all([
+      getBasicWebVolumeReleases(),
+      getBasicWebVolumeChapters(),
+      getBasicAudioBookReleases(),
+      getBasicAudioBookChapters(),
+      getBasicElectronicBookReleases(),
+      getBasicElectronicBookChapters(),
+    ]);
 
-      return {
-        id: chapter.id,
-        title,
-        url,
-      };
-    });
+    const webVolumeReleases = (resWebVolumeReleases[0].result ?? []).map(
+      (item) => item,
+    );
+    const webVolumeChapters = (resWebVolumeChapters[0].result ?? []).map(
+      (item) => formatChapter(item),
+    );
+    const audioBookReleases = (resAudioBookReleases[0].result ?? []).map(
+      (item) => item,
+    );
+    const audioBookChapters = (resAudioBookChapters[0].result ?? []).map(
+      (item) => formatChapter(item),
+    );
+    const electronicBookReleases = (resElectronicBookReleases[0].result ?? [])
+      .map((item) => item);
+    const electronicBookChapters = (resElectronicBookChapters[0].result ?? [])
+      .map((item) => formatChapter(item));
 
-    const resWithChapters = await handlerBracketContentWithChapters(req, ctx);
-    const withChapters: BracketContentWithChapters[] = await resWithChapters
-      .json();
-
-    const props: Props = { chapters, withChapters };
+    const props: Props = {
+      webVolumeReleases,
+      webVolumeChapters,
+      audioBookReleases,
+      audioBookChapters,
+      electronicBookReleases,
+      electronicBookChapters,
+    };
 
     return ctx.render(props);
   },
 };
 
 export default function Page({ data }: PageProps<Props>) {
-  const { chapters, withChapters } = data;
+  const {
+    webVolumeReleases,
+    webVolumeChapters,
+    audioBookReleases,
+    audioBookChapters,
+    electronicBookReleases,
+    electronicBookChapters,
+  } = data;
 
   return (
     <>
@@ -71,7 +121,16 @@ export default function Page({ data }: PageProps<Props>) {
         <SiteHeader />
 
         <div>
-          <TableOfBrackets {...{ chapters, withChapters }} />
+          <TableOfBrackets
+            {...{
+              webVolumeReleases,
+              webVolumeChapters,
+              audioBookReleases,
+              audioBookChapters,
+              electronicBookReleases,
+              electronicBookChapters,
+            }}
+          />
         </div>
 
         <SiteFooter />
