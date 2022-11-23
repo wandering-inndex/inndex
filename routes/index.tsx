@@ -70,6 +70,18 @@ export default function Page() {
               </a>
             </li>
             <li>
+              <a href="/gazi" class="hover:underline">
+                <span>
+                  <span class="text-sm">G</span>
+                  <span class="text-xs">azi</span>
+                </span>{" "}
+                <span>
+                  <span class="text-sm">P</span>
+                  <span class="text-xs">athseeker</span>
+                </span>
+              </a>
+            </li>
+            <li>
               <a href="/about" class="hover:underline">
                 <span>
                   <span class="text-sm">A</span>

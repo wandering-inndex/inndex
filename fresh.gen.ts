@@ -14,16 +14,18 @@ import * as $7 from "./routes/api/media/ebooks.ts";
 import * as $8 from "./routes/api/media/index.ts";
 import * as $9 from "./routes/api/media/volumes.ts";
 import * as $10 from "./routes/brackets.tsx";
-import * as $11 from "./routes/index.tsx";
-import * as $12 from "./routes/toc-beta.tsx";
-import * as $13 from "./routes/toc.tsx";
+import * as $11 from "./routes/gazi.tsx";
+import * as $12 from "./routes/index.tsx";
+import * as $13 from "./routes/toc-beta.tsx";
+import * as $14 from "./routes/toc.tsx";
 import * as $$0 from "./islands/ChatContainer.tsx";
 import * as $$1 from "./islands/ChatHelper.tsx";
 import * as $$2 from "./islands/DropdownSelector.tsx";
-import * as $$3 from "./islands/TableHeaderSorter.tsx";
-import * as $$4 from "./islands/TableOfBrackets.tsx";
-import * as $$5 from "./islands/TableOfContents.tsx";
-import * as $$6 from "./islands/TableOfContentsBeta.tsx";
+import * as $$3 from "./islands/InteractiveGazi.tsx";
+import * as $$4 from "./islands/TableHeaderSorter.tsx";
+import * as $$5 from "./islands/TableOfBrackets.tsx";
+import * as $$6 from "./islands/TableOfContents.tsx";
+import * as $$7 from "./islands/TableOfContentsBeta.tsx";
 
 const manifest = {
   routes: {
@@ -38,18 +40,20 @@ const manifest = {
     "./routes/api/media/index.ts": $8,
     "./routes/api/media/volumes.ts": $9,
     "./routes/brackets.tsx": $10,
-    "./routes/index.tsx": $11,
-    "./routes/toc-beta.tsx": $12,
-    "./routes/toc.tsx": $13,
+    "./routes/gazi.tsx": $11,
+    "./routes/index.tsx": $12,
+    "./routes/toc-beta.tsx": $13,
+    "./routes/toc.tsx": $14,
   },
   islands: {
     "./islands/ChatContainer.tsx": $$0,
     "./islands/ChatHelper.tsx": $$1,
     "./islands/DropdownSelector.tsx": $$2,
-    "./islands/TableHeaderSorter.tsx": $$3,
-    "./islands/TableOfBrackets.tsx": $$4,
-    "./islands/TableOfContents.tsx": $$5,
-    "./islands/TableOfContentsBeta.tsx": $$6,
+    "./islands/InteractiveGazi.tsx": $$3,
+    "./islands/TableHeaderSorter.tsx": $$4,
+    "./islands/TableOfBrackets.tsx": $$5,
+    "./islands/TableOfContents.tsx": $$6,
+    "./islands/TableOfContentsBeta.tsx": $$7,
   },
   baseUrl: import.meta.url,
   config,
