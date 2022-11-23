@@ -74,14 +74,6 @@ export default function Page() {
                 <span>
                   <span class="text-sm">A</span>
                   <span class="text-xs">bout</span>
-                </span>{" "}
-                <span>
-                  <span class="text-sm">T</span>
-                  <span class="text-xs">his</span>
-                </span>{" "}
-                <span>
-                  <span class="text-sm">P</span>
-                  <span class="text-xs">roject</span>
                 </span>
               </a>
             </li>
