@@ -50,6 +50,29 @@ export default function Page({ data }: PageProps<AllMedia | null>) {
               {...{ chapters, webVolumes, eBooks, audioBooks }}
             />
           </div>
+
+          <div class="flex flex-col lg:flex-row gap-4 justify-center mt-10">
+            <div>
+              <div class="font-semibold text-center">
+                Total Word Count for the Web Novel Volumes
+              </div>
+              <img
+                src="/charts/media/word-count?collectionType=WEBNOVEL"
+                class="mx-auto max-h-[60vh]"
+                alt="Total Word Count for the Web Novel Volumes"
+              />
+            </div>
+            <div>
+              <div class="font-semibold text-center">
+                Total Word Count for the Audiobook/E-book Releases
+              </div>
+              <img
+                src="/charts/media/word-count?collectionType=AUDIOBOOK"
+                class="mx-auto max-h-[60vh]"
+                alt="Total Word Count for the Audiobook/E-book Releases"
+              />
+            </div>
+          </div>
         </div>
 
         <div>

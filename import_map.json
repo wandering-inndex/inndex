@@ -6,6 +6,7 @@
     "@seed/": "https://raw.githubusercontent.com/wandering-inndex/seed-data/0.0.4/",
     "@twind": "./wrappers/twind.ts",
     "$fresh/": "https://deno.land/x/fresh@1.1.2/",
+    "$fresh_charts/": "https://deno.land/x/fresh_charts@0.1.0/",
     "date-fns": "https://esm.sh/date-fns@2.29.3",
     "neo4j": "https://raw.githubusercontent.com/neo4j/neo4j-javascript-driver/5.2.0/packages/neo4j-driver-deno/lib/mod.ts",
     "preact-render-to-string": "https://esm.sh/*preact-render-to-string@5.2.4",

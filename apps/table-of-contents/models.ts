@@ -100,3 +100,23 @@ export interface Message {
   location: "left" | "right";
   message: JSX.Element;
 }
+
+/** Tallies the Word counts per Chapter Group. */
+export interface ChaptersGroupWordCount {
+  REGULAR: number[];
+  LETTERED: number[];
+  INTERLUDE: number[];
+  SIDE_STORY: number[];
+  MINI_STORY: number[];
+  OTHER: number[];
+}
+
+/** Tallies the Type counts per Chapter Group. */
+export interface ChaptersGroupTypeCount {
+  REGULAR: number;
+  LETTERED: number;
+  INTERLUDE: number;
+  SIDE_STORY: number;
+  MINI_STORY: number;
+  OTHER: number;
+}

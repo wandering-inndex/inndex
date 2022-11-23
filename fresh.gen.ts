@@ -14,10 +14,11 @@ import * as $7 from "./routes/api/media/ebooks.ts";
 import * as $8 from "./routes/api/media/index.ts";
 import * as $9 from "./routes/api/media/volumes.ts";
 import * as $10 from "./routes/brackets.tsx";
-import * as $11 from "./routes/gazi.tsx";
-import * as $12 from "./routes/index.tsx";
-import * as $13 from "./routes/toc-beta.tsx";
-import * as $14 from "./routes/toc.tsx";
+import * as $11 from "./routes/charts/media/word-count.ts";
+import * as $12 from "./routes/gazi.tsx";
+import * as $13 from "./routes/index.tsx";
+import * as $14 from "./routes/toc-beta.tsx";
+import * as $15 from "./routes/toc.tsx";
 import * as $$0 from "./islands/ChatContainer.tsx";
 import * as $$1 from "./islands/ChatHelper.tsx";
 import * as $$2 from "./islands/DropdownSelector.tsx";
@@ -40,10 +41,11 @@ const manifest = {
     "./routes/api/media/index.ts": $8,
     "./routes/api/media/volumes.ts": $9,
     "./routes/brackets.tsx": $10,
-    "./routes/gazi.tsx": $11,
-    "./routes/index.tsx": $12,
-    "./routes/toc-beta.tsx": $13,
-    "./routes/toc.tsx": $14,
+    "./routes/charts/media/word-count.ts": $11,
+    "./routes/gazi.tsx": $12,
+    "./routes/index.tsx": $13,
+    "./routes/toc-beta.tsx": $14,
+    "./routes/toc.tsx": $15,
   },
   islands: {
     "./islands/ChatContainer.tsx": $$0,
