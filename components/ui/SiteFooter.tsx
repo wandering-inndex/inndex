@@ -2,7 +2,7 @@ export default function SiteFooter() {
   return (
     <>
       <footer class="w-full mt-3 text-xs sm:text-sm text-gray-300 bg-gray-800 text-white">
-        <div class="max-w-screen-md text-center mx-auto flex flex-col gap-4 px-5 py-20">
+        <div class="max-w-screen-md text-center mx-auto flex flex-col gap-4 px-5 py-5 sm:py-10 md:py-20">
           <p>
             <span>
               This is a fan-made index for{" "}
