@@ -359,7 +359,7 @@ function TableOfBracketsChatHelper(
 
   return (
     <>
-      <div class="flex flex-col border-1 mb-3 min-w-max">
+      <div class="flex flex-col border-1 mb-3">
         <div class="p-2 md:p-3 bg-gray-600 flex flex-col md:flex-row gap-2 md:gap-4">
           <div class="bg-white rounded-xl flex justify-between align-middle gap-2 flex-grow w-full">
             <div class="p-3 overflow-hidden">

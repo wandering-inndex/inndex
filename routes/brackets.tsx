@@ -118,7 +118,7 @@ export default function Page({ data }: PageProps<Props>) {
       </Head>
 
       <div class="min-h-screen justify-between flex flex-col">
-        <div class="p-4 mx-auto text-sm text-gray-900 mb-auto min-w-[98vw]">
+        <div class="p-4 text-sm text-gray-900 mb-auto min-w-[98vw]">
           <SiteHeader />
 
           <div class="mb-3 max-w-[2000px] mx-auto">
