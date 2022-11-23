@@ -21,17 +21,17 @@ export default function Page() {
         />
       </Head>
 
-      <div>
-        <img
-          src="/banner.png"
-          class="w-[200px] sm:w-[500px] object-contain mx-auto"
-          alt="The Wandering Inndex - A fan-made index for The Wandering Inn, a universe by pirateaba."
-          title="The Wandering Inndex - A fan-made index for The Wandering Inn, a universe by pirateaba."
-        />
-      </div>
+      <div class="min-h-screen justify-between flex flex-col">
+        <div>
+          <img
+            src="/banner.png"
+            class="w-[200px] sm:w-[500px] object-contain mx-auto"
+            alt="The Wandering Inndex - A fan-made index for The Wandering Inn, a universe by pirateaba."
+            title="The Wandering Inndex - A fan-made index for The Wandering Inn, a universe by pirateaba."
+          />
+        </div>
 
-      <div>
-        <nav class="text-center uppercase font-bold">
+        <nav class="text-center uppercase font-bold mb-auto">
           <ul>
             <li>
               <a href="/toc" class="hover:underline">
@@ -88,7 +88,7 @@ export default function Page() {
           </ul>
         </nav>
 
-        <div class="p-4 mx-auto text-sm text-gray-900">
+        <div>
           <SiteFooter />
         </div>
       </div>

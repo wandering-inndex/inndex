@@ -41,16 +41,20 @@ export default function Page({ data }: PageProps<AllMedia | null>) {
         />
       </Head>
 
-      <div class="p-4 mx-auto text-sm text-gray-900">
-        <SiteHeader />
+      <div class="min-h-screen justify-between flex flex-col">
+        <div class="p-4 text-sm text-gray-900 mb-auto min-w-[98vw]">
+          <SiteHeader />
 
-        <div>
-          <TableOfContents
-            {...{ chapters, webVolumes, eBooks, audioBooks }}
-          />
+          <div class="max-w-[2000px] mx-auto">
+            <TableOfContents
+              {...{ chapters, webVolumes, eBooks, audioBooks }}
+            />
+          </div>
         </div>
 
-        <SiteFooter />
+        <div>
+          <SiteFooter />
+        </div>
       </div>
     </>
   );
