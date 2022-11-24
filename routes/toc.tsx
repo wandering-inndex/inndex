@@ -51,26 +51,69 @@ export default function Page({ data }: PageProps<AllMedia | null>) {
             />
           </div>
 
-          <div class="flex flex-col lg:flex-row gap-4 justify-center mt-10">
-            <div>
-              <div class="font-semibold text-center">
-                Total Word Count for the Web Novel Volumes
+          <div class="mt-10">
+            <h2
+              id="statistics"
+              class="uppercase text-center text-xl font-bold text-gray-800 mb-5"
+            >
+              Some statistics
+            </h2>
+
+            <div class="grid grid-cols-1 lg:grid-cols-2 gap-4 justify-center">
+              <div>
+                <div class="font-semibold text-center">
+                  Total Words from the Web Novel Volumes
+                </div>
+                <img
+                  src="/charts/media/word-count?collectionType=WEBNOVEL"
+                  class="mx-auto max-h-[60vh]"
+                  alt="Total Words from the Web Novel Volumes"
+                />
               </div>
-              <img
-                src="/charts/media/word-count?collectionType=WEBNOVEL"
-                class="mx-auto max-h-[60vh]"
-                alt="Total Word Count for the Web Novel Volumes"
-              />
-            </div>
-            <div>
-              <div class="font-semibold text-center">
-                Total Word Count for the Audiobook/E-book Releases
+              <div>
+                <div class="font-semibold text-center">
+                  Total Words from the Audiobook/E-book Releases
+                </div>
+                <img
+                  src="/charts/media/word-count?collectionType=AUDIOBOOK"
+                  class="mx-auto max-h-[60vh]"
+                  alt="Total Words from the Audiobook/E-book Releases"
+                />
+                <div class="text-xs text-center max-w-[80%] mx-auto mt-3">
+                  <span class="font-semibold">NOTE #1:</span>{" "}
+                  This uses the Chapter Types from the Web Novel Volumes, as
+                  some chapters do not have the same type across releases (e.g.
+                  {" "}
+                  <a href="#twiwnch0023011" class="font-semibold">
+                    Volume 1 Interlude – 1.00 R
+                  </a>{" "}
+                  or{" "}
+                  <a href="#twiwnch0138011" class="font-semibold">
+                    Volume 3 Chapter 3.13
+                  </a>).
+                </div>
               </div>
-              <img
-                src="/charts/media/word-count?collectionType=AUDIOBOOK"
-                class="mx-auto max-h-[60vh]"
-                alt="Total Word Count for the Audiobook/E-book Releases"
-              />
+              <div>
+                <div class="font-semibold text-center">
+                  Total Words from the Web Novel Volumes compared to the
+                  Audiobook/E-book Releases
+                </div>
+                <img
+                  src="/charts/media/words-covered"
+                  class="mx-auto max-h-[60vh]"
+                  alt="Total Words from the Web Novel Volumes compared to the Audiobook/E-book Releases"
+                />
+              </div>
+              <div>
+                <div class="font-semibold text-center">
+                  Total Words per Web Novel Publication Year
+                </div>
+                <img
+                  src="/charts/media/words-per-year"
+                  class="mx-auto max-h-[60vh]"
+                  alt="Total Words per Year"
+                />
+              </div>
             </div>
           </div>
         </div>

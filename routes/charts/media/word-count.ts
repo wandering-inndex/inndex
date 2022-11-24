@@ -30,24 +30,24 @@ export const handler: Handlers = {
     const mediaType = url.searchParams.get("collectionType") ||
       MediaTypes.WEBNOVEL;
 
-    let collection: CollectionWithTitle[] = [];
+    let collections: CollectionWithTitle[] = [];
     if (mediaType === MediaTypes.WEBNOVEL) {
       const resCollection = await Surreal.Instance.select<WebVolume>("volume");
-      collection = resCollection.map((item) => {
+      collections = resCollection.map((item) => {
         return { title: item.title };
       });
     } else if (mediaType === MediaTypes.AUDIOBOOK) {
       const resCollection = await Surreal.Instance.select<AudioBook>(
         "audiobook",
       );
-      collection = resCollection.map((item) => {
+      collections = resCollection.map((item) => {
         return { title: item.title };
       });
     } else if (mediaType === MediaTypes.EBOOK) {
       const resCollection = await Surreal.Instance.select<ElectronicBook>(
         "ebook",
       );
-      collection = resCollection.map((item) => {
+      collections = resCollection.map((item) => {
         return { title: item.title };
       });
     }
@@ -59,12 +59,12 @@ export const handler: Handlers = {
     const chapters: Chapter[] = resChapters[0].result ?? [];
 
     const collectionWordCount: ChaptersGroupWordCount = {
-      REGULAR: Array(collection.length).fill(0),
-      LETTERED: Array(collection.length).fill(0),
-      INTERLUDE: Array(collection.length).fill(0),
-      SIDE_STORY: Array(collection.length).fill(0),
-      MINI_STORY: Array(collection.length).fill(0),
-      OTHER: Array(collection.length).fill(0),
+      REGULAR: Array(collections.length).fill(0),
+      LETTERED: Array(collections.length).fill(0),
+      INTERLUDE: Array(collections.length).fill(0),
+      SIDE_STORY: Array(collections.length).fill(0),
+      MINI_STORY: Array(collections.length).fill(0),
+      OTHER: Array(collections.length).fill(0),
     };
     const collectionChapterTypeCount: ChaptersGroupTypeCount = {
       REGULAR: 0,
@@ -131,14 +131,14 @@ export const handler: Handlers = {
     return renderChart({
       type: "bar",
       data: {
-        labels: collection.map((volume, index) => {
+        labels: collections.map((col, index) => {
           const wordCount = collectionWordCount.REGULAR[index] +
             collectionWordCount.LETTERED[index] +
             collectionWordCount.INTERLUDE[index] +
             collectionWordCount.SIDE_STORY[index] +
             collectionWordCount.MINI_STORY[index] +
             collectionWordCount.OTHER[index];
-          return `${volume.title} (${formatWordCount(wordCount)} words)`;
+          return [col.title, `${formatWordCount(wordCount)} words`];
         }),
         datasets: [
           {
