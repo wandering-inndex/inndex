@@ -29,6 +29,7 @@ import * as $$4 from "./islands/TableHeaderSorter.tsx";
 import * as $$5 from "./islands/TableOfBrackets.tsx";
 import * as $$6 from "./islands/TableOfContents.tsx";
 import * as $$7 from "./islands/TableOfContentsBeta.tsx";
+import * as $$8 from "./islands/WanderingSiteLogo.tsx";
 
 const manifest = {
   routes: {
@@ -60,6 +61,7 @@ const manifest = {
     "./islands/TableOfBrackets.tsx": $$5,
     "./islands/TableOfContents.tsx": $$6,
     "./islands/TableOfContentsBeta.tsx": $$7,
+    "./islands/WanderingSiteLogo.tsx": $$8,
   },
   baseUrl: import.meta.url,
   config,
