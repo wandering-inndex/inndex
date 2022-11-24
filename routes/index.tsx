@@ -1,4 +1,4 @@
-import { Head } from "$fresh/runtime.ts";
+import { asset, Head } from "$fresh/runtime.ts";
 
 import {
   DEFAULT_SITE_DESCRIPTION,
@@ -7,7 +7,56 @@ import {
 import SiteFooter from "../components/ui/SiteFooter.tsx";
 import DocumentHead from "../components/document/DocumentHead.tsx";
 
+import InteractiveGazi from "../islands/InteractiveGazi.tsx";
+
+interface MenuItemProps {
+  url: string;
+  title: string;
+}
+
+function MenuItem({ url, title }: MenuItemProps) {
+  const words = title.split(" ");
+
+  return (
+    <>
+      <a href={url} class="w-full">
+        <div class="bg-gray-700 text-gray-50 p-2 hover:bg-gray-900">
+          {words.map((word, index) => {
+            const start = word[0];
+            const end = word.slice(1);
+
+            return (
+              <>
+                <span>
+                  <span class="text-sm">{start}</span>
+                  <span class="text-xs">{end}</span>
+                </span>
+                {index !== words.length - 1 ? " " : null}
+              </>
+            );
+          })}
+        </div>
+      </a>
+    </>
+  );
+}
+
 export default function Page() {
+  const menuItems: MenuItemProps[] = [
+    {
+      title: "Table of Contents",
+      url: "/toc",
+    },
+    {
+      title: "List of Bracket Contents",
+      url: "/brackets",
+    },
+    {
+      title: "About",
+      url: "/about",
+    },
+  ];
+
   return (
     <>
       <DocumentHead />
@@ -19,77 +68,19 @@ export default function Page() {
           property="description"
           content={DEFAULT_SITE_DESCRIPTION}
         />
+
+        <link rel="stylesheet" href={asset("/styles/gazi.css")}></link>
       </Head>
 
       <div class="min-h-screen justify-between flex flex-col">
-        <div>
-          <img
-            src="/banner.png"
-            class="w-[200px] sm:w-[500px] object-contain mx-auto"
-            alt="The Wandering Inndex - A fan-made index for The Wandering Inn, a universe by pirateaba."
-            title="The Wandering Inndex - A fan-made index for The Wandering Inn, a universe by pirateaba."
-          />
+        <div class="p-4 mx-auto text-sm text-gray-900">
+          <div class="m-auto">
+            <InteractiveGazi />
+          </div>
         </div>
 
-        <nav class="text-center uppercase font-bold mb-auto">
-          <ul>
-            <li>
-              <a href="/toc" class="hover:underline">
-                <span>
-                  <span class="text-sm">T</span>
-                  <span class="text-xs">able</span>
-                </span>{" "}
-                <span>
-                  <span class="text-sm">O</span>
-                  <span class="text-xs">f</span>
-                </span>{" "}
-                <span>
-                  <span class="text-sm">C</span>
-                  <span class="text-xs">ontents</span>
-                </span>
-              </a>
-            </li>
-            <li>
-              <a href="/brackets" class="hover:underline">
-                <span>
-                  <span class="text-sm">L</span>
-                  <span class="text-xs">ist</span>
-                </span>{" "}
-                <span>
-                  <span class="text-sm">O</span>
-                  <span class="text-xs">f</span>
-                </span>{" "}
-                <span>
-                  <span class="text-sm">B</span>
-                  <span class="text-xs">racket</span>
-                </span>{" "}
-                <span>
-                  <span class="text-sm">C</span>
-                  <span class="text-xs">ontents</span>
-                </span>
-              </a>
-            </li>
-            <li>
-              <a href="/gazi" class="hover:underline">
-                <span>
-                  <span class="text-sm">G</span>
-                  <span class="text-xs">azi</span>
-                </span>{" "}
-                <span>
-                  <span class="text-sm">P</span>
-                  <span class="text-xs">athseeker</span>
-                </span>
-              </a>
-            </li>
-            <li>
-              <a href="/about" class="hover:underline">
-                <span>
-                  <span class="text-sm">A</span>
-                  <span class="text-xs">bout</span>
-                </span>
-              </a>
-            </li>
-          </ul>
+        <nav class="text-center uppercase font-bold mb-auto max-w-screen-sm mx-auto w-full grid grid-cols-1 lg:grid-cols-2 gap-1 justify-center">
+          {menuItems.map((item) => MenuItem(item))}
         </nav>
 
         <div>
