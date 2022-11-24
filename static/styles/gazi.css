@@ -1,11 +1,11 @@
-svg {
+#Gazi {
   background-color: #ffffff;
   color-scheme: light dark;
 }
 
 @media (prefers-color-scheme: dark) {
-  svg {
-    background-color: #000000;
+  #Gazi {
+    background-color: transparent;
   }
 }
 
