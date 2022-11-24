@@ -80,7 +80,7 @@ export default function Page({ data }: PageProps<AllMedia | null>) {
                   alt="Total Words from the Audiobook/E-book Releases"
                 />
                 <div class="text-xs text-center max-w-[80%] mx-auto mt-3">
-                  <span class="font-semibold">NOTE #1:</span>{" "}
+                  <span class="font-semibold">NOTE:</span>{" "}
                   This uses the Chapter Types from the Web Novel Volumes, as
                   some chapters do not have the same type across releases (e.g.
                   {" "}

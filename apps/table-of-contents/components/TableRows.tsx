@@ -54,6 +54,39 @@ const getBookTitle = (
   );
 };
 
+const REGEX_LETTERED_CHAPTER = /Chapter \d{1,2}(?:(?: \- )|(?:\: ))/;
+
+const getAudioBookChapterTitle = (title: string | null) => {
+  if (title === null) return null;
+
+  const isLetteredChapter = title.match(REGEX_LETTERED_CHAPTER);
+  if (!isLetteredChapter) {
+    return <span>{title}</span>;
+  }
+
+  const prefix = isLetteredChapter[0];
+  const suffix = title.replace(prefix, "");
+  const suffixStart = suffix[0] ?? "";
+  const suffixEnd = suffix.slice(1);
+
+  return (
+    <span>
+      {prefix}
+      <span
+        style="cursor: pointer; user-select: all;"
+        title="Highlight to reveal the chapter title."
+      >
+        {suffixStart}
+        <span style="border-bottom-width: 1.5px;">
+          <span style="color: transparent;">
+            {suffixEnd}
+          </span>
+        </span>
+      </span>
+    </span>
+  );
+};
+
 interface Props {
   rows: TableRowData[];
   audioBookMap: Map<number, AudioBook>;
@@ -121,7 +154,7 @@ export default function TableRows({ rows, audioBookMap, eBookMap }: Props) {
                 {audioBook ? getBookTitle(audioBook) : null}
               </td>
               <td class="px-2">
-                {row.audioBookTitle}
+                {getAudioBookChapterTitle(row.audioBookTitle)}
               </td>
               <td class="px-2 text-center">
                 {formatSeconds(row.audioBookTotalSeconds)}
