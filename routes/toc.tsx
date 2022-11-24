@@ -51,7 +51,7 @@ export default function Page({ data }: PageProps<AllMedia | null>) {
             />
           </div>
 
-          <div class="mt-10">
+          <div class="max-w-[2000px] mx-auto mt-10">
             <h2
               id="statistics"
               class="uppercase text-center text-xl font-bold text-gray-800 mb-5"
