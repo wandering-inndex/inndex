@@ -3,7 +3,7 @@
 ![Deno Version](https://img.shields.io/badge/deno-v1.26.2-black)
 ![License](https://img.shields.io/badge/license-MIT-blue)
 
-![The Wandering Inndex Logo](./static/banner.png)
+![The Wandering Inndex Logo](./static/ogp.png)
 
 > **IMPORTANT NOTICE**: Copyright for almost all the text in this repository goes to the author, **pirateaba**. Please support them through their official channels:
 >
