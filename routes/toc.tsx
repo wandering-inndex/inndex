@@ -49,6 +49,45 @@ export default function Page({ data }: PageProps<AllMedia | null>) {
             <TableOfContents
               {...{ chapters, webVolumes, eBooks, audioBooks }}
             />
+            <div class="text-xs mt-3">
+              <div>
+                <span class="font-semibold">NOTE #1:</span>{" "}
+                The total words are calculated using{" "}
+                <a
+                  href="https://wordcounter.net/"
+                  class="font-semibold"
+                  target="_blank"
+                >
+                  WordCounter
+                </a>
+                {". "}
+                The chapter title, announcements, author's notes, list of fan
+                works, and other sections are not included in the final count.
+                The total words might change as the author edits the chapters.
+                Since this list is manually updated, the latest data might not
+                be reflected.
+              </div>
+              <div>
+                <span class="font-semibold">NOTE #2:</span>{" "}
+                To check the list of diffs over time, you can head over to{" "}
+                <a
+                  href="https://wanderinginn.neocities.org"
+                  class="font-semibold"
+                  target="_blank"
+                >
+                  wanderinginn.neocities.org
+                </a>. They also have an automatically updated{"  "}
+                <a
+                  href="https://wanderinginn.neocities.org/statistics.html"
+                  class="font-semibold"
+                  target="_blank"
+                >
+                  statistics page
+                </a>{" "}
+                that contains the total words per chapter without the author's
+                notes being removed.
+              </div>
+            </div>
           </div>
 
           <div class="max-w-[2000px] mx-auto mt-10">
