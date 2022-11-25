@@ -1,7 +1,12 @@
 import { Handlers, PageProps } from "$fresh/server.ts";
 import { Head } from "$fresh/runtime.ts";
 
+import type { ComponentChildren } from "preact";
+
 import { AllMedia, DEFAULT_ALL_MEDIA } from "@apps/seed/models/media.ts";
+import { formatWordCount } from "@apps/table-of-contents/utils.ts";
+import { MediaTypes } from "@apps/table-of-contents/models.ts";
+
 import {
   DEFAULT_SITE_DESCRIPTION,
   DEFAULT_SITE_NAME,
@@ -9,9 +14,9 @@ import {
 import DocumentHead from "../components/document/DocumentHead.tsx";
 import SiteHeader from "../components/ui/SiteHeader.tsx";
 import SiteFooter from "../components/ui/SiteFooter.tsx";
+import TableOfContents from "../islands/TableOfContents.tsx";
 
 import { handler as allMediaHandler } from "./api/media/index.ts";
-import TableOfContents from "../islands/TableOfContents.tsx";
 
 export const handler: Handlers<AllMedia | null> = {
   async GET(req, ctx) {
@@ -21,12 +26,80 @@ export const handler: Handlers<AllMedia | null> = {
   },
 };
 
+interface StatsContainerProps {
+  title: string;
+  link: string;
+  children: ComponentChildren;
+  mediaType: MediaTypes;
+}
+
+function StatsContainer(
+  { title, link, mediaType, children }: StatsContainerProps,
+) {
+  return (
+    <>
+      <div
+        class={`text-center p-3 md:p-5 text-xl ${
+          mediaType === MediaTypes.WEBNOVEL ? "bg-[#0a0a0a] text-[#eeeeee]" : ""
+        } ${
+          mediaType === MediaTypes.AUDIOBOOK ? "bg-[#f7991c] text-black" : ""
+        } ${mediaType === MediaTypes.EBOOK ? "bg-[#3686b2] text-white" : ""}`}
+      >
+        <h3 class="uppercase font-semibold text-2xl">
+          <a href={link} target="_blank">{title}</a>
+        </h3>
+        <div>
+          {children}
+        </div>
+      </div>
+    </>
+  );
+}
+
+interface StatsEntryProps {
+  value: number | string;
+  units: string;
+  notes?: string;
+}
+
+function StatsEntry({ value, units, notes }: StatsEntryProps) {
+  const hasNotes = (notes ?? "") !== "";
+  return (
+    <>
+      <div class="">
+        <div>
+          <span class="font-bold text-lg">
+            {value}
+          </span>{" "}
+          <span>
+            {units}
+            {hasNotes && "*"}
+          </span>
+        </div>
+        {hasNotes && <div class="text-sm italic">*{notes}</div>}
+      </div>
+    </>
+  );
+}
+
 export default function Page({ data }: PageProps<AllMedia | null>) {
   if (data === null) {
     data = DEFAULT_ALL_MEDIA;
   }
 
   const { chapters, eBooks, audioBooks, webVolumes } = data;
+
+  const webNovelChapters = chapters.filter((chapter) => {
+    return (chapter.partOf.webNovel?.ref ?? 0) > 0;
+  });
+  const webNovelTotalWords = webNovelChapters.map(
+    (chapter) => chapter.partOf.webNovel?.totalWords ?? 0,
+  ).reduce((a, b) => a + b, 0);
+  const audioBookTotalHours =
+    audioBooks.map((audioBook) => audioBook.totalLength ?? 0.00)
+      .reduce((a, b) => a + b, 0.00) / 60.00;
+  const eBookTotalPages = eBooks.map((eBook) => eBook.totalLength ?? 0)
+    .reduce((a, b) => a + b, 0);
 
   return (
     <>
@@ -92,11 +165,59 @@ export default function Page({ data }: PageProps<AllMedia | null>) {
 
           <div class="max-w-[2000px] mx-auto mt-10">
             <h2
-              id="statistics"
+              id="stats"
               class="uppercase text-center text-xl font-bold text-gray-800 mb-5"
             >
               Some statistics
             </h2>
+
+            <div class="grid grid-cols-1 sm:grid-cols-3 justify-center mb-5">
+              <StatsContainer
+                title="Web Novel"
+                link="https://wanderinginn.com/table-of-contents/"
+                mediaType={MediaTypes.WEBNOVEL}
+              >
+                <StatsEntry value={webVolumes.length} units="volumes" />
+                <StatsEntry
+                  value={webNovelChapters.length}
+                  units="chapters"
+                />
+                <StatsEntry
+                  value={formatWordCount(
+                    webNovelTotalWords,
+                  )}
+                  units="words"
+                />
+              </StatsContainer>
+
+              <StatsContainer
+                title="Audiobook"
+                link="https://www.audible.com/series/The-Wandering-Inn-Audiobooks/B07X3TZ2YQ"
+                mediaType={MediaTypes.AUDIOBOOK}
+              >
+                <StatsEntry value={audioBooks.length} units="releases" />
+                <StatsEntry
+                  value={audioBookTotalHours}
+                  units="hours"
+                  notes="based on Audible product pages"
+                />
+              </StatsContainer>
+
+              <StatsContainer
+                title="E-book"
+                link="https://www.amazon.com/dp/B099JFQ9YR"
+                mediaType={MediaTypes.EBOOK}
+              >
+                <StatsEntry value={eBooks.length} units="releases" />
+                <StatsEntry
+                  value={formatWordCount(
+                    eBookTotalPages,
+                  )}
+                  units="pages"
+                  notes="based on Amazon product pages"
+                />
+              </StatsContainer>
+            </div>
 
             <div class="grid grid-cols-1 lg:grid-cols-2 gap-4 justify-center">
               <div>
@@ -118,18 +239,24 @@ export default function Page({ data }: PageProps<AllMedia | null>) {
                   class="mx-auto max-h-[60vh]"
                   alt="Total Words from the Audiobook/E-book Releases"
                 />
-                <div class="text-xs text-center max-w-[80%] mx-auto mt-3">
-                  <span class="font-semibold">NOTE:</span>{" "}
-                  This uses the Chapter Types from the Web Novel Volumes, as
-                  some chapters do not have the same type across releases (e.g.
-                  {" "}
-                  <a href="#twiwnch0023011" class="font-semibold">
-                    Volume 1 Interlude – 1.00 R
-                  </a>{" "}
-                  or{" "}
-                  <a href="#twiwnch0138011" class="font-semibold">
-                    Volume 3 Chapter 3.13
-                  </a>).
+                <div class="text-xs max-w-[80%] mx-auto mt-3">
+                  <div>
+                    <span class="font-semibold">NOTE #1:</span>{" "}
+                    This uses the word counts from the Web Novel Volumes.
+                  </div>
+                  <div>
+                    <span class="font-semibold">NOTE #2:</span>{" "}
+                    This uses the Chapter Types from the Web Novel Volumes, as
+                    some chapters do not have the same type across releases
+                    (e.g.{" "}
+                    <a href="#twiwnch0023011" class="font-semibold">
+                      Volume 1 Interlude – 1.00 R
+                    </a>{" "}
+                    or{" "}
+                    <a href="#twiwnch0138011" class="font-semibold">
+                      Volume 3 Chapter 3.13
+                    </a>).
+                  </div>
                 </div>
               </div>
               <div>
