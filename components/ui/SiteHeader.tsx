@@ -1,3 +1,5 @@
+import StaticSiteLogoLine from "../images/StaticSiteLogoLine.tsx";
+
 export default function SiteHeader() {
   return (
     <>
@@ -5,19 +7,9 @@ export default function SiteHeader() {
         <a
           href="/"
           title="The Wandering Inndex - A fan-made index for The Wandering Inn, a universe by pirateaba."
+          class="block mx-auto w-[15rem]"
         >
-          <span>
-            <span class="text-sm">T</span>
-            <span class="text-xs">he</span>
-          </span>{" "}
-          <span>
-            <span class="text-sm">W</span>
-            <span class="text-xs">andering</span>
-          </span>{" "}
-          <span>
-            <span class="text-sm">I</span>
-            <span class="text-xs">nndex</span>
-          </span>
+          <StaticSiteLogoLine />
         </a>
       </nav>
     </>

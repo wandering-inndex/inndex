@@ -1,4 +1,6 @@
-import { Head } from "$fresh/runtime.ts";
+import { asset, Head } from "$fresh/runtime.ts";
+
+import type { ComponentChildren } from "preact";
 
 import {
   DEFAULT_SITE_DESCRIPTION,
@@ -7,6 +9,27 @@ import {
 import SiteHeader from "../components/ui/SiteHeader.tsx";
 import DocumentHead from "../components/document/DocumentHead.tsx";
 import SiteFooter from "../components/ui/SiteFooter.tsx";
+import StaticGazi from "../components/images/StaticGazi.tsx";
+import StaticSiteLogoLine from "../components/images/StaticSiteLogoLine.tsx";
+import StaticSiteLogoStackedWithSubtitle from "../components/images/StaticSiteLogoStackedWithSubtitle.tsx";
+
+interface SectionProps {
+  title: string;
+  children: ComponentChildren;
+}
+
+function Section({ title, children }: SectionProps) {
+  return (
+    <>
+      <h1 class="text-xl uppercase text-center">
+        {title}
+      </h1>
+      <div class="text-left flex flex-col gap-4">
+        {children}
+      </div>
+    </>
+  );
+}
 
 export default function Page() {
   return (
@@ -20,6 +43,8 @@ export default function Page() {
           property="description"
           content={DEFAULT_SITE_DESCRIPTION}
         />
+
+        <link rel="stylesheet" href={asset("/styles/gazi.css")}></link>
       </Head>
 
       <div class="min-h-screen justify-between flex flex-col">
@@ -27,11 +52,7 @@ export default function Page() {
           <SiteHeader />
 
           <div class="max-w-screen-md mx-auto flex flex-col gap-4">
-            <h1 class="text-xl uppercase text-center">
-              About The Wandering Inn
-            </h1>
-
-            <div class="text-left flex flex-col gap-4">
+            <Section title="About The Wandering Inn">
               <p>
                 <a
                   href="https://wanderinginn.com"
@@ -110,13 +131,9 @@ export default function Page() {
                   1.08 million words
                 </a>.
               </p>
-            </div>
+            </Section>
 
-            <h1 class="text-xl uppercase text-center">
-              About The Wandering Inndex
-            </h1>
-
-            <div class="text-left flex flex-col gap-4">
+            <Section title="About The Wandering Inndex">
               <p>
                 The Wandering Inndex is a fan-made site for the{" "}
                 <a
@@ -207,7 +224,53 @@ export default function Page() {
                   </a>.
                 </span>
               </p>
-            </div>
+            </Section>
+
+            <Section title="About the images used on the website">
+              <div class="w-1/2 mx-auto">
+                <StaticSiteLogoLine />
+                <StaticSiteLogoStackedWithSubtitle />
+              </div>
+              <p>
+                The text logos are created in{" "}
+                <a
+                  href="https://www.figma.com/"
+                  class="font-semibold text-gray-700 hover:underline"
+                  target="_blank"
+                >
+                  Figma
+                </a>, using the font{" "}
+                <a
+                  href="https://www.theleagueofmoveabletype.com/sorts-mill-goudy"
+                  class="font-semibold text-gray-700 hover:underline"
+                  target="_blank"
+                >
+                  Sorts Mill Goudy
+                </a>.
+              </p>
+
+              <div class="w-1/2 mx-auto">
+                <StaticGazi />
+              </div>
+              <p>
+                This is a fanart of{" "}
+                <a
+                  href="https://thewanderinginn.fandom.com/wiki/Gazi_Pathseeker"
+                  class="font-semibold text-gray-700 hover:underline"
+                  target="_blank"
+                >
+                  Gazi Pathseeker
+                </a>, a character from The Wandering Inn, who first appeared in
+                {" "}
+                <a
+                  href="https://wanderinginn.com/2016/12/04/1-29/"
+                  class="font-semibold text-gray-700 hover:underline"
+                  target="_blank"
+                >
+                  Volume 1 Chapter 1.29
+                </a>.
+              </p>
+            </Section>
           </div>
         </div>
 
