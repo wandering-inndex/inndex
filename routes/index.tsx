@@ -6,9 +6,9 @@ import {
 } from "../constants/site.ts";
 import SiteFooter from "../components/ui/SiteFooter.tsx";
 import DocumentHead from "../components/document/DocumentHead.tsx";
+import SiteHeader from "../components/ui/SiteHeader.tsx";
 
 import InteractiveGazi from "../islands/InteractiveGazi.tsx";
-import WanderingSiteLogo from "../islands/WanderingSiteLogo.tsx";
 
 interface MenuItemProps {
   url: string;
@@ -73,9 +73,11 @@ export default function Page() {
         <link rel="stylesheet" href={asset("/styles/gazi.css")}></link>
       </Head>
 
-      <WanderingSiteLogo />
-
       <div class="min-h-screen justify-between flex flex-col">
+        <div class="p-4 text-sm text-gray-900 mb-auto min-w-[98vw]">
+          <SiteHeader />
+        </div>
+
         <div class="p-4 mx-auto text-sm text-gray-900">
           <div class="m-auto">
             <InteractiveGazi />
