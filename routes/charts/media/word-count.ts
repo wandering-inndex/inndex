@@ -52,6 +52,9 @@ export const handler: Handlers = {
       });
     }
 
+    const totalChaptersPerCollection: number[] = new Array(collections.length)
+      .fill(0);
+
     const resChapters = await Surreal.Instance.query<Result<Chapter[]>[]>(
       qChapters,
       { onlyRewrite: false },
@@ -102,6 +105,7 @@ export const handler: Handlers = {
           const thisChapterWordCount = chapter.partOf.webNovel?.totalWords ?? 0;
           collectionWordCount[chapterType][webNovelRef - 1] = currentWordCount +
             thisChapterWordCount;
+          totalChaptersPerCollection[webNovelRef - 1] += 1;
         }
       } else if (mediaType === MediaTypes.AUDIOBOOK) {
         const audioBookRef = chapter.partOf.audioBook?.ref ?? 0;
@@ -113,6 +117,7 @@ export const handler: Handlers = {
           collectionWordCount[chapterType][audioBookRef - 1] =
             currentWordCount +
             thisChapterWordCount;
+          totalChaptersPerCollection[audioBookRef - 1] += 1;
         }
       } else if (mediaType === MediaTypes.EBOOK) {
         const electronicBookRef = chapter.partOf.eBook?.ref ?? 0;
@@ -124,6 +129,7 @@ export const handler: Handlers = {
           collectionWordCount[chapterType][electronicBookRef - 1] =
             currentWordCount +
             thisChapterWordCount;
+          totalChaptersPerCollection[electronicBookRef - 1] += 1;
         }
       }
     });
@@ -138,7 +144,18 @@ export const handler: Handlers = {
             collectionWordCount.SIDE_STORY[index] +
             collectionWordCount.MINI_STORY[index] +
             collectionWordCount.OTHER[index];
-          return [col.title, `${formatWordCount(wordCount)} words`];
+          const totalChapters = totalChaptersPerCollection[index];
+          let average = 0;
+          if (totalChapters > 0) {
+            average = wordCount / totalChapters;
+          }
+          average = Math.round(average);
+          return [
+            col.title,
+            `${totalChapters} chapters`,
+            `${formatWordCount(wordCount)} words`,
+            `~${formatWordCount(average)} WPC`,
+          ];
         }),
         datasets: [
           {

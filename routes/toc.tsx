@@ -242,7 +242,7 @@ export default function Page({ data }: PageProps<AllMedia | null>) {
                 <div class="text-xs max-w-[80%] mx-auto mt-3">
                   <div>
                     <span class="font-semibold">NOTE #1:</span>{" "}
-                    This uses the word counts from the Web Novel Volumes.
+                    This uses the word counts from their Web Novel counterparts.
                   </div>
                   <div>
                     <span class="font-semibold">NOTE #2:</span>{" "}
