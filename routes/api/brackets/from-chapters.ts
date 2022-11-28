@@ -13,22 +13,26 @@ MATCH (bc:BracketContent)-[:MENTIONED_IN]->(c)
 
 const qWhereWebNovelOrder = `
 WHERE c.webNovelOrder > 0
-  AND c.webNovelOrder <= $chapterIndex
+  AND c.webNovelOrder >= $chapterIndexFrom
+  AND c.webNovelOrder <= $chapterIndexTo
 `;
 
 const qWhereWebNovelRewriteOrder = `
 WHERE c.webNovelRewriteOrder > 0
-  AND c.webNovelRewriteOrder <= $chapterIndex
+  AND c.webNovelRewriteOrder >= $chapterIndexFrom
+  AND c.webNovelRewriteOrder <= $chapterIndexTo
 `;
 
 const qWhereAudioBookOrder = `
 WHERE c.audioBookOrder > 0
-  AND c.audioBookOrder <= $chapterIndex
+  AND c.audioBookOrder >= $chapterIndexFrom
+  AND c.audioBookOrder <= $chapterIndexTo
 `;
 
 const qWhereElectronicBookOrder = `
 WHERE c.eBookOrder > 0
-  AND c.eBookOrder <= $chapterIndex
+  AND c.eBookOrder >= $chapterIndexFrom
+  AND c.eBookOrder <= $chapterIndexTo
 `;
 
 const qWithAndReturn = `
@@ -52,10 +56,14 @@ export const handler: Handler = async (request): Promise<Response> => {
     collectionType = MediaTypes.EBOOK;
   }
 
-  const qChapterIndex = url.searchParams.get("chapterIndex") || "1000";
-  const chapterIndex = isNaN(Number(qChapterIndex))
+  const qChapterIndexFrom = url.searchParams.get("start") || "0";
+  const chapterIndexFrom = isNaN(Number(qChapterIndexFrom))
+    ? 0
+    : Number(qChapterIndexFrom);
+  const qChapterIndexTo = url.searchParams.get("end") || "1000";
+  const chapterIndexTo = isNaN(Number(qChapterIndexTo))
     ? 1000
-    : Number(qChapterIndex);
+    : Number(qChapterIndexTo);
 
   const [driver, err] = getDriver();
   if (err !== null) return Response.error();
@@ -78,7 +86,7 @@ export const handler: Handler = async (request): Promise<Response> => {
 
   try {
     const result = await session.executeRead((tx) =>
-      tx.run(query, { chapterIndex })
+      tx.run(query, { chapterIndexFrom, chapterIndexTo })
     );
     const records = result.records;
     for (let i = 0; i < records.length; i++) {

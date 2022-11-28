@@ -89,7 +89,8 @@ interface TableOfBracketsChatHelperProps {
   electronicBookChapters: BasicChapterForBracketsList[];
   handleSubmitData: (
     collectionType: MediaTypes,
-    chapterIndex: number,
+    start: number,
+    end: number,
   ) => void;
 }
 
@@ -104,85 +105,155 @@ function TableOfBracketsChatHelper(
     handleSubmitData,
   }: TableOfBracketsChatHelperProps,
 ) {
-  const [collectionRef, setCollectionRef] = useState<number>(
+  const [fromCollectionRef, setFromCollectionRef] = useState<number>(1);
+  const [fromCollectionIndex, setFromCollectionIndex] = useState<number>(0);
+  const [toCollectionRef, setToCollectionRef] = useState<number>(
     webVolumeReleases.length,
   );
-  const [collectionIndex, setCollectionIndex] = useState<number>(0);
+  const [toCollectionIndex, setToCollectionIndex] = useState<number>(0);
 
   // START: Create Chapter Choices
-  const mapWebVolumeChapterChoice = new Map<number, Choice[]>();
-  const mapAudioBookChapterChoice = new Map<number, Choice[]>();
-  const mapElectronicBookChapterChoice = new Map<number, Choice[]>();
+  const mapFromWebVolumeChapterChoice = new Map<number, Choice[]>();
+  const mapFromAudioBookChapterChoice = new Map<number, Choice[]>();
+  const mapFromElectronicBookChapterChoice = new Map<number, Choice[]>();
+  const mapToWebVolumeChapterChoice = new Map<number, Choice[]>();
+  const mapToAudioBookChapterChoice = new Map<number, Choice[]>();
+  const mapToElectronicBookChapterChoice = new Map<number, Choice[]>();
   // The default choice for a completed media type.
-  const completedChoice: Choice = {
+  const completedToChoice: Choice = {
     key: "0",
     order: 0,
     text: "(everything)",
     classNames: [],
     handleClick: () => {
-      setCollectionIndex(0);
+      setToCollectionIndex(0);
     },
   };
   // END: Create Chapter Choices
 
   // START: Create Media Choices
   // Set Web Volume Choices.
-  const webVolumeChoices: Choice[] = [];
+  const fromWebVolumeChoices: Choice[] = [];
+  const toWebVolumeChoices: Choice[] = [];
   webVolumeReleases.forEach((collection) => {
-    const chapterChoices = webVolumeChapters.filter((chapter) =>
+    const colData = webVolumeChapters.filter((chapter) =>
       chapter.ref === collection.index
-    ).map((chapter) => createChapterChoice(chapter, setCollectionIndex));
-    mapWebVolumeChapterChoice.set(collection.index, [
-      completedChoice,
-      ...chapterChoices,
+    );
+
+    const fromChapterChoices = colData.map((chapter) =>
+      createChapterChoice(chapter, setFromCollectionIndex)
+    );
+    mapFromWebVolumeChapterChoice.set(collection.index, [
+      ...fromChapterChoices,
     ]);
-    webVolumeChoices.push({
+    fromWebVolumeChoices.push({
       key: collection.id,
       text: collection.title,
       classNames: [],
       handleClick: () => {
-        setCollectionRef(collection.index);
-        setCollectionIndex(0);
+        setFromCollectionRef(collection.index);
+        setFromCollectionIndex(0);
+        setToCollectionRef(collection.index);
+        setToCollectionIndex(0);
+      },
+    });
+
+    const toChapterChoices = colData.map((chapter) =>
+      createChapterChoice(chapter, setToCollectionIndex)
+    );
+    mapToWebVolumeChapterChoice.set(collection.index, [
+      completedToChoice,
+      ...toChapterChoices,
+    ]);
+    toWebVolumeChoices.push({
+      key: collection.id,
+      text: collection.title,
+      classNames: [],
+      handleClick: () => {
+        setToCollectionRef(collection.index);
+        setToCollectionIndex(0);
       },
     });
   });
   // Set Audio Book Choices.
-  const audioBookChoices: Choice[] = [];
+  const fromAudioBookChoices: Choice[] = [];
+  const toAudioBookChoices: Choice[] = [];
   audioBookReleases.forEach((collection) => {
-    const chapterChoices = audioBookChapters.filter((chapter) =>
+    const colData = audioBookChapters.filter((chapter) =>
       chapter.ref === collection.index
-    ).map((chapter) => createChapterChoice(chapter, setCollectionIndex));
-    mapAudioBookChapterChoice.set(collection.index, [
-      completedChoice,
-      ...chapterChoices,
+    );
+
+    const fromChapterChoices = colData.map((chapter) =>
+      createChapterChoice(chapter, setFromCollectionIndex)
+    );
+    mapFromAudioBookChapterChoice.set(collection.index, [
+      ...fromChapterChoices,
     ]);
-    audioBookChoices.push({
+    fromAudioBookChoices.push({
       key: collection.id,
       text: `#${collection.index}: ${collection.title}`,
       classNames: [],
       handleClick: () => {
-        setCollectionRef(collection.index);
-        setCollectionIndex(0);
+        setFromCollectionRef(collection.index);
+        setFromCollectionIndex(0);
+      },
+    });
+
+    const toChapterChoices = colData.map((chapter) =>
+      createChapterChoice(chapter, setToCollectionIndex)
+    );
+    mapToAudioBookChapterChoice.set(collection.index, [
+      completedToChoice,
+      ...toChapterChoices,
+    ]);
+    toAudioBookChoices.push({
+      key: collection.id,
+      text: `#${collection.index}: ${collection.title}`,
+      classNames: [],
+      handleClick: () => {
+        setToCollectionRef(collection.index);
+        setToCollectionIndex(0);
       },
     });
   });
   // Set Electronic Book Choices.
-  const electronicBookChoices: Choice[] = [];
+  const fromElectronicBookChoices: Choice[] = [];
+  const toElectronicBookChoices: Choice[] = [];
   electronicBookReleases.forEach((collection) => {
-    const chapterChoices = electronicBookChapters.filter((chapter) =>
+    const colData = electronicBookChapters.filter((chapter) =>
       chapter.ref === collection.index
-    ).map((chapter) => createChapterChoice(chapter, setCollectionIndex));
-    mapElectronicBookChapterChoice.set(collection.index, [
-      completedChoice,
-      ...chapterChoices,
+    );
+
+    const fromChapterChoices = colData.filter((chapter) =>
+      chapter.ref === collection.index
+    ).map((chapter) => createChapterChoice(chapter, setFromCollectionIndex));
+    mapFromElectronicBookChapterChoice.set(collection.index, [
+      ...fromChapterChoices,
     ]);
-    electronicBookChoices.push({
+    fromElectronicBookChoices.push({
       key: collection.id,
       text: `#${collection.index}: ${collection.title}`,
       classNames: [],
       handleClick: () => {
-        setCollectionRef(collection.index);
-        setCollectionIndex(0);
+        setFromCollectionRef(collection.index);
+        setFromCollectionIndex(0);
+      },
+    });
+
+    const toChapterChoices = colData.filter((chapter) =>
+      chapter.ref === collection.index
+    ).map((chapter) => createChapterChoice(chapter, setToCollectionIndex));
+    mapToElectronicBookChapterChoice.set(collection.index, [
+      completedToChoice,
+      ...toChapterChoices,
+    ]);
+    toElectronicBookChoices.push({
+      key: collection.id,
+      text: `#${collection.index}: ${collection.title}`,
+      classNames: [],
+      handleClick: () => {
+        setToCollectionRef(collection.index);
+        setToCollectionIndex(0);
       },
     });
   });
@@ -195,74 +266,153 @@ function TableOfBracketsChatHelper(
     MediaTypeValues
   >(DEFAULT_MEDIA_TYPE_VALUES);
 
-  const collectionRefChoices = useCallback((): Choice[] => {
-    if (mediaType === MediaTypes.WEBNOVEL) return webVolumeChoices;
-    if (mediaType === MediaTypes.AUDIOBOOK) return audioBookChoices;
-    if (mediaType === MediaTypes.EBOOK) return electronicBookChoices;
+  const fromCollectionRefChoices = useCallback((): Choice[] => {
+    if (mediaType === MediaTypes.WEBNOVEL) return fromWebVolumeChoices;
+    if (mediaType === MediaTypes.AUDIOBOOK) return fromAudioBookChoices;
+    if (mediaType === MediaTypes.EBOOK) return fromElectronicBookChoices;
     return [];
   }, [mediaType]);
-  const collectionRefValue = useCallback((): string => {
+  const toCollectionRefChoices = useCallback((): Choice[] => {
+    if (mediaType === MediaTypes.WEBNOVEL) return toWebVolumeChoices;
+    if (mediaType === MediaTypes.AUDIOBOOK) return toAudioBookChoices;
+    if (mediaType === MediaTypes.EBOOK) return toElectronicBookChoices;
+    return [];
+  }, [mediaType]);
+
+  const fromCollectionRefValue = useCallback((): string => {
     if (mediaType === MediaTypes.WEBNOVEL) {
-      if (collectionRef === 0) {
+      if (fromCollectionRef === 0) {
         return webVolumeReleases[webVolumeReleases.length - 1].title;
       }
-      return webVolumeReleases.find((item) => item.index === collectionRef)
+      return webVolumeReleases.find((item) => item.index === fromCollectionRef)
         ?.title ??
         "";
     }
     if (mediaType === MediaTypes.AUDIOBOOK) {
-      if (collectionRef === 0) {
+      if (fromCollectionRef === 0) {
         return audioBookReleases[audioBookReleases.length - 1].title;
       }
       const title = audioBookReleases.find((item) =>
-        item.index === collectionRef
+        item.index === fromCollectionRef
       )
         ?.title ??
         "";
-      return `#${collectionRef}: ${title}`;
+      return `#${fromCollectionRef}: ${title}`;
     }
     if (mediaType === MediaTypes.EBOOK) {
-      if (collectionRef === 0) {
+      if (fromCollectionRef === 0) {
         return electronicBookReleases[electronicBookReleases.length - 1].title;
       }
       const title = electronicBookReleases.find((item) =>
-        item.index === collectionRef
+        item.index === fromCollectionRef
       )
         ?.title ?? "";
-      return `#${collectionRef}: ${title}`;
+      return `#${fromCollectionRef}: ${title}`;
     }
     return "";
-  }, [mediaType, collectionRef]);
-
-  const collectionIndexChoices = useCallback((): Choice[] => {
+  }, [mediaType, fromCollectionRef]);
+  const toCollectionRefValue = useCallback((): string => {
     if (mediaType === MediaTypes.WEBNOVEL) {
-      return mapWebVolumeChapterChoice.get(collectionRef) ?? [];
+      if (toCollectionRef === 0) {
+        return webVolumeReleases[webVolumeReleases.length - 1].title;
+      }
+      return webVolumeReleases.find((item) => item.index === toCollectionRef)
+        ?.title ??
+        "";
     }
     if (mediaType === MediaTypes.AUDIOBOOK) {
-      return mapAudioBookChapterChoice.get(collectionRef) ?? [];
+      if (toCollectionRef === 0) {
+        return audioBookReleases[audioBookReleases.length - 1].title;
+      }
+      const title = audioBookReleases.find((item) =>
+        item.index === toCollectionRef
+      )
+        ?.title ??
+        "";
+      return `#${toCollectionRef}: ${title}`;
     }
     if (mediaType === MediaTypes.EBOOK) {
-      return mapElectronicBookChapterChoice.get(collectionRef) ?? [];
+      if (toCollectionRef === 0) {
+        return electronicBookReleases[electronicBookReleases.length - 1].title;
+      }
+      const title = electronicBookReleases.find((item) =>
+        item.index === toCollectionRef
+      )
+        ?.title ?? "";
+      return `#${toCollectionRef}: ${title}`;
+    }
+    return "";
+  }, [mediaType, toCollectionRef]);
+
+  const fromCollectionIndexChoices = useCallback((): Choice[] => {
+    if (mediaType === MediaTypes.WEBNOVEL) {
+      return mapFromWebVolumeChapterChoice.get(fromCollectionRef) ?? [];
+    }
+    if (mediaType === MediaTypes.AUDIOBOOK) {
+      return mapFromAudioBookChapterChoice.get(fromCollectionRef) ?? [];
+    }
+    if (mediaType === MediaTypes.EBOOK) {
+      return mapFromElectronicBookChapterChoice.get(fromCollectionRef) ?? [];
     }
     return [];
-  }, [mediaType, collectionRef]);
-  const collectionIndexValue = useCallback((): string => {
+  }, [mediaType, fromCollectionRef]);
+  const toCollectionIndexChoices = useCallback((): Choice[] => {
     if (mediaType === MediaTypes.WEBNOVEL) {
-      const choices = mapWebVolumeChapterChoice.get(collectionRef) ?? [];
-      return choices.find((item) => item.order === collectionIndex)?.text ??
+      return mapToWebVolumeChapterChoice.get(toCollectionRef) ?? [];
+    }
+    if (mediaType === MediaTypes.AUDIOBOOK) {
+      return mapToAudioBookChapterChoice.get(toCollectionRef) ?? [];
+    }
+    if (mediaType === MediaTypes.EBOOK) {
+      return mapToElectronicBookChapterChoice.get(toCollectionRef) ?? [];
+    }
+    return [];
+  }, [mediaType, toCollectionRef]);
+
+  const fromCollectionIndexValue = useCallback((): string => {
+    if (mediaType === MediaTypes.WEBNOVEL) {
+      const choices = mapFromWebVolumeChapterChoice.get(fromCollectionRef) ??
+        [];
+      if (fromCollectionIndex === 0) return choices[0]?.text ?? "";
+      return choices.find((item) => item.order === fromCollectionIndex)?.text ??
         "";
     }
     if (mediaType === MediaTypes.AUDIOBOOK) {
-      const choices = mapAudioBookChapterChoice.get(collectionRef) ?? [];
-      return choices.find((item) => item.order === collectionIndex)?.text ??
+      const choices = mapFromAudioBookChapterChoice.get(fromCollectionRef) ??
+        [];
+      if (fromCollectionIndex === 0) return choices[0]?.text ?? "";
+      return choices.find((item) => item.order === fromCollectionIndex)?.text ??
         "";
     }
     if (mediaType === MediaTypes.EBOOK) {
-      const choices = mapElectronicBookChapterChoice.get(collectionRef) ?? [];
-      return choices.find((item) => item.order === collectionIndex)?.text ?? "";
+      const choices =
+        mapFromElectronicBookChapterChoice.get(fromCollectionRef) ??
+          [];
+      if (fromCollectionIndex === 0) return choices[0]?.text ?? "";
+      return choices.find((item) => item.order === fromCollectionIndex)?.text ??
+        "";
     }
     return "";
-  }, [mediaType, collectionRef, collectionIndex]);
+  }, [mediaType, fromCollectionRef, fromCollectionIndex]);
+  const toCollectionIndexValue = useCallback((): string => {
+    if (mediaType === MediaTypes.WEBNOVEL) {
+      const choices = mapToWebVolumeChapterChoice.get(toCollectionRef) ?? [];
+      return choices.find((item) => item.order === toCollectionIndex)?.text ??
+        "";
+    }
+    if (mediaType === MediaTypes.AUDIOBOOK) {
+      const choices = mapToAudioBookChapterChoice.get(toCollectionRef) ?? [];
+      return choices.find((item) => item.order === toCollectionIndex)?.text ??
+        "";
+    }
+    if (mediaType === MediaTypes.EBOOK) {
+      const choices = mapToElectronicBookChapterChoice.get(toCollectionRef) ??
+        [];
+      return choices.find((item) => item.order === toCollectionIndex)?.text ??
+        "";
+    }
+    return "";
+  }, [mediaType, toCollectionRef, toCollectionIndex]);
 
   const possibleMediaTypeChoices: Choice[] = [
     {
@@ -272,8 +422,10 @@ function TableOfBracketsChatHelper(
       handleClick: () => {
         setMediaType(MediaTypes.WEBNOVEL);
         setMediaTypeValue(MediaTypeValues.WEBNOVEL);
-        setCollectionRef(1);
-        setCollectionIndex(0);
+        setFromCollectionRef(1);
+        setFromCollectionIndex(0);
+        setToCollectionRef(1);
+        setToCollectionIndex(0);
       },
     },
     {
@@ -283,8 +435,10 @@ function TableOfBracketsChatHelper(
       handleClick: () => {
         setMediaType(MediaTypes.EBOOK);
         setMediaTypeValue(MediaTypeValues.EBOOK);
-        setCollectionRef(1);
-        setCollectionIndex(0);
+        setFromCollectionRef(1);
+        setFromCollectionIndex(0);
+        setToCollectionRef(1);
+        setToCollectionIndex(0);
       },
     },
     {
@@ -294,8 +448,10 @@ function TableOfBracketsChatHelper(
       handleClick: () => {
         setMediaType(MediaTypes.AUDIOBOOK);
         setMediaTypeValue(MediaTypeValues.AUDIOBOOK);
-        setCollectionRef(1);
-        setCollectionIndex(0);
+        setFromCollectionRef(1);
+        setFromCollectionIndex(0);
+        setToCollectionRef(1);
+        setToCollectionIndex(0);
       },
     },
   ];
@@ -314,48 +470,103 @@ function TableOfBracketsChatHelper(
       open={openMenuKey === DropdownSelections.MEDIA}
     />
   );
-  const chooseCollectionNumber = (
+  const chooseFromCollectionNumber = (
     <DropdownSelector
-      key={DropdownSelections.REF}
-      text={collectionRefValue()}
-      choices={collectionRefChoices()}
-      handleOpen={() => setOpenMenuKey(DropdownSelections.REF)}
+      key={DropdownSelections.FROM_REF}
+      text={fromCollectionRefValue()}
+      choices={fromCollectionRefChoices()}
+      handleOpen={() => setOpenMenuKey(DropdownSelections.FROM_REF)}
       handleClose={() => setOpenMenuKey(DropdownSelections.EMPTY)}
-      open={openMenuKey === DropdownSelections.REF}
+      open={openMenuKey === DropdownSelections.FROM_REF}
     />
   );
-  const chooseChapterNumber = (
+  const chooseFromChapterNumber = (
     <DropdownSelector
-      key={DropdownSelections.INDEX}
-      text={collectionIndexValue()}
-      choices={collectionIndexChoices()}
-      handleOpen={() => setOpenMenuKey(DropdownSelections.INDEX)}
+      key={DropdownSelections.FROM_INDEX}
+      text={fromCollectionIndexValue()}
+      choices={fromCollectionIndexChoices()}
+      handleOpen={() => setOpenMenuKey(DropdownSelections.FROM_INDEX)}
       handleClose={() => setOpenMenuKey(DropdownSelections.EMPTY)}
-      open={openMenuKey === DropdownSelections.INDEX}
+      open={openMenuKey === DropdownSelections.FROM_INDEX}
+    />
+  );
+  const chooseToCollectionNumber = (
+    <DropdownSelector
+      key={DropdownSelections.TO_REF}
+      text={toCollectionRefValue()}
+      choices={toCollectionRefChoices()}
+      handleOpen={() => setOpenMenuKey(DropdownSelections.TO_REF)}
+      handleClose={() => setOpenMenuKey(DropdownSelections.EMPTY)}
+      open={openMenuKey === DropdownSelections.TO_REF}
+    />
+  );
+  const chooseToChapterNumber = (
+    <DropdownSelector
+      key={DropdownSelections.TO_INDEX}
+      text={toCollectionIndexValue()}
+      choices={toCollectionIndexChoices()}
+      handleOpen={() => setOpenMenuKey(DropdownSelections.TO_INDEX)}
+      handleClose={() => setOpenMenuKey(DropdownSelections.EMPTY)}
+      open={openMenuKey === DropdownSelections.TO_INDEX}
     />
   );
 
+  const getStartIndex = (): number => {
+    let start = fromCollectionIndex;
+    if (fromCollectionIndex === 0) {
+      if (mediaType === MediaTypes.WEBNOVEL) {
+        const allChoices =
+          mapFromWebVolumeChapterChoice.get(fromCollectionRef) ?? [];
+        start = allChoices[0].order ?? 0;
+      } else if (mediaType === MediaTypes.AUDIOBOOK) {
+        const allChoices =
+          mapFromAudioBookChapterChoice.get(fromCollectionRef) ?? [];
+        start = allChoices[0].order ?? 0;
+      } else if (mediaType === MediaTypes.EBOOK) {
+        const allChoices =
+          mapFromElectronicBookChapterChoice.get(fromCollectionRef) ??
+            [];
+        start = allChoices[0].order ?? 0;
+      }
+    }
+    return start;
+  };
+
+  const getEndIndex = (): number => {
+    let end = toCollectionIndex;
+    if (toCollectionIndex === 0) {
+      if (mediaType === MediaTypes.WEBNOVEL) {
+        const allChoices = mapToWebVolumeChapterChoice.get(toCollectionRef) ??
+          [];
+        end = allChoices[allChoices.length - 1].order ?? 0;
+      } else if (mediaType === MediaTypes.AUDIOBOOK) {
+        const allChoices = mapToAudioBookChapterChoice.get(toCollectionRef) ??
+          [];
+        end = allChoices[allChoices.length - 1].order ?? 0;
+      } else if (mediaType === MediaTypes.EBOOK) {
+        const allChoices =
+          mapToElectronicBookChapterChoice.get(toCollectionRef) ??
+            [];
+        end = allChoices[allChoices.length - 1].order ?? 0;
+      }
+    }
+    return end;
+  };
+
   const handleSubmit = (): void => {
-    if (collectionIndex !== 0) {
-      handleSubmitData(mediaType, collectionIndex);
+    if (fromCollectionIndex !== 0 && toCollectionIndex !== 0) {
+      handleSubmitData(mediaType, fromCollectionIndex, toCollectionIndex);
       return;
     }
 
-    if (mediaType === MediaTypes.WEBNOVEL) {
-      const allChoices = mapWebVolumeChapterChoice.get(collectionRef) ?? [];
-      const lastChoiceIndex = allChoices[allChoices.length - 1].order ?? 0;
-      handleSubmitData(mediaType, lastChoiceIndex);
-    } else if (mediaType === MediaTypes.AUDIOBOOK) {
-      const allChoices = mapAudioBookChapterChoice.get(collectionRef) ?? [];
-      const lastChoiceIndex = allChoices[allChoices.length - 1].order ?? 0;
-      handleSubmitData(mediaType, lastChoiceIndex);
-    } else if (mediaType === MediaTypes.EBOOK) {
-      const allChoices = mapElectronicBookChapterChoice.get(collectionRef) ??
-        [];
-      const lastChoiceIndex = allChoices[allChoices.length - 1].order ?? 0;
-      handleSubmitData(mediaType, lastChoiceIndex);
-    }
+    const start = getStartIndex();
+    const end = getEndIndex();
+    handleSubmitData(mediaType, start, end);
   };
+
+  const validCollectionRef = fromCollectionRef <= toCollectionRef;
+  const validCollectionIndex = getStartIndex() <= getEndIndex();
+  const validForm = validCollectionRef && validCollectionIndex;
 
   return (
     <>
@@ -367,15 +578,21 @@ function TableOfBracketsChatHelper(
               <code class="bg-gray-100 p-1">
                 [Bracket Contents]
               </code>{" "}
-              up to {chooseMediaType} {chooseCollectionNumber}{" "}
-              {chooseChapterNumber}.
+              mentioned in the {chooseMediaType}, from{" "}
+              {chooseFromCollectionNumber} {chooseFromChapterNumber} up to{" "}
+              {chooseToCollectionNumber} {chooseToChapterNumber}.
             </div>
           </div>
           <div class="flex my-auto">
             <button
               type="button"
-              class="inline-flex flex-grow items-center justify-center rounded-xl md:rounded-full px-4 py-4 transition duration-500 ease-in-out text-white bg-gray-500 hover:bg-gray-400 focus:outline-none"
+              class={`inline-flex flex-grow items-center justify-center rounded-xl md:rounded-full px-4 py-4 transition duration-500 ease-in-out text-white focus:outline-none ${
+                validForm
+                  ? "bg-blue-500 hover:bg-blue-600"
+                  : "bg-gray-500 cursor-not-allowed"
+              }`}
               onClick={handleSubmit}
+              disabled={!validForm}
             >
               <svg
                 xmlns="http://www.w3.org/2000/svg"
@@ -423,10 +640,11 @@ export default function TableOfBracketsBeta(
 
   const handleSubmitData = async (
     collectionType: MediaTypes,
-    chapterIndex: number,
+    start: number,
+    end: number,
   ) => {
     const resp = await fetch(
-      `/api/brackets/from-chapters?collectionType=${collectionType}&chapterIndex=${chapterIndex}`,
+      `/api/brackets/from-chapters?collectionType=${collectionType}&start=${start}&end=${end}`,
     );
     const data: BracketContentWithChapters[] = await resp.json();
     setBracketContents(data);

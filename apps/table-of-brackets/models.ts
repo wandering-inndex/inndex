@@ -69,7 +69,9 @@ export interface Choice {
 /** All dropdown selections. */
 export enum DropdownSelections {
   MEDIA = "media",
-  REF = "ref",
-  INDEX = "index",
+  FROM_REF = "from_ref",
+  FROM_INDEX = "from_index",
+  TO_REF = "to_ref",
+  TO_INDEX = "to_index",
   EMPTY = "",
 }
