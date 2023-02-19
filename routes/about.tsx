@@ -90,9 +90,9 @@ export default function Page() {
                 >
                   pirateaba
                 </a>. Since the first chapter in July 2016, the web serial
-                currently has nine volumes with over 10 million words (
+                currently has nine volumes with over 11 million words (
                 <a
-                  href="https://wanderinginn.neocities.org/statistics.html"
+                  href="https://inndex.omg.lol/toc#stats"
                   class="font-semibold text-gray-700 hover:underline italic"
                   target="_blank"
                 >
