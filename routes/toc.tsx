@@ -219,7 +219,7 @@ export default function Page({ data }: PageProps<AllMedia | null>) {
               </StatsContainer>
             </div>
 
-            <div class="grid grid-cols-1 lg:grid-cols-2 gap-4 justify-center">
+            <div class="grid grid-cols-1 lg:grid-cols-2 gap-4 lg:gap-8 justify-center">
               <div>
                 <div class="font-semibold text-center">
                   Total Words from the Web Novel Volumes

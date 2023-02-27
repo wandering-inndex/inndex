@@ -32,7 +32,8 @@ export const handler: Handlers = {
     const percentageCovered = wordsCovered / wordsFromWebNovelVolumes;
 
     return renderChart({
-      type: "horizontalBar",
+      type: "bar",
+      width: 900,
       data: {
         labels: [
           [
@@ -78,9 +79,10 @@ export const handler: Handlers = {
       },
       options: {
         devicePixelRatio: 1,
+        indexAxis: "y",
         scales: {
-          xAxes: [{ stacked: true }],
-          yAxes: [{ stacked: true }],
+          x: { stacked: true },
+          y: { stacked: true },
         },
       },
     });

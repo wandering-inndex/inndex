@@ -45,6 +45,7 @@ export const handler: Handlers = {
 
     return renderChart({
       type: "bar",
+      width: 900,
       data: {
         labels: allYears.map((year) => {
           const chaptersPerYear = mapChaptersPerYear.get(year) ?? 0;
@@ -73,8 +74,8 @@ export const handler: Handlers = {
       options: {
         devicePixelRatio: 1,
         scales: {
-          xAxes: [{ stacked: true }],
-          yAxes: [{ stacked: true }],
+          x: { stacked: true },
+          y: { stacked: true },
         },
       },
     });
