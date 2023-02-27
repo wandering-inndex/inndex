@@ -1,0 +1,9 @@
+image:
+  file: .gitpod.Dockerfile
+vscode:
+  extensions:
+    - bierner.markdown-mermaid
+    - denoland.vscode-deno
+    - esbenp.prettier-vscode
+    - jakeboone02.cypher-query-language
+    - mathe42.surrealql
