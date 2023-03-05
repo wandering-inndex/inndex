@@ -119,6 +119,16 @@ function TableOfBracketsChatHelper(
   const mapToWebVolumeChapterChoice = new Map<number, Choice[]>();
   const mapToAudioBookChapterChoice = new Map<number, Choice[]>();
   const mapToElectronicBookChapterChoice = new Map<number, Choice[]>();
+  // The default choice for an empty media type.
+  const emptyFromChoice: Choice = {
+    key: "0",
+    order: 0,
+    text: "(start)",
+    classNames: [],
+    handleClick: () => {
+      setFromCollectionIndex(0);
+    },
+  };
   // The default choice for a completed media type.
   const completedToChoice: Choice = {
     key: "0",
@@ -186,7 +196,12 @@ function TableOfBracketsChatHelper(
     const fromChapterChoices = colData.map((chapter) =>
       createChapterChoice(chapter, setFromCollectionIndex)
     );
+    const defaultValues: Choice[] = [];
+    if (fromChapterChoices.length === 0) {
+      defaultValues.push(emptyFromChoice);
+    }
     mapFromAudioBookChapterChoice.set(collection.index, [
+      ...defaultValues,
       ...fromChapterChoices,
     ]);
     fromAudioBookChoices.push({
@@ -227,7 +242,12 @@ function TableOfBracketsChatHelper(
     const fromChapterChoices = colData.filter((chapter) =>
       chapter.ref === collection.index
     ).map((chapter) => createChapterChoice(chapter, setFromCollectionIndex));
+    const defaultValues: Choice[] = [];
+    if (fromChapterChoices.length === 0) {
+      defaultValues.push(emptyFromChoice);
+    }
     mapFromElectronicBookChapterChoice.set(collection.index, [
+      ...defaultValues,
       ...fromChapterChoices,
     ]);
     fromElectronicBookChoices.push({
@@ -517,16 +537,16 @@ function TableOfBracketsChatHelper(
       if (mediaType === MediaTypes.WEBNOVEL) {
         const allChoices =
           mapFromWebVolumeChapterChoice.get(fromCollectionRef) ?? [];
-        start = allChoices[0].order ?? 0;
+        start = allChoices.length > 1 ? (allChoices[0].order ?? 0) : 0;
       } else if (mediaType === MediaTypes.AUDIOBOOK) {
         const allChoices =
           mapFromAudioBookChapterChoice.get(fromCollectionRef) ?? [];
-        start = allChoices[0].order ?? 0;
+        start = allChoices.length > 1 ? (allChoices[0].order ?? 0) : 0;
       } else if (mediaType === MediaTypes.EBOOK) {
         const allChoices =
           mapFromElectronicBookChapterChoice.get(fromCollectionRef) ??
             [];
-        start = allChoices[0].order ?? 0;
+        start = allChoices.length > 1 ? (allChoices[0].order ?? 0) : 0;
       }
     }
     return start;
@@ -538,16 +558,22 @@ function TableOfBracketsChatHelper(
       if (mediaType === MediaTypes.WEBNOVEL) {
         const allChoices = mapToWebVolumeChapterChoice.get(toCollectionRef) ??
           [];
-        end = allChoices[allChoices.length - 1].order ?? 0;
+        end = allChoices.length > 1
+          ? (allChoices[allChoices.length - 1].order ?? 0)
+          : 0;
       } else if (mediaType === MediaTypes.AUDIOBOOK) {
         const allChoices = mapToAudioBookChapterChoice.get(toCollectionRef) ??
           [];
-        end = allChoices[allChoices.length - 1].order ?? 0;
+        end = allChoices.length > 1
+          ? (allChoices[allChoices.length - 1].order ?? 0)
+          : 0;
       } else if (mediaType === MediaTypes.EBOOK) {
         const allChoices =
           mapToElectronicBookChapterChoice.get(toCollectionRef) ??
             [];
-        end = allChoices[allChoices.length - 1].order ?? 0;
+        end = allChoices.length > 1
+          ? (allChoices[allChoices.length - 1].order ?? 0)
+          : 0;
       }
     }
     return end;
@@ -610,7 +636,7 @@ function TableOfBracketsChatHelper(
   );
 }
 
-interface TableOfBracketsBetaProps {
+interface TableOfBracketsProps {
   webVolumeReleases: BasicMediaForBracketsList[];
   webVolumeChapters: BasicChapterForBracketsList[];
   audioBookReleases: BasicMediaForBracketsList[];
@@ -619,7 +645,7 @@ interface TableOfBracketsBetaProps {
   electronicBookChapters: BasicChapterForBracketsList[];
 }
 
-export default function TableOfBracketsBeta(
+export default function TableOfBrackets(
   {
     webVolumeReleases,
     webVolumeChapters,
@@ -627,7 +653,7 @@ export default function TableOfBracketsBeta(
     audioBookChapters,
     electronicBookReleases,
     electronicBookChapters,
-  }: TableOfBracketsBetaProps,
+  }: TableOfBracketsProps,
 ) {
   const [bracketContents, setBracketContents] = useState<
     BracketContentWithChapters[]
