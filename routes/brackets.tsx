@@ -156,8 +156,7 @@ export default function Page({ data }: PageProps<Props>) {
                 <span class="font-semibold">NOTE #3:</span>{" "}
                 This list does not include the
                 <code class="bg-gray-100 p-1">[Bracket Contents]</code>{"  "}
-                from the ongoing Volume 1 rewrites, The Last Tide, or The Singer
-                of Terandria.
+                from The Last Tide or The Singer of Terandria series.
               </div>
             </div>
           </div>
