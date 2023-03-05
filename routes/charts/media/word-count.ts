@@ -33,9 +33,11 @@ export const handler: Handlers = {
     let collections: CollectionWithTitle[] = [];
     if (mediaType === MediaTypes.WEBNOVEL) {
       const resCollection = await Surreal.Instance.select<WebVolume>("volume");
-      collections = resCollection.map((item) => {
-        return { title: item.title };
-      });
+      collections = resCollection.map(
+        (item) => {
+          return { title: item.title };
+        },
+      );
     } else if (mediaType === MediaTypes.AUDIOBOOK) {
       const resCollection = await Surreal.Instance.select<AudioBook>(
         "audiobook",

@@ -18,7 +18,7 @@ export const handler: Handlers = {
     );
     const chapters: Chapter[] = resChapters[0].result ?? [];
 
-    const startYear = 2016;
+    const startYear = 2017;
     const yearsOngoing = new Date().getFullYear() - startYear + 1;
     const allYears = [];
     const mapWordsPerYear: Map<number, number> = new Map();
