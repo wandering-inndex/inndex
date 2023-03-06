@@ -19,8 +19,7 @@ import * as $12 from "./routes/charts/media/words-covered.ts";
 import * as $13 from "./routes/charts/media/words-per-year.ts";
 import * as $14 from "./routes/gazi.tsx";
 import * as $15 from "./routes/index.tsx";
-import * as $16 from "./routes/toc-beta.tsx";
-import * as $17 from "./routes/toc.tsx";
+import * as $16 from "./routes/toc.tsx";
 import * as $$0 from "./islands/ChatContainer.tsx";
 import * as $$1 from "./islands/ChatHelper.tsx";
 import * as $$2 from "./islands/DropdownSelector.tsx";
@@ -49,8 +48,7 @@ const manifest = {
     "./routes/charts/media/words-per-year.ts": $13,
     "./routes/gazi.tsx": $14,
     "./routes/index.tsx": $15,
-    "./routes/toc-beta.tsx": $16,
-    "./routes/toc.tsx": $17,
+    "./routes/toc.tsx": $16,
   },
   islands: {
     "./islands/ChatContainer.tsx": $$0,
