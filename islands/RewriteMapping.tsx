@@ -87,6 +87,7 @@ export default function RewriteMapping({
                   href={chapter.url}
                   title={chapter.title}
                   class="font-bold w-full truncate"
+                  target="_blank"
                 >
                   {chapter.title}
                 </a>
@@ -128,6 +129,7 @@ export default function RewriteMapping({
                   href={chapter.url}
                   title={chapter.title}
                   class="font-bold w-full truncate"
+                  target="_blank"
                 >
                   {chapter.title}
                 </a>
