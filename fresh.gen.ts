@@ -19,16 +19,18 @@ import * as $12 from "./routes/charts/media/words-covered.ts";
 import * as $13 from "./routes/charts/media/words-per-year.ts";
 import * as $14 from "./routes/gazi.tsx";
 import * as $15 from "./routes/index.tsx";
-import * as $16 from "./routes/toc.tsx";
+import * as $16 from "./routes/rewrite.tsx";
+import * as $17 from "./routes/toc.tsx";
 import * as $$0 from "./islands/ChatContainer.tsx";
 import * as $$1 from "./islands/ChatHelper.tsx";
 import * as $$2 from "./islands/DropdownSelector.tsx";
 import * as $$3 from "./islands/InteractiveGazi.tsx";
-import * as $$4 from "./islands/TableHeaderSorter.tsx";
-import * as $$5 from "./islands/TableOfBrackets.tsx";
-import * as $$6 from "./islands/TableOfContents.tsx";
-import * as $$7 from "./islands/TableOfContentsBeta.tsx";
-import * as $$8 from "./islands/WanderingSiteLogo.tsx";
+import * as $$4 from "./islands/RewriteMapping.tsx";
+import * as $$5 from "./islands/TableHeaderSorter.tsx";
+import * as $$6 from "./islands/TableOfBrackets.tsx";
+import * as $$7 from "./islands/TableOfContents.tsx";
+import * as $$8 from "./islands/TableOfContentsBeta.tsx";
+import * as $$9 from "./islands/WanderingSiteLogo.tsx";
 
 const manifest = {
   routes: {
@@ -48,18 +50,20 @@ const manifest = {
     "./routes/charts/media/words-per-year.ts": $13,
     "./routes/gazi.tsx": $14,
     "./routes/index.tsx": $15,
-    "./routes/toc.tsx": $16,
+    "./routes/rewrite.tsx": $16,
+    "./routes/toc.tsx": $17,
   },
   islands: {
     "./islands/ChatContainer.tsx": $$0,
     "./islands/ChatHelper.tsx": $$1,
     "./islands/DropdownSelector.tsx": $$2,
     "./islands/InteractiveGazi.tsx": $$3,
-    "./islands/TableHeaderSorter.tsx": $$4,
-    "./islands/TableOfBrackets.tsx": $$5,
-    "./islands/TableOfContents.tsx": $$6,
-    "./islands/TableOfContentsBeta.tsx": $$7,
-    "./islands/WanderingSiteLogo.tsx": $$8,
+    "./islands/RewriteMapping.tsx": $$4,
+    "./islands/TableHeaderSorter.tsx": $$5,
+    "./islands/TableOfBrackets.tsx": $$6,
+    "./islands/TableOfContents.tsx": $$7,
+    "./islands/TableOfContentsBeta.tsx": $$8,
+    "./islands/WanderingSiteLogo.tsx": $$9,
   },
   baseUrl: import.meta.url,
   config,

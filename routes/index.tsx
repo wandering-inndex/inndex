@@ -53,6 +53,10 @@ export default function Page() {
       url: "/brackets",
     },
     {
+      title: "Mapping of Rewrite Chapters",
+      url: "/rewrite",
+    },
+    {
       title: "About",
       url: "/about",
     },

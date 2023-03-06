@@ -638,5 +638,107 @@
     "https://raw.githubusercontent.com/neo4j/neo4j-javascript-driver/5.6.0/packages/neo4j-driver-deno/lib/mod.ts": "647582d574b4760308d8f0654a698559efaa3ca43325eb090356ddaf8824ea55",
     "https://raw.githubusercontent.com/neo4j/neo4j-javascript-driver/5.6.0/packages/neo4j-driver-deno/lib/version.ts": "2d0d069a8fcefe7f90f7a069ddea84c61ef52da11cb90a36a9da8d54c1529be3",
     "https://raw.githubusercontent.com/wandering-inndex/seed-data/0.0.4/types/media.ts": "2ceb1df251c3f441bd148e639a68351fd24f7e22996c336ade362ee480706b88"
+  },
+  "npm": {
+    "specifiers": {
+      "@codehardt/leader-line@1.0.9": "@codehardt/leader-line@1.0.9",
+      "react-archer@4.2.2": "react-archer@4.2.2_@types+react@18.0.28_prop-types@15.8.1_react@18.2.0",
+      "react-dom-arrow@1.0.4": "react-dom-arrow@1.0.4",
+      "svg-dom-arrows@2.0.3": "svg-dom-arrows@2.0.3"
+    },
+    "packages": {
+      "@codehardt/leader-line@1.0.9": {
+        "integrity": "sha512-n6Ae1vG/1GdgTPnLPSwgp8VpkCeCNTMEgBB9sN00tY+a8jev8rA89YRrxAziDMj7DQdlbZ1jThjEfGPgm82kGA==",
+        "dependencies": {}
+      },
+      "@types/prop-types@15.7.5": {
+        "integrity": "sha512-JCB8C6SnDoQf0cNycqd/35A7MjcnK+ZTqE7judS6o7utxUCg6imJg3QK2qzHKszlTjcj2cn+NwMB2i96ubpj7w==",
+        "dependencies": {}
+      },
+      "@types/react@18.0.28": {
+        "integrity": "sha512-RD0ivG1kEztNBdoAK7lekI9M+azSnitIn85h4iOiaLjaTrMjzslhaqCGaI4IyCJ1RljWiLCEu4jyrLLgqxBTew==",
+        "dependencies": {
+          "@types/prop-types": "@types/prop-types@15.7.5",
+          "@types/scheduler": "@types/scheduler@0.16.2",
+          "csstype": "csstype@3.1.1"
+        }
+      },
+      "@types/scheduler@0.16.2": {
+        "integrity": "sha512-hppQEBDmlwhFAXKJX2KnWLYu5yMfi91yazPb2l+lbJiwW+wdo1gNeRA+3RgNSO39WYX2euey41KEwnqesU2Jew==",
+        "dependencies": {}
+      },
+      "csstype@3.1.1": {
+        "integrity": "sha512-DJR/VvkAvSZW9bTouZue2sSxDwdTN92uHjqeKVm+0dAqdfNykRzQ95tay8aXMBAAPpUiq4Qcug2L7neoRh2Egw==",
+        "dependencies": {}
+      },
+      "js-tokens@4.0.0": {
+        "integrity": "sha512-RdJUflcE3cUzKiMqQgsCu06FPu9UdIJO0beYbPhHN4k6apgJtifcoCtT9bcxOpYBtpD2kCM6Sbzg4CausW/PKQ==",
+        "dependencies": {}
+      },
+      "loose-envify@1.4.0": {
+        "integrity": "sha512-lyuxPGr/Wfhrlem2CL/UcnUc1zcqKAImBDzukY7Y5F/yQiNdko6+fRLevlw1HgMySw7f611UIY408EtxRSoK3Q==",
+        "dependencies": {
+          "js-tokens": "js-tokens@4.0.0"
+        }
+      },
+      "object-assign@4.1.1": {
+        "integrity": "sha512-rJgTQnkUnH1sFw8yT6VSU3zD3sWmu6sZhIseY8VX+GRu3P6F7Fu+JNDoXfklElbLJSnc3FUQHVe4cU5hj+BcUg==",
+        "dependencies": {}
+      },
+      "prop-types@15.8.1": {
+        "integrity": "sha512-oj87CgZICdulUohogVAR7AjlC0327U4el4L6eAvOqCeudMDVU0NThNaV+b9Df4dXgSP1gXMTnPdhfe/2qDH5cg==",
+        "dependencies": {
+          "loose-envify": "loose-envify@1.4.0",
+          "object-assign": "object-assign@4.1.1",
+          "react-is": "react-is@16.13.1"
+        }
+      },
+      "react-archer@4.2.2_@types+react@18.0.28_prop-types@15.8.1_react@18.2.0": {
+        "integrity": "sha512-THuOl1guFPYRx0QsZ69kV7bwr1Hapxwxad9BVQ9qyyGXW4E2zzI9QA9xYSMDRI6DnXhiAy2IEJWH0LqDpFV6qA==",
+        "dependencies": {
+          "@types/react": "@types/react@18.0.28",
+          "prop-types": "prop-types@15.8.1",
+          "react": "react@18.2.0",
+          "react-fast-compare": "react-fast-compare@2.0.4",
+          "resize-observer-polyfill": "resize-observer-polyfill@1.5.0"
+        }
+      },
+      "react-dom-arrow@1.0.4": {
+        "integrity": "sha512-0zVxYCR5PkHqu96SFaWAuKP1i9BTn6CNp0CB/Yv7r9oFMHoJ7XGeVYWcmCAE0wVHhmqoMwbIQceCCgEfZOCqGw==",
+        "dependencies": {
+          "react": "react@16.14.0"
+        }
+      },
+      "react-fast-compare@2.0.4": {
+        "integrity": "sha512-suNP+J1VU1MWFKcyt7RtjiSWUjvidmQSlqu+eHslq+342xCbGTYmC0mEhPCOHxlW0CywylOC1u2DFAT+bv4dBw==",
+        "dependencies": {}
+      },
+      "react-is@16.13.1": {
+        "integrity": "sha512-24e6ynE2H+OKt4kqsOvNd8kBpV65zoxbA4BVsEOB3ARVWQki/DHzaUoC5KuON/BiccDaCCTZBuOcfZs70kR8bQ==",
+        "dependencies": {}
+      },
+      "react@16.14.0": {
+        "integrity": "sha512-0X2CImDkJGApiAlcf0ODKIneSwBPhqJawOa5wCtKbu7ZECrmS26NvtSILynQ66cgkT/RJ4LidJOc3bUESwmU8g==",
+        "dependencies": {
+          "loose-envify": "loose-envify@1.4.0",
+          "object-assign": "object-assign@4.1.1",
+          "prop-types": "prop-types@15.8.1"
+        }
+      },
+      "react@18.2.0": {
+        "integrity": "sha512-/3IjMdb2L9QbBdWiW5e3P2/npwMBaU9mHCSCUzNln0ZCYbcfTsGbTJrU/kGemdH2IWmB2ioZ+zkxtmq6g09fGQ==",
+        "dependencies": {
+          "loose-envify": "loose-envify@1.4.0"
+        }
+      },
+      "resize-observer-polyfill@1.5.0": {
+        "integrity": "sha512-M2AelyJDVR/oLnToJLtuDJRBBWUGUvvGigj1411hXhAdyFWqMaqHp7TixW3FpiLuVaikIcR1QL+zqoJoZlOgpg==",
+        "dependencies": {}
+      },
+      "svg-dom-arrows@2.0.3": {
+        "integrity": "sha512-imn0w6jireJ2KvEkUOaJZs30m9rObKhcBaUEMsi2Dby3mxT3pHJ3+xzad+6Mhydl7DYbWweOfog6JGpo3hosSA==",
+        "dependencies": {}
+      }
+    }
   }
 }
