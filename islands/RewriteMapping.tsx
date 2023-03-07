@@ -1,31 +1,15 @@
-import { asset, Head } from "$fresh/runtime.ts";
+import { Head } from "$fresh/runtime.ts";
 
-import { Ref, useEffect, useRef } from "preact/hooks";
-// import LeaderLine from "npm:@codehardt/leader-line@1.0.9";
+import { useEffect } from "preact/hooks";
 
 import { GraphEdge, GraphNode } from "@apps/rewrite-mapping/models.ts";
+import { formatWordCount } from "../apps/table-of-contents/utils.ts";
 
 interface RewriteMappingProps {
   oldChapters: GraphNode[];
   newChapters: GraphNode[];
   edges: GraphEdge[];
 }
-
-const createLeaderLine = (edge: GraphEdge): string => {
-  return `new LeaderLine(
-  document.getElementById('${edge.from}'),
-  document.getElementById('${edge.to}'),
-  {
-    dash: {
-      animation: true
-    },
-    startPlugColor: '#9ca3af',
-    endPlugColor: '#1ca100',
-    size: 3,
-    gradient: true
-  }
-);`;
-};
 
 export default function RewriteMapping({
   oldChapters,
@@ -34,10 +18,28 @@ export default function RewriteMapping({
 }: RewriteMappingProps) {
   useEffect(() => {
     const script = document.createElement("script");
-    const scriptText = document.createTextNode(
-      // TODO: Rewrite this function to just JSON.parse `edges` instead.
-      edges.map((edge) => createLeaderLine(edge)).join("\n"),
-    );
+    const scriptText = document.createTextNode(`
+function createLeaderLine (edge) {
+  new LeaderLine(
+    document.getElementById(edge.from),
+    document.getElementById(edge.to),
+    {
+      dash: {
+        animation: true
+      },
+      startPlugColor: '#9ca3af',
+      endPlugColor: (edge.brandNew ?? false) === true ? '#ffda00' : '#1ca100',
+      size: 3,
+      gradient: true
+    }
+  );
+}
+
+var edges = ${JSON.stringify(edges)};
+for (var i = 0; i < edges.length; i++) {
+  createLeaderLine(edges[i]);
+}
+`);
 
     script.async = true;
     script.type = "text/javascript";
@@ -78,7 +80,7 @@ export default function RewriteMapping({
                 key={chapter.id}
                 id={chapter.id}
                 href={chapter.url}
-                title={chapter.title}
+                title={`${formatWordCount(chapter.words)} words`}
                 target="_blank"
                 class="bg-gray-400 hover:bg-gray-500 py-1 px-2 flex gap-2 items-center"
               >
@@ -115,7 +117,7 @@ export default function RewriteMapping({
                 key={chapter.id}
                 id={chapter.id}
                 href={chapter.url}
-                title={chapter.title}
+                title={`${formatWordCount(chapter.words)} words`}
                 target="_blank"
                 class={`py-1 px-2 flex gap-2 items-center ` +
                   ((chapter.brandNew ?? false) === true

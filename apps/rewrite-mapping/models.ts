@@ -4,6 +4,7 @@ export interface GraphNode {
   order: number;
   title?: string;
   url?: string;
+  words?: number;
   blank?: boolean;
   brandNew?: boolean;
 }
@@ -12,4 +13,5 @@ export interface GraphNode {
 export interface GraphEdge {
   from: string;
   to: string;
+  brandNew?: boolean;
 }
