@@ -74,24 +74,22 @@ export default function RewriteMapping({
             }
 
             return (
-              <div
+              <a
                 key={chapter.id}
                 id={chapter.id}
+                href={chapter.url}
+                title={chapter.title}
+                target="_blank"
                 class="bg-gray-400 hover:bg-gray-500 py-1 px-2 flex gap-2 items-center"
               >
                 <span class="text-xs">
                   {chapter.order < 10 ? 0 : null}
                   {chapter.order}
                 </span>
-                <a
-                  href={chapter.url}
-                  title={chapter.title}
-                  class="font-bold w-full truncate"
-                  target="_blank"
-                >
+                <span class="font-bold w-full truncate">
                   {chapter.title}
-                </a>
-              </div>
+                </span>
+              </a>
             );
           })}
         </div>
@@ -113,9 +111,12 @@ export default function RewriteMapping({
             }
 
             return (
-              <div
+              <a
                 key={chapter.id}
                 id={chapter.id}
+                href={chapter.url}
+                title={chapter.title}
+                target="_blank"
                 class={`py-1 px-2 flex gap-2 items-center ` +
                   ((chapter.brandNew ?? false) === true
                     ? "bg-[#ffda00] hover:bg-[#e3c200] text-black"
@@ -125,15 +126,10 @@ export default function RewriteMapping({
                   {chapter.order < 10 ? 0 : null}
                   {chapter.order}
                 </span>
-                <a
-                  href={chapter.url}
-                  title={chapter.title}
-                  class="font-bold w-full truncate"
-                  target="_blank"
-                >
+                <span class="font-bold w-full truncate">
                   {chapter.title}
-                </a>
-              </div>
+                </span>
+              </a>
             );
           })}
         </div>
