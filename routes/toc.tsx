@@ -125,6 +125,21 @@ export default function Page({ data }: PageProps<AllMedia | null>) {
             <div class="text-xs mt-3">
               <div>
                 <span class="font-semibold">NOTE #1:</span>{" "}
+                The rows for Volume 1 are currently empty as they were replaced
+                with the new Rewrite versions, which currently do not have a
+                Audiobook and E-book counterpart. To see the mapping of the old
+                vs the new chapters, you can check the{" "}
+                <a
+                  href="/rewrite"
+                  class="font-semibold"
+                  target="_blank"
+                >
+                  Mapping of Rewrite Chapters page
+                </a>
+                {". "}
+              </div>
+              <div>
+                <span class="font-semibold">NOTE #2:</span>{" "}
                 The total words are calculated using{" "}
                 <a
                   href="https://wordcounter.net/"
@@ -141,7 +156,7 @@ export default function Page({ data }: PageProps<AllMedia | null>) {
                 be reflected.
               </div>
               <div>
-                <span class="font-semibold">NOTE #2:</span>{" "}
+                <span class="font-semibold">NOTE #3:</span>{" "}
                 To check the list of diffs over time, you can head over to{" "}
                 <a
                   href="https://wanderinginn.neocities.org"
@@ -243,16 +258,14 @@ export default function Page({ data }: PageProps<AllMedia | null>) {
                   <div>
                     <span class="font-semibold">NOTE #1:</span>{" "}
                     This uses the word counts from their Web Novel counterparts.
+                    Book 1 is currently empty because of the new Rewrite
+                    version.
                   </div>
                   <div>
                     <span class="font-semibold">NOTE #2:</span>{" "}
                     This uses the Chapter Types from the Web Novel Volumes, as
                     some chapters do not have the same type across releases
                     (e.g.{" "}
-                    <a href="#twiwnch0023011" class="font-semibold">
-                      Volume 1 Interlude – 1.00 R
-                    </a>{" "}
-                    or{" "}
                     <a href="#twiwnch0138011" class="font-semibold">
                       Volume 3 Chapter 3.13
                     </a>).
