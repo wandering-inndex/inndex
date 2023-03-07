@@ -20,19 +20,19 @@ export default function RewriteMapping({
     const script = document.createElement("script");
     const scriptText = document.createTextNode(`
 function createLeaderLine (edge) {
-  new LeaderLine(
+  var line = new LeaderLine(
     document.getElementById(edge.from),
     document.getElementById(edge.to),
     {
-      dash: {
-        animation: true
-      },
+      hide: true,
+      dash: { animation: true },
       startPlugColor: '#9ca3af',
       endPlugColor: (edge.brandNew ?? false) === true ? '#ffda00' : '#1ca100',
       size: 3,
       gradient: true
     }
   );
+  line.show('draw', {duration: 1000, timing: [0.58, 0, 0.42, 1]});
 }
 
 var edges = ${JSON.stringify(edges)};
