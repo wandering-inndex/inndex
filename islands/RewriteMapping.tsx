@@ -57,7 +57,7 @@ export default function RewriteMapping({
       </Head>
 
       <div class="grid grid-cols-2 gap-20">
-        <div class="flex flex-col gap-1">
+        <div class="flex flex-col gap-0.5">
           {oldChapters.map((chapter) => {
             if ((chapter.blank ?? false) === true) {
               return (
@@ -65,7 +65,7 @@ export default function RewriteMapping({
                   <div
                     key={chapter.id}
                     id={chapter.id}
-                    class="py-1 px-2"
+                    class="py-1 px-2 invisible"
                   >
                     &nbsp;
                   </div>
@@ -77,9 +77,9 @@ export default function RewriteMapping({
               <div
                 key={chapter.id}
                 id={chapter.id}
-                class="bg-gray-400 py-1 px-2 flex gap-2"
+                class="bg-gray-400 hover:bg-gray-500 py-1 px-2 flex gap-2 items-center"
               >
-                <span>
+                <span class="text-xs">
                   {chapter.order < 10 ? 0 : null}
                   {chapter.order}
                 </span>
@@ -96,7 +96,7 @@ export default function RewriteMapping({
           })}
         </div>
 
-        <div class="flex flex-col gap-1">
+        <div class="flex flex-col gap-0.5">
           {newChapters.map((chapter) => {
             if ((chapter.blank ?? false) === true) {
               return (
@@ -104,7 +104,7 @@ export default function RewriteMapping({
                   <div
                     key={chapter.id}
                     id={chapter.id}
-                    class="py-1 px-2"
+                    class="py-1 px-2 invisible"
                   >
                     &nbsp;
                   </div>
@@ -116,12 +116,12 @@ export default function RewriteMapping({
               <div
                 key={chapter.id}
                 id={chapter.id}
-                class={`py-1 px-2 flex gap-2 ` +
+                class={`py-1 px-2 flex gap-2 items-center ` +
                   ((chapter.brandNew ?? false) === true
-                    ? "bg-[#ffda00] text-black"
-                    : "bg-[#1ca100] text-white")}
+                    ? "bg-[#ffda00] hover:bg-[#e3c200] text-black"
+                    : "bg-[#1ca100] hover:bg-[#0d4c00] text-white")}
               >
-                <span>
+                <span class="text-xs">
                   {chapter.order < 10 ? 0 : null}
                   {chapter.order}
                 </span>
