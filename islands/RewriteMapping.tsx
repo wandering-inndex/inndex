@@ -54,8 +54,7 @@ for (var i = 0; i < edges.length; i++) {
   return (
     <>
       <Head>
-        <script src="https://cdn.jsdelivr.net/npm/leader-line-new@1.1.9/leader-line.min.js">
-        </script>
+        <script src="https://cdn.jsdelivr.net/npm/leader-line-new@1.1.9/leader-line.min.js?v=20230326173958"></script>
       </Head>
 
       <div class="grid grid-cols-2 gap-20">
@@ -88,9 +87,7 @@ for (var i = 0; i < edges.length; i++) {
                   {chapter.order < 10 ? 0 : null}
                   {chapter.order}
                 </span>
-                <span class="font-bold w-full truncate">
-                  {chapter.title}
-                </span>
+                <span class="font-bold w-full truncate">{chapter.title}</span>
               </a>
             );
           })}
@@ -119,18 +116,18 @@ for (var i = 0; i < edges.length; i++) {
                 href={chapter.url}
                 title={`${formatWordCount(chapter.words)} words`}
                 target="_blank"
-                class={`py-1 px-2 flex gap-2 items-center ` +
+                class={
+                  `py-1 px-2 flex gap-2 items-center ` +
                   ((chapter.brandNew ?? false) === true
                     ? "bg-[#ffda00] hover:bg-[#e3c200] text-black"
-                    : "bg-[#1ca100] hover:bg-[#0d4c00] text-white")}
+                    : "bg-[#1ca100] hover:bg-[#0d4c00] text-white")
+                }
               >
                 <span class="text-xs">
                   {chapter.order < 10 ? 0 : null}
                   {chapter.order}
                 </span>
-                <span class="font-bold w-full truncate">
-                  {chapter.title}
-                </span>
+                <span class="font-bold w-full truncate">{chapter.title}</span>
               </a>
             );
           })}
