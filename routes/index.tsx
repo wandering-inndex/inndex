@@ -57,6 +57,10 @@ export default function Page() {
       url: "/rewrite",
     },
     {
+      title: "Visualize the Total Word Count in 3D",
+      url: "https://titan.inndex.omg.lol/",
+    },
+    {
       title: "About",
       url: "/about",
     },
@@ -69,10 +73,7 @@ export default function Page() {
       <Head>
         <title>{DEFAULT_SITE_NAME}</title>
 
-        <meta
-          property="description"
-          content={DEFAULT_SITE_DESCRIPTION}
-        />
+        <meta property="description" content={DEFAULT_SITE_DESCRIPTION} />
 
         <link rel="stylesheet" href={asset("/styles/gazi.css")}></link>
       </Head>
