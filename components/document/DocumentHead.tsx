@@ -1,6 +1,10 @@
 import { Head } from "$fresh/runtime.ts";
 
+import { DEFAULT_SITE_NAME } from "../../constants/site.ts";
+
 export default function DocumentHead() {
+  const siteName = DEFAULT_SITE_NAME;
+
   return (
     <>
       <Head>
@@ -29,13 +33,15 @@ export default function DocumentHead() {
         />
         <link rel="icon" type="image/x-icon" href="/favicon.ico" />
 
+        <meta property="og:site_name" content={siteName} />
+        <meta property="og:type" content="website" />
         <meta property="og:image" content="https://inndex.omg.lol/ogp.png" />
         <meta
           property="og:image:secure_url"
           content="https://inndex.omg.lol/ogp.png"
         />
         <meta property="og:image:type" content="image/png" />
-        <meta property="og:image:width" content="1080" />
+        <meta property="og:image:width" content="878" />
         <meta property="og:image:height" content="500" />
         <meta
           property="og:image:alt"

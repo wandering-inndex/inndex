@@ -6,10 +6,7 @@ import {
   BasicMediaForBracketsList,
 } from "@apps/table-of-brackets/models.ts";
 
-import {
-  DEFAULT_SITE_DESCRIPTION,
-  DEFAULT_SITE_NAME,
-} from "../constants/site.ts";
+import { DEFAULT_SITE_NAME, DEFAULT_SITE_URL } from "../constants/site.ts";
 import DocumentHead from "../components/document/DocumentHead.tsx";
 import SiteHeader from "../components/ui/SiteHeader.tsx";
 import SiteFooter from "../components/ui/SiteFooter.tsx";
@@ -35,7 +32,7 @@ interface Props {
 }
 
 const formatChapter = (
-  chapter: BasicChapterForBracketsList,
+  chapter: BasicChapterForBracketsList
 ): BasicChapterForBracketsList => {
   const id = chapter.id ?? "";
   const title = chapter.title ?? "";
@@ -65,21 +62,23 @@ export const handler: Handlers<Props> = {
     ]);
 
     const webVolumeReleases = (resWebVolumeReleases[0].result ?? []).map(
-      (item) => item,
+      (item) => item
     );
     const webVolumeChapters = (resWebVolumeChapters[0].result ?? []).map(
-      (item) => formatChapter(item),
+      (item) => formatChapter(item)
     );
     const audioBookReleases = (resAudioBookReleases[0].result ?? []).map(
-      (item) => item,
+      (item) => item
     );
     const audioBookChapters = (resAudioBookChapters[0].result ?? []).map(
-      (item) => formatChapter(item),
+      (item) => formatChapter(item)
     );
-    const electronicBookReleases = (resElectronicBookReleases[0].result ?? [])
-      .map((item) => item);
-    const electronicBookChapters = (resElectronicBookChapters[0].result ?? [])
-      .map((item) => formatChapter(item));
+    const electronicBookReleases = (
+      resElectronicBookReleases[0].result ?? []
+    ).map((item) => item);
+    const electronicBookChapters = (
+      resElectronicBookChapters[0].result ?? []
+    ).map((item) => formatChapter(item));
 
     const props: Props = {
       webVolumeReleases,
@@ -104,17 +103,23 @@ export default function Page({ data }: PageProps<Props>) {
     electronicBookChapters,
   } = data;
 
+  const pageTitle = `List of Bracket Contents | ${DEFAULT_SITE_NAME}`;
+  const pageDescription =
+    "A list of all [Bracket Words] and the chapters where they are mentioned.";
+  const siteUrl = `${DEFAULT_SITE_URL}brackets`;
+
   return (
     <>
       <DocumentHead />
 
       <Head>
-        <title>List of Bracket Contents | {DEFAULT_SITE_NAME}</title>
+        <title>{pageTitle}</title>
+        <meta property="description" content={pageDescription} />
 
-        <meta
-          property="description"
-          content={DEFAULT_SITE_DESCRIPTION}
-        />
+        <meta property="og:url" content={siteUrl} />
+        <meta property="og:title" content={pageTitle} />
+        <meta property="og:description" content={pageDescription} />
+        <meta property="og:url" content={siteUrl} />
       </Head>
 
       <div class="min-h-screen justify-between flex flex-col">
@@ -135,27 +140,26 @@ export default function Page({ data }: PageProps<Props>) {
 
             <div class="text-xs mt-3">
               <div>
-                <span class="font-semibold">NOTE #1:</span>{" "}
-                This list does not include unclosed values like{" "}
-                <code class="bg-gray-100 p-1">
-                  [Fire—
-                </code>
+                <span class="font-semibold">NOTE #1:</span> This list does not
+                include unclosed values like{" "}
+                <code class="bg-gray-100 p-1">[Fire—</code>
                 {". "}
                 However, as long as it has a closing bracket like{" "}
                 <code class="bg-gray-100 p-1">[Ski—]</code>, it should be listed
                 here.
               </div>
               <div>
-                <span class="font-semibold">NOTE #2:</span>{" "}
-                This list does not show how many times a{" "}
-                <code class="bg-gray-100 p-1">[Bracket Content]</code>{" "}
-                appears per chapter, just that it is mentioned at least once in
-                that specific chapter.
+                <span class="font-semibold">NOTE #2:</span> This list does not
+                show how many times a{" "}
+                <code class="bg-gray-100 p-1">[Bracket Content]</code> appears
+                per chapter, just that it is mentioned at least once in that
+                specific chapter.
               </div>
               <div>
-                <span class="font-semibold">NOTE #3:</span>{" "}
-                This list does not include the
-                <code class="bg-gray-100 p-1">[Bracket Contents]</code>{"  "}
+                <span class="font-semibold">NOTE #3:</span> This list does not
+                include the
+                <code class="bg-gray-100 p-1">[Bracket Contents]</code>
+                {"  "}
                 from The Last Tide or The Singer of Terandria series.
               </div>
             </div>

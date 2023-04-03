@@ -7,10 +7,7 @@ import { AllMedia, DEFAULT_ALL_MEDIA } from "@apps/seed/models/media.ts";
 import { formatWordCount } from "@apps/table-of-contents/utils.ts";
 import { MediaTypes } from "@apps/table-of-contents/models.ts";
 
-import {
-  DEFAULT_SITE_DESCRIPTION,
-  DEFAULT_SITE_NAME,
-} from "../constants/site.ts";
+import { DEFAULT_SITE_NAME, DEFAULT_SITE_URL } from "../constants/site.ts";
 import DocumentHead from "../components/document/DocumentHead.tsx";
 import SiteHeader from "../components/ui/SiteHeader.tsx";
 import SiteFooter from "../components/ui/SiteFooter.tsx";
@@ -33,9 +30,12 @@ interface StatsContainerProps {
   mediaType: MediaTypes;
 }
 
-function StatsContainer(
-  { title, link, mediaType, children }: StatsContainerProps,
-) {
+function StatsContainer({
+  title,
+  link,
+  mediaType,
+  children,
+}: StatsContainerProps) {
   return (
     <>
       <div
@@ -46,11 +46,11 @@ function StatsContainer(
         } ${mediaType === MediaTypes.EBOOK ? "bg-[#3686b2] text-white" : ""}`}
       >
         <h3 class="uppercase font-semibold text-2xl">
-          <a href={link} target="_blank">{title}</a>
+          <a href={link} target="_blank">
+            {title}
+          </a>
         </h3>
-        <div>
-          {children}
-        </div>
+        <div>{children}</div>
       </div>
     </>
   );
@@ -68,9 +68,7 @@ function StatsEntry({ value, units, notes }: StatsEntryProps) {
     <>
       <div class="">
         <div>
-          <span class="font-bold text-lg">
-            {value}
-          </span>{" "}
+          <span class="font-bold text-lg">{value}</span>{" "}
           <span>
             {units}
             {hasNotes && "*"}
@@ -87,18 +85,25 @@ export default function Page({ data }: PageProps<AllMedia | null>) {
     data = DEFAULT_ALL_MEDIA;
   }
 
+  const pageTitle = `Table of Contents | ${DEFAULT_SITE_NAME}`;
+  const pageDescription =
+    "A mapping of the web novel, audiobook, and e-book chapters.";
+  const siteUrl = `${DEFAULT_SITE_URL}toc`;
+
   const { chapters, eBooks, audioBooks, webVolumes } = data;
 
   const webNovelChapters = chapters.filter((chapter) => {
     return (chapter.partOf.webNovel?.ref ?? 0) > 0;
   });
-  const webNovelTotalWords = webNovelChapters.map(
-    (chapter) => chapter.partOf.webNovel?.totalWords ?? 0,
-  ).reduce((a, b) => a + b, 0);
+  const webNovelTotalWords = webNovelChapters
+    .map((chapter) => chapter.partOf.webNovel?.totalWords ?? 0)
+    .reduce((a, b) => a + b, 0);
   const audioBookTotalHours =
-    audioBooks.map((audioBook) => audioBook.totalLength ?? 0.00)
-      .reduce((a, b) => a + b, 0.00) / 60.00;
-  const eBookTotalPages = eBooks.map((eBook) => eBook.totalLength ?? 0)
+    audioBooks
+      .map((audioBook) => audioBook.totalLength ?? 0.0)
+      .reduce((a, b) => a + b, 0.0) / 60.0;
+  const eBookTotalPages = eBooks
+    .map((eBook) => eBook.totalLength ?? 0)
     .reduce((a, b) => a + b, 0);
 
   return (
@@ -106,12 +111,13 @@ export default function Page({ data }: PageProps<AllMedia | null>) {
       <DocumentHead />
 
       <Head>
-        <title>Table of Contents | {DEFAULT_SITE_NAME}</title>
+        <title>{pageTitle}</title>
+        <meta property="description" content={pageDescription} />
 
-        <meta
-          property="description"
-          content={DEFAULT_SITE_DESCRIPTION}
-        />
+        <meta property="og:url" content={siteUrl} />
+        <meta property="og:title" content={pageTitle} />
+        <meta property="og:description" content={pageDescription} />
+        <meta property="og:url" content={siteUrl} />
       </Head>
 
       <div class="min-h-screen justify-between flex flex-col">
@@ -124,23 +130,19 @@ export default function Page({ data }: PageProps<AllMedia | null>) {
             />
             <div class="text-xs mt-3">
               <div>
-                <span class="font-semibold">NOTE #1:</span>{" "}
-                The rows for Volume 1 are currently empty as they were replaced
-                with the new Rewrite versions, which currently do not have a
-                Audiobook and E-book counterpart. To see the mapping of the old
-                vs the new chapters, you can check the{" "}
-                <a
-                  href="/rewrite"
-                  class="font-semibold"
-                  target="_blank"
-                >
+                <span class="font-semibold">NOTE #1:</span> The rows for Volume
+                1 are currently empty as they were replaced with the new Rewrite
+                versions, which currently do not have a Audiobook and E-book
+                counterpart. To see the mapping of the old vs the new chapters,
+                you can check the{" "}
+                <a href="/rewrite" class="font-semibold" target="_blank">
                   Mapping of Rewrite Chapters page
                 </a>
                 {". "}
               </div>
               <div>
-                <span class="font-semibold">NOTE #2:</span>{" "}
-                The total words are calculated using{" "}
+                <span class="font-semibold">NOTE #2:</span> The total words are
+                calculated using{" "}
                 <a
                   href="https://wordcounter.net/"
                   class="font-semibold"
@@ -156,15 +158,16 @@ export default function Page({ data }: PageProps<AllMedia | null>) {
                 be reflected.
               </div>
               <div>
-                <span class="font-semibold">NOTE #3:</span>{" "}
-                To check the list of diffs over time, you can head over to{" "}
+                <span class="font-semibold">NOTE #3:</span> To check the list of
+                diffs over time, you can head over to{" "}
                 <a
                   href="https://wanderinginn.neocities.org"
                   class="font-semibold"
                   target="_blank"
                 >
                   wanderinginn.neocities.org
-                </a>. They also have an automatically updated{"  "}
+                </a>
+                . They also have an automatically updated{"  "}
                 <a
                   href="https://wanderinginn.neocities.org/statistics.html"
                   class="font-semibold"
@@ -193,14 +196,9 @@ export default function Page({ data }: PageProps<AllMedia | null>) {
                 mediaType={MediaTypes.WEBNOVEL}
               >
                 <StatsEntry value={webVolumes.length} units="volumes" />
+                <StatsEntry value={webNovelChapters.length} units="chapters" />
                 <StatsEntry
-                  value={webNovelChapters.length}
-                  units="chapters"
-                />
-                <StatsEntry
-                  value={formatWordCount(
-                    webNovelTotalWords,
-                  )}
+                  value={formatWordCount(webNovelTotalWords)}
                   units="words"
                 />
               </StatsContainer>
@@ -225,9 +223,7 @@ export default function Page({ data }: PageProps<AllMedia | null>) {
               >
                 <StatsEntry value={eBooks.length} units="releases" />
                 <StatsEntry
-                  value={formatWordCount(
-                    eBookTotalPages,
-                  )}
+                  value={formatWordCount(eBookTotalPages)}
                   units="pages"
                   notes="based on Amazon product pages"
                 />
@@ -256,19 +252,18 @@ export default function Page({ data }: PageProps<AllMedia | null>) {
                 />
                 <div class="text-xs max-w-[80%] mx-auto mt-3">
                   <div>
-                    <span class="font-semibold">NOTE #1:</span>{" "}
-                    This uses the word counts from their Web Novel counterparts.
-                    Book 1 is currently empty because of the new Rewrite
-                    version.
+                    <span class="font-semibold">NOTE #1:</span> This uses the
+                    word counts from their Web Novel counterparts. Book 1 is
+                    currently empty because of the new Rewrite version.
                   </div>
                   <div>
-                    <span class="font-semibold">NOTE #2:</span>{" "}
-                    This uses the Chapter Types from the Web Novel Volumes, as
-                    some chapters do not have the same type across releases
-                    (e.g.{" "}
+                    <span class="font-semibold">NOTE #2:</span> This uses the
+                    Chapter Types from the Web Novel Volumes, as some chapters
+                    do not have the same type across releases (e.g.{" "}
                     <a href="#twiwnch0138011" class="font-semibold">
                       Volume 3 Chapter 3.13
-                    </a>).
+                    </a>
+                    ).
                   </div>
                 </div>
               </div>

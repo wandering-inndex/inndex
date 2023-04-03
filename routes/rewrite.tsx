@@ -2,10 +2,7 @@ import { Head } from "$fresh/runtime.ts";
 
 import { GraphEdge, GraphNode } from "@apps/rewrite-mapping/models.ts";
 
-import {
-  DEFAULT_SITE_DESCRIPTION,
-  DEFAULT_SITE_NAME,
-} from "../constants/site.ts";
+import { DEFAULT_SITE_NAME, DEFAULT_SITE_URL } from "../constants/site.ts";
 import SiteHeader from "../components/ui/SiteHeader.tsx";
 import DocumentHead from "../components/document/DocumentHead.tsx";
 import SiteFooter from "../components/ui/SiteFooter.tsx";
@@ -1043,17 +1040,22 @@ const edges: GraphEdge[] = [
 ];
 
 export default function Page() {
+  const pageTitle = `Mapping of Rewrite Chapters | ${DEFAULT_SITE_NAME}`;
+  const pageDescription = "A mapping of the old vs new volume 1 chapters.";
+  const siteUrl = `${DEFAULT_SITE_URL}rewrite`;
+
   return (
     <>
       <DocumentHead />
 
       <Head>
-        <title>Mapping of Rewrite Chapters | {DEFAULT_SITE_NAME}</title>
+        <title>{pageTitle}</title>
+        <meta property="description" content={pageDescription} />
 
-        <meta
-          property="description"
-          content={DEFAULT_SITE_DESCRIPTION}
-        />
+        <meta property="og:url" content={siteUrl} />
+        <meta property="og:title" content={pageTitle} />
+        <meta property="og:description" content={pageDescription} />
+        <meta property="og:url" content={siteUrl} />
       </Head>
 
       <div class="min-h-screen justify-between flex flex-col">

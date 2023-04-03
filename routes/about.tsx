@@ -2,10 +2,7 @@ import { asset, Head } from "$fresh/runtime.ts";
 
 import type { ComponentChildren } from "preact";
 
-import {
-  DEFAULT_SITE_DESCRIPTION,
-  DEFAULT_SITE_NAME,
-} from "../constants/site.ts";
+import { DEFAULT_SITE_NAME, DEFAULT_SITE_URL } from "../constants/site.ts";
 import SiteHeader from "../components/ui/SiteHeader.tsx";
 import DocumentHead from "../components/document/DocumentHead.tsx";
 import SiteFooter from "../components/ui/SiteFooter.tsx";
@@ -21,28 +18,29 @@ interface SectionProps {
 function Section({ title, children }: SectionProps) {
   return (
     <>
-      <h1 class="text-xl uppercase text-center">
-        {title}
-      </h1>
-      <div class="text-left flex flex-col gap-4">
-        {children}
-      </div>
+      <h1 class="text-xl uppercase text-center">{title}</h1>
+      <div class="text-left flex flex-col gap-4">{children}</div>
     </>
   );
 }
 
 export default function Page() {
+  const pageTitle = `About | ${DEFAULT_SITE_NAME}`;
+  const pageDescription = "About The Wandering Inn and The Wandering Inndex.";
+  const siteUrl = `${DEFAULT_SITE_URL}about`;
+
   return (
     <>
       <DocumentHead />
 
       <Head>
-        <title>About | {DEFAULT_SITE_NAME}</title>
+        <title>{pageTitle}</title>
+        <meta property="description" content={pageDescription} />
 
-        <meta
-          property="description"
-          content={DEFAULT_SITE_DESCRIPTION}
-        />
+        <meta property="og:url" content={siteUrl} />
+        <meta property="og:title" content={pageTitle} />
+        <meta property="og:description" content={pageDescription} />
+        <meta property="og:url" content={siteUrl} />
 
         <link rel="stylesheet" href={asset("/styles/gazi.css")}></link>
       </Head>
@@ -68,7 +66,9 @@ export default function Page() {
                   target="_blank"
                 >
                   Fantasy
-                </a>-<a
+                </a>
+                -
+                <a
                   href="https://en.wikipedia.org/wiki/LitRPG"
                   class="hover:underline"
                   target="_blank"
@@ -89,16 +89,18 @@ export default function Page() {
                   target="_blank"
                 >
                   pirateaba
-                </a>. Since the first chapter in July 2016, the web serial
-                currently has nine volumes with over 11 million words (
+                </a>
+                . Since the first chapter in July 2016, the web serial currently
+                has nine volumes with over 11 million words (
                 <a
                   href="https://inndex.omg.lol/toc#stats"
                   class="font-semibold text-gray-700 hover:underline italic"
                   target="_blank"
                 >
                   and counting
-                </a>), making it one of the longest pieces of published work
-                written in English by a single person. As a reference,{" "}
+                </a>
+                ), making it one of the longest pieces of published work written
+                in English by a single person. As a reference,{" "}
                 <a
                   href="https://en.wikipedia.org/wiki/The_Wheel_of_Time"
                   class="font-semibold text-gray-700 hover:underline"
@@ -129,7 +131,8 @@ export default function Page() {
                   target="_blank"
                 >
                   1.08 million words
-                </a>.
+                </a>
+                .
               </p>
             </Section>
 
@@ -142,7 +145,8 @@ export default function Page() {
                   target="_blank"
                 >
                   The Wandering Inn
-                </a>.{" "}
+                </a>
+                .{" "}
                 <span>
                   Copyright for almost all the text in this repository goes to
                   the author,{" "}
@@ -152,7 +156,8 @@ export default function Page() {
                     target="_blank"
                   >
                     pirateaba
-                  </a>.{" "}
+                  </a>
+                  .{" "}
                 </span>
                 <span>
                   Please support them on their official channels:{" "}
@@ -164,7 +169,8 @@ export default function Page() {
                     >
                       The Wandering Inn Website
                     </a>
-                  </span>,{" "}
+                  </span>
+                  ,{" "}
                   <span>
                     <a
                       href="https://store.wanderinginn.com"
@@ -173,7 +179,8 @@ export default function Page() {
                     >
                       The Wandering Inn Official Store
                     </a>
-                  </span>,{" and the author's "}
+                  </span>
+                  ,{" and the author's "}
                   <span>
                     <a
                       href="https://patreon.com/pirateaba"
@@ -182,7 +189,8 @@ export default function Page() {
                     >
                       Patreon
                     </a>
-                  </span>.
+                  </span>
+                  .
                 </span>
               </p>
               <p>
@@ -193,7 +201,8 @@ export default function Page() {
                   target="_blank"
                 >
                   The Wandering Inn Wiki
-                </a>{"  "}
+                </a>
+                {"  "}
                 contributors to quickly reference{" "}
                 <a
                   href="https://en.wikipedia.org/wiki/Named_entity"
@@ -215,13 +224,15 @@ export default function Page() {
                     target="_blank"
                   >
                     Seed Data GitHub Repository
-                  </a>, or send an email to{" "}
+                  </a>
+                  , or send an email to{" "}
                   <a
                     href="mailto:inndex@omg.lol"
                     class="font-semibold text-gray-700 hover:underline"
                   >
                     inndex@omg.lol
-                  </a>.
+                  </a>
+                  .
                 </span>
               </p>
             </Section>
@@ -239,14 +250,16 @@ export default function Page() {
                   target="_blank"
                 >
                   Figma
-                </a>, using the font{" "}
+                </a>
+                , using the font{" "}
                 <a
                   href="https://www.theleagueofmoveabletype.com/sorts-mill-goudy"
                   class="font-semibold text-gray-700 hover:underline"
                   target="_blank"
                 >
                   Sorts Mill Goudy
-                </a>.
+                </a>
+                .
               </p>
 
               <div class="w-1/2 mx-auto">
@@ -260,15 +273,16 @@ export default function Page() {
                   target="_blank"
                 >
                   Gazi Pathseeker
-                </a>, a character from The Wandering Inn, who first appeared in
-                {" "}
+                </a>
+                , a character from The Wandering Inn, who first appeared in{" "}
                 <a
                   href="https://wanderinginn.com/2016/12/04/1-29/"
                   class="font-semibold text-gray-700 hover:underline"
                   target="_blank"
                 >
                   Volume 1 Chapter 1.29
-                </a>.
+                </a>
+                .
               </p>
             </Section>
           </div>

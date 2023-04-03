@@ -3,6 +3,7 @@ import { asset, Head } from "$fresh/runtime.ts";
 import {
   DEFAULT_SITE_DESCRIPTION,
   DEFAULT_SITE_NAME,
+  DEFAULT_SITE_URL,
 } from "../constants/site.ts";
 import SiteFooter from "../components/ui/SiteFooter.tsx";
 import DocumentHead from "../components/document/DocumentHead.tsx";
@@ -57,7 +58,7 @@ export default function Page() {
       url: "/rewrite",
     },
     {
-      title: "Visualize the Total Word Count in 3D",
+      title: "3D Word Count Visualizer",
       url: "https://titan.inndex.omg.lol/",
     },
     {
@@ -66,14 +67,22 @@ export default function Page() {
     },
   ];
 
+  const pageTitle = DEFAULT_SITE_NAME;
+  const pageDescription = DEFAULT_SITE_DESCRIPTION;
+  const siteUrl = DEFAULT_SITE_URL;
+
   return (
     <>
       <DocumentHead />
 
       <Head>
-        <title>{DEFAULT_SITE_NAME}</title>
+        <title>{pageTitle}</title>
+        <meta property="description" content={pageDescription} />
 
-        <meta property="description" content={DEFAULT_SITE_DESCRIPTION} />
+        <meta property="og:url" content={siteUrl} />
+        <meta property="og:title" content={pageTitle} />
+        <meta property="og:description" content={pageDescription} />
+        <meta property="og:url" content={siteUrl} />
 
         <link rel="stylesheet" href={asset("/styles/gazi.css")}></link>
       </Head>
