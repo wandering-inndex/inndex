@@ -91,7 +91,7 @@ export default function Page() {
                   pirateaba
                 </a>
                 . Since the first chapter in July 2016, the web serial currently
-                has nine volumes with over 11 million words (
+                has nine volumes with over 12 million words (
                 <a
                   href="https://inndex.omg.lol/toc#stats"
                   class="font-semibold text-gray-700 hover:underline italic"
